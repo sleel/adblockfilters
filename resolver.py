@@ -24,34 +24,6 @@ class Resolver(object):
             if ip_address.iptype() != "PUBLIC":
                 raise Exception ("not public ip: %s"%(address))
             return address, ""
-
-    # host 模式
-    def __ResolveHost(self, line):
-        def match(pattern, string):
-            return True if re.match(pattern, string) else False
-        try:
-            block,unblock,filter=None,None,None
-            while True:
-                # #* 注释
-                if match('^#.*', line):
-                    break
-                if line.startswith('0.0.0.0') or line.startswith('127.0.0.1'):
-                    row = line.split(' ')
-                    for i in range(len(row)-1, -1, -1):
-                        if len(row[i]) == 0:
-                            row.pop(i)
-                    domain = row[1]
-                    if domain not in ['localhost', 'localhost.localdomain', 'local', '0.0.0.0']:
-                        block = self.__Analysis(domain)
-                        break
-                    print("无需保留的规则：%s"%(line))
-                    break
-                print("无需保留的规则：%s"%(line))
-                break
-        except Exception as e:
-            print("%s.%s: %s" % (self.__class__.__name__, sys._getframe().f_code.co_name, e))
-        finally:
-            return block,unblock,filter
         
     # dns 模式
     def __ResolveDNS(self, line):
@@ -221,9 +193,8 @@ if __name__ == '__main__':
     pwd = os.getcwd()
     file = pwd + "/rules/xinggsf_rule.txt"
     resolver = Resolver(file)
-    #blockList, unblockList, filterList = resolver.Resolve("host") #1024_hosts、ad-wars_hosts、StevenBlack_hosts
-    #blockList, unblockList, filterList = resolver.Resolve("dns") #1Hosts_(Lite)、AdRules_DNS_List、AWAvenue_Ads_Rule、Hblock、NEO_DEV_HOST、OISD_Basic、SmartTV_Blocklist
-    blockList, unblockList, filterList = resolver.Resolve("filter") #AdGuard_Base_filter、AdGuard_Chinese_filter、AdGuard_DNS_filter、CJX's_Annoyance_List、EasyList_China、EasyList、EasyPrivacy、xinggsf_mv、xinggsf_rule
+    #blockList, unblockList, filterList = resolver.Resolve("dns") #1Hosts_(Lite)、AdGuard_DNS_filter、AdRules_DNS_List、anti-AD、AWAvenue_Ads_Rule、Hblock、NEO_DEV_HOST、OISD_Basic、SmartTV_Blocklist
+    blockList, unblockList, filterList = resolver.Resolve("filter") #AdGuard_Base_filter、AdGuard_Tracking_Protection_filter、AdGuard_URL_Tracking_filter、AdGuard_Chinese_filter、CJX's_Annoyance_List、xinggsf_mv、jiekouAD
     print('blockList: %s'%(len(blockList)))
     print('unblockList: %s'%(len(unblockList)))
     print('filterList: %s'%(len(filterList)))
