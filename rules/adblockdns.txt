@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240727162539
-! Last modified: 2024/07/27 16:25:39
-! Blocked domains: 184344
+! Version: 20240728002501
+! Last modified: 2024/07/28 00:25:01
+! Blocked domains: 184346
 ! unBlocked domains: 155
 !
 ||appimg.0575bbs.com^
@@ -39600,6 +39600,7 @@
 ||booking.com-extranet-web.life^
 ||com-host.info^
 ||booking.com-hotel-extrnet.com^
+||com-id20341.info^
 ||booking-pl.com-id24310.pw^
 ||com-id334112.com^
 ||booking.com-live-extnet.com^
@@ -57698,8 +57699,7 @@
 ||eumenesgigsman.com^
 ||eumeta.info^
 ||track.eunatural.com^
-||a.eunow4u.com^
-||s.eunow4u.com^
+||eunow4u.com^
 ||eunzkvf.com^
 ||euomuva.top^
 ||euosicjxjv.com^
@@ -141273,6 +141273,7 @@
 ||scarcerpokomoo.com^
 ||scarceshock.com^
 ||scarcesign.com^
+||scarcestream.com^
 ||scarcestructure.com^
 ||scarcesurprise.com^
 ||scardeviceduly.com^
@@ -143937,6 +143938,7 @@
 ||api.shbetvv.com^
 ||www.shbetvv.com^
 ||shbsfz.com^
+||shbzogs.cn^
 ||shbzqkj.cn^
 ||auoneze.shcoloredglaze.com^
 ||eki-netuser.shcoloredglaze.com^
