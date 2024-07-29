@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240729002554
-! Last modified: 2024/07/29 00:25:54
-! Blocked domains: 185410
+! Version: 20240729085923
+! Last modified: 2024/07/29 08:59:23
+! Blocked domains: 185438
 ! unBlocked domains: 154
 !
 ||01print.ma^
@@ -4288,6 +4288,7 @@
 ||a4mt150303tl.com^
 ||a4trk.com^
 ||6021bfc225.a5058f0d07.com^
+||a5d2d040.xyz^
 ||a5game.win^
 ||a5jogo.biz^
 ||a63t9o1azf.com^
@@ -9907,6 +9908,7 @@
 ||aipro-iplex.com^
 ||aipt1.com^
 ||aiqidwcfrm.com^
+||aiqks.top^
 ||hpymkg.air-austral.com^
 ||go.air-electra.co.il^
 ||air-feed.com^
@@ -16229,6 +16231,7 @@
 ||analytics.us.archive.org^
 ||ia800400.us.archive.org^
 ||ia803402.us.archive.org^
+||ia803405.us.archive.org^
 ||ia903207.us.archive.org^
 ||sentry.ux.archive.org^
 ||archlanspace.com^
@@ -16979,6 +16982,7 @@
 ||asdhhuztul.com^
 ||asdi.ac.id^
 ||asdifgers.com^
+||asdkfefanvt.com^
 ||asdmcm.com^
 ||cdn.asdnow.xyz^
 ||asdpoi.com^
@@ -20262,7 +20266,6 @@
 ||adserver.bafrahaber.com^
 ||bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link^
 ||bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link^
-||bafybeidc67axv337ni24dprmx7f42twqeqrvahpmhogdtawzng5eytszme.ipfs.dweb.link^
 ||bafybeidzp4sgidm4rvsc32fofkhbz5bdotbekov4mnwzejakvnzhhohysa.ipfs.dweb.link^
 ||bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link^
 ||bafykoeboe.com^
@@ -43385,6 +43388,7 @@
 ||d1i3h541wbnrfi.cloudfront.net^
 ||d1i64ia3gj0ol1.cloudfront.net^
 ||d1i76h1c9mme1m.cloudfront.net^
+||d1i94yju6i4l9g.cloudfront.net^
 ||d1igvjcl1gjs62.cloudfront.net^
 ||d1ilwohzbe4ao6.cloudfront.net^
 ||d1j1m9awq6n3x3.cloudfront.net^
@@ -45731,7 +45735,6 @@
 ||deferjobfeels.com^
 ||deferrenewdisciple.com^
 ||defesacnh.com.br^
-||defgyma.com^
 ||defian-sp-vpbank.pages.dev^
 ||defiancebelow.com^
 ||defiancefaithlessleague.com^
@@ -52451,7 +52454,6 @@
 ||affiliate.easyredmine.com^
 ||easyrencontre.com^
 ||easyresearch.se^
-||server.easysalepage.in.th^
 ||trk.easysavingsguide.com^
 ||path.easysavingtipsusa.com^
 ||easyscopes.net^
@@ -52664,6 +52666,7 @@
 ||etznkn.ec-store.net^
 ||ec-track.com^
 ||ec2-13-58-215-234.us-east-2.compute.amazonaws.com^
+||ec2-18-221-24-26.us-east-2.compute.amazonaws.com^
 ||ec2-44-233-143-239.us-west-2.compute.amazonaws.com^
 ||ec2867edc4.com^
 ||cookies.ec4u.com^
@@ -74398,6 +74401,7 @@
 ||hethongvaynhanh247.com^
 ||hethuwer.xyz^
 ||smetrics.hetjuisteritme.be^
+||hetnu.com^
 ||hetsouds.net^
 ||data-c849cc593c.heuer-dialog.de^
 ||heukmsactivator.com^
@@ -77579,7 +77583,7 @@
 ||a.huluad.com^
 ||t2.huluim.com^
 ||hulyagedikci.com^
-||cra.hum.works^
+||hum.works^
 ||humaffableconsulate.com^
 ||human-x-ai.com^
 ||origin-target.humana.com^
@@ -85311,6 +85315,7 @@
 ||adapi.izuiyou.com^
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
+||izwmfmu.icu^
 ||hcjpbc.j-14.com^
 ||j-a-net.jp^
 ||j-d-m.com^
@@ -96385,6 +96390,7 @@
 ||ligatus.com^
 ||ligatus.de^
 ||ligbahis.com^
+||ligerking.com^
 ||ligfdjnfd.cn^
 ||lighes.com^
 ||lightbet.com^
@@ -99364,7 +99370,6 @@
 ||emails.luxurylink.com^
 ||marketing.luxurylink.com^
 ||subscribers.luxurylink.com^
-||luxurypropertiesfl.com^
 ||bnc.luxurysportsrelocation.com^
 ||luxurytechnical.com^
 ||luxurytouristguide.com^
@@ -99582,6 +99587,7 @@
 ||www.lyrics-explorer.com^
 ||lyricsez.com^
 ||lyricsgrand.com^
+||lyricshook.com^
 ||lyricshornet.com^
 ||lyricslocusvaried.com^
 ||lyricsneighbour.com^
@@ -100510,6 +100516,7 @@
 ||majsterkuje-pasja.online^
 ||partneri.majstervposteli.sk^
 ||partner.majtki.cz^
+||majucash.xyz^
 ||vt.mak.com^
 ||makasiy4.xyz^
 ||make-cute-faces.blogspot.com^
@@ -103184,6 +103191,7 @@
 ||read.medium.com^
 ||lightstep.medium.systems^
 ||mediumpimpin.com^
+||mediumshort.com^
 ||mediumtunapatter.com^
 ||start.mediware.com^
 ||mediwebinars.com^
@@ -107690,6 +107698,7 @@
 ||monicablog.xyz^
 ||partneri.monikakorinkova.cz^
 ||monikastogowska.pl^
+||moninediy.com^
 ||teyvmb.moniquelhuillier.com^
 ||moniquetlee.com^
 ||monitis.com^
@@ -111776,7 +111785,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -111790,10 +111798,12 @@
 ||navi66.com^
 ||navi66.ru^
 ||navi67.ru^
+||navi68.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi74.com^
+||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -125346,6 +125356,7 @@
 ||tlsalw.platypusshoes.co.nz^
 ||fdixsh.platypusshoes.com.au^
 ||smetrics.platypusshoes.com.au^
+||plausible-analytics.xyz^
 ||plausible.io^
 ||plavid.com^
 ||plavxml.com^
@@ -133815,6 +133826,7 @@
 ||qqmhh.com^
 ||vinted-pl-gj32d.qqmzan.top^
 ||www.vinted-pl-gj32d.qqmzan.top^
+||qqoomtwod.com^
 ||shop.qqqjjss.shop^
 ||qqqwes.com^
 ||qqs13.info^
@@ -135515,6 +135527,7 @@
 ||data-fb6dfd42e8.rationell-reinigen.de^
 ||ratioregarding.com^
 ||ratke.biz^
+||ratokalokm1.homelinux.com^
 ||ratownictwo24h.eu^
 ||ratownictwowodne-pl24h.eu^
 ||ratownictwowodne-pl24h.pl^
@@ -137075,6 +137088,7 @@
 ||relkconka.com^
 ||relmaxtop.com^
 ||reloadedhacks.com^
+||reloadphoto.com^
 ||reloadsusa.com^
 ||relogotd.com^
 ||relojesmart.com^
@@ -138505,6 +138519,7 @@
 ||rilledwpl.info^
 ||communications.rillion.com^
 ||riluaneth.com^
+||34.red-88-28-217.staticip.rima-tde.net^
 ||smetrics.rimac.com^
 ||rimaje.nl^
 ||rimearcane.mom^
@@ -141236,7 +141251,6 @@
 ||lp.saintplus.website^
 ||saintselfish.com^
 ||sainx31.com^
-||sainzim.co.za^
 ||saipeevit.net^
 ||saipsoan.net^
 ||trk.sais.ch^
@@ -142239,6 +142253,7 @@
 ||sbbpi.com^
 ||sbc31.com^
 ||tk3.sbc60.com^
+||23-122-210-174.lightspeed.cicril.sbcglobal.net^
 ||sbcpower.com^
 ||sbcwgl.com^
 ||3573.sbcyrp.club^
@@ -146321,6 +146336,8 @@
 ||vinted-pl-gj32d.sihailin.top^
 ||sihighlyrecom.xyz^
 ||sihugoods.xyz^
+||sikapo.top^
+||sikaq.top^
 ||a8clk.sikatoru.com^
 ||ehedwd.sikayetvar.com^
 ||cyclops.sikelia.info^
@@ -148056,6 +148073,7 @@
 ||ctr.smarthelpforyou.com^
 ||data-c26a0f6abd.smarthouse-pro.de^
 ||smarthouseforum.ru^
+||smartico.ai^
 ||smartico.one^
 ||smartid-connect.org^
 ||smartinfomarketing.ru^
@@ -151697,6 +151715,7 @@
 ||go.starkeypro.com^
 ||starkhousing.com^
 ||starklesalta.com^
+||starkscale.com^
 ||starkslaveconvenience.com^
 ||starkuno.com^
 ||starlayer.com^
@@ -152292,6 +152311,7 @@
 ||dc.stenaline.ru^
 ||dc.stenaline.se^
 ||dc.stenalinetravel.com^
+||stenchyouthful.com^
 ||stengeholt.com^
 ||stenographs.info^
 ||marketing.stentel.com^
@@ -153463,6 +153483,7 @@
 ||substantialgrade.com^
 ||substantialhound.com^
 ||subsworker.bid^
+||subtitlez0.duckdns.org^
 ||subtletg.com^
 ||subtract.cfd^
 ||subtractillfeminine.com^
@@ -154029,6 +154050,7 @@
 ||info.supercare.health^
 ||tr.news.supercasino.fr^
 ||superchat.live^
+||superchichair.com^
 ||info.superchoiceservices.com.au^
 ||superclix.de^
 ||metrics.supercoach.com.au^
@@ -165183,6 +165205,7 @@
 ||images.info.tupperware.pt^
 ||tupropiopan.com^
 ||tupwiwm.com^
+||tuqgtpirrtuu.com^
 ||tuqnwz.icu^
 ||tuqopea.com^
 ||tur-tur-key.com^
@@ -165209,6 +165232,7 @@
 ||turbogrosz24.com^
 ||turboinfo.click^
 ||turbolion.io^
+||turbolit.biz^
 ||events.turbosquid.com^
 ||turbostats.xyz^
 ||turbotrck.art^
@@ -166385,6 +166409,7 @@
 ||ui02.com^
 ||ui37.net^
 ||ui3o.skin^
+||uiatkc.xyz^
 ||futursalumnes.uic.es^
 ||uidapi.com^
 ||uidhealth.com^
@@ -171222,6 +171247,7 @@
 ||get.videokits.com^
 ||videoklass.ru^
 ||vst.videolink.site^
+||videolute.biz^
 ||videonews247.net^
 ||videonow.ru^
 ||videoo.tv^
@@ -176798,6 +176824,7 @@
 ||mdws.wetaskiwincreditunion.com^
 ||services.wetek.com^
 ||wetlinepursuing.com^
+||wetlwse.top^
 ||wetpeachcash.com^
 ||ads.wetpussy.sexy^
 ||wetrack.it^
@@ -177703,7 +177730,6 @@
 ||ceuswatcab02.blob.core.windows.net^
 ||cheezwhiz.z9.web.core.windows.net^
 ||cltgtstor001.blob.core.windows.net^
-||crowndstrikeoffice365.blob.core.windows.net^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
 ||exposeboxwallashops.blob.core.windows.net^
@@ -184765,8 +184791,10 @@
 ||zonepa.com^
 ||smetrics.zoneperfect.com^
 ||a8cv.zoner.com^
+||zonewedgeshaft.com^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
+||static.zongheng.com^
 ||zongzuhulian.com^
 ||partner.zonky.cz^
 ||tsbmkf.zonnebrillen.com^
