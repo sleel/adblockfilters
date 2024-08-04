@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240804162326
-! Last modified: 2024/08/04 16:23:26
-! Blocked domains: 183141
+! Version: 20240805002220
+! Last modified: 2024/08/05 00:22:20
+! Blocked domains: 183150
 ! unBlocked domains: 154
 !
 ||00lx.054815478.xyz^
@@ -291,6 +291,7 @@
 ||t.10er-tagesticket.de^
 ||10forum.com^
 ||10gamek8.com^
+||tracking.10gb.vn^
 ||tr.newsletter.10h01.fr^
 ||www.10iski.com^
 ||adm.10jqka.com.cn^
@@ -9845,6 +9846,7 @@
 ||alo789viet.com^
 ||alo88.bet^
 ||alo888.com^
+||ads.alobacsi.vn^
 ||alocdn.com^
 ||ltcmak.alodokter.com^
 ||aloensaidhe.com^
@@ -17529,6 +17531,7 @@
 ||o36j7a2.azhhr.cn^
 ||kcgser.azialo.com^
 ||azidacolours.blogspot.com^
+||r01lacou.azidp.tech^
 ||azimmakina.com^
 ||azimutfloor.com^
 ||rum.azion.com^
@@ -18791,6 +18794,7 @@
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
 ||ads.baotainguyenmoitruong.vn^
+||adv.baotayninh.vn^
 ||baothanhnien.top^
 ||baotienphong.net^
 ||adv.baotintuc.vn^
@@ -65519,6 +65523,8 @@
 ||giaitri.tv^
 ||giaitriwin79.club^
 ||giamcannhatban.com^
+||admin.giaminhmedia.vn^
+||ads.giaminhmedia.vn^
 ||gianniflex.it^
 ||giantaffiliates.com^
 ||aa.giantbomb.com^
@@ -88119,6 +88125,7 @@
 ||ketgetoexukpr.info^
 ||ketimin.xyz^
 ||axp.ketk.com^
+||ads.ketnoitatca.net^
 ||vinted-pl-gj32d.ketoan.top^
 ||www.vinted-pl-gj32d.ketoan.top^
 ||ketodietmaster.com^
@@ -139235,6 +139242,7 @@
 ||saon.info^
 ||gtm.saostar.vn^
 ||px.saostar.vn^
+||tracking.saostar.vn^
 ||asde.saotom.xyz^
 ||fueer.saotom.xyz^
 ||listwos.saotom.xyz^
@@ -181867,6 +181875,7 @@
 ||zg40c.cn^
 ||zgaytq.xyz^
 ||zgbklm.net^
+||zsmhlv.zgbv.tech^
 ||zgc66.com^
 ||zgclmw.cn^
 ||www.zgcqrh.com^
