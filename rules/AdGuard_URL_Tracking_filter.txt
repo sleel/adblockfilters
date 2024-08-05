@@ -353,6 +353,8 @@ $removeparam=fb_source
 ! Bad: ||example.org^$xmlhttprequest,redirect=noopvast-3.0 (for instance, should be in specific.txt)
 !
 !
+! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-10238857
+ref=producthunt^$removeparam=ref
 ! igromania.ru
 ||igromania.ru^$removeparam=from
 ! https://github.com/AdguardTeam/AdguardFilters/issues/185179
@@ -1380,6 +1382,8 @@ $removeparam=stm_source,domain=shopee.ph|shopee.co.th|shopee.co.id
 ||nationalgeographic.com^$removeparam=utm_rd
 ! https://github.com/AdguardTeam/AdguardFilters/issues/128339
 ||ficbook.net^$removeparam=/premiumVisit|utm_compaign/
+||ficbook.com^$removeparam=/premiumVisit|utm_compaign/
+||ficbook.me^$removeparam=/premiumVisit|utm_compaign/
 ! stripchat.com
 ||stripchat.com^$removeparam=campaignId
 ||stripchat.com^$removeparam=sourceId
