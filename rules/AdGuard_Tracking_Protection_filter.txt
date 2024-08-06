@@ -1946,7 +1946,6 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||hits-i.iubenda.com^
 ||lk.vectoranalytics.ru^$third-party
 ||track.saygames.io^
-||exponea.com^$third-party
 ||cloisteredcord.com^$third-party
 ||stats.datawrapper.de^$third-party
 ||bigdata.riamedia.com.ua^$third-party
@@ -77023,11 +77022,13 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org|edit.ing|konami.com
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org|thehill.com|realtor.com|nzherald.co.nz|aia.com.ph|baynews9.com|thesaurus.com|dhc.co.jp|0101.co.jp|staples.com|rikunabi.com|directscout.recruit.co.jp|r-agent.com|sephora.com|chronicle.com|channelnewsasia.com
+!
 ! lots of requests to those files when blocked normally
 /prod/dfm/fp.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||api.personaclick.com/push$xmlhttprequest
 ||1001tracklists.com/ajax/add_count.php
 ||1password.co.jp/js/analytics.bundle.
 ||1password.com/gtag-
@@ -81010,6 +81011,8 @@ app.frontapp.com%2Fapi%2F1%2Fnoauth%2Fcompanies%2Falternstiveto%2Fseen%2Fmsg_$im
 ! Patreon
 email.updates.patreon.com$image
 ! exponea.com
+.exponea.com/*/open$image
+.exponea.com%2F%2A%2Fopen$image
 public-cis.exponea.com$image
 ! lanet.click
 go.lanet.click$image
@@ -83695,6 +83698,8 @@ inapps.appsflyersdk.com^
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !#endif
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/185223
+@@||googletagmanager.com/gtm.js$domain=turkcell.com.tr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/185316
 @@||yelpcdn.com/assets/public/snowplow.*.chunk.js$domain=yelp.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/185302
@@ -84222,12 +84227,6 @@ reuters.com#%#//scriptlet('set-constant', 'analytics', 'undefined')
 @@||cdn.cxense.com/cx.cce.js$domain=bizjournals.com
 @@||cdn.cxense.com/cx.js$domain=bizjournals.com
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/159775
-@@||static.personaclick.com/Elektromarketim/$domain=elektromarketim.com
-@@||cdn.personaclick.com/v*.js$domain=elektromarketim.com
-@@||api.personaclick.com/recommend/$domain=elektromarketim.com
-@@||api.personaclick.com/init$domain=elektromarketim.com
-@@||cdn.personaclick.com/shop_css/$domain=elektromarketim.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159711
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=mundodeportivo.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159646
@@ -84568,10 +84567,6 @@ tieba.baidu.com#%#//scriptlet('set-constant', 'passFingerPrint', 'noopFunc')
 @@||cdn.reverso.net/rumjs/rum*.min.js$domain=reverso.net
 @@||cdn.reverso.net/rumjs/conf/rum.config.dictionary.min.js$domain=reverso.net
 !#endif
-! https://github.com/AdguardTeam/AdguardFilters/issues/143511
-@@||cdn.personaclick.com^$domain=koctas.com.tr
-@@||api.personaclick.com/recommend/$domain=koctas.com.tr
-@@||api.personaclick.com/init$domain=koctas.com.tr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/143029
 @@||mpsnare.iesnare.com/snare.js$domain=welcome.cryptothrills.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/102126
@@ -85672,7 +85667,6 @@ woman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-w
 ! https://github.com/AdguardTeam/AdguardFilters/issues/82199
 @@||s.go-mpulse.net/boomerang/$domain=royalmail.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83450
-@@||personaclick.com^$domain=skechers.com.tr
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=skechers.com.tr
 !#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||googletagmanager.com/gtm.js$domain=skechers.com.tr
