@@ -621,6 +621,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||brwsrfrm.com^
 ||adtrace.ai^$third-party
 ||mato.clanto.cloud^
 ||matomo.clanto.cloud^
@@ -36785,6 +36786,11 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||l.ouest-france.fr^
+||ana.3751chat.com^
+||ana.chat.shalove.net^
+||ana.luvul.net^
+||ana.skypemeet.net^
 ||counter.best-hit.tv^
 ||analytics-op.streak.ninja^
 ||track.streak.ninja^
@@ -68151,6 +68157,7 @@ zm9pab9vsubwvu2o.opendialogueapproach.co.uk$image
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/wp-content/plugins/wp-rocket/assets/js/lcp-beacon.
 /modules/kixelltag/views/js/kst-$script
 /modules/opartstat/*
 /wpm/strict/app/web-pixel
@@ -68802,6 +68809,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||baitoru.com/*/adobe_send_tracking.js
+||charmmy-api.line.me/api/*/bars/tracking
 ||receptions.smart-bdash.com/receptions/action/click
 ||kojima.net/excludes/KPC/js/kjm_gtm.js
 ||korewaeroi.com/fukugan_$subdocument
@@ -75636,6 +75645,8 @@ inapps.appsflyersdk.com^
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !#endif
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/189622
+@@||cdn.clerk.io/clerk.js$domain=panzerglass.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189259
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||wurfl.io/wurfl.js$domain=webviewer.interstuhlnet.de
