@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241025001454
-! Last modified: 2024/10/25 00:14:54
-! Blocked domains: 155704
+! Version: 20241025085926
+! Last modified: 2024/10/25 08:59:26
+! Blocked domains: 155737
 ! unBlocked domains: 52
 !
 ||awklir.0506mall.com^
@@ -608,6 +608,7 @@
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
+||1494918251.rsc.cdn77.org^
 ||www.1495c8.com^
 ||ff14044536.14a9004c2a.com^
 ||14betvnd.com^
@@ -781,6 +782,7 @@
 ||santonline.190724.info^
 ||19093.jp^
 ||1909cyzocouxagikui6.pro^
+||1918634747.rsc.cdn77.org^
 ||19199675.xyz^
 ||19515bia.de^
 ||tracking.196189.com^
@@ -2085,7 +2087,7 @@
 ||data.comunitat.3cat.cat^
 ||metrics.3cat.cat^
 ||smetrics.3cat.cat^
-||b7755dcb72.3cb9b57efc.com^
+||3cb9b57efc.com^
 ||3cg6sa78w.com^
 ||3cinteractive.com^
 ||3cloud.net^
@@ -8696,6 +8698,7 @@
 ||againponderous.com^
 ||againstentertainmentpalpable.com^
 ||agakoffingan.com^
+||agalumineonr.com^
 ||agamagcargoan.com^
 ||agamantykeon.com^
 ||e.aganj.com^
@@ -10386,6 +10389,7 @@
 ||a8clk.alljewelry.jp^
 ||allkeygensdownload.com^
 ||click.allkeyshop.com^
+||allkmbr.icu^
 ||alllget.com^
 ||stats.allliquid.com^
 ||alllotto.com^
@@ -35196,6 +35200,7 @@
 ||compensationstout.com^
 ||ads.comperia.pl^
 ||siteanalytics.compete.com^
+||competemerriment.com^
 ||competencesickcake.com^
 ||competitioncyclemetrics.com^
 ||competitionlevel.com^
@@ -36335,6 +36340,7 @@
 ||metrics.costcobusinesscentre.ca^
 ||smetrics.costcobusinesscentre.ca^
 ||costhandbookfolder.com^
+||costivecohorts.top^
 ||costperleadaff.com^
 ||costranchill.com^
 ||coststunningconjure.com^
@@ -37496,6 +37502,8 @@
 ||cswilliamsburg.com^
 ||m.csypspcs.cn^
 ||csyvc.cn^
+||csyzhztgs.com^
+||cszjyqqpj.com^
 ||cszz.ru^
 ||infmicrosoft365.ct8.pl^
 ||m-facebook.ct8.pl^
@@ -43107,6 +43115,7 @@
 ||djre.pl^
 ||login.djrickymix.it^
 ||djroomba.com^
+||djrsvwtt.com^
 ||djscordsteam.com^
 ||djsnake-shop.com^
 ||djsoo8p407d6p.cloudfront.net^
@@ -45186,6 +45195,7 @@
 ||drugsofficial.com^
 ||sstats.drugstore.com^
 ||stats.drugstore.com^
+||drugstoredemuretake.com^
 ||drugstoreforyou.com^
 ||druguniverseinfected.com^
 ||drujbacollege.com^
@@ -45878,6 +45888,7 @@
 ||dwvbfnqrbif.com^
 ||dwwpofwebdwm.com^
 ||dwxjayoxbnyrr.cloudfront.net^
+||dwydqnclgflug.com^
 ||kns.dwytzoyr.top^
 ||dwzacisze.com.pl^
 ||dx-tv.com^
@@ -49292,6 +49303,7 @@
 ||eputysolomon.com^
 ||info.epworthvilla.org^
 ||epxfjcb.xyz^
+||epynkklzkvnvs.com^
 ||eqads.com^
 ||eqbyc.com^
 ||eqfgc.com^
@@ -51914,6 +51926,7 @@
 ||a8cv.fafa-shop.com^
 ||al.fafa-shop.com^
 ||fafmimgubcm.com^
+||fagarauvitic.com^
 ||fagawdasv.com^
 ||fagem2021.com^
 ||tracking.fagersta-posten.se^
@@ -69094,6 +69107,7 @@
 ||ievaladares.org^
 ||iewtwo.xyz^
 ||iexplorenow.com^
+||ieyri61b.xyz^
 ||iezxmddndn.com^
 ||if-eku3a-fp.com^
 ||ifactz.com^
@@ -78398,6 +78412,7 @@
 ||partner.kokiskashop.cz^
 ||partner.kokiskashop.sk^
 ||online.koko-ko.com^
+||sdk.kokocads.com^
 ||kokocha.site^
 ||edfjqt.kokoji.fr^
 ||kokojia.com^
@@ -79066,6 +79081,7 @@
 ||krytilka.ru^
 ||data-1fbcf6d7f5.krzbb.de^
 ||krzyjahu.pl^
+||config-p2p-other.vcloud.ks-live.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||ks.bet^
 ||ksado.com^
@@ -84381,6 +84397,7 @@
 ||pub.macommune.info^
 ||maconreporter.com^
 ||macontimes.com^
+||macos.space^
 ||a8clk.macpaw.com^
 ||api-lytics.macpaw.com^
 ||macpurifier.com^
@@ -88883,7 +88900,6 @@
 ||tracking.miui.com^
 ||tracking.eu.miui.com^
 ||tracking.india.miui.com^
-||virus-engine.sec.miui.com^
 ||webapp.browser.miui.com^
 ||mivibsegnuhaub.xyz^
 ||track.mivo-ua.shop^
@@ -96552,6 +96568,7 @@
 ||nqyrywn.icu^
 ||storefront.nr-assets.net^
 ||nr7.us^
+||nrarnesjbsef.com^
 ||content2.nrc.nl^
 ||klik.nrc.nl^
 ||nreg.world^
@@ -98390,6 +98407,7 @@
 ||go.omgprograms.org^
 ||omgranbulltor.com^
 ||omhealingwaters.com^
+||omheth.com^
 ||omhomestay.com^
 ||log.omiga-plus.com^
 ||omiki.com^
@@ -100237,6 +100255,7 @@
 ||oungimuk.net^
 ||oungoowe.xyz^
 ||ounigaugsurvey.space^
+||ounobdlzzks.world^
 ||sdc.oup.com^
 ||oupai.cc^
 ||oupaumul.net^
@@ -100405,6 +100424,7 @@
 ||votejoe.outvote.io^
 ||outwar.com^
 ||outwhirlipedeer.com^
+||outwingullom.com^
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
@@ -100698,6 +100718,7 @@
 ||web.mapp.ozone.bg^
 ||mkolqj.ozonee.pl^
 ||ozonemedia.com^
+||ozonerexhaled.click^
 ||ozonerrebuoy.com^
 ||ozongees.com^
 ||shell.ozsu.org^
@@ -103189,6 +103210,7 @@
 ||phoumsoomsoh.com^
 ||phoutchounse.com^
 ||phouvemp.net^
+||phovaiksou.net^
 ||php4you.biz^
 ||phpbbex.com^
 ||ads.phpclasses.org^
@@ -106275,6 +106297,7 @@
 ||ant.prefinery.com^
 ||prefleks.com^
 ||preform.info^
+||pregainskilly.shop^
 ||pregierzrozumu.pl^
 ||pregnancyslayidentifier.com^
 ||pregnantwomennaked.com^
@@ -112400,6 +112423,7 @@
 ||pixel.pzkie.com^
 ||uszi.pzmowclu.top^
 ||pznlpp.xyz^
+||pzpcgiaj.com^
 ||pzpivx.xyz^
 ||pzqfmhy.com^
 ||pztezl.xyz^
@@ -116316,6 +116340,7 @@
 ||riance.trade^
 ||riaoz.xyz^
 ||riastats.com^
+||riazrk-oba.online^
 ||ribqpiocnzc.com^
 ||ribsaiji.com^
 ||ribsegment.com^
@@ -123565,6 +123590,7 @@
 ||xhqpgt.skullpig.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
+||skunscold.top^
 ||uudbvq.skuola.net^
 ||skupjajek.pl^
 ||skutecznyautokomis.pl^
@@ -130850,6 +130876,7 @@
 ||ads.tapzin.com^
 ||tar-nama.com^
 ||tarbend.online^
+||tarcavbul.com^
 ||metrics.tarceva.com^
 ||smetrics.tarceva.com^
 ||t.tarceva.com^
@@ -132025,6 +132052,7 @@
 ||tenping.kr^
 ||images.response.tenplay.com.au^
 ||tensagesic.com^
+||tensasscarify.com^
 ||tensedus.world^
 ||tenseikaiun.com^
 ||a8cv.tenshinocart.com^
@@ -139304,6 +139332,7 @@
 ||tvreel.us^
 ||tvrom.cn^
 ||tvrush.eu^
+||tvrzftbmhkeuuc.com^
 ||tvshowslist.com^
 ||tvshowzonline.com^
 ||tvsolve.com^
@@ -143167,6 +143196,7 @@
 ||usdp.vbiyctxf.top^
 ||vbm1.ru^
 ||vbout.com^
+||vbozbkzvyzloy.top^
 ||vbrbgki.com^
 ||go.vbrick.com^
 ||vbtrst.info^
@@ -146269,6 +146299,7 @@
 ||vw270.com^
 ||vw280.com^
 ||vwabc88.com^
+||vwagkipi.com^
 ||vwasiabet.com^
 ||vwbet88.com^
 ||vwbetasia.com^
@@ -151615,6 +151646,7 @@
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||dt.xfyun.cn^
+||xg-jbpmnru.online^
 ||xg4ken.com^
 ||xgamering.com^
 ||analytics.xgate.com^
@@ -153227,6 +153259,7 @@
 ||rodeoconfig.yodo1api.com^
 ||sensors.yodo1api.com^
 ||uc-ap.yodo1api.com^
+||yodpbbkoe.com^
 ||yoeturvule.site^
 ||analytics.yofbrc.com^
 ||yofi-yofi.com^
