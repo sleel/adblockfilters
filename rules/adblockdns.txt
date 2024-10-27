@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241027161701
-! Last modified: 2024/10/27 16:17:01
-! Blocked domains: 151696
+! Version: 20241028001433
+! Last modified: 2024/10/28 00:14:33
+! Blocked domains: 151698
 ! unBlocked domains: 105
 !
 ||awklir.0506mall.com^
@@ -35241,6 +35241,7 @@
 ||dffgames.com^
 ||dfgpifa.com^
 ||dfh48z16zqvm6.cloudfront.net^
+||dfhgry.com^
 ||dfile.info^
 ||dfile.su^
 ||adsbb.dfiles.eu^
@@ -74264,6 +74265,7 @@
 ||ad.mamastar.jp^
 ||fxmdjr.mamastar.jp^
 ||mamatech.pepper.jp^
+||mamaunweft.click^
 ||mamblubamblua.com^
 ||mambo.kiev.ua^
 ||isicpartner.mamechut.cz^
