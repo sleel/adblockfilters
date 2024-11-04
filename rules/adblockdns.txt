@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241104001444
-! Last modified: 2024/11/04 00:14:44
-! Blocked domains: 125351
+! Version: 20241104090058
+! Last modified: 2024/11/04 09:00:58
+! Blocked domains: 125359
 ! unBlocked domains: 48
 !
 ||ojx.04230569.xyz^
@@ -1227,6 +1227,7 @@
 ||2appup.com^
 ||2ben92aml.com^
 ||2beon.co.kr^
+||adsby.2bet.co.jp^
 ||2betab.com^
 ||2betesi.com^
 ||a55a75a9fc.2bfb6da60b.com^
@@ -6345,6 +6346,7 @@
 ||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
+||analytics.ahrefs.dev^
 ||ahscdn.com^
 ||ahsontechnologies.com^
 ||aht42trk.com^
@@ -38982,6 +38984,7 @@
 ||marketing.execshape.com^
 ||exectechnologies.com^
 ||moz.execulink.net^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||executeabattoir.com^
@@ -39518,6 +39521,7 @@
 ||adg-prox.ezonex.top^
 ||ysm.ezprice.net^
 ||ezralarson.com^
+||ezrcowa.icu^
 ||ezsbhlpchu.com^
 ||ezssausage.com^
 ||ezstat.ru^
@@ -48933,6 +48937,7 @@
 ||gunggo.com^
 ||gungpurre.com^
 ||gunnersgaming.com^
+||ads-delivery.gunosy.com^
 ||tr.gunosy.com^
 ||gunstee.com^
 ||gunwaleneedsly.com^
@@ -62089,6 +62094,7 @@
 ||kqvvqv.icu^
 ||kr-balticpipe-pl-04.web.app^
 ||www.communications.kra.go.ke^
+||kra18.com^
 ||kraftonevent.com^
 ||kragorortho.com^
 ||krainajednorozca.pl^
@@ -114143,6 +114149,7 @@
 ||privacy.uwm.com^
 ||m.uwmoghx.cn^
 ||uwoaptee.com^
+||uwsaqoi.icu^
 ||uwselectie.be^
 ||uwspolpracatakie.skin^
 ||tag2.uwv.nl^
@@ -116965,6 +116972,7 @@
 ||vsjrnh.xyz^
 ||vskin.pro^
 ||vsnoon.com^
+||vsojfsoj.com^
 ||go.cm.vsp.com^
 ||go.int.vsp.com^
 ||copia.vspabogados.com^
