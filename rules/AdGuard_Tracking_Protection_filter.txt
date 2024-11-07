@@ -34864,6 +34864,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||api.amplitudeexperiment.com^
 ||analytics.ahrefs.
 ||montelena.gmarket.co.kr^
 ||stats.hitwebcloud.de^
@@ -91999,7 +92000,7 @@ lto.de##img[src^="https://ssl-wolterskluwer.met.vgwort.de/"]
 ||worldhistory.org/analytics/pageview.js
 ||g.newtimes.com/pd.js
 ||newtimes.com/analytics?
-||computerbase.de/nl$xmlhttprequest
+/https\:\/\/www\.computerbase\.de\/[a-z]{3,}$\b/$xmlhttprequest,domain=computerbase.de
 ||rec1.smt.docomo.ne.jp/bcn_access_log/
 ||kccsrecommend.site/torimochi_log/
 ||www-direct.motorcycle.com/eventStream
@@ -92390,7 +92391,6 @@ dealdoktor.de##img[src*="//vg09.met.vgwort.de/"]
 ||launchpad-wrapper.privacymanager.io/*/launchpad-liveramp.js
 ||pixel.wp.pl/*/*.js$replace=/.+//
 ||laz-g-cdn.alicdn.com/lazada/dynamic-static-nopolyfill/*/daraz-marketing-tracker.js
-||tv8.daioncdn.net/events?
 ||elog.tokyo/counter_access.php
 ||cdn.privacy-mgmt.com/wrapper/metrics$important
 ||c2shb.pubgw.yahoo.com/admax/bid/partners/PBJS^
