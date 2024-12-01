@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241201001443
-! Last modified: 2024/12/01 00:14:43
-! Blocked domains: 174034
+! Version: 20241201091354
+! Last modified: 2024/12/01 09:13:54
+! Blocked domains: 174037
 ! unBlocked domains: 104
 !
 ||00i30.cc^
@@ -8070,6 +8070,7 @@
 ||af-next.com^
 ||af-z.jp^
 ||f110942df5.af54fe2566.com^
+||af6s.icu^
 ||go.afa.org^
 ||afahivar.com^
 ||afaktrio.com^
@@ -13139,6 +13140,7 @@
 ||ao-freegeoip.herokuapp.com^
 ||ao-mall.com^
 ||ao.cloudns.org^
+||ao1201kas.top^
 ||ao34-533.cfd^
 ||aoalmfwinbsstec23.com^
 ||aoays.xyz^
@@ -30334,6 +30336,7 @@
 ||smetrics.brinksprepaidmastercard.com^
 ||marketing.brinsea.com^
 ||brioletredeyes.com^
+||brircel.com^
 ||briskeagle.io^
 ||track.briskfile.com^
 ||briskpelican.io^
@@ -58892,7 +58895,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||freedominfo.net^
 ||freedomly.top^
 ||strack.freedommobile.ca^
@@ -77448,6 +77450,7 @@
 ||jcrnbnw.com^
 ||experience.jcu.edu.au^
 ||jcvdse.xyz^
+||jcwlsofn.icu^
 ||eokzre.jd-sports.com.au^
 ||ads.union.jd.com^
 ||blackhole.m.jd.com^
@@ -99086,7 +99089,6 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
-||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
 ||navi53.com^
@@ -99102,6 +99104,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi82.ru^
 ||navi88.com^
 ||navi99.com^
 ||naviblue-team.com^
