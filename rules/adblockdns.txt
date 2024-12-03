@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard DNS filter、AdRules DNS List、anti-AD、AWAvenue Ads Rule、Hblock、NEO DEV HOST、OISD Basic、SmartTV Blocklist
 ! Homepage: https://github.com/sleel/adblockfilters
 ! Source: https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241203161819
-! Last modified: 2024/12/03 16:18:19
-! Blocked domains: 174761
+! Version: 20241204001701
+! Last modified: 2024/12/04 00:17:01
+! Blocked domains: 174767
 ! unBlocked domains: 103
 !
 ||d0ce8193a8.04b6001ba9.com^
@@ -39697,6 +39697,7 @@
 ||concarla.com^
 ||concash.pl^
 ||concealmentbrainpower.com^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -108381,6 +108382,7 @@
 ||newsyswiatowe.click^
 ||newsytygodniowe.click^
 ||newtab-media.com^
+||newtabextension.com^
 ||newtabtv.com^
 ||search.newtabtvsearch.com^
 ||ed1.newtekone.com^
@@ -111092,6 +111094,7 @@
 ||tr.pro.odalys-vacances.com^
 ||tr.welcome.odalys-vacances.com^
 ||ea.odalys-vacation-rental.com^
+||odamcsk.top^
 ||odayango.com^
 ||odbierzkod.pl^
 ||oddajemy-wszystko.pl^
@@ -126896,6 +126899,7 @@
 ||smetrics.q107.com^
 ||smetrics.q107fm.ca^
 ||q19-e8s.pages.dev^
+||q1bp.icu^
 ||q1gel.icu^
 ||q1ilb0enze.ru^
 ||q1ixd.top^
@@ -148860,6 +148864,7 @@
 ||thapasi.com^
 ||thapostco.top^
 ||news.thaprior.net^
+||thaqne.com^
 ||tharbadir.com^
 ||thargookroge.net^
 ||tharikajewellers.com^
@@ -162260,7 +162265,8 @@
 ||vizualis.online^
 ||vizury.com^
 ||cmp.vizus.cz^
-||vizvaz.com^
+||boisenobeinsigy.vizvaz.com^
+||nvictedovnbfirst.vizvaz.com^
 ||www.vizzano.com.br^
 ||vizzit.se^
 ||vj-k.com^
