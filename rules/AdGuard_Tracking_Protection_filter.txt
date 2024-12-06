@@ -44825,7 +44825,6 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||stats.rustica.fr^
 ||analytics.e1.ru^
 ||ipcc.vnpt.com.vn^
-||stats.ucheba.ru^
 ||inspector-collector.m.naver.com^
 ||cdn.stat-track.com^
 ||t.zhipin.com^
@@ -108283,6 +108282,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||api-bloomreach.comfy.ua/js/exponea.min.js
 ||titanprod.narvar.com/*/track|
 ||adultswim-vodlive.cdn.turner.com/csm/analytics
 ||homemate.co.jp/common/js/beacon/real_estate_detail.js
