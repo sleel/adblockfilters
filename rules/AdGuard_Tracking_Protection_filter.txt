@@ -108383,6 +108383,12 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||cms.static.btv.bg/microsites/btvnovinite/js/ga360.js
+||btvnovinite.bg/js/bg/shared/js/bweb.js
+||btvnovinite.bg/js/bg/shared/js/bweb-gpt.js
+||azure.com/api/metric|
+||azure.com*/api/Telemetry|
+||azure.com/api/extensiontelemetry|
 ||vid.media.cm/m.js
 ||voicendata.com/static/js/*_gtag_publisher.js
 ||esports-world.jp/js/banner.event.js
@@ -113874,6 +113880,8 @@ $cookie=bf_visit
 ! Bad:  ||monerominer.rocks^$third-party (should be in adservers.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/194916
+||fanatical.com^$cookie=affiliate_source
 ! https://github.com/AdguardTeam/AdguardFilters/issues/194647
 ||titulky.com^$cookie=adbwshown
 ||titulky.com^$cookie=udid
