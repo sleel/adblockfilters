@@ -44295,6 +44295,9 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||syndication.twitter.com^
+||gtm.temu.com^
+.prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.analytics.console.aws.a2z.com^
 ||log.shortbread.aws.dev^
 ||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -108741,12 +108744,15 @@ zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com$image
 /umami.js
 ! ZhugeIO
 /zhugeio.js
+! stape.io
+&l=dataLayer&cx=c
+! Cloudflare permormance monitoring
+/cdn-cgi/rum?
 !
 /xhr/api/v2/collector
 /eclytics/*
 /app.php/ads/*
 /loader-wp/static/loader.min.js?
-&l=dataLayer&cx=c
 ?v=2&tid=G-$~third-party
 ://sgtm.*.js?id=GTM-
 /v2/pv-data?
@@ -109295,6 +109301,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||screenrant.com/strpixel.png
+||nanostatistics.net/api/event^
 ||urlscan.io/stats
 ||assets.versus.io/js/prebid-
 ||join.protonvpn.com/api/data/v1/metrics
@@ -110310,7 +110318,6 @@ levashove.ru##div[data-column="widget-area-1"]
 ||daioncdn.net/events?
 ||jav4tv.com/player/analytics
 nukigazo.com###text-2
-||grabify.link/cdn-cgi/rum?
 ||smart-bdash.com/receptions/action/impression
 ||st.sooplive.co.kr/api/da_block_api.php
 curazy.com##.sponsor-link-text
@@ -110851,7 +110858,6 @@ androplus.org##a[href^="https://px.a8.net/"]
 ||geo.query.yahoo.com^$domain=~mail.yahoo.com
 ||resultspage.com/js/sli-spark.js
 ||smart-bdash.com/tracking-script/
-||tgrthaber.com.tr/item/hit?item_id=
 ||api.livestory.io/*/collect
 ||unileversolutions.com/*/js/trackUser.
 ||eapi.pcloud.com/loganalyticsevent
@@ -111545,7 +111551,6 @@ sports.goo.ne.jp###taboola-below-sokuho-thumbnails
 ||terabox.com/api/analytics
 ||video-library.showheroes.com/player/ad_tag?
 ||pikabu.ru/ajax/save_stories_stat.php
-||arca.live/cdn-cgi/rum?
 ||*report.wc.yahoodns.net/cs/
 ||yahoo.net/pixel*.gif
 ||wp.aliexpress.com/trace.gif?event=
@@ -115323,6 +115328,7 @@ $cookie=ev_sid,domain=ideal.es|elcorreo.com
 |http*$app=com.adups.fota.sysoper|com.adups.fota
 !
 ! For specific apps
+||ads-api.twitter.com^$app=com.twitter.android
 ||tags.tiqcdn.com^$app=uk.co.thetimes
 ||ljc.coupang.com^$app=com.coupang.mobile
 ||api-track.linke.ai^$app=com.aigc.ushow.ichat
@@ -115466,6 +115472,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
