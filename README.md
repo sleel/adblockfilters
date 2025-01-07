@@ -27,7 +27,7 @@
 | jiekouAD | filter | [原始链接](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/jiekouAD.txt) | 2024/12/31 |
 | 1Hosts (Lite) | dns | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/1Hosts_(Lite).txt) | 2025/01/06 |
 | AdGuard DNS filter | dns | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/AdGuard_DNS_filter.txt) | 2025/01/07 |
-| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2025/01/06 |
+| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2025/01/07 |
 | anti-AD | dns | [原始链接](https://anti-ad.net/easylist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/anti-AD.txt) | 2025/01/07 |
 | AWAvenue Ads Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/AWAvenue_Ads_Rule.txt) | 2025/01/04 |
 | Hblock | dns | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/Hblock.txt) | 2025/01/06 |
@@ -36,5 +36,5 @@
 | SmartTV Blocklist | dns | [原始链接](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/SmartTV_Blocklist.txt) | 2023/10/11 |
 | 1024 hosts | host | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/1024_hosts.txt) | 2023/08/31 |
 | ad-wars hosts | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/ad-wars_hosts.txt) | 2023/11/17 |
-| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2025/01/05 |
+| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sleel/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2025/01/07 |
 
