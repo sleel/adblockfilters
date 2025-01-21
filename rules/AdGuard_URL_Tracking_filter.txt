@@ -2131,11 +2131,12 @@ $removeparam=dt_dapp,domain=douban.com|163.com
 ||d-markets.net^$removeparam=ref
 ! https://github.com/AdguardTeam/AdguardFilters/pull/111386
 ! Coupang.com - An electronic commerce service of S. Korea.
+||coupang.com/*/products/$removeparam=isshortened
 ||coupang.com/*/products/$removeparam=src
 ||coupang.com/*/products/$removeparam=spec
 ||coupang.com/*/products/$removeparam=addtag
 ||coupang.com/*/products/$removeparam=ctag
-||coupang.com/*/products/$removeparam=Iptag
+||coupang.com/*/products/$removeparam=lptag
 ||coupang.com/*/products/$removeparam=itime
 ||coupang.com/*/products/$removeparam=pageType
 ||coupang.com/*/products/$removeparam=pageValue
