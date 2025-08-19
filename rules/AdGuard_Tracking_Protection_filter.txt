@@ -554,6 +554,10 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com^
+||pop.unitedgate.co.jp^$third-party
+||tag.eisa.mercari.com^
+||valis-cpx.jp^$third-party
 ||logr-ingest.com^
 ||tod99shi.com^
 ||track.tel1mekar.com^
@@ -103020,6 +103024,7 @@ zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com$image
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/p/tm.js?
 ://analytics.*/hardal
 ://signal.*/hardal
 ://signals.*/hardal
@@ -103771,6 +103776,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||api.quantumgraph.com/web/cm/
 ||mcdn.tubitv.com/tubitv-assets/js/braze/
 ||s.hoplon.pandora.com/ag/*/clear.js
 ||cactus.jd.com/behavior_report
@@ -114948,8 +114954,9 @@ demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|da
 @@||a.klaviyo.com/onsite/api/*/modules?company_id=$domain=complyfoam.com
 @@||a.klaviyo.com/forms/api/*/full-forms?company_id=$domain=complyfoam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51958
-@@||identity.mparticle.com/v*/identify$domain=nbc.com
-@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com
+! amcplus.com - broken video player
+@@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com
+@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com
 ! square-enix-games.com - fixing issue with purchasing a product
 @@||googletagmanager.com/gtm.js$domain=square-enix-games.com
 @@||google-analytics.com/analytics.js$domain=square-enix-games.com
