@@ -277,6 +277,7 @@ $removeparam=itm_campaign
 $removeparam=itm_content
 $removeparam=itm_term
 ! UTM
+$removeparam=utm_tag
 $removeparam=utm_adset
 $removeparam=utm_adgroup
 $removeparam=utm_ad
@@ -415,6 +416,8 @@ $removeparam=fb_source
 ! Bad: ||example.org^$xmlhttprequest,redirect=noopvast-3.0 (for instance, should be in specific.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/211947
+||qms.ru^$removeparam=src
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211682
 ||tech.onliner.by^$removeparam=int_source
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211680
