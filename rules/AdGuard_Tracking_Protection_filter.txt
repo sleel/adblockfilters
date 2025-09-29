@@ -557,6 +557,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||an.gr-wcon.com^
 ||sdkapi-prod.dfinery.ai^
 ||behavior-tracking-event-gateway.imweb.me^
 ||smind.hr^$third-party
@@ -115621,6 +115622,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||pocketpc.ch/mrf4u/*/js/ps/secure.quantserve.com/quant.js
+||pocketpc.ch/mrf4u/*/js/ps/sb.scorecardresearch.com/beacon.js
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||api.mambasms.com/monitorEvent/
 ||pusti.svc.litv.tv/puid
@@ -121357,6 +121360,8 @@ adguard.info,adguard.com,adguard.app#$#.hello_from_adguard_advanced_protection_i
 ! Bad:  ||example.com^$cookie=flat_r_mb (should be in cookies_specific.txt)
 !
 !
+! baixafilmestorrent.com
+$cookie=adb_saas
 ! tagContainer (commandersact.com)
 $cookie=weba_apprlid
 $cookie=weba_vstid
