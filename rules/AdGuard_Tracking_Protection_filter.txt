@@ -69746,6 +69746,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log-gateway.zoom.us^
 ||orderana*.spankbang.com^
 ||upsell.alphwidget.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
@@ -106581,6 +106582,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||c.seznam.cz/js/rc.js
 ||karte.io^$domain=delishkitchen.tv
 ||delishkitchen.tv/api/access_trackers
 ||tps.trovaprezzi.it/javascripts/tracking-vanilla.min.js
@@ -115224,6 +115226,8 @@ d4?appid*type*
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/214646
+@@||exacttarget.com^$domain=pub.msg.smbc.co.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/214404
 telex.hu#%#//scriptlet('set-constant', 'pp_gemius_hit', 'noopFunc')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
