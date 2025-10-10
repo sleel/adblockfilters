@@ -108081,6 +108081,11 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||dbrand.com/cvg/log?
+||dbrand.com/cvg/track?
+||dbrand.com/cvg/static/pixels/
+||ctr.incrowdsports.com/v1/*/events
+||potensic.com/npublic/libs/widget/sensors/
 ||russia-tv.online/api/*/event
 ||russia-tv.online/api/*/fingerprint
 ||l.search.naver.com/n/scrolllog/*?u=*&slogs=
@@ -113084,9 +113089,6 @@ gmarket.co.kr#%#//scriptlet('fingerprintjs2')
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
 ! Generic rules
-! Movable Ink
-/p/rp/*?mi_u=$image
-%2Fp%2Frp%2F*%3Fmi_u%3D$image
 ! mailerlite.com
 /tf/o/$image
 %2Ftf%2Fo%2F$image
@@ -115662,6 +115664,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||prebid-server-canary.ifunny.co^
 ||track.taimi.com^
 ||gem-log.sloegem.com^
 ||log.oceanzz.xyz^
