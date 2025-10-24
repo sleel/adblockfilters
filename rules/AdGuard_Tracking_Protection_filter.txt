@@ -562,6 +562,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||events.api.gamma.app^
 ||pirsch.io^$third-party
 ||d2g2u2795e3fzw.cloudfront.net^
 ||mobiexchange.com^$third-party
@@ -110784,6 +110785,9 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||api.vortexscans.org/api/track-visit
+||api.vortexscans.org/api/analytics/updateViews
+||drive2.ru/_api/special/*/view|
 ||teknolojituru.com/api/tracking
 ||cloudfront.net/ecmtr-*.js
 ||lib.onet.pl/static/pixel/
@@ -112732,8 +112736,10 @@ nukigazo.com###text-2
 brasil247.com###taboola-mid-article-leia-mais
 ||libcdnjs.com/api/event
 ||api.snapchat.com/web/metrics
+||api-kit.snapchat.com/com.snap.camerakit.v3.Metrics^
 ||snapchat.com/web-analytics
 ||snapchat.com/report-metrics/
+||web.snapchat.com/web-blizzard/web/send^
 ||accounts.snapchat.com/accounts/static/scripts/pixel.js
 ||snap-api.arkoselabs.com/metrics/
 ||zona.plus/ajax/visit-stats
