@@ -76183,6 +76183,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||sp.aviasales.ru^
 ||darnuid.netflix.com^
 ||analytics.thekrazycouponlady.com^
 ||usage.trackjs.com^
@@ -118876,6 +118877,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||search-api.fie.futurecdn.net/js/*/master-*/analytics-library-entry-getCustomTrackingId.js
 ||grok.com/_data/v1/events
 ||frysfood.com/assets/*/collect?
 ||fredmeyer.com/static/*/collect?
@@ -125607,8 +125609,8 @@ $cookie=bf_visit
 !
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/217766
+! ||epicgames.com^$cookie=EPIC_DEVICE - breaks login = https://github.com/AdguardTeam/AdguardFilters/issues/217793
 ||epicgames.com^$cookie=visitor-uuid
-||epicgames.com^$cookie=EPIC_DEVICE
 ! thekrazycouponlady.com
 ||thekrazycouponlady.com^$cookie=/^ab\.storage\./
 ! lovense.com
@@ -132786,6 +132788,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||dogcollarfavourbluff.com^
 ||doggieshome.com^
 ||dollardelta.com^
+||dollarthrill.com^
 ||doubledefend.com^
 ||doubtdrawer.com^
 ||dq95d35.com^
