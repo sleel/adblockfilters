@@ -75173,6 +75173,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||ats.vert.sh/js/script.js
 ||chickencoopcompany.com/api/collect
 ||p.hentaiforce.net/api/event
 itmedia.co.jp###endlinkConnection
@@ -82934,6 +82935,12 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||sensor.emolm.com^
+||detaillog-global-dual.coolbcloud.com^
+||wslog-global-dual.coolccloud.com^
+||logreport-global-dual.coolbcloud.com^
+||dualstack-collection.rong-edge.com^
+||logdata.hatspotlight.asia^
 ||datarangers-event.myrightone.com^
 ||stats.*.ronghub.com^
 ||stats.rong-edge.com^
