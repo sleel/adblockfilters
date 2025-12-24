@@ -47030,6 +47030,10 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pushd-android-logs.s3.amazonaws.com^
+||unif-id.ssp.inmobi.com^
+||telemetry.sdk.inmobi.com^
+||external-api.impression-neo.naver.com^
 ||uxlog-api.danawa.com^
 ||matomo-prod.cgorod.pw^
 ||a.tampermonkey.net^
@@ -67275,6 +67279,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||reports.adguard.com/-/metrics/
 ||tvchosun.com/dhitlog/
 ||skat.com.ua/api/collect
 businessinsider.com#%#//scriptlet('set-local-storage-item', 'fenrir_anonymous_id', '$remove$')
@@ -68284,6 +68289,8 @@ hindustantimes.com#%#//scriptlet('set-local-storage-item', 'ht_cdp', '$remove$')
 ||assets.aliexpress-media.com/g/AWSC/WebUMID/*/um.js
 ||assets.aliexpress-media.com/g/ae-fe/cosmos/*/pc/nano-ppc-media-tracking-YnuuQ.js
 ||assets.aliexpress-media.com/g/??alilog/aplus_plugin_aefront/index.js,alilog/mlog/aplus_int.js
+||assets.aliexpress-media.com/g/lzd_sec/epssw/*/epssw.js
+||assets.aliexpress-media.com/g/AWSC/uab/*/collina.js
 ||assets.alicdn.com/g/lzd_sec/epssw/*/epssw.js
 ||assets.alicdn.com/g/alilog/
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
@@ -75211,6 +75218,11 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||track-*.hungrypanda.co^
+||trace-*.hungrypanda.co^
+||ihmonitor.luckincoffee.us^
+||use-trk.monetune.com^
+||telemetry.sdk.inmobi.com^
 ||collector-*.perimeterx.net^
 ||unisdk.proxima.nie.easebar.com^
 ||ingest.m2catalyst.com^
