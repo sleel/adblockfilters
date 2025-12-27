@@ -66506,6 +66506,7 @@ zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com$image
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/sfp/universal_analytics.min.
 /ajax/whereami$ping
 /wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-
 /web-vitals-tracker.js
@@ -73378,6 +73379,8 @@ adguard.info,adguard.com,adguard.app#$#.hello_from_adguard_advanced_protection_i
 ! Bad:  ||example.com^$cookie=flat_r_mb (should be in cookies_specific.txt)
 !
 !
+! trkkn.com
+$cookie=universal_analytics_cid
 ! Galaksion
 $cookie=GL_UI4
 $cookie=GL_GI10
@@ -81414,6 +81417,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||coloradoserves.com^
 ||colorfulpet.com^
 ||coloringisland.com^
+||coloroptimizer.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
 ||colossalcry.com^
@@ -82024,6 +82028,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||juicingoasis.com^
 ||justconfig.com^
 ||justicejudo.com^
+||justlagoon.com^
 ||justpickaname.com^
 ||justwebcards.com^
 ||justwowjars.com^
