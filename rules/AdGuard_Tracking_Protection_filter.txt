@@ -47807,6 +47807,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics-webhook.doximity.com^
 ||crs.pa.br.de^
 ||app-analysislog.sto.cn^
 ||pftk.temu.com^
@@ -76360,6 +76361,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||log.eufylife.com^
+||dts-log.anker.com^
 ||perf.bblmw.com^
 ||event.bblmw.com^
 ||vsn-analytics.aparentmedia.com^
@@ -83238,6 +83241,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||lumpygnome.com^
 ||lumpylumber.com^
 ||lumpywood.com^
+||lunarcave.com^
 ||lunchroomlock.com^
 ||lustroushaven.com^
 ||luxformula.com^
@@ -83245,6 +83249,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||maddeningpowder.com^
 ||madebyintent.com^
 ||madlysuccessful.com^
+||madnessbuzz.com^
 ||madoverrice.com^
 ||magicaljoin.com^
 ||magicminibox.com^
