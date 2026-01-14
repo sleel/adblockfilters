@@ -48388,6 +48388,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||r.anime-go.cc^
 ||logs.collector.*.cloud.solarwinds.com^
 ||doppler.hulu.com^
 ||events.insiad.com^
@@ -68975,6 +68976,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||ir.ebaystatic.com/*/s_1x2.gif
 gamespot.com#%#//scriptlet('set-local-storage-item', 'ppid', '$remove$')
 ||openway.deepseeksvc.com/v*/write/rum
 ||l.search.naver.com/n/responsive/*&no_qc=*&p=
@@ -76966,6 +76968,10 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||mab-mob2.websearchapp.com^
+||news-events.apple.com^
+||news-app-events.apple.com^
+||news-sports-events.apple.com^
 ||track.applicaster.com^
 ||hb-mob2.optiword.com^
 ||tracking.geo.*.amazonaws.com^
