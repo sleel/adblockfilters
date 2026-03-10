@@ -231,15 +231,7 @@ class Filter(object):
             AdGuard     (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockfilters.txt",   sourceRule),
             AdGuardHome (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdns.txt",       sourceRule),
             DNSMasq     (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdnsmasq.txt",   sourceRule),
-            Hosts       (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockhosts.txt",     sourceRule),
-            InviZible   (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdomain.txt",    sourceRule),
-            Loon        (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockloon.list",      sourceRule),
-            Mihomo      (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockmihomo.yaml",   sourceRule),
-            QuantumultX (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockqx.conf",       sourceRule),
-            Shadowrocket(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockclash.list",    sourceRule),
-            SingBox     (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblocksingbox.json",  sourceRule),
             SmartDNS    (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblocksmartdns.conf", sourceRule),
-            Surge       (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblocksurge.list",     sourceRule),
         ]
         for g in generaterList:
             g.generateAll()
