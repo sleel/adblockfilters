@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260311005234
-! Last modified: 2026/03/11 00:52:34
+! Version: 20260311092506
+! Last modified: 2026/03/11 09:25:06
 ! Blocked Filters: 41917
 !
 ###AC_ad
@@ -14656,6 +14656,8 @@
 ##a[href*="/jump/next.php?r="]
 ##a[href*="/kt169.com"]
 ##a[href*="/l1y9.com"]
+##a[href*="/lesi151.cc"]
+##a[href*="/lesi198.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/uu5566.cn.com/"]
@@ -19887,6 +19889,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /nowscore/ad/*
 /nozomi4.js$domain=nozomi.la
 /np?log=
+/npm/disable-devtool
 /npm/perfops-rom
 /nr-spa-1216.min.js
 /ns.html?id=GTM-
@@ -35694,10 +35697,6 @@ startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##di
 starwank.com,faptor.com##.zpot-horizontal-img
 starwarsaddicted.it,wuyong.fun,26g.me,myqqjd.com,poapan.xyz,javboys.com,idevicecentral.com,fcportables.com,codehelppro.com#%#//scriptlet('abort-on-property-read', 'reqServers')
 stat-nba.com###ad_video
-statesville.com,wacotrib.com#%#//scriptlet('abort-on-property-read', 'TNCMS.Access')
-statesville.com,wacotrib.com#@#.ad-text
-statesville.com,wacotrib.com#@#.adContent
-statesville.com,wacotrib.com#@#.adSense
 station-drivers.com,appvn.com##.bannergroup
 statista.com,leaddev.com,letshosting.com,wccftech.com,djmag.com,skysports.com,linuxinsider.com,pianistmagazine.com,meetdownload.com,gobankingrates.com,thestudentroom.co.uk,advertiserandtimes.co.uk,stylecraze.com,mulheresafoder.com,mapcarta.com,thetrendspotter.net,examtiger.com,gaana.com,etf.com,northern-scot.co.uk,pornwatchers.com,ftopx.com,dazeddigital.com,agame.com,beeg.com,blogto.com,eurogamer.net,eurogamer.pt,fijivillage.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.ru,globalrph.com,gry.pl,jetzspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,moonbit.co.in,mousebreaker,mousebreaker.com,newsweek.com,ojogos.com.br,ourgames.ru,oyunskor.com,permainan.co.id,pornwatchers.com,spel.nl,spela.se,spelletjes.nl,spielen.com,stileproject.com,unogs.com,velonews.com,videogameschronicle.com##.advert
 stbemucodes.xyz#$?#iframe[src="about:blank"] { remove: true; }
@@ -41391,6 +41390,7 @@ zzztube.com,videoporn.tube##.b-random-column
 ||toutiaoyule.com/n/dspshow.
 ||tq.cn/floatcard?
 ||tr.*.espmp-*fr.net^
+||trace-*.free-reels.com^
 ||trace-*.hungrypanda.co^
 ||track-*.hungrypanda.co^
 ||track.*.roku.com^

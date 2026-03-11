@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260311005234
-! Last modified: 2026/03/11 00:52:34
-! Blocked domains: 7533
+! Version: 20260311092506
+! Last modified: 2026/03/11 09:25:06
+! Blocked domains: 7530
 ! unBlocked domains: 22
 !
 ||0123456789a.com^
@@ -983,7 +983,6 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||xz-development.oss-cn-beijing.aliyuncs.com^
-||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||conn-service-gl-01.allawntech.com^
 ||webtrack.allcitygo.com^
 ||alldk.com^
@@ -1520,7 +1519,6 @@
 ||bybiit.hl.cn^
 ||bybijt.hl.cn^
 ||byscy.cn^
-||open.snssdk.com.gtm.byte008.com^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
 ||mssdk-bu.bytedance.com^
@@ -4354,7 +4352,6 @@
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com^
-||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||xiaoma-10021647.file.myqcloud.com^
 ||datarangers-event.myrightone.com^

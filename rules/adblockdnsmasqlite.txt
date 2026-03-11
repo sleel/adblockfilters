@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260311005234
-# Last modified: 2026/03/11 00:52:34
-# Blocked domains: 7533
+# Version: 20260311092506
+# Last modified: 2026/03/11 09:25:06
+# Blocked domains: 7530
 #
 local=/0123456789a.com/
 local=/013572.cn/
@@ -982,7 +982,6 @@ local=/wzjs1.oss-accelerate.aliyuncs.com/
 local=/xpj08.oss-cn-beijing.aliyuncs.com/
 local=/xpjcg.oss-accelerate.aliyuncs.com/
 local=/xz-development.oss-cn-beijing.aliyuncs.com/
-local=/zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/
 local=/conn-service-gl-01.allawntech.com/
 local=/webtrack.allcitygo.com/
 local=/alldk.com/
@@ -1519,7 +1518,6 @@ local=/bybiht.hl.cn/
 local=/bybiit.hl.cn/
 local=/bybijt.hl.cn/
 local=/byscy.cn/
-local=/open.snssdk.com.gtm.byte008.com/
 local=/dm.bytedance.com/
 local=/mssdk.bytedance.com/
 local=/mssdk-bu.bytedance.com/
@@ -4353,7 +4351,6 @@ local=/projecta-common-1258344701.file.myqcloud.com/
 local=/redpaper-10006092.cos.myqcloud.com/
 local=/sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com/
 local=/vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com/
-local=/www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/
 local=/www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/
 local=/xiaoma-10021647.file.myqcloud.com/
 local=/datarangers-event.myrightone.com/
