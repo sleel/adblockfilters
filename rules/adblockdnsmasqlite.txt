@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260312163611
-# Last modified: 2026/03/12 16:36:11
-# Blocked domains: 7735
+# Version: 20260313005502
+# Last modified: 2026/03/13 00:55:02
+# Blocked domains: 7721
 #
 local=/0123456789a.com/
 local=/013572.cn/
@@ -685,7 +685,6 @@ local=/s.abcache.com/
 local=/smetrics.abercrombie.cn/
 local=/discover.absciex.com.cn/
 local=/disk.accord1key.cn/
-local=/account-takeover.icu/
 local=/apilog-web.acfun.cn/
 local=/apilog.app.acfun.cn/
 local=/jscode.acg68.com/
@@ -1445,15 +1444,9 @@ local=/kign.biluzhang.cn/
 local=/binance-dv.hl.cn/
 local=/binance-kp.hl.cn/
 local=/binance-qy.hl.cn/
-local=/binancegs.hl.cn/
 local=/binancelv.hl.cn/
-local=/binancepk.hl.cn/
 local=/binancepl.hl.cn/
-local=/binancevk.hl.cn/
-local=/binancevu.hl.cn/
 local=/binanceyj.hl.cn/
-local=/binanceyz.hl.cn/
-local=/binancezx.hl.cn/
 local=/bing-chrome.hl.cn/
 local=/bingdianhuanyuan.cn/
 local=/an.biocoop.cn/
@@ -1537,9 +1530,6 @@ local=/bxwccii.cn/
 local=/pic.by175.com/
 local=/e.by29s.cn/
 local=/m.by29s.cn/
-local=/bybiat.hl.cn/
-local=/bybidt.hl.cn/
-local=/bybijt.hl.cn/
 local=/byscy.cn/
 local=/dm.bytedance.com/
 local=/mssdk.bytedance.com/
@@ -1715,8 +1705,6 @@ local=/chnci.com/
 local=/cholo215.cn/
 local=/cholor201115.cn/
 local=/chrome-google-ao.hl.cn/
-local=/chrome-google-ok.hl.cn/
-local=/chrome-google-pc.hl.cn/
 local=/chrome-zh.hl.cn/
 local=/chromea-google.hl.cn/
 local=/chromegoogle.hl.cn/
@@ -2840,7 +2828,6 @@ local=/ir-sdk.guardease.com/
 local=/aqc.gucheng.com/
 local=/fbapi.guguread.com/
 local=/guitarpro.cc/
-local=/gulshantwospa.com/
 local=/gumgo.cn/
 local=/gunmi.cn/
 local=/1.gunsuo.com/
@@ -4242,7 +4229,6 @@ local=/ott-v0-al.data.mgtv.com/
 local=/ott.v1.data.mgtv.com/
 local=/pcweb.v1.mgtv.com/
 local=/resolver.gslb.mi-idc.com/
-local=/mi-quickq.hl.cn/
 local=/ad.mi.com/
 local=/api.jr.mi.com/
 local=/d.g.mi.com/

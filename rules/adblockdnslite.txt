@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260312163611
-! Last modified: 2026/03/12 16:36:11
-! Blocked domains: 7735
+! Version: 20260313005501
+! Last modified: 2026/03/13 00:55:01
+! Blocked domains: 7721
 ! unBlocked domains: 24
 !
 ||0123456789a.com^
@@ -686,7 +686,6 @@
 ||smetrics.abercrombie.cn^
 ||discover.absciex.com.cn^
 ||disk.accord1key.cn^
-||account-takeover.icu^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -1446,15 +1445,9 @@
 ||binance-dv.hl.cn^
 ||binance-kp.hl.cn^
 ||binance-qy.hl.cn^
-||binancegs.hl.cn^
 ||binancelv.hl.cn^
-||binancepk.hl.cn^
 ||binancepl.hl.cn^
-||binancevk.hl.cn^
-||binancevu.hl.cn^
 ||binanceyj.hl.cn^
-||binanceyz.hl.cn^
-||binancezx.hl.cn^
 ||bing-chrome.hl.cn^
 ||bingdianhuanyuan.cn^
 ||an.biocoop.cn^
@@ -1538,9 +1531,6 @@
 ||pic.by175.com^
 ||e.by29s.cn^
 ||m.by29s.cn^
-||bybiat.hl.cn^
-||bybidt.hl.cn^
-||bybijt.hl.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
@@ -1716,8 +1706,6 @@
 ||cholo215.cn^
 ||cholor201115.cn^
 ||chrome-google-ao.hl.cn^
-||chrome-google-ok.hl.cn^
-||chrome-google-pc.hl.cn^
 ||chrome-zh.hl.cn^
 ||chromea-google.hl.cn^
 ||chromegoogle.hl.cn^
@@ -2841,7 +2829,6 @@
 ||aqc.gucheng.com^
 ||fbapi.guguread.com^
 ||guitarpro.cc^
-||gulshantwospa.com^
 ||gumgo.cn^
 ||gunmi.cn^
 ||1.gunsuo.com^
@@ -4243,7 +4230,6 @@
 ||ott.v1.data.mgtv.com^
 ||pcweb.v1.mgtv.com^
 ||resolver.gslb.mi-idc.com^
-||mi-quickq.hl.cn^
 ||ad.mi.com^
 ||api.jr.mi.com^
 ||d.g.mi.com^
