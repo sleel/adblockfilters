@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260312092448
-! Last modified: 2026/03/12 09:24:48
-! Blocked domains: 7742
+! Version: 20260312163611
+! Last modified: 2026/03/12 16:36:11
+! Blocked domains: 7735
 ! unBlocked domains: 24
 !
 ||0123456789a.com^
@@ -1135,7 +1135,6 @@
 ||b1.b2b168.net^
 ||ee.b2fwnu.cn^
 ||m.b2fwnu.cn^
-||accoun.b5z3x1z.cn^
 ||m.b6wabb.cn^
 ||b8b4ix7bj.com^
 ||apishow.babybus.com^
@@ -1792,7 +1791,6 @@
 ||bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||cm-analysis.com^
-||federalety.cmafwtt.cn^
 ||log.cmbchina.com^
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
@@ -2505,7 +2503,6 @@
 ||bdu.focus.cn^
 ||pv.focus.cn^
 ||foisonad.com^
-||img.ford.com^
 ||metrics.ford.com^
 ||smetrics.ford.com^
 ||smetrics.sandbox.ford.com^
@@ -3416,7 +3413,6 @@
 ||ipinyou.com^
 ||ipinyou.com.cn^
 ||iplogger.cn^
-||login.ipmlk.cn^
 ||g3.iqilu.com^
 ||g4.iqilu.com^
 ||act.vip.iqiyi.com^
@@ -3784,7 +3780,6 @@
 ||b.kouke5.com^
 ||d.kpzip.com^
 ||mininews.kpzip.com^
-||kqkoxwi.cn^
 ||kr-google.hl.cn^
 ||marketing.krones.com^
 ||slb-p2p.vcloud.ks-live.com^
@@ -4615,7 +4610,6 @@
 ||offfice-wps.hl.cn^
 ||officesoftcn.com^
 ||offlce-wps.hl.cn^
-||speciallyian.ofrwo.cn^
 ||e.ohuam.com^
 ||ohwypr.cn^
 ||apps5.oingo.com^
@@ -4704,7 +4698,6 @@
 ||stats.pairmb.com^
 ||mm.paizi.net^
 ||palm-ad.cn^
-||pg.pampers.com.cn^
 ||vip.panggugu.com^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^

@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260312092448
-# Last modified: 2026/03/12 09:24:48
-# Blocked domains: 7742
+# Version: 20260312163611
+# Last modified: 2026/03/12 16:36:11
+# Blocked domains: 7735
 #
 local=/0123456789a.com/
 local=/013572.cn/
@@ -1134,7 +1134,6 @@ local=/b1.b2b168.com/
 local=/b1.b2b168.net/
 local=/ee.b2fwnu.cn/
 local=/m.b2fwnu.cn/
-local=/accoun.b5z3x1z.cn/
 local=/m.b6wabb.cn/
 local=/b8b4ix7bj.com/
 local=/apishow.babybus.com/
@@ -1791,7 +1790,6 @@ local=/7xi9g1.com1.z0.glb.clouddn.com/
 local=/bkt.clouddn.com/
 local=/advertise.cloudlinks.cn/
 local=/cm-analysis.com/
-local=/federalety.cmafwtt.cn/
 local=/log.cmbchina.com/
 local=/cmcdl.cmcm.com/
 local=/lcf.cmplay.cmcm.com/
@@ -2504,7 +2502,6 @@ local=/adv-sv-stat.focus.cn/
 local=/bdu.focus.cn/
 local=/pv.focus.cn/
 local=/foisonad.com/
-local=/img.ford.com/
 local=/metrics.ford.com/
 local=/smetrics.ford.com/
 local=/smetrics.sandbox.ford.com/
@@ -3415,7 +3412,6 @@ local=/iper2.com/
 local=/ipinyou.com/
 local=/ipinyou.com.cn/
 local=/iplogger.cn/
-local=/login.ipmlk.cn/
 local=/g3.iqilu.com/
 local=/g4.iqilu.com/
 local=/act.vip.iqiyi.com/
@@ -3783,7 +3779,6 @@ local=/wap.koudaitong.com/
 local=/b.kouke5.com/
 local=/d.kpzip.com/
 local=/mininews.kpzip.com/
-local=/kqkoxwi.cn/
 local=/kr-google.hl.cn/
 local=/marketing.krones.com/
 local=/slb-p2p.vcloud.ks-live.com/
@@ -4614,7 +4609,6 @@ local=/offerstrack.net/
 local=/offfice-wps.hl.cn/
 local=/officesoftcn.com/
 local=/offlce-wps.hl.cn/
-local=/speciallyian.ofrwo.cn/
 local=/e.ohuam.com/
 local=/ohwypr.cn/
 local=/apps5.oingo.com/
@@ -4703,7 +4697,6 @@ local=/paime.com/
 local=/stats.pairmb.com/
 local=/mm.paizi.net/
 local=/palm-ad.cn/
-local=/pg.pampers.com.cn/
 local=/vip.panggugu.com/
 local=/api-access.pangolin-sdk-toutiao2.com/
 local=/api-access.pangolin-sdk-toutiao3.com/
