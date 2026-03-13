@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260313163349
-! Last modified: 2026/03/13 16:33:49
-! Blocked domains: 7579
+! Version: 20260314003400
+! Last modified: 2026/03/14 00:34:00
+! Blocked domains: 7539
 ! unBlocked domains: 24
 !
 ||0123456789a.com^
@@ -23,7 +23,6 @@
 ||0575bbs.com^
 ||0591jiajiao.com.cn^
 ||0597kk.com^
-||05meet.us^
 ||06362.com^
 ||m.072va.cn^
 ||0755rc.com^
@@ -315,7 +314,6 @@
 ||p1.360soucha.com^
 ||hot.m.shouji.360tpcdn.com^
 ||36500.com^
-||365commbanks.vip^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -672,7 +670,6 @@
 ||s.abcache.com^
 ||abckzo.cn^
 ||smetrics.abercrombie.cn^
-||accountbankwest.vip^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -775,7 +772,6 @@
 ||brc2.aigrammar.net^
 ||aihaoduo.cn^
 ||www.aihuishou.com^
-||aiojg.com^
 ||apas.aipai.com^
 ||atiws.aipai.com^
 ||mlog.aipai.com^
@@ -974,10 +970,6 @@
 ||webtrack.allcitygo.com^
 ||alldk.com^
 ||allyes.com^
-||alpmneu.cfd^
-||alpsmhgz.cfd^
-||alpwuqy.cfd^
-||alpzmchg.cfd^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -1302,14 +1294,9 @@
 ||baizhu.cc^
 ||a1.bajiu.cn^
 ||a.bake818.cn^
-||balancebankwest.vip^
 ||changan.bama555.com^
 ||baminw.com.cn^
 ||ad.bandao.cn^
-||bankwest-benefits365.vip^
-||bankwest-reward.net^
-||bankwestbalance.vip^
-||bankwests2026.vip^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1425,12 +1412,6 @@
 ||mcdn.bilivideo.com^
 ||billionfocus.com^
 ||kign.biluzhang.cn^
-||binance-dv.hl.cn^
-||binance-kp.hl.cn^
-||binance-qy.hl.cn^
-||binancelv.hl.cn^
-||binancepl.hl.cn^
-||binanceyj.hl.cn^
 ||bingdianhuanyuan.cn^
 ||an.biocoop.cn^
 ||ai.bioon.com^
@@ -1581,7 +1562,6 @@
 ||vip.catcs.cn^
 ||cbh.hl.cn^
 ||gdc2091.cc-club.com.cn^
-||cc20140418.online^
 ||adv.ccb.com^
 ||ad.ccement.com^
 ||cchytech.com^
@@ -1632,7 +1612,6 @@
 ||tracking.chacha.com^
 ||chance-ad.com^
 ||chanet.com.cn^
-||chapaioitijjo.com^
 ||analysis.chatglm.cn^
 ||chatgpt-cn.hl.cn^
 ||ssgg.chazidian.com^
@@ -1686,10 +1665,8 @@
 ||chnci.com^
 ||cholo215.cn^
 ||cholor201115.cn^
-||chrome-google-ao.hl.cn^
 ||chromea-google.hl.cn^
 ||chromeam-google.com.cn^
-||chromegoogle.hl.cn^
 ||chromekr-google.com.cn^
 ||chromen-google.hl.cn^
 ||chromeuk-google.com.cn^
@@ -2575,11 +2552,7 @@
 ||gate-ycf.hl.cn^
 ||gate-zt.hl.cn^
 ||gate-ztm.hl.cn^
-||gatehl.hl.cn^
-||gatemk.hl.cn^
 ||gatevs.hl.cn^
-||gatexf.hl.cn^
-||gatezw.hl.cn^
 ||gayeah.cn^
 ||gbitcoin.cn^
 ||ee.gd881.cn^
@@ -2720,7 +2693,6 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||googlechrom.hl.cn^
-||googlechrome.hl.cn^
 ||googleflights-cn.net^
 ||googleminiapps.cn^
 ||googleoptimize-cn.com^
@@ -3042,7 +3014,6 @@
 ||hk-ch-google.hl.cn^
 ||hkeig.com^
 ||hkkeafj.cn^
-||hljkkdqcj.cn^
 ||hlrml.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -3604,7 +3575,6 @@
 ||e.jzvog.cn^
 ||m.jzvog.cn^
 ||k-google.hl.cn^
-||k-kuailian.hl.cn^
 ||ee.k2d98mi.cn^
 ||m.k2d98mi.cn^
 ||k99.cc^
@@ -3828,7 +3798,6 @@
 ||kychq.cn^
 ||e.kzwsh.cn^
 ||data.adobe.l-god.cn^
-||l-kuailian.hl.cn^
 ||m.la71f.cn^
 ||laaz.com.bd^
 ||lady177.com^
@@ -3961,7 +3930,6 @@
 ||linkvans.com^
 ||ssp.lionmobo.com^
 ||plausible.lipux.cn^
-||lirpm.com^
 ||litchiads.com^
 ||fan.liuxiaoer.com^
 ||xi.liuxiaoer.com^
@@ -4056,7 +4024,6 @@
 ||tongji.mafengwo.cn^
 ||track.oasis.magictavern.com^
 ||magicwindow.cn^
-||mahipagrodevelopers.com^
 ||maihehd.com^
 ||zc1.maillist-manage.com.cn^
 ||mailmunch.s3.amazonaws.com^
@@ -4574,7 +4541,6 @@
 ||imagzine.oppomobile.com^
 ||u.oppomobile.com^
 ||optimix.asia^
-||optimum.com.bd^
 ||opto-22.com.cn^
 ||oqyiapj.cn^
 ||img.oraohui.cn^
@@ -4605,7 +4571,6 @@
 ||oxi23.cn^
 ||oyz61nhz8.com^
 ||ozogame.com^
-||p-telegram.hl.cn^
 ||p0y.cn^
 ||p0yixb3wfv.com^
 ||p188.cn^
@@ -5735,7 +5700,6 @@
 ||syzjxz2018.cn^
 ||szbdyd.com^
 ||g.szdn1ms.com^
-||szdwyy.org.cn^
 ||bd1.szhk.com^
 ||am.szhome.com^
 ||collector.szlcsc.com^
@@ -6255,7 +6219,6 @@
 ||uzhuangji.cn^
 ||v-google.hl.cn^
 ||log.apk.v-mate.mobi^
-||v-telegram.hl.cn^
 ||v-vay.com^
 ||1.v-x.com.cn^
 ||ad.v3mh.com^
@@ -6596,7 +6559,6 @@
 ||web-chromegoogle.hl.cn^
 ||web-dod-whatsapp.com.cn^
 ||web-got-whatsapp.com.cn^
-||web-xml-whatsapp.com.cn^
 ||web-ztc-whatsapp.com.cn^
 ||web3live.cn^
 ||web605.cn^
@@ -6785,7 +6747,6 @@
 ||mon.ad.xelements.cn^
 ||monott.ad.xelements.cn^
 ||v.ad.xelements.cn^
-||xenon-soft.com^
 ||xerhibx.cn^
 ||xf221.cn^
 ||bbb.xfrwu.cn^
@@ -7252,7 +7213,6 @@
 ||photo.ypkjq.cn^
 ||yppw666.cn^
 ||photo.yqydjr.cn^
-||yqztdq.com.cn^
 ||yrqwnc.cn^
 ||yrwap.cn^
 ||ys630.com^
