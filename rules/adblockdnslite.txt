@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260314162842
-! Last modified: 2026/03/14 16:28:42
-! Blocked domains: 7193
+! Version: 20260315002424
+! Last modified: 2026/03/15 00:24:24
+! Blocked domains: 7149
 ! unBlocked domains: 22
 !
 ||0123456789a.com^
@@ -351,14 +351,6 @@
 ||609999.xyz^
 ||61165.com^
 ||61677.com^
-||63394.xyz^
-||63431.xyz^
-||63471.xyz^
-||63485.xyz^
-||63680.xyz^
-||63705.xyz^
-||63948.xyz^
-||64058.xyz^
 ||644446.com^
 ||cad.659t.cn^
 ||m5.66077.cn^
@@ -366,11 +358,6 @@
 ||6711.com^
 ||6789.net^
 ||kl.67it.com^
-||68003.xyz^
-||68021.xyz^
-||68038.xyz^
-||68091.xyz^
-||68183.xyz^
 ||html.696157.com^
 ||m.6et8a.cn^
 ||sizd.6nzev.cn^
@@ -408,11 +395,7 @@
 ||8le8le.com^
 ||8ox.cn^
 ||web.900.la^
-||90194.xyz^
-||90218.xyz^
-||90276.xyz^
 ||90370.com^
-||90380.xyz^
 ||e.91.com^
 ||911.cc^
 ||915.com^
@@ -559,7 +542,6 @@
 ||m.ahwczn.cn^
 ||ahxhny.cn^
 ||ai-chatgpt.hl.cn^
-||ai-offices.cn^
 ||aibantian.cn^
 ||brc.aigrammar.net^
 ||brc2.aigrammar.net^
@@ -761,13 +743,7 @@
 ||webtrack.allcitygo.com^
 ||alldk.com^
 ||allyes.com^
-||alplsok.cfd^
 ||alpmadsm.cfd^
-||alpmettme.cfd^
-||alpoiup.cfd^
-||alpsrjhz.cfd^
-||alptypyt.cfd^
-||alpwjhz.cfd^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -1097,10 +1073,6 @@
 ||changan.bama555.com^
 ||j.baminw.cn^
 ||ad.bandao.cn^
-||bankwest-bonus2026.vip^
-||bankwest-reward.shop^
-||bankwest.vip^
-||bankwestbonus365.vip^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1159,7 +1131,6 @@
 ||pups.bdimg.com^
 ||su.bdimg.com^
 ||cpro.bdrmb.cn^
-||bdseoexpert.com^
 ||ae.bdstatic.com^
 ||fex.bdstatic.com^
 ||mipcache.bdstatic.com^
@@ -1176,7 +1147,6 @@
 ||ad.beihai365.com^
 ||beijydt.cn^
 ||beizi.biz^
-||belovin.uno^
 ||smetrics.benefitcosmetics.com.cn^
 ||bengbeng.com^
 ||benniuluntai.cn^
@@ -1595,7 +1565,6 @@
 ||moa-upload-online.coloros.com^
 ||smartcard.apps.coloros.com^
 ||com5.com.cn^
-||commbank365.vip^
 ||strack.concur.cn^
 ||marketing.container-xchange.cn^
 ||cu-cn-north00001.gala.convection.cn^
@@ -1829,7 +1798,6 @@
 ||dinuojixie.com.cn^
 ||dipan.com^
 ||discord-cn.hl.cn^
-||discountwatches.cn^
 ||diskclean.cn^
 ||displink.com^
 ||code.ditiezu.net^
@@ -2340,7 +2308,6 @@
 ||gate-ycf.hl.cn^
 ||gate-zt.hl.cn^
 ||gate-ztm.hl.cn^
-||gatevs.hl.cn^
 ||gayeah.cn^
 ||ee.gd881.cn^
 ||m.gd881.cn^
@@ -3775,7 +3742,6 @@
 ||counter.m1905.com^
 ||m19ud.cn^
 ||m3cqjc3og6.com^
-||m40k.xyz^
 ||m43ocq1uoj.com^
 ||p.m5bn.com^
 ||xc.macd.cn^
@@ -3928,7 +3894,6 @@
 ||mindmapper.cc^
 ||minifun.top^
 ||minisplat.cn^
-||miop.uno^
 ||wm.mipcdn.com^
 ||abroad.api.comm.intl.miui.com^
 ||activity.browser.intl.miui.com^
@@ -4238,7 +4203,6 @@
 ||e.ohuam.com^
 ||ohwypr.cn^
 ||apps5.oingo.com^
-||oioi.world^
 ||ojg8sflgl.com^
 ||x.ojgoy.cn^
 ||img.okd3.cn^
@@ -4266,7 +4230,6 @@
 ||onrunningshop.com^
 ||ooniu.com^
 ||analytics.ooofoo.com^
-||oot-google.com.cn^
 ||open-uc.cn^
 ||ounion.openadx.com^
 ||openai.wf^
@@ -5842,7 +5805,6 @@
 ||uniway.cn.com^
 ||b.unjs.com^
 ||unlitui.com^
-||unsk.online^
 ||unta.cn^
 ||unypud.cn^
 ||uodoo.com^
@@ -6235,9 +6197,6 @@
 ||web-chrom.hl.cn^
 ||web-chromee.hl.cn^
 ||web-chromegoogle.hl.cn^
-||web-dod-whatsapp.com.cn^
-||web-got-whatsapp.com.cn^
-||web-ztc-whatsapp.com.cn^
 ||web3live.cn^
 ||web605.cn^
 ||webdissector.com^
@@ -6301,7 +6260,6 @@
 ||winads.cn^
 ||winbaicai.com^
 ||hoverfly.winchdesign.cn^
-||windsholdingprivate.com^
 ||ad.winrar.com.cn^
 ||analytics.wiwide.com^
 ||wiyun.com^
@@ -6377,7 +6335,6 @@
 ||wsgwc.com^
 ||market.wsskj520.cn^
 ||mlog.wangsu.com.wswebcdn.com^
-||wsygj.com^
 ||cdn-ad.wtzw.com^
 ||wukongtongji.com^
 ||wumii.cn^
@@ -6525,7 +6482,6 @@
 ||sentry.d.xiaomi.net^
 ||us.api.micloud.xiaomi.net^
 ||xiaomifood.cn^
-||xiaominnetwork.com^
 ||tracker.xiaomixiaoai.com^
 ||xiaoxiuapp.com^
 ||xiaoyange.cn^
