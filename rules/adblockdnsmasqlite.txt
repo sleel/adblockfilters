@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260315002424
-# Last modified: 2026/03/15 00:24:24
-# Blocked domains: 7149
+# Version: 20260315095201
+# Last modified: 2026/03/15 09:52:01
+# Blocked domains: 7143
 #
 local=/0123456789a.com/
 local=/019103.com/
@@ -434,7 +434,6 @@ local=/a7shun.com/
 local=/aa-google.hl.cn/
 local=/aafanke.cc/
 local=/aaoffice.cn/
-local=/branchiish.aayjlc.cn/
 local=/abbyychina.com/
 local=/s.abcache.com/
 local=/abckzo.cn/
@@ -1474,7 +1473,6 @@ local=/cjmkt.com/
 local=/wxa79ef55c1a84e284.wx.ckjr001.com/
 local=/claiks.com/
 local=/clarins.com.cn/
-local=/www.clash-github.com.cn/
 local=/clash-org.com.cn/
 local=/claude-cn.hl.cn/
 local=/cleartone.club/
@@ -4249,7 +4247,6 @@ local=/optimix.asia/
 local=/opto-22.com.cn/
 local=/oqyiapj.cn/
 local=/img.oraohui.cn/
-local=/oraypc.com.cn/
 local=/c.originz.cn/
 local=/v.originz.cn/
 local=/visit.oschina.net/
@@ -5354,7 +5351,6 @@ local=/superads.cn/
 local=/lcs.dev.surepush.cn/
 local=/susapi.dev.surepush.cn/
 local=/test.surepush.cn/
-local=/workeritude.surltx.cn/
 local=/surperverse.com/
 local=/bdunion1.suxiazai.com/
 local=/download.suxiazai.com/
@@ -6379,8 +6375,6 @@ local=/mon.ad.xelements.cn/
 local=/monott.ad.xelements.cn/
 local=/v.ad.xelements.cn/
 local=/xerhibx.cn/
-local=/xf221.cn/
-local=/bbb.xfrwu.cn/
 local=/xftsjv.top/
 local=/xfyjz.cn/
 local=/dt.xfyun.cn/

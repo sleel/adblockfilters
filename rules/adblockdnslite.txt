@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260315002424
-! Last modified: 2026/03/15 00:24:24
-! Blocked domains: 7149
+! Version: 20260315095201
+! Last modified: 2026/03/15 09:52:01
+! Blocked domains: 7143
 ! unBlocked domains: 22
 !
 ||0123456789a.com^
@@ -435,7 +435,6 @@
 ||aa-google.hl.cn^
 ||aafanke.cc^
 ||aaoffice.cn^
-||branchiish.aayjlc.cn^
 ||abbyychina.com^
 ||s.abcache.com^
 ||abckzo.cn^
@@ -1475,7 +1474,6 @@
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||claiks.com^
 ||clarins.com.cn^
-||www.clash-github.com.cn^
 ||clash-org.com.cn^
 ||claude-cn.hl.cn^
 ||cleartone.club^
@@ -4250,7 +4248,6 @@
 ||opto-22.com.cn^
 ||oqyiapj.cn^
 ||img.oraohui.cn^
-||oraypc.com.cn^
 ||c.originz.cn^
 ||v.originz.cn^
 ||visit.oschina.net^
@@ -5355,7 +5352,6 @@
 ||lcs.dev.surepush.cn^
 ||susapi.dev.surepush.cn^
 ||test.surepush.cn^
-||workeritude.surltx.cn^
 ||surperverse.com^
 ||bdunion1.suxiazai.com^
 ||download.suxiazai.com^
@@ -6380,8 +6376,6 @@
 ||monott.ad.xelements.cn^
 ||v.ad.xelements.cn^
 ||xerhibx.cn^
-||xf221.cn^
-||bbb.xfrwu.cn^
 ||xftsjv.top^
 ||xfyjz.cn^
 ||dt.xfyun.cn^
