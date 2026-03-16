@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260316165022
-# Last modified: 2026/03/16 16:50:22
-# Blocked domains: 7815
+# Version: 20260317005706
+# Last modified: 2026/03/17 00:57:06
+# Blocked domains: 7807
 #
 local=/011211.cn/
 local=/0123456789a.com/
@@ -1867,7 +1867,6 @@ local=/cnyibs.com/
 local=/www.cnys.com/
 local=/cnzh-chrome.hl.cn/
 local=/cnzh-google.hl.cn/
-local=/cnzh-kuailian.hl.cn/
 local=/cnzz.cn/
 local=/cnzz.com/
 local=/s2.cnzznz.com/
@@ -2442,7 +2441,6 @@ local=/m.f2z4d.cn/
 local=/sccdn.f2zd.com/
 local=/g.f5gh.com/
 local=/m.f846b.cn/
-local=/fa30908746.xyz/
 local=/fajia-huya.hl.cn/
 local=/fakjkwp.cn/
 local=/z2.fakutownee.cn/
@@ -2479,7 +2477,6 @@ local=/m.fdaoo.com/
 local=/fdhvczd.cn/
 local=/app.fdwdqc.cn/
 local=/m.fecjf.cn/
-local=/feiasia.com/
 local=/1.feihua.com/
 local=/wmeng.feihuadns.com/
 local=/e.feisia1.cn/
@@ -2850,7 +2847,6 @@ local=/www-googletagmanager.l.google.com/
 local=/googleadservices-cn.com/
 local=/googleadservices.com/
 local=/googleanalytics.com/
-local=/googlechrom.hl.cn/
 local=/googleflights-cn.net/
 local=/googleminiapps.cn/
 local=/googleoptimize-cn.com/
@@ -2934,7 +2930,6 @@ local=/gxhzv.cn/
 local=/gybyxsy1588.com/
 local=/gz-data.com/
 local=/gz51la.com/
-local=/gzaida.com/
 local=/bbn.gzblogger.cn/
 local=/kn.gzcce.cn/
 local=/gzcl999.cn/
@@ -3883,7 +3878,6 @@ local=/ku6.com/
 local=/c.kuaiduizuoye.com/
 local=/rd.kuaigames.com/
 local=/log.kuaigeng.com/
-local=/kuailian-cnzh.hl.cn/
 local=/kuailianac.hl.cn/
 local=/kuailiandg.hl.cn/
 local=/kuailianep.hl.cn/
@@ -4345,7 +4339,6 @@ local=/miaomu139.cn/
 local=/miaozhen.com/
 local=/micro-xdb.com/
 local=/microad-cn.com/
-local=/microsoft-defenderupdate.com/
 local=/stat.microvirt.com/
 local=/miduoke.net/
 local=/midway.run/
@@ -6956,7 +6949,6 @@ local=/wrvdmh.cn/
 local=/wsacjdg.cn/
 local=/wsdhknps.top/
 local=/wsdohii.cyou/
-local=/wsdohii.vip/
 local=/wsds.cn/
 local=/wsdtihk.cn/
 local=/wsgwc.com/

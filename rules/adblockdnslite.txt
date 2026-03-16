@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260316165022
-! Last modified: 2026/03/16 16:50:22
-! Blocked domains: 7815
+! Version: 20260317005706
+! Last modified: 2026/03/17 00:57:06
+! Blocked domains: 7807
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -1868,7 +1868,6 @@
 ||www.cnys.com^
 ||cnzh-chrome.hl.cn^
 ||cnzh-google.hl.cn^
-||cnzh-kuailian.hl.cn^
 ||cnzz.cn^
 ||cnzz.com^
 ||s2.cnzznz.com^
@@ -2443,7 +2442,6 @@
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
 ||m.f846b.cn^
-||fa30908746.xyz^
 ||fajia-huya.hl.cn^
 ||fakjkwp.cn^
 ||z2.fakutownee.cn^
@@ -2480,7 +2478,6 @@
 ||fdhvczd.cn^
 ||app.fdwdqc.cn^
 ||m.fecjf.cn^
-||feiasia.com^
 ||1.feihua.com^
 ||wmeng.feihuadns.com^
 ||e.feisia1.cn^
@@ -2851,7 +2848,6 @@
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleanalytics.com^
-||googlechrom.hl.cn^
 ||googleflights-cn.net^
 ||googleminiapps.cn^
 ||googleoptimize-cn.com^
@@ -2935,7 +2931,6 @@
 ||gybyxsy1588.com^
 ||gz-data.com^
 ||gz51la.com^
-||gzaida.com^
 ||bbn.gzblogger.cn^
 ||kn.gzcce.cn^
 ||gzcl999.cn^
@@ -3884,7 +3879,6 @@
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
 ||log.kuaigeng.com^
-||kuailian-cnzh.hl.cn^
 ||kuailianac.hl.cn^
 ||kuailiandg.hl.cn^
 ||kuailianep.hl.cn^
@@ -4346,7 +4340,6 @@
 ||miaozhen.com^
 ||micro-xdb.com^
 ||microad-cn.com^
-||microsoft-defenderupdate.com^
 ||stat.microvirt.com^
 ||miduoke.net^
 ||midway.run^
@@ -6957,7 +6950,6 @@
 ||wsacjdg.cn^
 ||wsdhknps.top^
 ||wsdohii.cyou^
-||wsdohii.vip^
 ||wsds.cn^
 ||wsdtihk.cn^
 ||wsgwc.com^
