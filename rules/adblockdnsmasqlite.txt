@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260316002532
-# Last modified: 2026/03/16 00:25:32
-# Blocked domains: 7582
+# Version: 20260316095352
+# Last modified: 2026/03/16 09:53:52
+# Blocked domains: 7578
 #
 local=/0123456789a.com/
 local=/013572.cn/
@@ -1451,7 +1451,6 @@ local=/fpbbdx1.bmcx.com/
 local=/fpbbdx2.bmcx.com/
 local=/bmw100.cn/
 local=/accounts.bmwweb.cc/
-local=/accounts.bmwweb.red/
 local=/accounts.bmwweb.systems/
 local=/bnti.cn/
 local=/bobo.com/
@@ -2334,7 +2333,6 @@ local=/ad.exyws.org/
 local=/veepai-device-log.eye4.cn/
 local=/eyewand.cn/
 local=/eyouv.cn/
-local=/hairization.eyvrgpl.cn/
 local=/g.f11w.com/
 local=/c.f1zd.com/
 local=/m.f2z4d.cn/
@@ -4296,7 +4294,6 @@ local=/m.moomoo.com/
 local=/tianji.moonrailgun.com/
 local=/ad.moonton.cn/
 local=/moquanad.com/
-local=/motherlodefair.com/
 local=/elq.mouser.cn/
 local=/mp83fkx.cn/
 local=/mo.mptckm.cn/
@@ -4610,7 +4607,6 @@ local=/parking-pcn1u.cn/
 local=/parking-pcnmh.cn/
 local=/parking-pcnms.cn/
 local=/parking-pcnmx.cn/
-local=/parking-pcnzz.cn/
 local=/uk.parking-r.cn/
 local=/uk.parking-t.cn/
 local=/parking-y.cn/
