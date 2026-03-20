@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260320163445
-! Last modified: 2026/03/20 16:34:45
-! Blocked domains: 7535
+! Version: 20260321003631
+! Last modified: 2026/03/21 00:36:31
+! Blocked domains: 7510
 ! unBlocked domains: 21
 !
 ||011211.cn^
@@ -967,10 +967,8 @@
 ||webtrack.allcitygo.com^
 ||alldk.com^
 ||allyes.com^
-||alpjshz.cfd^
 ||alplsok.cfd^
 ||alpmaueu.cfd^
-||alpmnvx.cfd^
 ||alppoyt.cfd^
 ||alpsanzh.cfd^
 ||adashx.ut.amap.com^
@@ -2194,7 +2192,6 @@
 ||page.acm.dzwww.com^
 ||api.e-cg.cn^
 ||api.e-toys.cn^
-||e-zpassnewy.vip^
 ||s.e739.cn^
 ||eagle-tex.cn^
 ||earmasterchina.cn^
@@ -2465,7 +2462,6 @@
 ||fqxkj.cn^
 ||fr-google.hl.cn^
 ||trace-v1.free-reels.com^
-||freeaioffice.xin^
 ||freedrive.cn^
 ||dd1.freep.cn^
 ||dd2.freep.cn^
@@ -2538,19 +2534,8 @@
 ||img.gaore.com^
 ||gaoshouyou.com^
 ||trk.gardnerdenver.com.cn^
-||gate-bn.hl.cn^
-||gate-fg.hl.cn^
-||gate-fgk.hl.cn^
-||gate-hq.hl.cn^
-||gate-ks.hl.cn^
 ||gate-ksw.hl.cn^
-||gate-rvb.hl.cn^
 ||gate-tx.hl.cn^
-||gate-txr.hl.cn^
-||gate-wj.hl.cn^
-||gate-wjl.hl.cn^
-||gate-ycf.hl.cn^
-||gate-ztm.hl.cn^
 ||ee.gd881.cn^
 ||m.gd881.cn^
 ||cyexamplee.gdvajt.cn^
@@ -2804,7 +2789,6 @@
 ||gzsadlmy.cn^
 ||gzsanxiaomingshi.cn^
 ||gzzkjdam.cn^
-||h-google.hl.cn^
 ||h202xuan.cn^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
@@ -3718,7 +3702,6 @@
 ||kuaihklian.hl.cn^
 ||kuaihnlian.hl.cn^
 ||kuaijplian.hl.cn^
-||kuailianac.hl.cn^
 ||kuailianace.hl.cn^
 ||kuailianact.hl.cn^
 ||kuailianedc.hl.cn^
@@ -3731,7 +3714,6 @@
 ||kuailianopj.hl.cn^
 ||kuailianseo.hl.cn^
 ||kuailiansky.hl.cn^
-||kuailianti.hl.cn^
 ||kuaiolian.hl.cn^
 ||kuaishang.cn^
 ||kuaishang.com.cn^
@@ -3801,7 +3783,6 @@
 ||update.mobile.kugou.com^
 ||webcollects.kugou.com^
 ||kuheju.com^
-||msstatic.com.gslb.kuiniuca.com^
 ||h1.kukuw.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||m.kuptmf.cn^
@@ -3965,7 +3946,6 @@
 ||fan.liuxiaoer.com^
 ||xi.liuxiaoer.com^
 ||live-help.cn^
-||live-huati.com^
 ||hw-p2p-pull.live-voip.com^
 ||tx-p2p-pull.live-voip.com^
 ||ws-p2p-pull.live-voip.com^
@@ -4395,7 +4375,6 @@
 ||nabrewards365.vip^
 ||nacexge.com^
 ||nacexop.xyz^
-||nacextr.com^
 ||static.live.nagezan.net^
 ||ytapi1.nagezan.net^
 ||naljjd.top^
@@ -5189,7 +5168,6 @@
 ||rsvqlz.cn^
 ||rtbasia.com^
 ||rtbwave.com^
-||rtiars-za.xyz^
 ||rtinka.bond^
 ||ruan.cn^
 ||ds.ruanwengfa.com^
@@ -6299,7 +6277,6 @@
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
-||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
@@ -6780,7 +6757,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||sdkconfig.ad.eu.xiaomi.com^
 ||ssp.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||stats.music.xiaomi.com^
@@ -7278,7 +7254,6 @@
 ||zh-chrome-google-cn.hl.cn^
 ||zh-chromegoogle.hl.cn^
 ||zh-clash.hl.cn^
-||zh-cn-chrome.hl.cn^
 ||zh-cn-chroome.hl.cn^
 ||zh-cn-google.hl.cn^
 ||zh-cn-goolge.hl.cn^
