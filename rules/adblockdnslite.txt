@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260321162605
-! Last modified: 2026/03/21 16:26:05
-! Blocked domains: 7989
+! Version: 20260322002250
+! Last modified: 2026/03/22 00:22:50
+! Blocked domains: 7952
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -977,7 +977,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||bf-chromefdghd.oss-cn-hongkong.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
@@ -1087,11 +1086,8 @@
 ||srtj.antutu.net^
 ||yanjiapi.antutu.net^
 ||anysdk.com^
-||aoe-clash.hl.cn^
 ||aoe-google.com.cn^
 ||aoe-google.hl.cn^
-||aoe-qishuiyinyue.hl.cn^
-||aoe-wps.hl.cn^
 ||aoqinglv.cn^
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
@@ -1113,7 +1109,6 @@
 ||securemetrics.apple.com.cn^
 ||fpb1.apple886.com^
 ||applk.cn^
-||apps-chrome.hl.cn^
 ||st.appsad.cn^
 ||adx.appsdk.com.cn^
 ||appsdt.com^
@@ -1579,7 +1574,6 @@
 ||bybit-mn.com.cn^
 ||bybit-np.com.cn^
 ||bybit-qt.com.cn^
-||bybit-za.com.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
@@ -1640,7 +1634,6 @@
 ||tfssl.caohua.com^
 ||caomeixz7.xyz^
 ||caonimazuzong.com^
-||capgr.club^
 ||baidu1.cardbaobao.com^
 ||baidua1.cardbaobao.com^
 ||baidua2.cardbaobao.com^
@@ -1648,7 +1641,6 @@
 ||super.cat898.com^
 ||tracking.cat898.com^
 ||vip.catcs.cn^
-||cbh.hl.cn^
 ||cbhzxctgm.com^
 ||gdc2091.cc-club.com.cn^
 ||adv.ccb.com^
@@ -1698,7 +1690,6 @@
 ||cgg-google.hl.cn^
 ||cgigc.com.cn^
 ||ch-chrome.hl.cn^
-||chabeihu.hl.cn^
 ||ads.adagent.chacha.com^
 ||metrics.chacha.com^
 ||tracking.chacha.com^
@@ -1927,7 +1918,6 @@
 ||www3-vpass.cnxzzb.cn^
 ||cnyibs.com^
 ||www.cnys.com^
-||cnzh-chrome.hl.cn^
 ||cnzh-google.hl.cn^
 ||cnzz.cn^
 ||cnzz.com^
@@ -2026,7 +2016,6 @@
 ||w.cube3d.cn^
 ||m.cuoss.com^
 ||ads.cup.com.cn^
-||cupfox.hl.cn^
 ||cuqpi.cn^
 ||z1.cwbaike.com^
 ||cx0001.cn^
@@ -2420,8 +2409,6 @@
 ||d.elong.cn^
 ||mhuodong.elong.com^
 ||analytics.emqx.com^
-||en-chromegoogle.hl.cn^
-||en-wps.hl.cn^
 ||ename.com.cn^
 ||ename.net^
 ||count.enet.com.cn^
@@ -2681,9 +2668,6 @@
 ||static.gaomaer.cn^
 ||img.gaore.com^
 ||gaoshouyou.com^
-||gate-ksw.hl.cn^
-||gate-tx.hl.cn^
-||gate-zt.hl.cn^
 ||gayeah.cn^
 ||gbitcoin.cn^
 ||ee.gd881.cn^
@@ -4044,12 +4028,6 @@
 ||open.kwaizt.com^
 ||kwdgudw.cn^
 ||ky-app-a.hl.cn^
-||ky-app-b.hl.cn^
-||ky-app-c.hl.cn^
-||ky-app-d.hl.cn^
-||ky-app-e.hl.cn^
-||ky-app-f.hl.cn^
-||ky-app-g.hl.cn^
 ||ky595images.com^
 ||kychq.cn^
 ||e.kzwsh.cn^
@@ -4431,7 +4409,6 @@
 ||mindmanager.cn^
 ||mindmapper.cc^
 ||a1.mingyihui.net^
-||minifun.top^
 ||minisplat.cn^
 ||wm.mipcdn.com^
 ||gg.miued.com^
@@ -4658,7 +4635,6 @@
 ||ndapus.cn^
 ||sdk.stat.foreign.nearme.com.cn^
 ||storedl1.nearme.com.cn^
-||storedl3f.nearme.com.cn^
 ||finance.needtoday.com^
 ||nesnts.cn^
 ||tracking.nesox.com^
@@ -4977,7 +4953,6 @@
 ||plt.data.pplive.com^
 ||ppvabs.pplive.com^
 ||web.data.pplive.com^
-||ppq-google.com.cn^
 ||game.pps.tv^
 ||api.afdback.ppsimg.com^
 ||static.g.ppstream.com^
@@ -6369,7 +6344,6 @@
 ||twuuzuu.cn^
 ||tb.code.twyxi.com^
 ||twzui6.com^
-||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
 ||txstatic.cn^
 ||m.txtxr.com^
@@ -6478,7 +6452,6 @@
 ||uniway.cn.com^
 ||b.unjs.com^
 ||unlitui.com^
-||unsk.online^
 ||unta.cn^
 ||unypud.cn^
 ||uodoo.com^
@@ -7008,19 +6981,16 @@
 ||wotihf.info^
 ||www.wowostar.cn^
 ||tbax.woyvk.cn^
-||wp-wps.hl.cn^
 ||v1.wphonelife.com^
 ||wps-apps.hl.cn^
 ||wps-cnn.hl.cn^
 ||wps-cnzh.hl.cn^
 ||wps-down.hl.cn^
-||wps-en.hl.cn^
 ||wps-go.hl.cn^
 ||wps-hl.hl.cn^
 ||wps-jinshan.hl.cn^
 ||wps-of.hl.cn^
 ||wps-sp.hl.cn^
-||wps-wp.hl.cn^
 ||wps-ws.hl.cn^
 ||wps-zhcn.hl.cn^
 ||wps-zhh.hl.cn^
@@ -7055,7 +7025,6 @@
 ||wsacjdg.cn^
 ||wsdhknps.top^
 ||wsds.cn^
-||wsdtihk.cn^
 ||wsgwc.com^
 ||market.wsskj520.cn^
 ||mlog.wangsu.com.wswebcdn.com^
@@ -7426,7 +7395,6 @@
 ||ygxgk.cn^
 ||yhbsk.cn^
 ||yhcu.cn^
-||yhdm.hl.cn^
 ||data.yhydl.com^
 ||yhz18.com^
 ||analytics.yicai.com^
@@ -7451,9 +7419,7 @@
 ||yimc.cn^
 ||yimingxiang.com.cn^
 ||yingchao-huya.hl.cn^
-||yinghuadongman.hl.cn^
 ||yingkebao.top^
-||yingshidaquan.hl.cn^
 ||img.yingshidiguo.cn^
 ||data-track.yingxiong.com^
 ||data-track-global.yingxiong.com^
@@ -7602,7 +7568,6 @@
 ||ys630.com^
 ||ad-material.ys7.com^
 ||log.ys7.com^
-||ysdq.hl.cn^
 ||m.ysgsq.cn^
 ||ysjwj.com^
 ||ysont.cn^
@@ -7680,7 +7645,6 @@
 ||d.yzh.li^
 ||yznwyng.cn^
 ||yktj.yzz.cn^
-||z-chrome.hl.cn^
 ||z0rto0758.com^
 ||z9sab7vr0b.com^
 ||zampda.net^
@@ -7723,7 +7687,6 @@
 ||zh-chrom.hl.cn^
 ||zh-chrome-chrome.hl.cn^
 ||zh-chrome-google-cn.hl.cn^
-||zh-chromegoogle.hl.cn^
 ||zh-clash.hl.cn^
 ||zh-cn-chroome.hl.cn^
 ||zh-cn-google.hl.cn^
