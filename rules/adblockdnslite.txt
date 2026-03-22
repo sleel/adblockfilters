@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260322162840
-! Last modified: 2026/03/22 16:28:40
-! Blocked domains: 7903
+! Version: 20260323002342
+! Last modified: 2026/03/23 00:23:42
+! Blocked domains: 7877
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -329,7 +329,6 @@
 ||softdl2.360tpcdn.com^
 ||36500.com^
 ||365aadecar.vip^
-||365commbanks.vip^
 ||365dmp.com^
 ||365myaade.vip^
 ||365mycar.vip^
@@ -528,7 +527,6 @@
 ||cad.659t.cn^
 ||m5.66077.cn^
 ||6613167.cn^
-||66294.xyz^
 ||66405.xyz^
 ||66473.xyz^
 ||66494.xyz^
@@ -1033,9 +1031,7 @@
 ||webtrack.allcitygo.com^
 ||alldk.com^
 ||allyes.com^
-||alplsok.cfd^
 ||alpmaueu.cfd^
-||alppoyt.cfd^
 ||alpsanzh.cfd^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
@@ -1074,8 +1070,6 @@
 ||api.antibanads.com^
 ||yanjiapi.antutu.net^
 ||anysdk.com^
-||aoe-google.com.cn^
-||aoe-google.hl.cn^
 ||aoqinglv.cn^
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
@@ -1559,9 +1553,6 @@
 ||pic.by175.com^
 ||e.by29s.cn^
 ||m.by29s.cn^
-||bybit-mn.com.cn^
-||bybit-np.com.cn^
-||bybit-qt.com.cn^
 ||byscy.cn^
 ||mssdk.bytedance.com^
 ||mssdk-bu.bytedance.com^
@@ -1789,7 +1780,6 @@
 ||aty.cp45.ott.cibntv.net^
 ||dc.cp21.ott.cibntv.net^
 ||dp3.play.cp81.ott.cibntv.net^
-||ipm.atm.cp31.ott.cibntv.net^
 ||livep.l.cp81.ott.cibntv.net^
 ||lives.l.cp81.ott.cibntv.net^
 ||mcgi.play.cp81.ott.cibntv.net^
@@ -1803,8 +1793,6 @@
 ||sltint.adv.ott.cibntv.net^
 ||t-l.play.cp81.ott.cibntv.net^
 ||topapi.cp12.ott.cibntv.net^
-||val.atm.cp31.ott.cibntv.net^
-||valf.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
 ||yk-ssp-ad.cp31.ott.cibntv.net^
 ||ykad-data.cp31.ott.cibntv.net^
@@ -1867,7 +1855,6 @@
 ||cn-chhrome-google.hl.cn^
 ||cn-chrom.hl.cn^
 ||cn-chrome-google-zh.hl.cn^
-||cn-chromegoogle.hl.cn^
 ||cn-clash.hl.cn^
 ||cn-goog-google.hl.cn^
 ||cn-google-chrome-zh.hl.cn^
@@ -1909,7 +1896,6 @@
 ||www3-vpass.cnxzzb.cn^
 ||cnyibs.com^
 ||www.cnys.com^
-||cnzh-google.hl.cn^
 ||cnzz.cn^
 ||cnzz.com^
 ||s2.cnzznz.com^
@@ -1935,7 +1921,6 @@
 ||moa-upload-online.coloros.com^
 ||smartcard.apps.coloros.com^
 ||com5.com.cn^
-||commbank365.vip^
 ||strack.concur.cn^
 ||marketing.container-xchange.cn^
 ||cu-cn-north00001.gala.convection.cn^
@@ -2047,7 +2032,6 @@
 ||schprompt.dangdang.com^
 ||t.dangdang.com^
 ||union.dangdang.com^
-||dao-as.top^
 ||dao-asi.top^
 ||daoass.cfd^
 ||daock.bond^
@@ -2240,7 +2224,6 @@
 ||dotcounter.douyutv.com^
 ||s.doyo.cn^
 ||s.dpcq1.net^
-||dpdbib.rest^
 ||dpdusi.bond^
 ||dpjzzgw.cn^
 ||dqbrd.hl.cn^
@@ -2627,7 +2610,6 @@
 ||fy14.cn^
 ||m.fy4zb.cn^
 ||fywuywf.cn^
-||fyxzwsz.com^
 ||simulatelab-datasink.fzzixun.com^
 ||g-oogle.hl.cn^
 ||xyoss.g.com.cn^
@@ -4021,7 +4003,6 @@
 ||api.kwaizt.com^
 ||open.kwaizt.com^
 ||kwdgudw.cn^
-||ky-app-a.hl.cn^
 ||ky595images.com^
 ||kychq.cn^
 ||e.kzwsh.cn^
@@ -4612,8 +4593,6 @@
 ||fdsz.n27lw.cn^
 ||n69.com^
 ||nabrewards365.vip^
-||nacexge.com^
-||nacexop.xyz^
 ||static.live.nagezan.net^
 ||ytapi1.nagezan.net^
 ||naljjd.top^
@@ -4706,7 +4685,6 @@
 ||c.nuhcpf.com^
 ||log.nuomi.com^
 ||ads.nuonuo.com^
-||metric.nuonuo.com^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
 ||nvshenfan.com^
@@ -4727,7 +4705,6 @@
 ||offer2026bankwest.vip^
 ||offerstrack.net^
 ||office-home.cn^
-||officer.icu^
 ||officesoftcn.com^
 ||e.ohuam.com^
 ||apps5.oingo.com^
@@ -5392,7 +5369,6 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||data-ads.realmemobile.com^
-||red-apple.vip^
 ||redlk.com^
 ||ablink.em.redmart.com^
 ||redmx.cn^
@@ -6259,7 +6235,6 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||tranyasy.com.cn^
-||tronlink.ceo^
 ||tronlink.ooo^
 ||ta.trs.cn^
 ||trustutn.org^
@@ -7691,7 +7666,6 @@
 ||zhcj-google-chrome.hl.cn^
 ||zhck-google-chrome.hl.cn^
 ||zhcl-google-chrome.hl.cn^
-||zhcn-chrome.hl.cn^
 ||zhcn-google-chrome.hl.cn^
 ||zhcngoogle-google.hl.cn^
 ||zhco-google-chrome.hl.cn^
