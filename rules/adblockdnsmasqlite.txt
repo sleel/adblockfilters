@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260322002250
-# Last modified: 2026/03/22 00:22:50
-# Blocked domains: 7952
+# Version: 20260322094622
+# Last modified: 2026/03/22 09:46:22
+# Blocked domains: 7949
 #
 local=/011211.cn/
 local=/0123456789a.com/
@@ -1123,7 +1123,6 @@ local=/a.armystar.com/
 local=/arpun.com/
 local=/f5w.as12df.top/
 local=/vpass-ne.assti.cn/
-local=/aster-bd.com/
 local=/aiseet.aa.atianqi.com/
 local=/atpanel.com/
 local=/atplay.cn/
@@ -4522,7 +4521,6 @@ local=/moquanad.com/
 local=/elq.mouser.cn/
 local=/mp83fkx.cn/
 local=/mo.mptckm.cn/
-local=/mqpldd.info/
 local=/mrw.so/
 local=/srtb.msn.cn/
 local=/c.msn.com.cn/
@@ -4919,7 +4917,6 @@ local=/stat2.pixpin.cn/
 local=/pj50.com/
 local=/pjcn.org/
 local=/m.pkbrxja.cn/
-local=/pkhnoh.cn/
 local=/accoun.pksfmdt.cn/
 local=/pl53l7tyw.com/
 local=/placidocn.com/
