@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260323002342
-! Last modified: 2026/03/23 00:23:42
-! Blocked domains: 7877
+! Version: 20260323094751
+! Last modified: 2026/03/23 09:47:51
+! Blocked domains: 7871
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -80,7 +80,6 @@
 ||m.1234567.com.cn^
 ||123cha.com^
 ||uimg.123hala.com^
-||1827897262.v.123pan.cn^
 ||bdad.123pan.cn^
 ||ent1.12584.cn^
 ||health1.12584.cn^
@@ -523,10 +522,11 @@
 ||61165.com^
 ||61677.com^
 ||644446.com^
-||65955.xyz^
+||www.65955.xyz^
 ||cad.659t.cn^
 ||m5.66077.cn^
 ||6613167.cn^
+||66294.xyz^
 ||66405.xyz^
 ||66473.xyz^
 ||66494.xyz^
@@ -952,7 +952,6 @@
 ||mpush-api.aliyun.com^
 ||osfota.cdn.aliyun.com^
 ||update.aegis.aliyun.com^
-||19-wgdvxb-xbneiu-zbvxgg.oss-ap-northeast-2.aliyuncs.com^
 ||1fur2cuzsul-sdk.rum.aliyuncs.com^
 ||1fw35mn5y7h-sdk.rum.aliyuncs.com^
 ||1hlahoc4rpc-sdk.rum.aliyuncs.com^
@@ -1722,7 +1721,6 @@
 ||usercollection.chinadaily.com.cn^
 ||sdkoptedge.chinanetcenter.com^
 ||adq.chinaso.com^
-||chinataiwan.org^
 ||a2put.chinaz.com^
 ||stats.chinaz.com^
 ||chinazmob.com^
@@ -3786,7 +3784,6 @@
 ||super.kdnet.net^
 ||tracking.kdnet.net^
 ||m.keai36.cn^
-||www.keaya.com^
 ||kehuduan.com^
 ||kejixueyuan.cn^
 ||keqii.com^
@@ -6490,7 +6487,6 @@
 ||smetrics.visitsingapore.com.cn^
 ||visvn.cn^
 ||visvn.com^
-||vitoboy.com^
 ||adlog.vivo.com^
 ||ads-api.vivo.com^
 ||bhwkju.vivo.com^
@@ -6729,12 +6725,10 @@
 ||httpdns.volcengineapi.com^
 ||apmplus.volces.com^
 ||apmplus.ap-southeast-1.volces.com^
-||daw.tos-cn-hongkong.volces.com^
 ||gator.volces.com^
 ||mssdk.volces.com^
 ||tab.volces.com^
 ||volctrack.com^
-||volga-consulting.com^
 ||report.voovmeeting.com^
 ||vorluic.cn^
 ||accoun.votsymv.cn^
