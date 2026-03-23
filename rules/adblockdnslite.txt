@@ -3,13 +3,12 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260323164911
-! Last modified: 2026/03/23 16:49:11
-! Blocked domains: 7990
+! Version: 20260324005250
+! Last modified: 2026/03/24 00:52:50
+! Blocked domains: 7947
 ! unBlocked domains: 22
 !
 ||011211.cn^
-||0123456789a.com^
 ||013572.cn^
 ||019103.com^
 ||photo.0234408.cn^
@@ -556,13 +555,6 @@
 ||67914.xyz^
 ||67986.xyz^
 ||kl.67it.com^
-||68004.xyz^
-||68019.xyz^
-||68021.xyz^
-||68037.xyz^
-||68038.xyz^
-||68058.xyz^
-||68087.xyz^
 ||68287zubo85737.com^
 ||688mob.com^
 ||html.696157.com^
@@ -1374,15 +1366,11 @@
 ||h.baminw.cn^
 ||baminw.com.cn^
 ||ad.bandao.cn^
-||bankwest-au.vip^
 ||bankwest-benefits365.vip^
-||bankwest-points.vip^
 ||bankwest-reward.com^
 ||bankwest-reward.net^
 ||bankwest365account.vip^
-||bankwestau.vip^
 ||bankwestoffer365.vip^
-||bankwestrewards.vip^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1460,7 +1448,6 @@
 ||ad.beihai365.com^
 ||beijydt.cn^
 ||beizi.biz^
-||bendigohome365.vip^
 ||smetrics.benefitcosmetics.com.cn^
 ||bengbeng.com^
 ||benniuluntai.cn^
@@ -1765,14 +1752,11 @@
 ||chromeee-google.hl.cn^
 ||chromekr-google.com.cn^
 ||chromen-google.hl.cn^
-||chromeuk-google.com.cn^
-||chromeus-google.com.cn^
 ||chromew-google.com.cn^
 ||chromezh-google.hl.cn^
 ||chrone-google.hl.cn^
 ||chroommee-google.hl.cn^
 ||chroomnee-google.hl.cn^
-||chroone.hl.cn^
 ||chroonme-google.hl.cn^
 ||chroum-google.hl.cn^
 ||chrromcce-google.hl.cn^
@@ -1872,7 +1856,6 @@
 ||ggv.cmvideo.cn^
 ||ggx.cmvideo.cn^
 ||cn-chhrome-google.hl.cn^
-||cn-chrom.hl.cn^
 ||cn-chrome-google-zh.hl.cn^
 ||cn-clash.hl.cn^
 ||cn-goog-google.hl.cn^
@@ -2055,12 +2038,10 @@
 ||schprompt.dangdang.com^
 ||t.dangdang.com^
 ||union.dangdang.com^
-||dao-asi.top^
 ||daoass.cfd^
 ||daock.bond^
 ||daokarcdn.cn^
 ||daonk.bond^
-||daoseis.top^
 ||daosin.bond^
 ||daoyoudao.com^
 ||s1.dapenti.com^
@@ -2149,7 +2130,6 @@
 ||dm1.ddwk8.cn^
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^
-||de-google.hl.cn^
 ||ad.dedecms.com^
 ||sm.dell.com^
 ||c.dengbaozx.cn^
@@ -2169,7 +2149,6 @@
 ||d.dgzj.com^
 ||d1.dhgate.com^
 ||dhgdp.cn^
-||dhlr.cn^
 ||ssl.di9qu.com.cn^
 ||diannaodian.com^
 ||dianru.cn^
@@ -2614,7 +2593,6 @@
 ||rtlog5-applog-hl.fqnovel.com^
 ||rtlog5-applog-lf.fqnovel.com^
 ||fqxkj.cn^
-||fr-google.hl.cn^
 ||trace-v1.free-reels.com^
 ||freedrive.cn^
 ||dd1.freep.cn^
@@ -3203,7 +3181,6 @@
 ||auth-na.hismarttv.com^
 ||auth-phone-afr.hismarttv.com^
 ||auth-phone-ap.hismarttv.com^
-||auth-phone-na.hismarttv.com^
 ||auth-sa.hismarttv.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||msg-em.hismarttv.com^
@@ -3219,7 +3196,6 @@
 ||resu8.hjfile.cn^
 ||hjgen.cn^
 ||hjpqt.cn^
-||hk-ch-google.hl.cn^
 ||hkeig.com^
 ||hkkeafj.cn^
 ||hlrml.cn^
@@ -3513,7 +3489,6 @@
 ||imyqb.cn^
 ||pyk.in-neo.cn^
 ||inad.com^
-||inc-wpsoffice.ah.cn^
 ||dlres.ind9ed.com^
 ||ssp.indexmob.com^
 ||analytics.infility.cn^
@@ -3757,7 +3732,6 @@
 ||email-ap.joneslanglasalle.com.cn^
 ||telemetry.api.joox.com^
 ||joyfartech.com^
-||jp-google.hl.cn^
 ||jpecrl.cn^
 ||jpush.cn^
 ||jpush.io^
@@ -4183,7 +4157,6 @@
 ||lieying.cn^
 ||lilangdianqi.cn^
 ||limkokwing-edu.cn^
-||line-pc.hl.cn^
 ||lineap.hl.cn^
 ||lingd.cn^
 ||ads.linkedin.cn^
@@ -4381,7 +4354,6 @@
 ||mfcvxw.cn^
 ||mldys.mfis6.cn^
 ||mflowtani.bond^
-||mflowthei.shop^
 ||mflowthuni.bond^
 ||mflowthyui.bond^
 ||ee.mfufanj.cn^
@@ -5524,7 +5496,6 @@
 ||sacre.cn^
 ||404.safedog.cn^
 ||web.safemini.club^
-||safew-go.hl.cn^
 ||sagetrc.com^
 ||saitef.cn^
 ||samevay.com.cn^
@@ -5590,7 +5561,6 @@
 ||setqre.cn^
 ||logstat.t.sfht.com^
 ||sfpyykk22.cn^
-||sg-google.hl.cn^
 ||sg92.com^
 ||track.sgdmobile.com^
 ||sglyd.cn^
@@ -6218,7 +6188,6 @@
 ||tfkuailian.hl.cn^
 ||tgfyq.cn^
 ||tgwopez.cn^
-||th-google.hl.cn^
 ||th7.cn^
 ||advert.api.thejoyrun.com^
 ||adpai.thepaper.cn^
@@ -6272,7 +6241,6 @@
 ||tnze.cn^
 ||to8to.com^
 ||tobidad.com^
-||todesk-pc.hl.cn^
 ||abtest.todesk.com^
 ||st.todesk.com^
 ||todesk-log-upload.todesk.com^
@@ -6446,7 +6414,6 @@
 ||bdjs.uimg.cn^
 ||uimr.cn^
 ||ujian.cc^
-||uk-google.hl.cn^
 ||e.uksnyf.cn^
 ||ultrapay.net^
 ||um1.cn^
@@ -6493,7 +6460,6 @@
 ||urbanfind.club^
 ||uri6.com^
 ||urlqh.cn^
-||us-google.hl.cn^
 ||usdcqb.com.cn^
 ||usn.cc^
 ||usrzh.cn^
@@ -6653,7 +6619,6 @@
 ||asia-vpushonrt-stsdk.vivoglobal.com^
 ||asia-vpushort-stsdk.vivoglobal.com^
 ||br-p.vivoglobal.com^
-||cl-vcode-od.vivoglobal.com^
 ||cname-asia-comonrt-stsdk.vivoglobal.com^
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
@@ -7022,7 +6987,6 @@
 ||wps-cnzh.hl.cn^
 ||wps-ddk.hl.cn^
 ||wps-down.hl.cn^
-||wps-go.hl.cn^
 ||wps-hl.hl.cn^
 ||wps-jinshan.hl.cn^
 ||wps-lws.hl.cn^
@@ -7398,12 +7362,9 @@
 ||yaodaipeishi.cn^
 ||cps.yaoqing.com^
 ||yatemy.cn^
-||yaxing.hl.cn^
 ||yaxing111.hl.cn^
 ||yaxing222.hl.cn^
 ||yaxing333.hl.cn^
-||yaxingguan.hl.cn^
-||yaxingguanwang.hl.cn^
 ||e.ybanj.com^
 ||m.ybanj.com^
 ||yc-apple.cn^
@@ -7539,7 +7500,6 @@
 ||sdk-log-inter.youdao.com^
 ||union.youdao.com^
 ||ydpushserver.youdao.com^
-||youdaofanyi.hl.cn^
 ||youday.cn^
 ||static.youdm.cn^
 ||youhuiguan.com^
@@ -7720,13 +7680,10 @@
 ||yin1.zgpingshu.com^
 ||1234.zgxue.com^
 ||td.zgxue.com^
-||zh-chrom.hl.cn^
 ||zh-chrome-chrome.hl.cn^
 ||zh-chrome-google-cn.hl.cn^
 ||zh-clash.hl.cn^
-||zh-cn-chroome.hl.cn^
 ||zh-cn-google.hl.cn^
-||zh-cn-goolge.hl.cn^
 ||zh-ggoogle-cn.hl.cn^
 ||zh-googgle-cn.hl.cn^
 ||zh-google-cn-google.hl.cn^
