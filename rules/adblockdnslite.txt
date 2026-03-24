@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260324164420
-! Last modified: 2026/03/24 16:44:20
-! Blocked domains: 7660
+! Version: 20260325005528
+! Last modified: 2026/03/25 00:55:28
+! Blocked domains: 7600
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -437,7 +437,6 @@
 ||51yes.com^
 ||51yhzp.com^
 ||game.51yund.com^
-||go.5211game.com^
 ||5251.net^
 ||52aoteman.com^
 ||5y9nfpes.52pk.com^
@@ -963,8 +962,6 @@
 ||update.aegis.aliyun.com^
 ||1fur2cuzsul-sdk.rum.aliyuncs.com^
 ||1fw35mn5y7h-sdk.rum.aliyuncs.com^
-||1hlahoc4rpc-sdk.rum.aliyuncs.com^
-||ac9olrggo8-default-cn.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -988,7 +985,6 @@
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
-||ef69yesd00-default-cn.rum.aliyuncs.com^
 ||ep2x3kiawg-sdk.rum.aliyuncs.com^
 ||f7vkagmqwq-sdk.rum.aliyuncs.com^
 ||f8ds5tkidk-sdk.rum.aliyuncs.com^
@@ -1018,7 +1014,6 @@
 ||mobaders.oss-cn-beijing.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
-||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^
 ||retcode-sg-lazada.arms.aliyuncs.com^
 ||ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com^
 ||sgnfyn.oss-cn-shenzhen.aliyuncs.com^
@@ -1089,7 +1084,6 @@
 ||us-behavior.apitd.net^
 ||apkevery.com^
 ||app-analytics-services.com^
-||app-kuake.com.cn^
 ||app-measurement-cn.com^
 ||app-measurement.com^
 ||appadhoc.net^
@@ -1374,8 +1368,6 @@
 ||bankwest-benefits365.vip^
 ||bankwest-reward.com^
 ||bankwest-reward.net^
-||bankwest365account.vip^
-||bankwestoffer365.vip^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1540,7 +1532,6 @@
 ||m.bs641.cn^
 ||bsbaswq.cn^
 ||bsccdn.net^
-||bsdc.com.bd^
 ||bsdev.cn^
 ||a.bshu.com^
 ||bsrkt.com^
@@ -1583,7 +1574,6 @@
 ||c4d4.cn^
 ||ca88b.cn^
 ||cadxd.com^
-||cafopresident.gov.bd^
 ||download.caihong.com^
 ||sw.cailawyer.cn^
 ||apollo.caixin.com^
@@ -1621,7 +1611,6 @@
 ||baidu1.cardbaobao.com^
 ||baidua1.cardbaobao.com^
 ||baidua2.cardbaobao.com^
-||cart.net.cn^
 ||cartx.cloud^
 ||super.cat898.com^
 ||tracking.cat898.com^
@@ -1750,6 +1739,7 @@
 ||dc.cp21.ott.cibntv.net^
 ||de.as.cp61.ott.cibntv.net^
 ||dp3.play.cp81.ott.cibntv.net^
+||ipm.atm.cp31.ott.cibntv.net^
 ||livep.l.cp81.ott.cibntv.net^
 ||lives.l.cp81.ott.cibntv.net^
 ||mcgi.play.cp81.ott.cibntv.net^
@@ -1763,6 +1753,8 @@
 ||sltint.adv.ott.cibntv.net^
 ||t-l.play.cp81.ott.cibntv.net^
 ||topapi.cp12.ott.cibntv.net^
+||val.atm.cp31.ott.cibntv.net^
+||valf.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
 ||yk-ssp-ad.cp31.ott.cibntv.net^
 ||ykad-data.cp31.ott.cibntv.net^
@@ -2058,7 +2050,6 @@
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
-||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
 ||events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
@@ -2066,7 +2057,6 @@
 ||events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn^
-||metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn^
 ||s.dbojetp.cn^
 ||engine.dcad01.com^
 ||xcx.dcad01.com^
@@ -2190,7 +2180,6 @@
 ||dpdusi.bond^
 ||dpjzzgw.cn^
 ||drdwy.com^
-||dreamlight.com.bd^
 ||drivethelife.com^
 ||drokozz.club^
 ||dspack.com.cn^
@@ -2275,7 +2264,6 @@
 ||easyliao.com^
 ||easyrecoverychina.com^
 ||easytomessage.com^
-||ebaba.com.bd^
 ||ebjvu.cn^
 ||eblnzoq.cn^
 ||ebrid.cn^
@@ -2318,7 +2306,6 @@
 ||metrics.egencia.cn^
 ||m.eglglh.cn^
 ||egooad.com^
-||egr.com.bd^
 ||egsxdp.cn^
 ||egyptpostin.life^
 ||xt.eh6q.cn^
@@ -2350,7 +2337,6 @@
 ||images.enet.com.cn^
 ||pv.enet.com.cn^
 ||www9.enet.com.cn^
-||engineershome.com.bd^
 ||brc.englishdict.cc^
 ||brc.englishtimes.cc^
 ||eap.enorth.com.cn^
@@ -2652,7 +2638,6 @@
 ||msg2.video.ptqy.gitv.tv^
 ||msga.ptqy.gitv.tv^
 ||nl.rcd.ptqy.gitv.tv^
-||openapi.vip.ptqy.gitv.tv^
 ||ota.ptqy.gitv.tv^
 ||policy.video.ptqy.gitv.tv^
 ||puma-api.ptqy.gitv.tv^
@@ -2960,7 +2945,6 @@
 ||adx-in.ads.heytapmobi.com^
 ||adx-sg.ads.heytapmobi.com^
 ||adx.ads.heytapmobi.com^
-||album-cn01a.ocloud.heytapmobi.com^
 ||album-sg01a.ocloud.heytapmobi.com^
 ||api-cn.cdo.heytapmobi.com^
 ||api-gl.cdo.heytapmobi.com^
@@ -2984,11 +2968,9 @@
 ||darvin-ec.ads.heytapmobi.com^
 ||data.ads.heytapmobi.com^
 ||dc-dragate-cn.heytapmobi.com^
-||dcintl.push.heytapmobi.com^
 ||dragate-sg.dc.heytapmobi.com^
 ||epoch-id.cdo.heytapmobi.com^
 ||httpdns.ocloud.heytapmobi.com^
-||i-cn01a.ocloud.heytapmobi.com^
 ||i-sg01a.ocloud.heytapmobi.com^
 ||iot-earbuds-cn.heytapmobi.com^
 ||obus-cn.dc.heytapmobi.com^
@@ -3060,8 +3042,6 @@
 ||analytics.shop.hisense.com^
 ||www.hisense.com^
 ||api-4know-em.hismarttv.com^
-||api-4know-eu.hismarttv.com^
-||api-cloudfalcon.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -3073,15 +3053,12 @@
 ||api-launcher-sa.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||auth-eu.hismarttv.com^
-||auth-jp.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
 ||auth-launcher-eu.hismarttv.com^
-||auth-launcher-jp.hismarttv.com^
 ||auth-launcher-na.hismarttv.com^
 ||auth-launcher-sa.hismarttv.com^
 ||auth-na.hismarttv.com^
 ||auth-phone-afr.hismarttv.com^
-||auth-phone-ap.hismarttv.com^
 ||auth-sa.hismarttv.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||msg-em.hismarttv.com^
@@ -3284,7 +3261,6 @@
 ||ibozys.cn^
 ||sensors.ibreader.com^
 ||busuanzi.ibruce.info^
-||ibs.com.bd^
 ||moon.ibytecdn.cn^
 ||iche88.cn^
 ||static.ichehome.com^
@@ -3369,7 +3345,6 @@
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
 ||smetrics.ilovematlab.cn^
-||iloveyou.com.bd^
 ||imageter.com^
 ||windriversfiles.imeitools.com^
 ||img001.com^
@@ -3653,7 +3628,6 @@
 ||jschuangnuo.com^
 ||jsdajp.click^
 ||jsebmcv.cn^
-||jshbbs.cn^
 ||jsing.net^
 ||jsmxkj.com^
 ||fpb1.jsq886.com^
@@ -3877,7 +3851,6 @@
 ||update.mobile.kugou.com^
 ||webcollects.kugou.com^
 ||kuheju.com^
-||msstatic.com.gslb.kuiniuca.com^
 ||h1.kukuw.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||m.kuptmf.cn^
@@ -4199,7 +4172,6 @@
 ||tongji.meizu.com^
 ||tongji-res.meizu.com^
 ||tongji-res1.meizu.com^
-||u.meizu.com^
 ||umid.orion.meizu.com^
 ||uxip.meizu.com^
 ||dodi.meng-an.cn^
@@ -4215,7 +4187,6 @@
 ||mfcvxw.cn^
 ||mldys.mfis6.cn^
 ||mflowtani.bond^
-||mflowthuni.bond^
 ||mflowthyui.bond^
 ||ee.mfufanj.cn^
 ||m.mfufanj.cn^
@@ -4289,7 +4260,6 @@
 ||api.accelerator.intl.miui.com^
 ||api.aurogon.intl.miui.com^
 ||api.bbs.miui.com^
-||api.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
 ||api.calendar.intl.miui.com^
 ||api.collect.data.intl.miui.com^
@@ -4365,7 +4335,6 @@
 ||mobjump.com^
 ||cdn0.mobmore.com^
 ||ex.mobmore.com^
-||mobtech.com.bd^
 ||mobvoi-analytics-transfer.mobvoi.com^
 ||advertisement.moguv.com^
 ||bd1.moguvet.com^
@@ -4499,7 +4468,6 @@
 ||ndapus.cn^
 ||sdk.stat.foreign.nearme.com.cn^
 ||storedl1.nearme.com.cn^
-||storedl3f.nearme.com.cn^
 ||finance.needtoday.com^
 ||nesnts.cn^
 ||tracking.nesox.com^
@@ -4592,7 +4560,6 @@
 ||obv3epx22d.com^
 ||accoun.ocbuvja.cn^
 ||analytics.oceanengine.com^
-||offer2026bankwest.vip^
 ||offerstrack.net^
 ||office-home.cn^
 ||office-wps-wps.cn^
@@ -4639,10 +4606,8 @@
 ||api.open.oppomobile.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
-||imagzine.oppomobile.com^
 ||u.oppomobile.com^
 ||optimix.asia^
-||optimum.com.bd^
 ||opto-22.com.cn^
 ||oqyiapj.cn^
 ||img.oraohui.cn^
@@ -4700,7 +4665,6 @@
 ||passionsex.vip^
 ||passwordrecovery.cn^
 ||bt1.patexplorer.com^
-||payticketss.com^
 ||pbaiyho.cn^
 ||ipad.pc899.cn^
 ||count.pcauto.com.cn^
@@ -4777,7 +4741,6 @@
 ||bdx.playnext.cn^
 ||pmensrl.cn^
 ||cdn.pocoiq.cn^
-||poe.com.bd^
 ||poke88.com^
 ||dluat.pokerbros.net^
 ||i.pokerbros.net^
@@ -4789,7 +4752,6 @@
 ||fp-it-acc.portal101.cn^
 ||portosaham.icu^
 ||webtrack.pospal.cn^
-||postnordk.bond^
 ||log.cs.pp.cn^
 ||patriot.cs.pp.cn^
 ||server.m.pp.cn^
@@ -4850,7 +4812,6 @@
 ||qbdgame.com^
 ||dn-growing.qbox.me^
 ||uplog.qbox.me^
-||log.qcast.cn^
 ||www.qchannel01.cn^
 ||qchannel04.cn^
 ||qcjslm.com^
@@ -5294,7 +5255,6 @@
 ||feedback.cn.ronghub.com^
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
-||ropaly.com.bd^
 ||rsvqlz.cn^
 ||rtbasia.com^
 ||rtbwave.com^
@@ -5382,7 +5342,6 @@
 ||sdyongyan.com.cn^
 ||1640831964042.se-life.cn^
 ||ad.seeyouyima.com^
-||trace.seeyouyima.com^
 ||self-study-service.com.cn^
 ||www.selgrospl.com^
 ||sellbuyads.cn^
@@ -5398,7 +5357,6 @@
 ||sg92.com^
 ||track.sgdmobile.com^
 ||sglyd.cn^
-||shahidul.com.bd^
 ||w88.shanghaidisneyresort.com.cn^
 ||api.shanghailingye.cn^
 ||shangtuke.cn^
@@ -5656,7 +5614,6 @@
 ||ad.sohu.com^
 ||ads.sohu.com^
 ||api.danmu.tv.sohu.com^
-||api.tv.sohu.com^
 ||assp.sohu.com^
 ||bd.hd.sohu.com^
 ||changyan.sohu.com^
@@ -5696,7 +5653,6 @@
 ||smetrics.solidigmtech.com.cn^
 ||smetrics.solidigmtechnology.cn^
 ||rtb-uswest-ak.solomath.com^
-||sonagazicollege.gov.bd^
 ||song001.com^
 ||ll.songlaoban.cn^
 ||gg.sonhoo.com^
@@ -5718,7 +5674,6 @@
 ||cod.southmoney.com^
 ||icn.southmoney.com^
 ||tongji.southmoney.com^
-||spider.com.bd^
 ||sq59.cn^
 ||srbzw.cn^
 ||m.srnoh.cn^
@@ -6253,7 +6208,6 @@
 ||unionsky.cn^
 ||unionsky2.cn^
 ||unionsy.com^
-||uniraz.com.bd^
 ||cdp.cloud.unity.cn^
 ||ads.unitychina.cn^
 ||cdn.iads.unitychina.cn^
@@ -6442,7 +6396,6 @@
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
-||co-domaincfg.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
 ||co-timesync.vivoglobal.com^
@@ -6490,13 +6443,7 @@
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||kz-onrt-stsdk.vivoglobal.com^
 ||kz-ort-stsdk.vivoglobal.com^
-||kz-romsp-unifyconfig.vivoglobal.com^
-||kz-st-exappupgrade.vivoglobal.com^
-||kz-st-sl.vivoglobal.com^
-||kz-stsdk.vivoglobal.com^
-||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
-||kz-vcode-or.vivoglobal.com^
 ||mx-cota.vivoglobal.com^
 ||mx-domaincfg.vivoglobal.com^
 ||mx-err-up.vivoglobal.com^
@@ -6528,19 +6475,16 @@
 ||ru-romsp-unifyconfig.vivoglobal.com^
 ||ru-st-exappupgrade.vivoglobal.com^
 ||ru-st-sl.vivoglobal.com^
-||ru-stsdk.vivoglobal.com^
 ||ru-third-appstore.vivoglobal.com^
 ||ru-timesync.vivoglobal.com^
 ||ru-vcode-api.vivoglobal.com^
 ||ru-vcode-od.vivoglobal.com^
 ||ru-vcode-or.vivoglobal.com^
-||sca-cota.vivoglobal.com^
 ||sca-domaincfg.vivoglobal.com^
 ||sca-err-up.vivoglobal.com^
 ||sca-onrt-stsdk.vivoglobal.com^
 ||sca-ort-stsdk.vivoglobal.com^
 ||sca-p.vivoglobal.com^
-||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-romsp-unifyconfig.vivoglobal.com^
 ||sca-st-sl.vivoglobal.com^
 ||sca-stsdk.vivoglobal.com^
@@ -6548,12 +6492,10 @@
 ||sca-vcode-api.vivoglobal.com^
 ||sca-vcode-od.vivoglobal.com^
 ||sca-vcode-or.vivoglobal.com^
-||sg-cfg-stsdk.vivoglobal.com^
 ||stsdk.vivoglobal.com^
 ||tr-album-api.vivoglobal.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
-||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
@@ -6949,7 +6891,6 @@
 ||mishop.pandora.xiaomi.com^
 ||notice.game.xiaomi.com^
 ||o2o.api.xiaomi.com^
-||ottl7-l2.pandora.xiaomi.com^
 ||p.www.xiaomi.com^
 ||package.box.xiaomi.com^
 ||pi.ias.xiaomi.com^
@@ -7337,7 +7278,6 @@
 ||yrqwnc.cn^
 ||yrwap.cn^
 ||ys630.com^
-||ad-material.ys7.com^
 ||log.ys7.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
