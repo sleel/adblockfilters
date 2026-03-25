@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260325164308
-! Last modified: 2026/03/25 16:43:08
-! Blocked domains: 7500
+! Version: 20260326005728
+! Last modified: 2026/03/26 00:57:28
+! Blocked domains: 7459
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -81,7 +81,6 @@
 ||ent1.12584.cn^
 ||health1.12584.cn^
 ||img.12584.cn^
-||126.cn^
 ||analytics.126.com^
 ||ir.mail.126.com^
 ||admusicpic.music.126.net^
@@ -529,14 +528,7 @@
 ||6711.com^
 ||67156.xyz^
 ||67269.xyz^
-||67427.xyz^
-||67692.xyz^
-||67717.xyz^
-||67831.xyz^
-||67842.xyz^
 ||6789.net^
-||67914.xyz^
-||67986.xyz^
 ||kl.67it.com^
 ||68287zubo85737.com^
 ||688mob.com^
@@ -688,7 +680,6 @@
 ||a48505.cn^
 ||a4xvv2g18l.com^
 ||a7shun.com^
-||aa-google.hl.cn^
 ||aaaa1234567.cn^
 ||aafanke.cc^
 ||aaoffice.cn^
@@ -1012,7 +1003,6 @@
 ||alldk.com^
 ||allyes.com^
 ||alpmaueu.cfd^
-||alpsanzh.cfd^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -1124,7 +1114,6 @@
 ||adm3.autoimg.cn^
 ||img2.autoimg.cn^
 ||autooffice.top^
-||autostraou.bond^
 ||adstatistics.av380.net^
 ||ixav-cse.avlyun.com^
 ||log.avlyun.com^
@@ -1324,9 +1313,6 @@
 ||h.baminw.cn^
 ||baminw.com.cn^
 ||ad.bandao.cn^
-||bankwest-benefits365.vip^
-||bankwest-reward.com^
-||bankwest-reward.net^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1614,7 +1600,6 @@
 ||changyi21.cn^
 ||analysis.chatglm.cn^
 ||chatgpt-ai.hl.cn^
-||chatgpt-cn.hl.cn^
 ||ssgg.chazidian.com^
 ||yong.chazidian.com^
 ||bdasd.chdbook.cn^
@@ -1675,13 +1660,9 @@
 ||chrome-me.hl.cn^
 ||chrome-zhcn.hl.cn^
 ||chrome-zhgoogle.hl.cn^
-||chromea-google.hl.cn^
-||chromeam-google.com.cn^
 ||chromechr-google.hl.cn^
 ||chromecn-google.hl.cn^
 ||chromeee-google.hl.cn^
-||chromekr-google.com.cn^
-||chromew-google.com.cn^
 ||chromezh-google.hl.cn^
 ||chrone-google.hl.cn^
 ||chroommee-google.hl.cn^
@@ -1751,7 +1732,6 @@
 ||clash-verge.hl.cn^
 ||clash-vpn.hl.cn^
 ||clash-web.hl.cn^
-||claude-cn.hl.cn^
 ||cleartone.club^
 ||log-api.cli.im^
 ||click.com.cn^
@@ -1895,7 +1875,6 @@
 ||ws2.cootekservice.com^
 ||bdu1.coozhi.cn^
 ||coreldrawchina.com^
-||cosms.luxe^
 ||cotnetwork.com^
 ||coumie.top^
 ||cp7iys8fp.com^
@@ -1979,9 +1958,7 @@
 ||t.dangdang.com^
 ||union.dangdang.com^
 ||daoass.cfd^
-||daock.bond^
 ||daokarcdn.cn^
-||daonk.bond^
 ||daosin.bond^
 ||daoyoudao.com^
 ||s1.dapenti.com^
@@ -2058,8 +2035,6 @@
 ||s.dbojetp.cn^
 ||xcx.dcad01.com^
 ||c.dcgwnhk.cn^
-||dd-chrome.hl.cn^
-||dd-google.hl.cn^
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^
 ||ad.dedecms.com^
@@ -2295,7 +2270,6 @@
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
 ||m.f846b.cn^
-||fajia-huya.hl.cn^
 ||fakjkwp.cn^
 ||z2.fakutownee.cn^
 ||falal.cn^
@@ -2529,7 +2503,6 @@
 ||stats.gioneemobile.net^
 ||tracker.gitee.com^
 ||achicih.gitee.io^
-||github-cn.hl.cn^
 ||github-hl.hl.cn^
 ||github.hl.cn^
 ||auth.api.gitv.tv^
@@ -3481,7 +3454,6 @@
 ||jqki.cn^
 ||jrltdiu.cn^
 ||jrq39d1r8.com^
-||jrs-huya.hl.cn^
 ||jschuangnuo.com^
 ||jsdajp.click^
 ||jsebmcv.cn^
@@ -3656,7 +3628,6 @@
 ||kuailianedc.hl.cn^
 ||kuailianfit.hl.cn^
 ||kuailianfly.hl.cn^
-||kuailiangw.hl.cn^
 ||kuailianit.hl.cn^
 ||kuailiankdj.hl.cn^
 ||kuailiankfc.hl.cn^
@@ -3845,7 +3816,6 @@
 ||lenzmx.com^
 ||click.lergao.com^
 ||leshu.com^
-||letsvppn.hl.cn^
 ||api.hdtv.letv.com^
 ||api.platform.letv.com^
 ||apple.www.letv.com^
@@ -4007,7 +3977,6 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
-||mavhian.yachts^
 ||maxreturn.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4071,8 +4040,6 @@
 ||a.mfcad.net^
 ||mfcvxw.cn^
 ||mldys.mfis6.cn^
-||mflowtani.bond^
-||mflowthyui.bond^
 ||m.mfufanj.cn^
 ||mfxyqh.cn^
 ||mgs123.com^
@@ -4432,7 +4399,6 @@
 ||o7h.net^
 ||oadz.com^
 ||gtm.oasisfeng.com^
-||obsidian-cn.hl.cn^
 ||obsidian-hl.hl.cn^
 ||obsidian.hl.cn^
 ||obv3epx22d.com^
@@ -4474,7 +4440,6 @@
 ||open-uc.cn^
 ||ounion.openadx.com^
 ||openai.wf^
-||openclaw-cn.hl.cn^
 ||openclaw-hk.hl.cn^
 ||openclaw-hl.hl.cn^
 ||openinstall.io^
@@ -5269,7 +5234,6 @@
 ||wx.shunliandongli.com^
 ||js.shunqi.com^
 ||shuqw.com^
-||shuruffa-sogou.hl.cn^
 ||shuzilm.cn^
 ||m.shwedar.com.cn^
 ||ads-monitoring.shziyi.com^
@@ -6930,7 +6894,6 @@
 ||yangot.com^
 ||img.yangshengtang123.com^
 ||ca.yangshengtv.com^
-||yanzhouoffice.top^
 ||yaodaipeishi.cn^
 ||cps.yaoqing.com^
 ||yatemy.cn^
@@ -6988,7 +6951,6 @@
 ||yijirecovery.com^
 ||yimc.cn^
 ||yimingxiang.com.cn^
-||yingchao-huya.hl.cn^
 ||yingkebao.top^
 ||img.yingshidiguo.cn^
 ||data-track.yingxiong.com^
@@ -7129,7 +7091,6 @@
 ||ysmnq.hl.cn^
 ||ysont.cn^
 ||yuanchengxiezuo.com^
-||yuandian-climbing.top^
 ||overseauspider.yuanshen.com^
 ||m.yubanfen.cn^
 ||yucefa.cn^
@@ -7488,10 +7449,8 @@
 ||n3.zuoyebang.cc^
 ||n4.zuoyebang.cc^
 ||n5.zuoyebang.cc^
-||zuqiu-huya.hl.cn^
 ||m.zvfuka.cn^
 ||m.zwda.com^
-||zxcczva.cfd^
 ||5mm.zxfw5.cn^
 ||aaa.zxglpj.cn^
 ||zxiws.cn^
