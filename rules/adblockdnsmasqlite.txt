@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260326005728
-# Last modified: 2026/03/26 00:57:28
-# Blocked domains: 7459
+# Version: 20260326095135
+# Last modified: 2026/03/26 09:51:35
+# Blocked domains: 7456
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -940,7 +940,6 @@ local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
 local=/axyleu11gz-default-cn.rum.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
-local=/bf-chromefdghd.oss-cn-hongkong.aliyuncs.com/
 local=/bruplong.oss-accelerate.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 local=/chaoku.oss-cn-chengdu.aliyuncs.com/
@@ -3575,7 +3574,6 @@ local=/a.koudai.com/
 local=/tj.koudaitong.com/
 local=/wap.koudaitong.com/
 local=/b.kouke5.com/
-local=/d.kpzip.com/
 local=/mininews.kpzip.com/
 local=/kqg8jh8rk.com/
 local=/marketing.krones.com/
@@ -6386,7 +6384,6 @@ local=/log1.wanmei.com/
 local=/log2.wanmei.com/
 local=/h5.wannaplay.cn/
 local=/matomo.wanqianyun.cn/
-local=/wansan17.cn/
 local=/k1.wanwenwan.cn/
 local=/d.wanyouxi7.com/
 local=/a.wanzhuang.com/
@@ -7284,7 +7281,7 @@ local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
 local=/analytics.zhihuiya.com/
-local=/zhikey.com/
+local=/www.zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/

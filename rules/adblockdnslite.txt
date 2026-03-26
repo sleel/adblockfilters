@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260326005728
-! Last modified: 2026/03/26 00:57:28
-! Blocked domains: 7459
+! Version: 20260326095135
+! Last modified: 2026/03/26 09:51:35
+! Blocked domains: 7456
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -941,7 +941,6 @@
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
 ||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
-||bf-chromefdghd.oss-cn-hongkong.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
@@ -3576,7 +3575,6 @@
 ||tj.koudaitong.com^
 ||wap.koudaitong.com^
 ||b.kouke5.com^
-||d.kpzip.com^
 ||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||marketing.krones.com^
@@ -6387,7 +6385,6 @@
 ||log2.wanmei.com^
 ||h5.wannaplay.cn^
 ||matomo.wanqianyun.cn^
-||wansan17.cn^
 ||k1.wanwenwan.cn^
 ||d.wanyouxi7.com^
 ||a.wanzhuang.com^
@@ -7285,7 +7282,7 @@
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
 ||analytics.zhihuiya.com^
-||zhikey.com^
+||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^
