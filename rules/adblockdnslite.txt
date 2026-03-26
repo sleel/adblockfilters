@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260326164703
-! Last modified: 2026/03/26 16:47:03
-! Blocked domains: 7994
+! Version: 20260327005615
+! Last modified: 2026/03/27 00:56:15
+! Blocked domains: 7972
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -1010,7 +1010,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
@@ -1025,7 +1024,6 @@
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
-||ef69yesd00-default-cn.rum.aliyuncs.com^
 ||ep2x3kiawg-sdk.rum.aliyuncs.com^
 ||f7vkagmqwq-sdk.rum.aliyuncs.com^
 ||f8ds5tkidk-sdk.rum.aliyuncs.com^
@@ -1077,7 +1075,6 @@
 ||webtrack.allcitygo.com^
 ||alldk.com^
 ||allyes.com^
-||alpmaueu.cfd^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -2056,7 +2053,6 @@
 ||cyhbrjf.cn^
 ||c.cyhx98.com^
 ||cyq8vqq9s.com^
-||cyrebu.shop^
 ||t.cyuew.com^
 ||a1.cyyangqiguan.com^
 ||straighttangerine.cz.cc^
@@ -2090,7 +2086,6 @@
 ||schprompt.dangdang.com^
 ||t.dangdang.com^
 ||union.dangdang.com^
-||daoass.cfd^
 ||daokarcdn.cn^
 ||daosin.bond^
 ||daoyoudao.com^
@@ -2422,7 +2417,6 @@
 ||m.eglglh.cn^
 ||egooad.com^
 ||egsxdp.cn^
-||egyptpostin.life^
 ||xt.eh6q.cn^
 ||eheb8.cn^
 ||m.ehwhwz.cn^
@@ -2491,7 +2485,6 @@
 ||duologinsupersdk.ewan.cn^
 ||ewrrpuquc1.com^
 ||trusaneous.ewsuff.cn^
-||ex-vs-google.hl.cn^
 ||a.exam58.com^
 ||drovs.excelliance.cn^
 ||excoino.com^
@@ -2591,7 +2584,6 @@
 ||datareport.fkw.com^
 ||fl7a13.cn^
 ||flash.cn^
-||flebe.top^
 ||bd1.flfgw.cn^
 ||bd2.flfgw.cn^
 ||flipf.cn^
@@ -2815,7 +2807,6 @@
 ||gls-grokp.com^
 ||gls-grolp.com^
 ||gls-gromcp.com^
-||gls-grop.com^
 ||gls-grorp.com^
 ||gls-grosp.com^
 ||gls-grotp.com^
@@ -2891,7 +2882,6 @@
 ||google-googlee.hl.cn^
 ||google-googlle.hl.cn^
 ||google-gooogle.hl.cn^
-||google-llq.hl.cn^
 ||google-support-chrome.hl.cn^
 ||google-www-chrome.hl.cn^
 ||google-zhcnc.hl.cn^
@@ -3389,7 +3379,6 @@
 ||hy-cn.cn^
 ||hydravizoficial.info^
 ||hyfyuan.com^
-||hyjtregewq.cfd^
 ||hypers.com^
 ||dsp.hypers.com.cn^
 ||hw-t.hypers.com.cn^
@@ -4297,7 +4286,6 @@
 ||lyzon.com.cn^
 ||app.lz55.cn^
 ||lzitzfb.cn^
-||m152a.xyz^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -4667,7 +4655,6 @@
 ||n-trackworkzone.com^
 ||fdsz.n27lw.cn^
 ||n69.com^
-||nabrewards365.vip^
 ||static.live.nagezan.net^
 ||ytapi1.nagezan.net^
 ||naljjd.top^
@@ -4767,7 +4754,6 @@
 ||c.nuhcpf.com^
 ||log.nuomi.com^
 ||ads.nuonuo.com^
-||metric.nuonuo.com^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
 ||nvshenfan.com^
@@ -5807,7 +5793,6 @@
 ||lianmengapi.snssdk.com^
 ||log.snssdk.com^
 ||log-hl.snssdk.com^
-||log-lf.snssdk.com^
 ||log-lq.snssdk.com^
 ||mcs.snssdk.com^
 ||mercury-sdk.snssdk.com^
@@ -6846,7 +6831,6 @@
 ||w.waacorp.com^
 ||wahxbo.com^
 ||tongdun-fingerprint.walmartmobile.cn^
-||walwhan-renewable.com^
 ||wanfeng1.com^
 ||mlog.wangsu.com^
 ||wangzhan5.com^
@@ -6945,7 +6929,6 @@
 ||wexrty.cn^
 ||redir.wggames.cn^
 ||wgmaxp.cn^
-||wh-tv-google.hl.cn^
 ||ee.wh723.cn^
 ||m.wh723.cn^
 ||whaleclean.cn^
@@ -7053,7 +7036,6 @@
 ||wro-wps.hl.cn^
 ||wrvdmh.cn^
 ||wsacjdg.cn^
-||wsdhknps.top^
 ||wsds.cn^
 ||wsgwc.com^
 ||market.wsskj520.cn^
@@ -7110,6 +7092,8 @@
 ||xegnfwkju.com^
 ||e.xeig.cn^
 ||m.xeig.cn^
+||imp.ad.xelements.cn^
+||mon.ad.xelements.cn^
 ||xerhibx.cn^
 ||xftsjv.top^
 ||xfyjz.cn^
@@ -7560,7 +7544,6 @@
 ||myes.youku.com^
 ||orange-dc.youku.com^
 ||pcapp-data-collect.youku.com^
-||pis-tel-pcdn.youku.com^
 ||pl.youku.com^
 ||player-lg.youku.com^
 ||playlog.youku.com^
@@ -7596,7 +7579,6 @@
 ||yrqwnc.cn^
 ||yrwap.cn^
 ||ys630.com^
-||ad-material.ys7.com^
 ||log.ys7.com^
 ||m.ysgsq.cn^
 ||ysjkbk.com^
@@ -7904,9 +7886,6 @@
 ||amae.zjcapital.cn^
 ||dig.zjurl.cn^
 ||dm.zjut.cc^
-||zk-fr-google.hl.cn^
-||zk-jg-google.hl.cn^
-||zk-yh-google.hl.cn^
 ||zlbkj.com^
 ||abcd.zle.com^
 ||efg.zle.com^
@@ -7944,7 +7923,6 @@
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
-||zoom-associates.com^
 ||zoosnet.net^
 ||zoossoft.cn^
 ||zoossoft.net^
