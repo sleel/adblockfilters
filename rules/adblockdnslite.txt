@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260328163408
-! Last modified: 2026/03/28 16:34:08
-! Blocked domains: 8345
+! Version: 20260329002724
+! Last modified: 2026/03/29 00:27:24
+! Blocked domains: 8271
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -210,8 +210,6 @@
 ||2005net.net^
 ||20091222.com^
 ||wm.20150.net^
-||2026aade.vip^
-||2026mycar.vip^
 ||20wx.com^
 ||2144.cn^
 ||ssp.21ic.com^
@@ -329,10 +327,7 @@
 ||display.360totalsecurity.com^
 ||hot.m.shouji.360tpcdn.com^
 ||36500.com^
-||365aadecar.vip^
 ||365dmp.com^
-||365myaade.vip^
-||365mycar.vip^
 ||gw.365you.com^
 ||adx.36kr.com^
 ||tg.m.37.com^
@@ -653,7 +648,6 @@
 ||13023.url.7wkw.com^
 ||m.7wx8f.cn^
 ||80712.cc^
-||80sdy.hl.cn^
 ||80sdyw.hl.cn^
 ||80vn.cn^
 ||m1.81312.com^
@@ -755,7 +749,6 @@
 ||disk.accord1key.cn^
 ||account-aade.vip^
 ||account-myaade.vip^
-||accountaade.vip^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -764,7 +757,6 @@
 ||acloud.com^
 ||acoxcv.cn^
 ||ads.activepower.net^
-||actkuailian.com.cn^
 ||ad-eyy250.hl.cn^
 ||ad-google-google.com.cn^
 ||ad-plus.cn^
@@ -1822,11 +1814,9 @@
 ||chrome-me.hl.cn^
 ||chrome-zhcn.hl.cn^
 ||chrome-zhgoogle.hl.cn^
-||chromeapps-google.com.cn^
 ||chromechr-google.hl.cn^
 ||chromecn-google.hl.cn^
 ||chromeee-google.hl.cn^
-||chromewin-google.com.cn^
 ||chromezh-google.hl.cn^
 ||chrondl-google.com.cn^
 ||chroommee-google.hl.cn^
@@ -2131,7 +2121,6 @@
 ||dadcc.cn^
 ||dadde.cn^
 ||js1.dadiniu.cn^
-||dadkuailian.com.cn^
 ||dadms.cn^
 ||dadzz.cn^
 ||daede.cn^
@@ -2695,9 +2684,7 @@
 ||freedrive.cn^
 ||dd1.freep.cn^
 ||dd2.freep.cn^
-||friendshipoffice.xyz^
 ||frodzo.club^
-||frude.biz^
 ||fsa-kuailian.com.cn^
 ||image.fsyule.net^
 ||m.fu64b.cn^
@@ -2731,7 +2718,6 @@
 ||m.fy4zb.cn^
 ||fywuywf.cn^
 ||simulatelab-datasink.fzzixun.com^
-||g-oogle.hl.cn^
 ||xyoss.g.com.cn^
 ||m.g1ao7q.cn^
 ||r01.g1c5.com^
@@ -2860,47 +2846,18 @@
 ||1.glook.cn^
 ||sensorsdata.glowapp.vip^
 ||l.glrcy.cn^
-||gls-groap.com^
 ||gls-grobp.com^
-||gls-grocp.com^
-||gls-grodp.com^
 ||gls-groep.com^
 ||gls-grogp.com^
 ||gls-grojp.com^
-||gls-grokp.com^
 ||gls-grolp.com^
-||gls-grorp.com^
-||gls-grosp.com^
 ||gls-grotp.com^
-||gls-groua.com^
-||gls-groub.com^
 ||gls-groucp.com^
-||gls-grouj.com^
 ||gls-groulp.com^
-||gls-grouq.com^
-||gls-grouv.com^
 ||gls-grouxp.com^
 ||gls-growp.com^
 ||gls-groxp.com^
-||gls-grozap.com^
-||gls-grozbp.com^
-||gls-grozdp.com^
-||gls-grozep.com^
-||gls-grozfp.com^
-||gls-grozgp.com^
-||gls-grozip.com^
-||gls-grozjp.com^
-||gls-grozkp.com^
-||gls-grozlp.com^
 ||gls-grozp.com^
-||gls-grozqp.com^
-||gls-grozrp.com^
-||gls-grozsp.com^
-||gls-groztp.com^
-||gls-grozup.com^
-||gls-grozvp.com^
-||gls-grozwp.com^
-||gls-grozyp.com^
 ||glwxw.net^
 ||cpux.gmud.top^
 ||ad.gmw.cn^
@@ -2925,7 +2882,6 @@
 ||gongxifc.com^
 ||gongyichuangyi.net^
 ||goo-chrome.hl.cn^
-||goo-gle.hl.cn^
 ||e.goodgz.cn^
 ||cdn.file6.goodid.com^
 ||googel-chromedl.com.cn^
@@ -2949,7 +2905,6 @@
 ||google-go.hl.cn^
 ||google-google-chrome.hl.cn^
 ||google-google-google.com.cn^
-||google-google-google.hl.cn^
 ||google-google-hl.hl.cn^
 ||google-googleapp.hl.cn^
 ||google-googlee-cn.hl.cn^
@@ -2999,7 +2954,6 @@
 ||googletagservices-cn.com^
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
-||googleu-chrome.com.cn^
 ||googlevads-cn.com^
 ||googlezh-google.hl.cn^
 ||gostats.cn^
@@ -4434,7 +4388,6 @@
 ||linksjg.cn^
 ||linkvans.com^
 ||ssp.lionmobo.com^
-||lipkuailian.com.cn^
 ||plausible.lipux.cn^
 ||litchiads.com^
 ||fan.liuxiaoer.com^
@@ -4552,7 +4505,6 @@
 ||adsapi.manhuaren.com^
 ||bi.manhuaren.com^
 ||euadsapi.manhuaren.com^
-||mankuailian.com.cn^
 ||manyou.com^
 ||adx.maplehaze.cn^
 ||jct.maptu.cn^
@@ -4833,7 +4785,6 @@
 ||testads.api.my7v.com^
 ||upgrade.api.my7v.com^
 ||apiyd.my91app.com^
-||myaccount-aade.vip^
 ||myad.cn^
 ||a.myapp.com^
 ||mybankwest.vip^
@@ -4937,7 +4888,6 @@
 ||newwiesdom.com.cn^
 ||al.newxue.com^
 ||nfksjkfs.com^
-||nfsrnc.com^
 ||eo.nftqkq.cn^
 ||nfvj.cn^
 ||ng-safe.com.cn^
@@ -4961,7 +4911,6 @@
 ||rjs.niuxgame77.com^
 ||ehdj.njguluyu.cn^
 ||photo.njlymyd.cn^
-||njzvyc.com^
 ||njzyjy.cn^
 ||nkscdn.com^
 ||img.nktcw.cn^
@@ -4994,7 +4943,6 @@
 ||c.nuhcpf.com^
 ||log.nuomi.com^
 ||ads.nuonuo.com^
-||metric.nuonuo.com^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
 ||nvshenfan.com^
@@ -5059,27 +5007,9 @@
 ||openclaw-ai-bot.com.cn^
 ||openclaw-cc.com.cn^
 ||openclaw-hl.hl.cn^
-||openclawb.com.cn^
 ||openclawc.com.cn^
-||openclawe.com.cn^
-||openclawf.com.cn^
-||openclawg.com.cn^
-||openclawh.com.cn^
-||openclawi.com.cn^
-||openclawj.com.cn^
-||openclawk.com.cn^
-||openclawl.com.cn^
-||openclawm.com.cn^
-||openclawn.com.cn^
-||openclawo.com.cn^
-||openclawp.com.cn^
-||openclawq.com.cn^
-||openclawr.com.cn^
 ||openclawt.com.cn^
-||openclawu.com.cn^
-||openclawv.com.cn^
 ||openclawy.com.cn^
-||openclawz.com.cn^
 ||openinstall.io^
 ||openlive.cn^
 ||iflyad.bj.openstorage.cn^
@@ -5140,7 +5070,6 @@
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
-||pankuailian.com.cn^
 ||panoeye.com.cn^
 ||c.panqis.cn^
 ||jipinapi.panqis.cn^
@@ -6284,7 +6213,6 @@
 ||gmbl.sy99.de^
 ||sybnzs.cn^
 ||sanalytics.sydneyuniversity.cn^
-||sydyqg.cn^
 ||syiae.com^
 ||symaa.cn^
 ||m.symad.cn^
@@ -7245,7 +7173,6 @@
 ||code.wenbanzhu.com^
 ||weod.cn^
 ||wep-google.com.cn^
-||wep-google.hl.cn^
 ||ad.weplayer.cc^
 ||crosspromotion.weplayer.cc^
 ||weq.me^
@@ -7932,7 +7859,6 @@
 ||yrwap.cn^
 ||ys-wps.com.cn^
 ||ys630.com^
-||ad-material.ys7.com^
 ||log.ys7.com^
 ||m.ysgsq.cn^
 ||ysjkbk.com^
