@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260329002724
-! Last modified: 2026/03/29 00:27:24
-! Blocked domains: 8271
+! Version: 20260329095441
+! Last modified: 2026/03/29 09:54:41
+! Blocked domains: 8269
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -2395,7 +2395,6 @@
 ||a.dyjqd.com^
 ||by.dyq.cn^
 ||dytuj6zs26.com^
-||dyweku.cn^
 ||dz6xqe19d2.com^
 ||dzgg.com^
 ||dl.dzqzd.com^
@@ -3041,7 +3040,6 @@
 ||gzsadlmy.cn^
 ||gzsanxiaomingshi.cn^
 ||gzzkjdam.cn^
-||h202xuan.cn^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h51.com^
@@ -6213,6 +6211,7 @@
 ||gmbl.sy99.de^
 ||sybnzs.cn^
 ||sanalytics.sydneyuniversity.cn^
+||sydyqg.cn^
 ||syiae.com^
 ||symaa.cn^
 ||m.symad.cn^
@@ -8084,7 +8083,6 @@
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
 ||analytics.zhihuiya.com^
-||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^

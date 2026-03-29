@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260329002725
-# Last modified: 2026/03/29 00:27:25
-# Blocked domains: 8271
+# Version: 20260329095441
+# Last modified: 2026/03/29 09:54:41
+# Blocked domains: 8269
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2394,7 +2394,6 @@ local=/dycwt.cn/
 local=/a.dyjqd.com/
 local=/by.dyq.cn/
 local=/dytuj6zs26.com/
-local=/dyweku.cn/
 local=/dz6xqe19d2.com/
 local=/dzgg.com/
 local=/dl.dzqzd.com/
@@ -3040,7 +3039,6 @@ local=/gzqvd.cn/
 local=/gzsadlmy.cn/
 local=/gzsanxiaomingshi.cn/
 local=/gzzkjdam.cn/
-local=/h202xuan.cn/
 local=/h45pmx1.cn/
 local=/h4b0srs.cn/
 local=/h51.com/
@@ -6212,6 +6210,7 @@ local=/sxxjdz.com/
 local=/gmbl.sy99.de/
 local=/sybnzs.cn/
 local=/sanalytics.sydneyuniversity.cn/
+local=/sydyqg.cn/
 local=/syiae.com/
 local=/symaa.cn/
 local=/m.symad.cn/
@@ -8083,7 +8082,6 @@ local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
 local=/analytics.zhihuiya.com/
-local=/www.zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/
