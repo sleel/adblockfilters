@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260330002854
-! Last modified: 2026/03/30 00:28:54
-! Blocked domains: 8107
+! Version: 20260330095707
+! Last modified: 2026/03/30 09:57:07
+! Blocked domains: 8101
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -2407,7 +2407,6 @@
 ||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
 ||chrisbenoitkane.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
-||earthewndegtheyased.edgeone.app^
 ||hkz2311011313001-l5deuphxox.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||mhsappsignin-j1oq4zb0hi.edgeone.app^
@@ -2499,7 +2498,6 @@
 ||evri-parcel.cn^
 ||evri-parcela.cn^
 ||evri-parceli.cn^
-||evri-parcelo.cn^
 ||evri-parcelp.cn^
 ||evri-parcelq.cn^
 ||evri-parcelr.cn^
@@ -6442,11 +6440,7 @@
 ||toutiaopage.com^
 ||tovbus.cn^
 ||tovppl.cn^
-||dpd.traces-cog.icu^
 ||trackingio.com^
-||dpd.tracks-bag.icu^
-||dpd.trases-aog.icu^
-||dpd.trases-bag.icu^
 ||ta.trs.cn^
 ||trustutn.org^
 ||trustwalletqbgwrukou.com.cn^

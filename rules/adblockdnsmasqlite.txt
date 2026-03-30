@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260330002854
-# Last modified: 2026/03/30 00:28:54
-# Blocked domains: 8107
+# Version: 20260330095707
+# Last modified: 2026/03/30 09:57:07
+# Blocked domains: 8101
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2406,7 +2406,6 @@ local=/ed-kuailian.hl.cn/
 local=/c2vydmvydxbkyxri-kte1fxva3p.edgeone.app/
 local=/chrisbenoitkane.edgeone.app/
 local=/dotnotblock-pfwzl61nwt.edgeone.app/
-local=/earthewndegtheyased.edgeone.app/
 local=/hkz2311011313001-l5deuphxox.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/mhsappsignin-j1oq4zb0hi.edgeone.app/
@@ -2498,7 +2497,6 @@ local=/evri-notices.cn/
 local=/evri-parcel.cn/
 local=/evri-parcela.cn/
 local=/evri-parceli.cn/
-local=/evri-parcelo.cn/
 local=/evri-parcelp.cn/
 local=/evri-parcelq.cn/
 local=/evri-parcelr.cn/
@@ -6441,11 +6439,7 @@ local=/tnc3-alisc1.toutiaoapi.com/
 local=/toutiaopage.com/
 local=/tovbus.cn/
 local=/tovppl.cn/
-local=/dpd.traces-cog.icu/
 local=/trackingio.com/
-local=/dpd.tracks-bag.icu/
-local=/dpd.trases-aog.icu/
-local=/dpd.trases-bag.icu/
 local=/ta.trs.cn/
 local=/trustutn.org/
 local=/trustwalletqbgwrukou.com.cn/
