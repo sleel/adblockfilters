@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260331005121
-# Last modified: 2026/03/31 00:51:21
-# Blocked domains: 8141
+# Version: 20260331095308
+# Last modified: 2026/03/31 09:53:08
+# Blocked domains: 8131
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -1067,7 +1067,6 @@ local=/ami-google.com.cn/
 local=/user-event-log.aminer.cn/
 local=/dv.amtwcvh.cn/
 local=/aa.analog.com/
-local=/abtest.analog.com/
 local=/images.h.analog.com/
 local=/analysys.cn/
 local=/androidblender.com/
@@ -1135,7 +1134,6 @@ local=/atplay.cn/
 local=/attribuly.com/
 local=/audioadx.com/
 local=/ausaas.cn/
-local=/somni.aussiespecialist.cn/
 local=/somni.australia.cn/
 local=/so.auto999.cn/
 local=/33.autohome.com.cn/
@@ -1532,7 +1530,6 @@ local=/accounts.bmwweb.systems/
 local=/bn-kuailian.hl.cn/
 local=/bnti.cn/
 local=/bobo.com/
-local=/metrics.boehringer-ingelheim.cn/
 local=/m.bogubogu.cn/
 local=/tongji.bohe.cn/
 local=/click.bokecc.com/
@@ -1820,7 +1817,6 @@ local=/ykad-data.cp31.ott.cibntv.net/
 local=/cig.com.cn/
 local=/www.cippe.com.cn/
 local=/metrics.citi.cn/
-local=/metrics.citibank.cn/
 local=/smetrics.citibank.cn/
 local=/tracker.citicsinfo.com/
 local=/cityhuitech.com/
@@ -2398,8 +2394,6 @@ local=/chrisbenoitkane.edgeone.app/
 local=/dotnotblock-pfwzl61nwt.edgeone.app/
 local=/hkz2311011313001-l5deuphxox.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
-local=/mhsappsignin-j1oq4zb0hi.edgeone.app/
-local=/pointball-llvwkkfsoo.edgeone.app/
 local=/fixverify-kzlxv1e5mb.edgeone.dev/
 local=/gtttt.edgeone.dev/
 local=/gwqoplkgomencav.edgeone.dev/
@@ -2993,7 +2987,6 @@ local=/h57vpulpu.com/
 local=/t.h5data.com/
 local=/s.h5king.com/
 local=/h6295.com/
-local=/h9rpql.cn/
 local=/images.newsletter.hach.com.cn/
 local=/haejkmm.cn/
 local=/hats.haibao.cn/
@@ -5777,7 +5770,6 @@ local=/httpdns.n.shifen.com/
 local=/jpaasne.e.shifen.com/
 local=/statichf.shihuocdn.cn/
 local=/shilian168.cn/
-local=/shokhermall.com/
 local=/shop265.com/
 local=/1.shopit.cn/
 local=/d1.showself.com/
@@ -6440,7 +6432,6 @@ local=/adsapi.togothermany.cn/
 local=/adscfg.togothermany.cn/
 local=/adsup.togothermany.cn/
 local=/a.tn.token-ad.com/
-local=/tp.tokenpocket-wallet.cn/
 local=/track.tom.com/
 local=/track.tomwx.net/
 local=/tongdun.net/
@@ -7113,7 +7104,6 @@ local=/whalecloud.com/
 local=/whalecpan.cn/
 local=/whalememory.cn/
 local=/whaleprotect.cn/
-local=/whastappa.cn/
 local=/whoiscx.com/
 local=/whyfate.cn/
 local=/whytd.com/
