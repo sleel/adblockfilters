@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260401005251
-# Last modified: 2026/04/01 00:52:51
-# Blocked domains: 8191
+# Version: 20260401100117
+# Last modified: 2026/04/01 10:01:17
+# Blocked domains: 8181
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -79,7 +79,6 @@ local=/12322app.com/
 local=/m.1234567.com.cn/
 local=/123cha.com/
 local=/uimg.123hala.com/
-local=/1827897262.v.123pan.cn/
 local=/bdad.123pan.cn/
 local=/ent1.12584.cn/
 local=/health1.12584.cn/
@@ -2418,7 +2417,6 @@ local=/dotnotblock-pfwzl61nwt.edgeone.app/
 local=/hkz2311011313001-l5deuphxox.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/fixverify-kzlxv1e5mb.edgeone.dev/
-local=/gautamandgautam-byizfzvunb.edgeone.dev/
 local=/gtttt.edgeone.dev/
 local=/gwqoplkgomencav.edgeone.dev/
 local=/halblivcaslsa.edgeone.dev/
@@ -2426,7 +2424,6 @@ local=/healthnuringsafehomeoffloras.edgeone.dev/
 local=/heydressuniversitydepartcolordesign.edgeone.dev/
 local=/hostecountspringweb-4sbw8uzi5y.edgeone.dev/
 local=/loud-bronze-vckfnrbimo.edgeone.dev/
-local=/reviewsource-inquiryweb-22qyctxg9d.edgeone.dev/
 local=/roundcube-jrcfj7x9ek.edgeone.dev/
 local=/srv65ertui8uyt655io-7douf96n3o.edgeone.dev/
 local=/tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev/
@@ -2798,7 +2795,6 @@ local=/static.ptqy.gitv.tv/
 local=/store.ptqy.gitv.tv/
 local=/time.video.ptqy.gitv.tv/
 local=/gjh111.cn/
-local=/web.whatsapp.gk.hl.cn/
 local=/m.gk277.cn/
 local=/50m.gkcyc.com/
 local=/gl0r6d2uyy.com/
@@ -3061,7 +3057,6 @@ local=/hapying.com/
 local=/hashnest.com/
 local=/hbalx.cn/
 local=/m.hbaog.com/
-local=/hbbccqb.cn/
 local=/a.hbf23.cn/
 local=/img1.hblds.com/
 local=/hbqabbg.cn/
@@ -6463,8 +6458,6 @@ local=/adsapi.togothermany.cn/
 local=/adscfg.togothermany.cn/
 local=/adsup.togothermany.cn/
 local=/a.tn.token-ad.com/
-local=/down.tokenpocket-online.cn/
-local=/tp.tokenpocket-online.cn/
 local=/track.tom.com/
 local=/track.tomwx.net/
 local=/tongdun.net/
@@ -6756,7 +6749,6 @@ local=/verifyhub.zj.cn/
 local=/g.analytics.versa-ai.com/
 local=/veryboys.com/
 local=/vgm-wps.hl.cn/
-local=/accoun.vgnhich.cn/
 local=/vgnyli.top/
 local=/vhgu5ivtew.com/
 local=/cdn.viccscxz.cn/
@@ -7147,7 +7139,6 @@ local=/whalecloud.com/
 local=/whalecpan.cn/
 local=/whalememory.cn/
 local=/whaleprotect.cn/
-local=/www.whatsapapp.hl.cn/
 local=/web.whatsapsapp.hl.cn/
 local=/whoiscx.com/
 local=/whyfate.cn/
@@ -7902,7 +7893,6 @@ local=/metrics.yy.com/
 local=/ppiy.v5.yy.com/
 local=/stat.game.yy.com/
 local=/n.yyhanyu.cn/
-local=/yyidjk.cn/
 local=/yylady.cn/
 local=/yylys.com/
 local=/krq.yymmsd.cn/

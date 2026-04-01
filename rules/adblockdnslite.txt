@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260401005251
-! Last modified: 2026/04/01 00:52:51
-! Blocked domains: 8191
+! Version: 20260401100117
+! Last modified: 2026/04/01 10:01:17
+! Blocked domains: 8181
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -80,7 +80,6 @@
 ||m.1234567.com.cn^
 ||123cha.com^
 ||uimg.123hala.com^
-||1827897262.v.123pan.cn^
 ||bdad.123pan.cn^
 ||ent1.12584.cn^
 ||health1.12584.cn^
@@ -2419,7 +2418,6 @@
 ||hkz2311011313001-l5deuphxox.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||fixverify-kzlxv1e5mb.edgeone.dev^
-||gautamandgautam-byizfzvunb.edgeone.dev^
 ||gtttt.edgeone.dev^
 ||gwqoplkgomencav.edgeone.dev^
 ||halblivcaslsa.edgeone.dev^
@@ -2427,7 +2425,6 @@
 ||heydressuniversitydepartcolordesign.edgeone.dev^
 ||hostecountspringweb-4sbw8uzi5y.edgeone.dev^
 ||loud-bronze-vckfnrbimo.edgeone.dev^
-||reviewsource-inquiryweb-22qyctxg9d.edgeone.dev^
 ||roundcube-jrcfj7x9ek.edgeone.dev^
 ||srv65ertui8uyt655io-7douf96n3o.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
@@ -2799,7 +2796,6 @@
 ||store.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
 ||gjh111.cn^
-||web.whatsapp.gk.hl.cn^
 ||m.gk277.cn^
 ||50m.gkcyc.com^
 ||gl0r6d2uyy.com^
@@ -3062,7 +3058,6 @@
 ||hashnest.com^
 ||hbalx.cn^
 ||m.hbaog.com^
-||hbbccqb.cn^
 ||a.hbf23.cn^
 ||img1.hblds.com^
 ||hbqabbg.cn^
@@ -6464,8 +6459,6 @@
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
 ||a.tn.token-ad.com^
-||down.tokenpocket-online.cn^
-||tp.tokenpocket-online.cn^
 ||track.tom.com^
 ||track.tomwx.net^
 ||tongdun.net^
@@ -6757,7 +6750,6 @@
 ||g.analytics.versa-ai.com^
 ||veryboys.com^
 ||vgm-wps.hl.cn^
-||accoun.vgnhich.cn^
 ||vgnyli.top^
 ||vhgu5ivtew.com^
 ||cdn.viccscxz.cn^
@@ -7148,7 +7140,6 @@
 ||whalecpan.cn^
 ||whalememory.cn^
 ||whaleprotect.cn^
-||www.whatsapapp.hl.cn^
 ||web.whatsapsapp.hl.cn^
 ||whoiscx.com^
 ||whyfate.cn^
@@ -7903,7 +7894,6 @@
 ||ppiy.v5.yy.com^
 ||stat.game.yy.com^
 ||n.yyhanyu.cn^
-||yyidjk.cn^
 ||yylady.cn^
 ||yylys.com^
 ||krq.yymmsd.cn^
