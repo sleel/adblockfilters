@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260402004748
-# Last modified: 2026/04/02 00:47:48
-# Blocked domains: 7982
+# Version: 20260402094946
+# Last modified: 2026/04/02 09:49:46
+# Blocked domains: 7979
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -236,7 +236,6 @@ local=/2yt.cn/
 local=/2ztav5r7r.com/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
-local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -3209,7 +3208,6 @@ local=/huayansi.com/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
 local=/hubiazhi.com/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
@@ -4862,7 +4860,6 @@ local=/count6.pconline.com.cn/
 local=/imgad0.pconline.com.cn/
 local=/ivy.pconline.com.cn/
 local=/pcpop.com/
-local=/pcupd.com/
 local=/pcwpsoffice.com.cn/
 local=/video-dsp.pddpic.com/
 local=/download.pdf00.cn/
