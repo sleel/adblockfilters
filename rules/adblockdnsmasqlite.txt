@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260403005231
-# Last modified: 2026/04/03 00:52:31
-# Blocked domains: 7982
+# Version: 20260403095132
+# Last modified: 2026/04/03 09:51:32
+# Blocked domains: 7979
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -4650,7 +4650,6 @@ local=/ytapi1.nagezan.net/
 local=/naljjd.top/
 local=/nalook.com/
 local=/logs.nandu.com/
-local=/nankoms.cn/
 local=/1.nanrenwo.net/
 local=/2.nanrenwo.net/
 local=/fp.nanrenwo.net/
@@ -4752,7 +4751,6 @@ local=/anews7.nvwu.com/
 local=/renacious.nwwadq.cn/
 local=/m.nydjsm.cn/
 local=/nyhpyq.com/
-local=/nzddx.cn/
 local=/logserver.nzxcloud.cn/
 local=/m.o4hpc.cn/
 local=/o7h.net/
@@ -5453,7 +5451,6 @@ local=/ad.richmob.cn/
 local=/game.rising.cn/
 local=/wan.rising.cn/
 local=/all.rising.com.cn/
-local=/riucqv.cn/
 local=/riveralydia.shop/
 local=/bi-tracker-global.rivergame.net/
 local=/tatracker-us.rivergame.net/

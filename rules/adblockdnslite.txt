@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260403005231
-! Last modified: 2026/04/03 00:52:31
-! Blocked domains: 7982
+! Version: 20260403095132
+! Last modified: 2026/04/03 09:51:32
+! Blocked domains: 7979
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -4651,7 +4651,6 @@
 ||naljjd.top^
 ||nalook.com^
 ||logs.nandu.com^
-||nankoms.cn^
 ||1.nanrenwo.net^
 ||2.nanrenwo.net^
 ||fp.nanrenwo.net^
@@ -4753,7 +4752,6 @@
 ||renacious.nwwadq.cn^
 ||m.nydjsm.cn^
 ||nyhpyq.com^
-||nzddx.cn^
 ||logserver.nzxcloud.cn^
 ||m.o4hpc.cn^
 ||o7h.net^
@@ -5454,7 +5452,6 @@
 ||game.rising.cn^
 ||wan.rising.cn^
 ||all.rising.com.cn^
-||riucqv.cn^
 ||riveralydia.shop^
 ||bi-tracker-global.rivergame.net^
 ||tatracker-us.rivergame.net^
