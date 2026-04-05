@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260405002903
-! Last modified: 2026/04/05 00:29:03
-! Blocked domains: 7961
+! Version: 20260405095618
+! Last modified: 2026/04/05 09:56:18
+! Blocked domains: 7959
 ! unBlocked domains: 24
 !
 ||photo.0234408.cn^
@@ -185,6 +185,7 @@
 ||2ztav5r7r.com^
 ||ad.3.cn^
 ||atom-log.3.cn^
+||static.3001.net^
 ||analytics.300624.com^
 ||301848.com^
 ||301pk.com^
@@ -4039,7 +4040,6 @@
 ||cherry.le.com^
 ||stat.le.com^
 ||api.leancloud.cn^
-||ledgerwallet.com.cn^
 ||leeleo.top^
 ||ads-api-o.api.leiniao.com^
 ||ads-uo.api.leiniao.com^
@@ -4549,7 +4549,6 @@
 ||cdn-10049480.file.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
-||dingdong-1399351730.cos.ap-hongkong.myqcloud.com^
 ||f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
 ||j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com^
@@ -7479,7 +7478,6 @@
 ||js.yjbys.com^
 ||yjkyj.cn^
 ||ykcjxvg.cn^
-||style.ykdciqjd.cn^
 ||l.ykimg.com^
 ||sub.ykimg.com^
 ||yklfg.cn^
@@ -7746,6 +7744,7 @@
 ||zh-google-google-app.hl.cn^
 ||zh-google-google-apps.hl.cn^
 ||zh-google-google-web.hl.cn^
+||zh-google-zh.hl.cn^
 ||zh-googlle-chrome.hl.cn^
 ||zh-googlle-cn.hl.cn^
 ||zh-openclaw.com.cn^
@@ -7906,7 +7905,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

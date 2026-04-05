@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260405002903
-# Last modified: 2026/04/05 00:29:03
-# Blocked domains: 7961
+# Version: 20260405095619
+# Last modified: 2026/04/05 09:56:19
+# Blocked domains: 7959
 #
 local=/photo.0234408.cn/
 local=/img.0279.net/
@@ -184,6 +184,7 @@ local=/2yt.cn/
 local=/2ztav5r7r.com/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
+local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -4038,7 +4039,6 @@ local=/banana.le.com/
 local=/cherry.le.com/
 local=/stat.le.com/
 local=/api.leancloud.cn/
-local=/ledgerwallet.com.cn/
 local=/leeleo.top/
 local=/ads-api-o.api.leiniao.com/
 local=/ads-uo.api.leiniao.com/
@@ -4548,7 +4548,6 @@ local=/adstore-index-1252524079.file.myqcloud.com/
 local=/cdn-10049480.file.myqcloud.com/
 local=/cndjs-1251973891.coshk.myqcloud.com/
 local=/dianying-1304791696.cos.ap-shanghai.myqcloud.com/
-local=/dingdong-1399351730.cos.ap-hongkong.myqcloud.com/
 local=/f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com/
 local=/ggtp-1255424916.cos.ap-chengdu.myqcloud.com/
 local=/j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com/
@@ -7478,7 +7477,6 @@ local=/d.yjbys.com/
 local=/js.yjbys.com/
 local=/yjkyj.cn/
 local=/ykcjxvg.cn/
-local=/style.ykdciqjd.cn/
 local=/l.ykimg.com/
 local=/sub.ykimg.com/
 local=/yklfg.cn/
@@ -7745,6 +7743,7 @@ local=/zh-google-chrom.com.cn/
 local=/zh-google-google-app.hl.cn/
 local=/zh-google-google-apps.hl.cn/
 local=/zh-google-google-web.hl.cn/
+local=/zh-google-zh.hl.cn/
 local=/zh-googlle-chrome.hl.cn/
 local=/zh-googlle-cn.hl.cn/
 local=/zh-openclaw.com.cn/
@@ -7905,7 +7904,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
