@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260406003043
-# Last modified: 2026/04/06 00:30:43
-# Blocked domains: 7980
+# Version: 20260406095736
+# Last modified: 2026/04/06 09:57:36
+# Blocked domains: 7974
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -3798,7 +3798,6 @@ local=/ulogs2.ksapisrv.com/
 local=/web-trace.ksapisrv.com/
 local=/wlog.ksapisrv.com/
 local=/andmlb.kshwtj.com/
-local=/accoun.kskgs.cn/
 local=/w1.kskwai.com/
 local=/dl.cm.ksmobile.com/
 local=/pgapi.ksmobile.com/
@@ -4281,7 +4280,6 @@ local=/mediav.com/
 local=/medproad.com/
 local=/meihu56.cn/
 local=/meiqia.com/
-local=/meiqiea.com/
 local=/ma1.meishij.net/
 local=/ma2.meishij.net/
 local=/corp.meitu.com/
@@ -4705,7 +4703,6 @@ local=/nyhpyq.com/
 local=/logserver.nzxcloud.cn/
 local=/m.o4hpc.cn/
 local=/o7h.net/
-local=/o959.cn/
 local=/oadz.com/
 local=/gtm.oasisfeng.com/
 local=/obv3epx22d.com/
@@ -4985,7 +4982,6 @@ local=/qdsfzz.cn/
 local=/qdzilh.cn/
 local=/qevcxo.cn/
 local=/qezpjlp.cn/
-local=/qfa9lufi.cn/
 local=/qfb5yhis.cn/
 local=/qfcdgy.cn/
 local=/qfd8lobo.cn/
@@ -5753,7 +5749,6 @@ local=/errortracking.snapp.site/
 local=/sensors.snappea.com/
 local=/misc.api.snaptube.app/
 local=/sensors.snaptube.app/
-local=/sngwue.cn/
 local=/snmi.cn/
 local=/xhnt.snqrk.cn/
 local=/abtest-ch.snssdk.com/
@@ -6210,7 +6205,6 @@ local=/tiannbo.com/
 local=/datas.tianqistatic.com/
 local=/yptqys.tianqistatic.com/
 local=/tiantiansoft.com/
-local=/yamaxun.tianzhe.cn/
 local=/adx-bid.tianzhuobj.com/
 local=/tiaosa.cn/
 local=/tiexing.com/
