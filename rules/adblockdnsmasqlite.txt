@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260408005110
-# Last modified: 2026/04/08 00:51:10
-# Blocked domains: 7822
+# Version: 20260408095430
+# Last modified: 2026/04/08 09:54:30
+# Blocked domains: 7823
 #
 local=/s8.001fzc.com/
 local=/yn.001fzc.com/
@@ -4875,7 +4875,6 @@ local=/qchannel04.cn/
 local=/qcjslm.com/
 local=/log.qvb.qcloud.com/
 local=/tracker-00.qvb.qcloud.com/
-local=/7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la/
 local=/car.qcmrjx.com/
 local=/log.game.qcplay.com/
 local=/qcqmi.cn/
@@ -6129,6 +6128,7 @@ local=/tiannbo.com/
 local=/ip.tianqiapi.com/
 local=/datas.tianqistatic.com/
 local=/yptqys.tianqistatic.com/
+local=/fz.tiansys.cn/
 local=/tiantiansoft.com/
 local=/adx-bid.tianzhuobj.com/
 local=/tiaosa.cn/
@@ -7771,6 +7771,7 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
+local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
