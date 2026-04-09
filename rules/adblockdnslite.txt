@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260409170155
-! Last modified: 2026/04/09 17:01:55
-! Blocked domains: 7830
+! Version: 20260410010124
+! Last modified: 2026/04/10 01:01:24
+! Blocked domains: 7791
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -723,7 +723,6 @@
 ||ahov1.top^
 ||m.ahwczn.cn^
 ||ahxhny.cn^
-||ai-qishui.com.cn^
 ||ai-sogou.com.cn^
 ||ai-sogou.hl.cn^
 ||ai-sougou.hl.cn^
@@ -878,7 +877,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||c3gdk-default-cn.rum.aliyuncs.com^
@@ -1394,7 +1392,6 @@
 ||line3-adscore-api.biligame.net^
 ||mcdn.bilivideo.com^
 ||billionfocus.com^
-||binanceap.com.cn^
 ||binancecomgfxiazai.com.cn^
 ||bingdianhuanyuan.cn^
 ||an.biocoop.cn^
@@ -1414,7 +1411,6 @@
 ||iiid.bluescream.cn^
 ||license.bluesoleil.com^
 ||license2.bluesoleil.com^
-||bm-telegram.hl.cn^
 ||fpbbdx1.bmcx.com^
 ||fpbbdx2.bmcx.com^
 ||bmw100.cn^
@@ -1759,7 +1755,6 @@
 ||icon.cnmo.com^
 ||js.cnmo.com^
 ||webcert.cnmstl.net^
-||cnn-leyu.com.cn^
 ||smuc.cnnfootballclub.com^
 ||dcsd.cnnywz.cn^
 ||adi.cnool.net^
@@ -2068,7 +2063,6 @@
 ||stdown.dinju.com^
 ||dinuojixie.com.cn^
 ||dipan.com^
-||discord-hk.com.cn^
 ||diskclean.cn^
 ||displink.com^
 ||code.ditiezu.net^
@@ -3003,7 +2997,6 @@
 ||hkeig.com^
 ||hkkeafj.cn^
 ||hksafety.com.cn^
-||hl-signal.hl.cn^
 ||hlkuailian.com.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -3718,10 +3711,6 @@
 ||kuaichi.com.cn^
 ||kuaichuanba3.com.cn^
 ||kuaichuanhupuluntanzhuanqu.com.cn^
-||kuaichuanjnrizhibobisai.com.cn^
-||kuaichuanvsjnrizhibozaixianguankanmianfei.com.cn^
-||kuaichuanvsyongshizhibomianfeiguankan.com.cn^
-||kuaichuanzhuanqu.com.cn^
 ||kuaichulian.com.cn^
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
@@ -3758,7 +3747,6 @@
 ||kuailianlinker.com.cn^
 ||kuailianpro.hl.cn^
 ||kuailianstack.com.cn^
-||kuailiantab.com.cn^
 ||kuailianxiazai-cn.com.cn^
 ||kuailianxiazai-gz.com.cn^
 ||kuaishang.cn^
@@ -3999,7 +3987,6 @@
 ||live-jiubo.com.cn^
 ||live-oubao.com.cn^
 ||live-oubo.com.cn^
-||live-qiuyouhui.com.cn^
 ||hw-p2p-pull.live-voip.com^
 ||tx-p2p-pull.live-voip.com^
 ||ws-p2p-pull.live-voip.com^
@@ -4452,8 +4439,6 @@
 ||napoliweb.hl.cn^
 ||nasimobi.com^
 ||dl.natgo.cn^
-||nbahupukuaichuanzhuanqu.com.cn^
-||nbakuaichuanzhibozaixianguankanmianfei.com.cn^
 ||nbehzi.cn^
 ||nbhpqn.cn^
 ||ncwckj.com^
@@ -4608,7 +4593,6 @@
 ||open-uc.cn^
 ||ounion.openadx.com^
 ||openai.wf^
-||openclaw-cc.com.cn^
 ||openinstall.io^
 ||iflyad.bj.openstorage.cn^
 ||iflyad.bjb.openstorage.cn^
@@ -4908,13 +4892,11 @@
 ||s1.qiqutt.cn^
 ||qishiu.com.cn^
 ||qishmusic.com.cn^
-||qishui-ai.com.cn^
 ||qishui-dd.com.cn^
 ||qishui-dd.hl.cn^
 ||qishui-ff.hl.cn^
 ||qishui-qishui.hl.cn^
 ||qishui-uu.hl.cn^
-||qishuiyinle-pc.hl.cn^
 ||qishuiyiyue.com.cn^
 ||qishuiyiyue.hl.cn^
 ||qishuyi.com.cn^
@@ -5332,7 +5314,6 @@
 ||safe-jiuyouhui.com.cn^
 ||safe-kaiyun.com.cn^
 ||safe-mile.com.cn^
-||safe-yaxing.com.cn^
 ||404.safedog.cn^
 ||safepalqianbaoguanwangxiazai.com.cn^
 ||safewx.hl.cn^
@@ -5645,7 +5626,6 @@
 ||wct.softonic.cn^
 ||softxz.com^
 ||adx.sogaha.cn^
-||sogou-cn.hl.cn^
 ||123.sogou.com^
 ||files2.sogou.com^
 ||info.pinyin.sogou.com^
@@ -5656,7 +5636,6 @@
 ||web.sogou.com^
 ||worldwide.sogou.com^
 ||ws-keyboard.shouji.sogou.com^
-||sogou2.com.cn^
 ||theta.sogoucdn.com^
 ||888.tv.sohu.com^
 ||ad.sohu.com^
@@ -5717,9 +5696,7 @@
 ||click1n.soufun.com^
 ||countubn.light.soufun.com^
 ||tongji.home.soufun.com^
-||sougou-ai.com.cn^
 ||sougou-pinyin.com.cn^
-||sougou-surf.hl.cn^
 ||sougoupc1.com.cn^
 ||sougoupc10.com.cn^
 ||sougoupc2.com.cn^
@@ -5763,7 +5740,6 @@
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||stuowq.cn^
-||suf-sougou.hl.cn^
 ||uc9.suinidai.com.cn^
 ||client-dmp.suishenyun.cn^
 ||log-dmp.suishenyun.cn^
@@ -6012,7 +5988,6 @@
 ||telegram-cnzh.com.cn^
 ||telegram-zhcn.com.cn^
 ||telegramars.com.cn^
-||telegramweb.hl.cn^
 ||data.tempersyi.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -6562,7 +6537,6 @@
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
 ||kz-onrt-stsdk.vivoglobal.com^
-||kz-ort-stsdk.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||mx-cota.vivoglobal.com^
 ||mx-domaincfg.vivoglobal.com^
@@ -6715,7 +6689,6 @@
 ||yjnlgmq.wanxiongzhilu.cn^
 ||d.wanyouxi7.com^
 ||a.wanzhuang.com^
-||wap-openclaw.com.cn^
 ||data.waptime.cn^
 ||washingtonpost.com.cn^
 ||collector.wasu.cn^
@@ -6863,9 +6836,7 @@
 ||www.wowostar.cn^
 ||tbax.woyvk.cn^
 ||v1.wphonelife.com^
-||wps-cnpp.com.cn^
 ||wps-mps.com.cn^
-||wps-off.org.cn^
 ||wps-pcoffice.hl.cn^
 ||wps-yps.com.cn^
 ||wps.ac.cn^
@@ -6922,7 +6893,6 @@
 ||ww-chrom-google.hl.cn^
 ||ww-chrome-google.com.cn^
 ||ww-officc-wps.com.cn^
-||ww-wps.hl.cn^
 ||wwads.cn^
 ||www-bbs-google.com.cn^
 ||www-chromegoogle.com.cn^
@@ -6932,10 +6902,6 @@
 ||www-cnzh-telegram.com.cn^
 ||www-google.org.cn^
 ||www-googlechrom.com.cn^
-||www-googleck.com.cn^
-||www-googleek.com.cn^
-||www-googlees.com.cn^
-||www-googlegc.com.cn^
 ||www-kuailianzh.com.cn^
 ||www-officc-wps.com.cn^
 ||www-offiic-wps.com.cn^
@@ -6955,7 +6921,6 @@
 ||wzaigo.com^
 ||wzfjsh.cn^
 ||a.wzu.com^
-||x-sougou.hl.cn^
 ||x-steam.com^
 ||x-telegram.com.cn^
 ||x1ka.cn^
@@ -7621,11 +7586,8 @@
 ||td.zgxue.com^
 ||zh-cn-safew.com.cn^
 ||zh-google-chrom.com.cn^
-||zh-google-google-apps.hl.cn^
-||zh-google-google-web.hl.cn^
 ||zh-google-zh.hl.cn^
 ||zh-googlle-chrome.hl.cn^
-||zh-openclaw.com.cn^
 ||zh-www-google.com.cn^
 ||zh-www-google.org.cn^
 ||zhads.com^
@@ -7824,7 +7786,6 @@
 ||m.zwda.com^
 ||5mm.zxfw5.cn^
 ||zxiws.cn^
-||zxkuailian.com.cn^
 ||zxrcfw.com^
 ||api.ssp.zxrtb.com^
 ||zxw51.com^
