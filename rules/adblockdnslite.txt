@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260410010124
-! Last modified: 2026/04/10 01:01:24
-! Blocked domains: 7791
+! Version: 20260410095908
+! Last modified: 2026/04/10 09:59:08
+! Blocked domains: 7785
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -1075,7 +1075,6 @@
 ||aws-wps.com.cn^
 ||axbdlox.cn^
 ||axcdt.cn^
-||webapi.axoij.com^
 ||azdxypf.cn^
 ||umami.azhubaby.com^
 ||azu0jytzgm.com^
@@ -3048,7 +3047,6 @@
 ||telemetry.pod6.prod.avatar.ext.hp.com^
 ||telemetry.pod7.prod.avatar.ext.hp.com^
 ||hpiekt.cn^
-||hppgnlc.cn^
 ||hpplay.cn^
 ||hpplay.com.cn^
 ||support.hqts.com^
@@ -3999,7 +3997,6 @@
 ||o.lj7t6e.cn^
 ||ljarfvg.cn^
 ||ljrtb.cn^
-||cortorium.lkcqzi.cn^
 ||lkme.cc^
 ||lltckjyxgs.com^
 ||elsbhefb.lmfnil.cn^
@@ -4830,7 +4827,6 @@
 ||qfcdgy.cn^
 ||qfd8lobo.cn^
 ||qfe3hfbo.cn^
-||qff1jkvl.cn^
 ||qff3wkdu.cn^
 ||qfg8gvgd.cn^
 ||qfg8oksb.cn^
@@ -4840,7 +4836,6 @@
 ||qfl5tjhf.cn^
 ||qfn3yvhf.cn^
 ||qfq4ulbo.cn^
-||qfs3fuag.cn^
 ||qfs9bkgd.cn^
 ||qft0ozkw.cn^
 ||qfv0dwis.cn^
@@ -6735,7 +6730,6 @@
 ||jiaoben.webkaka.com^
 ||log.webnovel.com^
 ||webterren.com^
-||webwhatsapp.hl.cn^
 ||c.wechat.jx.cn^
 ||log.wechatpay.cn^
 ||weddingeeos.com^

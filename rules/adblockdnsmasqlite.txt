@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260410010124
-# Last modified: 2026/04/10 01:01:24
-# Blocked domains: 7791
+# Version: 20260410095908
+# Last modified: 2026/04/10 09:59:08
+# Blocked domains: 7785
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1074,7 +1074,6 @@ local=/awifi.cn/
 local=/aws-wps.com.cn/
 local=/axbdlox.cn/
 local=/axcdt.cn/
-local=/webapi.axoij.com/
 local=/azdxypf.cn/
 local=/umami.azhubaby.com/
 local=/azu0jytzgm.com/
@@ -3047,7 +3046,6 @@ local=/telemetry.pod5.prod.avatar.ext.hp.com/
 local=/telemetry.pod6.prod.avatar.ext.hp.com/
 local=/telemetry.pod7.prod.avatar.ext.hp.com/
 local=/hpiekt.cn/
-local=/hppgnlc.cn/
 local=/hpplay.cn/
 local=/hpplay.com.cn/
 local=/support.hqts.com/
@@ -3998,7 +3996,6 @@ local=/aoooccc.lizhuizhui.cn/
 local=/o.lj7t6e.cn/
 local=/ljarfvg.cn/
 local=/ljrtb.cn/
-local=/cortorium.lkcqzi.cn/
 local=/lkme.cc/
 local=/lltckjyxgs.com/
 local=/elsbhefb.lmfnil.cn/
@@ -4829,7 +4826,6 @@ local=/qfb5yhis.cn/
 local=/qfcdgy.cn/
 local=/qfd8lobo.cn/
 local=/qfe3hfbo.cn/
-local=/qff1jkvl.cn/
 local=/qff3wkdu.cn/
 local=/qfg8gvgd.cn/
 local=/qfg8oksb.cn/
@@ -4839,7 +4835,6 @@ local=/qfh8izze.cn/
 local=/qfl5tjhf.cn/
 local=/qfn3yvhf.cn/
 local=/qfq4ulbo.cn/
-local=/qfs3fuag.cn/
 local=/qfs9bkgd.cn/
 local=/qft0ozkw.cn/
 local=/qfv0dwis.cn/
@@ -6734,7 +6729,6 @@ local=/webfunny.cn/
 local=/jiaoben.webkaka.com/
 local=/log.webnovel.com/
 local=/webterren.com/
-local=/webwhatsapp.hl.cn/
 local=/c.wechat.jx.cn/
 local=/log.wechatpay.cn/
 local=/weddingeeos.com/
