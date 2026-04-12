@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260412164055
-! Last modified: 2026/04/12 16:40:55
-! Blocked domains: 7832
+! Version: 20260413003206
+! Last modified: 2026/04/13 00:32:06
+! Blocked domains: 7796
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -889,7 +889,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||c3gdk-default-cn.rum.aliyuncs.com^
@@ -1026,7 +1025,6 @@
 ||applk.cn^
 ||apps-chrome-zh.hl.cn^
 ||apps-google-apps.hl.cn^
-||apps-google-cn.hl.cn^
 ||apps-google-hl.hl.cn^
 ||apps-safew-safew.com.cn^
 ||st.appsad.cn^
@@ -1442,7 +1440,6 @@
 ||fpbbdx1.bmcx.com^
 ||fpbbdx2.bmcx.com^
 ||bmw100.cn^
-||bn-kuailian.hl.cn^
 ||m.bogubogu.cn^
 ||tongji.bohe.cn^
 ||click.bokecc.com^
@@ -1678,7 +1675,6 @@
 ||chrome-gugew.com.cn^
 ||chrome-gugey.com.cn^
 ||chrome-hl.hl.cn^
-||chromgoogle.hl.cn^
 ||chshcms.net^
 ||config.chsmarttv.com^
 ||data.chsmarttv.com^
@@ -1700,7 +1696,6 @@
 ||dc.cp21.ott.cibntv.net^
 ||de.as.cp61.ott.cibntv.net^
 ||dp3.play.cp81.ott.cibntv.net^
-||ipm.atm.cp31.ott.cibntv.net^
 ||livep.l.cp81.ott.cibntv.net^
 ||lives.l.cp81.ott.cibntv.net^
 ||mcgi.play.cp81.ott.cibntv.net^
@@ -1727,7 +1722,6 @@
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||claiks.com^
 ||clarins.com.cn^
-||clash-hh.hl.cn^
 ||clawaegis.com.cn^
 ||clawgo.com.cn^
 ||clawmemory.com.cn^
@@ -1760,7 +1754,6 @@
 ||cn-oyi-okx.com.cn^
 ||cn-safew-apps.com.cn^
 ||cn-safew-safew.com.cn^
-||cn-wbs-google.com.cn^
 ||cn-wps-zh.com.cn^
 ||cn-ww-google.com.cn^
 ||cnaa123.com^
@@ -2065,7 +2058,6 @@
 ||dhlxc.eu.cc^
 ||dhlxda.cn^
 ||dhlxp.eu.cc^
-||dhlxu17.cn^
 ||dhlxw.eu.cc^
 ||dhlywlw.cn^
 ||dhlza.eu.cc^
@@ -2208,7 +2200,6 @@
 ||dxwsty.cn^
 ||adsdkapi.dxys.pro^
 ||fumiad.dxys.pro^
-||dy-kuailian.hl.cn^
 ||dycwt.cn^
 ||a.dyjqd.com^
 ||dykuailian.com.cn^
@@ -2481,7 +2472,6 @@
 ||flyye.cn^
 ||www.fm120.com^
 ||api.sdk.fmobi.cn^
-||fn-kuailian.hl.cn^
 ||accoun.fnmgr.cn^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
@@ -2723,7 +2713,6 @@
 ||googleminiapps.cn^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
-||googleqanbao.com.cn^
 ||googlesyndication-cn.com^
 ||googlesyndication.com^
 ||googletagmanager-cn.com^
@@ -3098,7 +3087,6 @@
 ||hrkuailian.hl.cn^
 ||cdnjs.hro-cosmetics.com^
 ||hs-kuailian.com.cn^
-||hs-kuailian.hl.cn^
 ||hs65.cn^
 ||hseda.com^
 ||hsehk.cn^
@@ -3750,7 +3738,6 @@
 ||kuaichelian.com.cn^
 ||kuaichi.com.cn^
 ||kuaichuanba3.com.cn^
-||kuaichuanhupuluntanzhuanqu.com.cn^
 ||kuaichulian.com.cn^
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
@@ -3786,7 +3773,6 @@
 ||kuailianlepc.com.cn^
 ||kuailianlinker.com.cn^
 ||kuailianstack.com.cn^
-||kuailianxiazai-cn.com.cn^
 ||kuaishang.cn^
 ||kuaishang.com.cn^
 ||e.kuaishou.cn^
@@ -4045,7 +4031,6 @@
 ||ljarfvg.cn^
 ||ljrtb.cn^
 ||lkme.cc^
-||llj-wps.com.cn^
 ||lltckjyxgs.com^
 ||elsbhefb.lmfnil.cn^
 ||lmqyz.com^
@@ -4563,14 +4548,12 @@
 ||nsxtob.cn^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
-||nu-kuailian.hl.cn^
 ||nuaaad.cn^
 ||pdns.nudt.edu.cn^
 ||nuffnang.com.cn^
 ||c.nuhcpf.com^
 ||log.nuomi.com^
 ||ads.nuonuo.com^
-||metric.nuonuo.com^
 ||m.nuxyz.cn^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
@@ -4595,11 +4578,7 @@
 ||office-wps-hl.hl.cn^
 ||office-zh-wps.com.cn^
 ||office0769.cn^
-||office2021pojeban.com.cn^
 ||officeoa.com.cn^
-||officepoje3.com.cn^
-||officepojeban.com.cn^
-||officepojegongjukms3.com.cn^
 ||officeskills.cn^
 ||officesoftcn.com^
 ||officetea.cn^
@@ -4787,7 +4766,6 @@
 ||bdx.playnext.cn^
 ||pmensrl.cn^
 ||cdn.pocoiq.cn^
-||pojebanoffice.com.cn^
 ||poke88.com^
 ||dluat.pokerbros.net^
 ||i.pokerbros.net^
@@ -4939,9 +4917,7 @@
 ||cc.qiqisou.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
-||qishiu.com.cn^
 ||qishmusic.com.cn^
-||qishui-ff.hl.cn^
 ||qishui-qishui.hl.cn^
 ||qishui-uu.hl.cn^
 ||qishuiyiyue.com.cn^
@@ -5247,10 +5223,7 @@
 ||log-api.pangolin-sdk-toutiao.com.queniuyk.com^
 ||tnc3-alisc1.zijieapi.com.queniuyk.com^
 ||chat.quickcep.com^
-||quickq-cn.hl.cn^
-||quickq-q.hl.cn^
 ||qujishu.com^
-||qukuaichaxun.com.cn^
 ||m.qulishi.com^
 ||sbbd1.qulishi.com^
 ||bc.qunar.com^
@@ -5265,7 +5238,6 @@
 ||api.qvpublish.com^
 ||qwvv.com^
 ||u.qxen.com^
-||qy-kuailian.hl.cn^
 ||api.ts.feedback.qy.net^
 ||msg.qy.net^
 ||msg-intl.qy.net^
@@ -5376,8 +5348,6 @@
 ||news.s9377.com^
 ||sacre.cn^
 ||sadrfv.cn^
-||safe-jiuyouhui.com.cn^
-||safe-mile.com.cn^
 ||404.safedog.cn^
 ||safewcm.org.cn^
 ||safewco.org.cn^
@@ -6226,7 +6196,6 @@
 ||b.tvsou.com^
 ||md.tvzhe.com^
 ||mi.tvzhe.com^
-||tw-kuailian.hl.cn^
 ||twdjn.cn^
 ||twh5.com^
 ||tb.code.twyxi.com^
@@ -6351,7 +6320,6 @@
 ||ads-sdk-cn.upltv.com^
 ||mobilelog.upqzfile.com^
 ||other.upqzfile.com^
-||uq-kuailian.hl.cn^
 ||adscfg.uqualities.com^
 ||adsoss.uqualities.com^
 ||uqz.com^
@@ -6906,7 +6874,6 @@
 ||honeycomb.wpscdn.cn^
 ||mo.res.wpscdn.cn^
 ||abroadad.cache.wpscdn.com^
-||wpsoffice.nx.cn^
 ||wpwpquse.cn^
 ||wrating.com^
 ||efeou.wrerji.cn^
@@ -6948,7 +6915,6 @@
 ||www-safew-com.com.cn^
 ||www-safews.com.cn^
 ||www-sougou.com.cn^
-||www-wpsx.com.cn^
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
@@ -6965,7 +6931,6 @@
 ||x-telegram.com.cn^
 ||x1ka.cn^
 ||x4hu95mh0t.com^
-||x8520.com^
 ||xaqnbj.cn^
 ||www.xaqsl.com^
 ||xavierbrooks.shop^
@@ -7625,7 +7590,6 @@
 ||zh-google-chrom.com.cn^
 ||zh-google-zh.hl.cn^
 ||zh-googlle-chrome.hl.cn^
-||zh-www-google.com.cn^
 ||zh-www-google.org.cn^
 ||zhads.com^
 ||tfs.zhamm.cn^
