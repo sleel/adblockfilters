@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260413003206
-# Last modified: 2026/04/13 00:32:06
-# Blocked domains: 7796
+# Version: 20260413100559
+# Last modified: 2026/04/13 10:05:59
+# Blocked domains: 7790
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -353,7 +353,6 @@ local=/m.4qonm.cn/
 local=/4rw6x0b.cn/
 local=/1.5000yan.com/
 local=/4399stat.5054399.com/
-local=/onlineappdownload.507.net.cn/
 local=/50bang.org/
 local=/51.la/
 local=/511a.cn/
@@ -1594,7 +1593,6 @@ local=/m.cdxtny.cn/
 local=/adimg.ce.cn/
 local=/ads.ce.cn/
 local=/tvuser-ch.cedock.com/
-local=/cehgix.cn/
 local=/cekuailian.com.cn/
 local=/cengqinglin.cn/
 local=/cf-kuailian.com.cn/
@@ -1711,7 +1709,6 @@ local=/topapi.cp12.ott.cibntv.net/
 local=/yk-ssp-ad.cp31.ott.cibntv.net/
 local=/ykad-data.cp31.ott.cibntv.net/
 local=/cig.com.cn/
-local=/www.cippe.com.cn/
 local=/web.circular-whatsapp.com.cn/
 local=/metrics.citi.cn/
 local=/smetrics.citibank.cn/
@@ -3086,7 +3083,6 @@ local=/hrjg.com.cn/
 local=/hrkuailian.hl.cn/
 local=/cdnjs.hro-cosmetics.com/
 local=/hs-kuailian.com.cn/
-local=/hs65.cn/
 local=/hseda.com/
 local=/hsehk.cn/
 local=/hsrgnac.cn/
@@ -4676,7 +4672,6 @@ local=/api-access.pangolin-sdk-toutiao4.com/
 local=/panoeye.com.cn/
 local=/c.panqis.cn/
 local=/jipinapi.panqis.cn/
-local=/parking-pcnmh.cn/
 local=/parking-pcnms.cn/
 local=/parking-y.cn/
 local=/partnerboost.com/
@@ -7544,7 +7539,6 @@ local=/yznwyng.cn/
 local=/yktj.yzz.cn/
 local=/z0rto0758.com/
 local=/z9sab7vr0b.com/
-local=/zalmss.cn/
 local=/zampda.net/
 local=/zamplus.com/
 local=/zanox.com.cn/

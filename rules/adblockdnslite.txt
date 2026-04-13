@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260413003206
-! Last modified: 2026/04/13 00:32:06
-! Blocked domains: 7796
+! Version: 20260413100559
+! Last modified: 2026/04/13 10:05:59
+! Blocked domains: 7790
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -354,7 +354,6 @@
 ||4rw6x0b.cn^
 ||1.5000yan.com^
 ||4399stat.5054399.com^
-||onlineappdownload.507.net.cn^
 ||50bang.org^
 ||51.la^
 ||511a.cn^
@@ -1595,7 +1594,6 @@
 ||adimg.ce.cn^
 ||ads.ce.cn^
 ||tvuser-ch.cedock.com^
-||cehgix.cn^
 ||cekuailian.com.cn^
 ||cengqinglin.cn^
 ||cf-kuailian.com.cn^
@@ -1712,7 +1710,6 @@
 ||yk-ssp-ad.cp31.ott.cibntv.net^
 ||ykad-data.cp31.ott.cibntv.net^
 ||cig.com.cn^
-||www.cippe.com.cn^
 ||web.circular-whatsapp.com.cn^
 ||metrics.citi.cn^
 ||smetrics.citibank.cn^
@@ -3087,7 +3084,6 @@
 ||hrkuailian.hl.cn^
 ||cdnjs.hro-cosmetics.com^
 ||hs-kuailian.com.cn^
-||hs65.cn^
 ||hseda.com^
 ||hsehk.cn^
 ||hsrgnac.cn^
@@ -4677,7 +4673,6 @@
 ||panoeye.com.cn^
 ||c.panqis.cn^
 ||jipinapi.panqis.cn^
-||parking-pcnmh.cn^
 ||parking-pcnms.cn^
 ||parking-y.cn^
 ||partnerboost.com^
@@ -7545,7 +7540,6 @@
 ||yktj.yzz.cn^
 ||z0rto0758.com^
 ||z9sab7vr0b.com^
-||zalmss.cn^
 ||zampda.net^
 ||zamplus.com^
 ||zanox.com.cn^
