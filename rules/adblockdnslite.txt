@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260415171315
-! Last modified: 2026/04/15 17:13:15
-! Blocked domains: 7952
+! Version: 20260416005710
+! Last modified: 2026/04/16 00:57:10
+! Blocked domains: 7924
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -500,12 +500,10 @@
 ||cad.659t.cn^
 ||m5.66077.cn^
 ||6613167.cn^
-||666kuailian.com.cn^
 ||1.66law.cn^
 ||bj.ad.track.66mobi.com^
 ||66xfz.cn^
 ||6711.com^
-||678.hl.cn^
 ||6789.net^
 ||kl.67it.com^
 ||68287zubo85737.com^
@@ -1802,7 +1800,6 @@
 ||cn-safew-safew.com.cn^
 ||cn-safew-zh.hl.cn^
 ||cn-wps-zh.com.cn^
-||cn-ww-google.com.cn^
 ||cnaa123.com^
 ||cnbanbao.com^
 ||analytics.cnblogs.com^
@@ -2070,7 +2067,6 @@
 ||c.dcgwnhk.cn^
 ||dcvbnng.com^
 ||ddapp.cn^
-||ddkuailian.com.cn^
 ||ddsdsad.com^
 ||dm1.ddwk8.cn^
 ||trackercollect.ddxq.mobi^
@@ -2111,7 +2107,6 @@
 ||dhloz.eu.cc^
 ||dhlxda.cn^
 ||dhlxp.eu.cc^
-||dhlywlw.cn^
 ||dhlza.eu.cc^
 ||dhlzc.eu.cc^
 ||ssl.di9qu.com.cn^
@@ -3129,7 +3124,6 @@
 ||hkeig.com^
 ||hkkeafj.cn^
 ||hksafety.com.cn^
-||hlkuailian.com.cn^
 ||hlstlyy.com^
 ||hly.com^
 ||www.hmsgold.com^
@@ -3602,7 +3596,6 @@
 ||jh-kuailian.com.cn^
 ||jhbsq.cn^
 ||vhec.jhjhyn.cn^
-||jhkuailian.com.cn^
 ||jhqku.cn^
 ||jhwap.cn^
 ||jialeague.hl.cn^
@@ -3723,7 +3716,6 @@
 ||o1.jyjyj.cn^
 ||o2.jyjyj.cn^
 ||jykuailian.com.cn^
-||jys-binance.com.cn^
 ||jyzmsy.com.cn^
 ||jzdwl4.cn^
 ||e.jzvog.cn^
@@ -3864,14 +3856,12 @@
 ||kuailian-dns.com.cn^
 ||kuailian-fly.com.cn^
 ||kuailian-get.com.cn^
-||kuailian-hot.com.cn^
 ||kuailian-ii.hl.cn^
 ||kuailian-kk.hl.cn^
 ||kuailian-kl.hl.cn^
 ||kuailian-ln.hl.cn^
 ||kuailian-my.com.cn^
 ||kuailian-nn.hl.cn^
-||kuailian-on.com.cn^
 ||kuailian-ssl.com.cn^
 ||kuailian-su.com.cn^
 ||kuailian-to.com.cn^
@@ -3885,7 +3875,6 @@
 ||kuailiandss.com.cn^
 ||kuailianen.hl.cn^
 ||kuailianer.hl.cn^
-||kuailianlepc.com.cn^
 ||kuailianlinker.com.cn^
 ||kuailianstack.com.cn^
 ||kuaishang.cn^
@@ -4130,15 +4119,9 @@
 ||litchiads.com^
 ||fan.liuxiaoer.com^
 ||xi.liuxiaoer.com^
-||live-boyu.com.cn^
-||live-jiubo.com.cn^
-||live-oubao.com.cn^
-||live-oubo.com.cn^
 ||hw-p2p-pull.live-voip.com^
 ||tx-p2p-pull.live-voip.com^
 ||ws-p2p-pull.live-voip.com^
-||live-xingkong.com.cn^
-||live-zhongou.com.cn^
 ||eng.liveapp.cn^
 ||liverpool.hl.cn^
 ||mkadsearch.lizhifm.com^
@@ -4704,7 +4687,6 @@
 ||oekuailian.com.cn^
 ||offerstrack.net^
 ||office-wps-hl.hl.cn^
-||office-zh-wps.com.cn^
 ||office0769.cn^
 ||officeoa.com.cn^
 ||officeskills.cn^
@@ -4712,7 +4694,6 @@
 ||officetea.cn^
 ||officeyes.cn^
 ||offie-wps.com.cn^
-||ogkuailian.com.cn^
 ||e.ohuam.com^
 ||apps5.oingo.com^
 ||oioda.com^
@@ -5088,7 +5069,6 @@
 ||mmgame.qpic.cn^
 ||qqpublic.qpic.cn^
 ||analytics-ccu.qpyou.cn^
-||qq-kuailian.hl.cn^
 ||a.ac.qq.com^
 ||ad.qq.com^
 ||ad.browser.qq.com^
@@ -5311,7 +5291,6 @@
 ||qq2tdd0xx.com^
 ||qq937.com^
 ||down.qqfarmer.com.cn^
-||qqkuailian.hl.cn^
 ||qqo-google.com.cn^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -5549,7 +5528,6 @@
 ||securemsg.sc.cn^
 ||securemsg.xz.cn^
 ||ad.seeyouyima.com^
-||trace.seeyouyima.com^
 ||www.selgrospl.com^
 ||sellbuyads.cn^
 ||sellfox.com^
@@ -6804,7 +6782,6 @@
 ||volctrack.com^
 ||report.voovmeeting.com^
 ||vorluic.cn^
-||vps-google.com.cn^
 ||vpsgu.cn^
 ||vrbrothers.com^
 ||hvkfmk.vrkxqfrx.cn^
@@ -7048,9 +7025,6 @@
 ||content.wuxibiologics.com^
 ||m.wv26d.cn^
 ||wva-telegram.com.cn^
-||ww-chrom-google.com.cn^
-||ww-chrom-google.hl.cn^
-||ww-chrome-google.com.cn^
 ||ww-officc-wps.com.cn^
 ||ww-sogou.cn^
 ||wwads.cn^
@@ -7537,8 +7511,6 @@
 ||union.youdao.com^
 ||ydpushserver.youdao.com^
 ||youdaoa.cn^
-||youdaobobo.com^
-||youdaoxn.com^
 ||youday.cn^
 ||static.youdm.cn^
 ||youhuiguan.com^
