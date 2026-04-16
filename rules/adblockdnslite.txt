@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260416005710
-! Last modified: 2026/04/16 00:57:10
-! Blocked domains: 7924
+! Version: 20260416100518
+! Last modified: 2026/04/16 10:05:18
+! Blocked domains: 7921
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -808,7 +808,6 @@
 ||hk-datareceiver.aki-game.net^
 ||jp-datareceiver.aki-game.net^
 ||us-datareceiver.aki-game.net^
-||akks-telegram.com.cn^
 ||ako.cc^
 ||al-safew.com.cn^
 ||alertcenter.hn.cn^
@@ -4834,7 +4833,6 @@
 ||pepnsnq.cn^
 ||pepsico.com.cn^
 ||petersonjace.shop^
-||pfd-google.com.cn^
 ||pfdth.cn^
 ||pfkuailian.com.cn^
 ||pfqwbqs.cn^
@@ -4930,7 +4928,6 @@
 ||ptmind.com^
 ||puchao.hl.cn^
 ||pufhzpt.cn^
-||pulton.info^
 ||pig.pupuapi.com^
 ||puqer.cn^
 ||purebuy.club^

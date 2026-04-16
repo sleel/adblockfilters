@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260416005710
-# Last modified: 2026/04/16 00:57:10
-# Blocked domains: 7924
+# Version: 20260416100518
+# Last modified: 2026/04/16 10:05:18
+# Blocked domains: 7921
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -807,7 +807,6 @@ local=/eu-datareceiver.aki-game.net/
 local=/hk-datareceiver.aki-game.net/
 local=/jp-datareceiver.aki-game.net/
 local=/us-datareceiver.aki-game.net/
-local=/akks-telegram.com.cn/
 local=/ako.cc/
 local=/al-safew.com.cn/
 local=/alertcenter.hn.cn/
@@ -4833,7 +4832,6 @@ local=/a1.peoplecdn.cn/
 local=/pepnsnq.cn/
 local=/pepsico.com.cn/
 local=/petersonjace.shop/
-local=/pfd-google.com.cn/
 local=/pfdth.cn/
 local=/pfkuailian.com.cn/
 local=/pfqwbqs.cn/
@@ -4929,7 +4927,6 @@ local=/ptmabek.cn/
 local=/ptmind.com/
 local=/puchao.hl.cn/
 local=/pufhzpt.cn/
-local=/pulton.info/
 local=/pig.pupuapi.com/
 local=/puqer.cn/
 local=/purebuy.club/
