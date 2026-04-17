@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260417171054
-! Last modified: 2026/04/17 17:10:54
-! Blocked domains: 8087
+! Version: 20260418005054
+! Last modified: 2026/04/18 00:50:54
+! Blocked domains: 8031
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -37,7 +37,6 @@
 ||cdn.0i-i0.com^
 ||0n6h.cn^
 ||m.0o8iuh.cn^
-||0ss1vl.cn^
 ||25w.0tzp8c.cn^
 ||0wk6gdkg8r.com^
 ||0x5.me^
@@ -81,7 +80,6 @@
 ||ad.12306.cn^
 ||12322app.com^
 ||m.1234567.com.cn^
-||123456789abc.xyz^
 ||123cha.com^
 ||uimg.123hala.com^
 ||1827897262.v.123pan.cn^
@@ -189,7 +187,6 @@
 ||19869.com^
 ||198game.com^
 ||m.198nc.cn^
-||1aeaqk1.cn^
 ||adverts.1foo.com^
 ||ad.1kxun.com^
 ||1l1.cc^
@@ -592,7 +589,6 @@
 ||8181zx.com^
 ||8315.cn^
 ||83692.com^
-||84207.cc^
 ||84232.com^
 ||849558.com^
 ||uxek.85nv96.cn^
@@ -1086,7 +1082,6 @@
 ||app7kuailian.com.cn^
 ||app9kuailian.com.cn^
 ||appadhoc.net^
-||appc-zoom.com.cn^
 ||mobile.appchina.com^
 ||appdriver.cn^
 ||appdriver.com.cn^
@@ -1171,7 +1166,6 @@
 ||umami.azhubaby.com^
 ||azm-kuailian.com.cn^
 ||azu0jytzgm.com^
-||b258v.xyz^
 ||b1.b2b168.com^
 ||b1.b2b168.net^
 ||ee.b2fwnu.cn^
@@ -1370,7 +1364,6 @@
 ||baminw.com.cn^
 ||ad.bandao.cn^
 ||bangyoul.cn^
-||bank-binance.com.cn^
 ||baobaoshiye.com.cn^
 ||active.baofeng.com^
 ||co.dtech.baofeng.com^
@@ -1465,7 +1458,6 @@
 ||bhw-kuailian.com.cn^
 ||bhyuu.com^
 ||app-posthog.bi-sage.site^
-||bianfengshkoushoujbangw9.com.cn^
 ||bianxian.com^
 ||bianxianmao.com^
 ||biddingx.com^
@@ -1616,7 +1608,6 @@
 ||caomeixz7.xyz^
 ||caonimazuzong.com^
 ||web.capacity-whatsapp.com.cn^
-||carclaw.com.cn^
 ||baidu1.cardbaobao.com^
 ||baidua1.cardbaobao.com^
 ||baidua2.cardbaobao.com^
@@ -1685,7 +1676,6 @@
 ||championshipcn.hl.cn^
 ||chance-ad.com^
 ||chanet.com.cn^
-||changyi21.cn^
 ||chatcenter.ac.cn^
 ||chatcenter.nm.cn^
 ||chatcenter.sn.cn^
@@ -1799,7 +1789,6 @@
 ||claiks.com^
 ||clarins.com.cn^
 ||clawaegis.com.cn^
-||clawgo.com.cn^
 ||clawmemory.com.cn^
 ||clawxx.com.cn^
 ||cleartone.club^
@@ -1841,7 +1830,6 @@
 ||cn-office-wps.com.cn^
 ||cn-oyi-okx.com.cn^
 ||cn-platform-wps.com.cn^
-||cn-safew-apps.com.cn^
 ||cn-safew-safew.com.cn^
 ||cn-safew-zh.hl.cn^
 ||cn-wps-zh.com.cn^
@@ -1931,7 +1919,6 @@
 ||bdu1.coozhi.cn^
 ||coreldrawchina.com^
 ||coumie.top^
-||count-ledger.online^
 ||cp-openclaw.com.cn^
 ||cp7iys8fp.com^
 ||cpanclean.cn^
@@ -1987,7 +1974,6 @@
 ||web.customer-whatsapp.com.cn^
 ||cvb-kuailian.com.cn^
 ||cvs0sghj.cn^
-||cvv-kuailian.com.cn^
 ||z1.cwbaike.com^
 ||cx0001.cn^
 ||cxad.cn^
@@ -2003,7 +1989,6 @@
 ||a1.cyyangqiguan.com^
 ||straighttangerine.cz.cc^
 ||cz4444.cn^
-||czanshunda.com^
 ||c1.czcol.cn^
 ||m.czxjx.cn^
 ||bd.czxuexi.com^
@@ -2132,7 +2117,6 @@
 ||c.dengbaozx.cn^
 ||v.dengbaozx.cn^
 ||aem.dentsuchina.cn^
-||designerwatches.cn^
 ||www.destinationurl.com^
 ||msz3.destinia.cn^
 ||detailroi.com^
@@ -2146,7 +2130,6 @@
 ||dfz-telegram.com.cn^
 ||dg-kuailian.com.cn^
 ||dg186.cn^
-||dgrj.com.cn^
 ||d.dgzj.com^
 ||dhgdp.cn^
 ||dhl-99.com^
@@ -2704,7 +2687,6 @@
 ||gdobcwk.cn^
 ||ge.cn^
 ||geakr.com^
-||geclaw.com.cn^
 ||cooper.geelark.cn^
 ||log.geetest.com^
 ||g.gegeyingshi.com^
@@ -2811,7 +2793,6 @@
 ||go2yd.com^
 ||gocye.com^
 ||godloveme.cn^
-||gods-binance.com.cn^
 ||goforandroid.com^
 ||gojunkclean.cn^
 ||goldwavechina.cn^
@@ -2827,10 +2808,8 @@
 ||googgle-chrrome.hl.cn^
 ||google-analytics-cn.com^
 ||google-analytics.com^
-||google-ccc.hl.cn^
 ||google-ch-chrome.com.cn^
 ||google-chrrome-zh.hl.cn^
-||google-en-chrome.com.cn^
 ||google-google-google.com.cn^
 ||google-ji.com.cn^
 ||google-network.com^
@@ -3172,7 +3151,6 @@
 ||www.histar.com^
 ||stun.hitv.com^
 ||gentian-frd.hjapi.com^
-||hjcdcgw-qx.cn^
 ||resu8.hjfile.cn^
 ||hjgen.cn^
 ||hjpqt.cn^
@@ -3242,7 +3220,6 @@
 ||hseda.com^
 ||hsehk.cn^
 ||hsrgnac.cn^
-||hssh.online^
 ||g.hsw.cn^
 ||hsych.com^
 ||ht55.cn^
@@ -3299,7 +3276,6 @@
 ||track.hujiang.com^
 ||trackcommon.hujiang.com^
 ||u8.hujiang.com^
-||hukuailian.com.cn^
 ||hulichuang.mobi^
 ||e.hun3f.cn^
 ||m.hun3f.cn^
@@ -3588,7 +3564,6 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
-||j350b.xyz^
 ||j3n6x.co^
 ||jab88.com^
 ||eventlog.jackpot.de^
@@ -3953,10 +3928,8 @@
 ||kuailian-tv.com.cn^
 ||kuailian-up.com.cn^
 ||kuailian-yi.com.cn^
-||kuailianai.hl.cn^
 ||kuailiancff-pcc.com.cn^
 ||kuailiandss.com.cn^
-||kuailianen.hl.cn^
 ||kuailianer.hl.cn^
 ||kuailianlinker.com.cn^
 ||kuailianoonn.com.cn^
@@ -4028,7 +4001,6 @@
 ||update.mobile.kugou.com^
 ||webcollects.kugou.com^
 ||kuheju.com^
-||msstatic.com.gslb.kuiniuca.com^
 ||kuk8.com^
 ||h1.kukuw.com^
 ||img.adnyg.com.w.kunlungr.com^
@@ -4311,8 +4283,6 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
-||maxisaie.vip^
-||maxisrm.vip^
 ||maxisuik.vip^
 ||maxreturn.cn^
 ||mazarine-ap.com^
@@ -4377,7 +4347,6 @@
 ||tracking.m.mercedes-benz.com.cn^
 ||tracking.t.mercedes-benz.com.cn^
 ||mernrza.com^
-||mesmall.cn^
 ||metaversemolecule.com^
 ||metaword.cn^
 ||analytics.metro.cn^
@@ -4887,7 +4856,6 @@
 ||passionsex.vip^
 ||passwordrecovery.cn^
 ||bt1.patexplorer.com^
-||paycity1.top^
 ||pbaiyho.cn^
 ||pc-todesk.com.cn^
 ||ipad.pc899.cn^
@@ -5528,7 +5496,6 @@
 ||rui61.cn^
 ||ruiing.com^
 ||ldk.ruiyufangchan.cn^
-||rukee.cyou^
 ||rumt-sg.com^
 ||rumt-zh.com^
 ||abc.ruodian360.com^
@@ -5681,10 +5648,8 @@
 ||sigmob.com^
 ||smetrics.marketing.signify.com.cn^
 ||siguatv.cn^
-||sihuikeji.cn^
 ||simengadx.com^
 ||simicloud.com^
-||simple-tiktok.xyz^
 ||2016.sina.cn^
 ||9ibbcq2d.sina.cn^
 ||adblock.sina.cn^
@@ -6271,7 +6236,6 @@
 ||tenddata.cn^
 ||tengfeidn.cn^
 ||m.tenh2.cn^
-||tensai146.icu^
 ||tepusi888.cn^
 ||answers.teradata.com.cn^
 ||testin.cn^
@@ -6327,7 +6291,6 @@
 ||tkmly.cn^
 ||tl-kuailian.com.cn^
 ||livetech.shopee.com.br.tlivecdn.com^
-||tlpm.com^
 ||jx.tmall.com^
 ||s.click.tmall.com^
 ||tmuseum.com.cn^
@@ -6394,7 +6357,6 @@
 ||tovppl.cn^
 ||tq-kuailian.com.cn^
 ||trackingio.com^
-||trast.help^
 ||trk-kuailian.com.cn^
 ||ta.trs.cn^
 ||trustutn.org^
@@ -6440,7 +6402,6 @@
 ||m.txtxr.com^
 ||txtxz.org.cn^
 ||u.txuesoft.cn^
-||ty.cn^
 ||tydouke.com^
 ||tz-dsp.com^
 ||kn.tzsmab.cn^
@@ -6566,10 +6527,6 @@
 ||urbanfind.club^
 ||uri6.com^
 ||urlqh.cn^
-||usdtchongzhi.com.cn^
-||usdtduihuan.com.cn^
-||usdtduoshaormb.com.cn^
-||usdtgfwangzhan.com.cn^
 ||usercenter.ha.cn^
 ||usercenter.he.cn^
 ||usercenter.nx.cn^
@@ -6937,7 +6894,6 @@
 ||vx-kuailian.com.cn^
 ||vx2tbw9xin.com^
 ||vxhsj.cn^
-||vxkuailian.com.cn^
 ||vy-google.com.cn^
 ||vy-kuailian.com.cn^
 ||vyye.cn^
@@ -7012,7 +6968,6 @@
 ||web3-cn-wps.com.cn^
 ||web5-wps.com.cn^
 ||web605.cn^
-||webbkuailian.com.cn^
 ||webdissector.com^
 ||webex.bj.cn^
 ||webfunny.cn^
@@ -7157,27 +7112,20 @@
 ||content.wuxibiologics.com^
 ||m.wv26d.cn^
 ||wva-telegram.com.cn^
-||ww-officc-wps.com.cn^
 ||ww-sogou.cn^
 ||wwads.cn^
 ||wws-google-app.com.cn^
 ||vhs.wwstat.com^
-||www-chromegoogle.com.cn^
-||www-chromegooglee.com.cn^
 ||www-chromeguge.com.cn^
 ||www-cn-google.org.cn^
 ||www-cnn-google.hl.cn^
 ||www-cno-google.hl.cn^
 ||www-google.cn^
 ||www-google.org.cn^
-||www-googlechrom.com.cn^
-||www-officc-wps.com.cn^
-||www-offiic-wps.com.cn^
 ||www-qishiu.com.cn^
 ||www-qishul.org.cn^
 ||www-safew-com.com.cn^
 ||www-safew.hl.cn^
-||www-safews.com.cn^
 ||www-wps-cn.hl.cn^
 ||www-wps-hl.hl.cn^
 ||www-wps-wps.hl.cn^
@@ -7189,7 +7137,6 @@
 ||wxkuailian.com.cn^
 ||wy-kuailian.com.cn^
 ||wy213.com^
-||wz2010.com.cn^
 ||m.wz382.cn^
 ||wzaigo.com^
 ||wzfjsh.cn^
@@ -7228,7 +7175,6 @@
 ||xegnfwkju.com^
 ||m.xeig.cn^
 ||xerhibx.cn^
-||xfltd.hl.cn^
 ||xftsjv.top^
 ||xfyjz.cn^
 ||dt.xfyun.cn^
@@ -7322,7 +7268,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||sdkconfig.ad.eu.xiaomi.com^
 ||ssp.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||stats.music.xiaomi.com^
@@ -7860,7 +7805,6 @@
 ||zh-appd-google.com.cn^
 ||zh-cn-google.hl.cn^
 ||zh-cn-kuailian.hl.cn^
-||zh-cn-safew.com.cn^
 ||zh-cnn-google.hl.cn^
 ||zh-google-cc.com.cn^
 ||zh-google-zh.hl.cn^
