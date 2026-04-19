@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260419003316
-! Last modified: 2026/04/19 00:33:16
-! Blocked domains: 8045
+! Version: 20260419100520
+! Last modified: 2026/04/19 10:05:20
+! Blocked domains: 8044
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -2229,7 +2229,6 @@
 ||s.doyo.cn^
 ||umami.dp.tech^
 ||s.dpcq1.net^
-||dpdnew.click^
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||drivethelife.com^
@@ -2624,7 +2623,6 @@
 ||mg.g1mm3d.cn^
 ||kcc.g31hc.cn^
 ||g77776666.com^
-||g95q.xyz^
 ||img.gadhx.cn^
 ||gainifyads.com^
 ||fc.gaizong.cn^
@@ -2905,6 +2903,7 @@
 ||gzsadlmy.cn^
 ||gzsanxiaomingshi.cn^
 ||gzzkjdam.cn^
+||h111f.xyz^
 ||h3-binance.com.cn^
 ||h45pmx1.cn^
 ||h5-wps.com.cn^
@@ -7172,7 +7171,6 @@
 ||xcdf.cn^
 ||m.xcfwnhj.cn^
 ||vi12x.xcle.cn^
-||xcv8phda.cn^
 ||xcvkuailianss.com.cn^
 ||mldy.xdaay.cn^
 ||analytics1.xdiarys.com^
@@ -7453,6 +7451,7 @@
 ||bmjs.xzw.com^
 ||m.y-binance.com.cn^
 ||y0764.cn^
+||y218l.xyz^
 ||y6a7ap3io3.com^
 ||y74s.xyz^
 ||yahekby.cn^

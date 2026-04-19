@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260419003316
-# Last modified: 2026/04/19 00:33:16
-# Blocked domains: 8045
+# Version: 20260419100520
+# Last modified: 2026/04/19 10:05:20
+# Blocked domains: 8044
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2228,7 +2228,6 @@ local=/download-web-whatsapp.com.cn/
 local=/s.doyo.cn/
 local=/umami.dp.tech/
 local=/s.dpcq1.net/
-local=/dpdnew.click/
 local=/dpjzzgw.cn/
 local=/drdwy.com/
 local=/drivethelife.com/
@@ -2623,7 +2622,6 @@ local=/r01.g1c5.com/
 local=/mg.g1mm3d.cn/
 local=/kcc.g31hc.cn/
 local=/g77776666.com/
-local=/g95q.xyz/
 local=/img.gadhx.cn/
 local=/gainifyads.com/
 local=/fc.gaizong.cn/
@@ -2904,6 +2902,7 @@ local=/gzqvd.cn/
 local=/gzsadlmy.cn/
 local=/gzsanxiaomingshi.cn/
 local=/gzzkjdam.cn/
+local=/h111f.xyz/
 local=/h3-binance.com.cn/
 local=/h45pmx1.cn/
 local=/h5-wps.com.cn/
@@ -7171,7 +7170,6 @@ local=/zio.xcar.com.cn/
 local=/xcdf.cn/
 local=/m.xcfwnhj.cn/
 local=/vi12x.xcle.cn/
-local=/xcv8phda.cn/
 local=/xcvkuailianss.com.cn/
 local=/mldy.xdaay.cn/
 local=/analytics1.xdiarys.com/
@@ -7452,6 +7450,7 @@ local=/bmjjs.xzw.com/
 local=/bmjs.xzw.com/
 local=/m.y-binance.com.cn/
 local=/y0764.cn/
+local=/y218l.xyz/
 local=/y6a7ap3io3.com/
 local=/y74s.xyz/
 local=/yahekby.cn/
