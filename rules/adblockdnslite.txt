@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260420003345
-! Last modified: 2026/04/20 00:33:45
-! Blocked domains: 8037
+! Version: 20260420100614
+! Last modified: 2026/04/20 10:06:14
+! Blocked domains: 8035
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -2141,7 +2141,6 @@
 ||diannaodian.com^
 ||dianru.cn^
 ||dianru.com^
-||dianxin.com^
 ||a.diaoyu.cn^
 ||codeym.dictall.com^
 ||static.diditaxi.com.cn^
@@ -2462,6 +2461,7 @@
 ||api-event.falconnet.app^
 ||config.ad.falconnet.app^
 ||flux.faloo.com^
+||famespaces.click^
 ||bdlmggcs1.familydoctor.com.cn^
 ||kdewa111.familydoctor.com.cn^
 ||famoway-pro.net^
@@ -4161,7 +4161,6 @@
 ||linkjg.cn^
 ||linkpage.cn^
 ||linksjg.cn^
-||linkvans.com^
 ||ssp.lionmobo.com^
 ||plausible.lipux.cn^
 ||litchiads.com^
@@ -7836,7 +7835,6 @@
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
 ||analytics.zhihuiya.com^
-||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^

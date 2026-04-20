@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260420003345
-# Last modified: 2026/04/20 00:33:45
-# Blocked domains: 8037
+# Version: 20260420100614
+# Last modified: 2026/04/20 10:06:14
+# Blocked domains: 8035
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2140,7 +2140,6 @@ local=/ssl.di9qu.com.cn/
 local=/diannaodian.com/
 local=/dianru.cn/
 local=/dianru.com/
-local=/dianxin.com/
 local=/a.diaoyu.cn/
 local=/codeym.dictall.com/
 local=/static.diditaxi.com.cn/
@@ -2461,6 +2460,7 @@ local=/api-ad-callback.falconnet.app/
 local=/api-event.falconnet.app/
 local=/config.ad.falconnet.app/
 local=/flux.faloo.com/
+local=/famespaces.click/
 local=/bdlmggcs1.familydoctor.com.cn/
 local=/kdewa111.familydoctor.com.cn/
 local=/famoway-pro.net/
@@ -4160,7 +4160,6 @@ local=/linkhaitao.com/
 local=/linkjg.cn/
 local=/linkpage.cn/
 local=/linksjg.cn/
-local=/linkvans.com/
 local=/ssp.lionmobo.com/
 local=/plausible.lipux.cn/
 local=/litchiads.com/
@@ -7835,7 +7834,6 @@ local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
 local=/analytics.zhihuiya.com/
-local=/www.zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/
