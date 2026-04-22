@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260422005417
-! Last modified: 2026/04/22 00:54:17
-! Blocked domains: 8088
+! Version: 20260422100012
+! Last modified: 2026/04/22 10:00:12
+! Blocked domains: 8090
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -5008,11 +5008,13 @@
 ||pb3.pstatp.com^
 ||sf1-ttcdn-tos.pstatp.com^
 ||sf3-ttcdn-tos.pstatp.com^
+||pt-dpd.net^
 ||ptengine.cn^
 ||ptgdb.cn^
 ||pthejzb.com^
 ||ptmabek.cn^
 ||ptmind.com^
+||publicishub.com^
 ||pufhzpt.cn^
 ||punktopulex.com^
 ||pig.pupuapi.com^
