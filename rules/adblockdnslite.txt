@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260423005351
-! Last modified: 2026/04/23 00:53:51
-! Blocked domains: 8175
+! Version: 20260423100416
+! Last modified: 2026/04/23 10:04:16
+! Blocked domains: 8165
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -77,7 +77,6 @@
 ||m.1234567.com.cn^
 ||123cha.com^
 ||uimg.123hala.com^
-||1827897262.v.123pan.cn^
 ||bdad.123pan.cn^
 ||ent1.12584.cn^
 ||health1.12584.cn^
@@ -961,7 +960,6 @@
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
-||bruplong.oss-accelerate.aliyuncs.com^
 ||c3gdk-default-cn.rum.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
@@ -2980,7 +2978,6 @@
 ||gzsadlmy.cn^
 ||gzsanxiaomingshi.cn^
 ||gzzkjdam.cn^
-||h111g.xyz^
 ||h3-binance.com.cn^
 ||h45pmx1.cn^
 ||h5-wps.com.cn^
@@ -3619,11 +3616,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
-||j338o.xyz^
 ||j350b.xyz^
-||j353g.xyz^
-||j353q.xyz^
-||j357w.xyz^
 ||j3n6x.co^
 ||jab88.com^
 ||eventlog.jackpot.de^
@@ -5088,7 +5081,6 @@
 ||pthejzb.com^
 ||ptmabek.cn^
 ||ptmind.com^
-||publicishub.com^
 ||pufhzpt.cn^
 ||punktopulex.com^
 ||pig.pupuapi.com^
@@ -6556,7 +6548,6 @@
 ||stat.u.sb^
 ||ee.u0r9.cn^
 ||m.u0r9.cn^
-||u103s.xyz^
 ||ee.u4q2.cn^
 ||m.u4q2.cn^
 ||u51.me^
@@ -8109,7 +8100,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

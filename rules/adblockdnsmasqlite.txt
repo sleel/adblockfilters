@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260423005351
-# Last modified: 2026/04/23 00:53:51
-# Blocked domains: 8175
+# Version: 20260423100416
+# Last modified: 2026/04/23 10:04:16
+# Blocked domains: 8165
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -76,7 +76,6 @@ local=/12322app.com/
 local=/m.1234567.com.cn/
 local=/123cha.com/
 local=/uimg.123hala.com/
-local=/1827897262.v.123pan.cn/
 local=/bdad.123pan.cn/
 local=/ent1.12584.cn/
 local=/health1.12584.cn/
@@ -960,7 +959,6 @@ local=/aixuntupian.oss-cn-hongkong.aliyuncs.com/
 local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
-local=/bruplong.oss-accelerate.aliyuncs.com/
 local=/c3gdk-default-cn.rum.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
 local=/chaoku.oss-cn-chengdu.aliyuncs.com/
@@ -2979,7 +2977,6 @@ local=/gzqvd.cn/
 local=/gzsadlmy.cn/
 local=/gzsanxiaomingshi.cn/
 local=/gzzkjdam.cn/
-local=/h111g.xyz/
 local=/h3-binance.com.cn/
 local=/h45pmx1.cn/
 local=/h5-wps.com.cn/
@@ -3618,11 +3615,7 @@ local=/adapi.izuiyou.com/
 local=/adstat.izuiyou.com/
 local=/xladapi.izuiyou.com/
 local=/xlstat.izuiyou.com/
-local=/j338o.xyz/
 local=/j350b.xyz/
-local=/j353g.xyz/
-local=/j353q.xyz/
-local=/j357w.xyz/
 local=/j3n6x.co/
 local=/jab88.com/
 local=/eventlog.jackpot.de/
@@ -5087,7 +5080,6 @@ local=/ptgdb.cn/
 local=/pthejzb.com/
 local=/ptmabek.cn/
 local=/ptmind.com/
-local=/publicishub.com/
 local=/pufhzpt.cn/
 local=/punktopulex.com/
 local=/pig.pupuapi.com/
@@ -6555,7 +6547,6 @@ local=/kn.tzsmab.cn/
 local=/stat.u.sb/
 local=/ee.u0r9.cn/
 local=/m.u0r9.cn/
-local=/u103s.xyz/
 local=/ee.u4q2.cn/
 local=/m.u4q2.cn/
 local=/u51.me/
@@ -8108,7 +8099,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
