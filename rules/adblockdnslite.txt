@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260423172133
-! Last modified: 2026/04/23 17:21:33
-! Blocked domains: 8286
+! Version: 20260424011356
+! Last modified: 2026/04/24 01:13:56
+! Blocked domains: 8262
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -84,7 +84,6 @@
 ||ent1.12584.cn^
 ||health1.12584.cn^
 ||img.12584.cn^
-||126.cn^
 ||analytics.126.com^
 ||ir.mail.126.com^
 ||admusicpic.music.126.net^
@@ -699,11 +698,9 @@
 ||pubstr.acs.org^
 ||swebanalytics.acs.org^
 ||ads.activepower.net^
-||ad-haiwang.hl.cn^
 ||ad-plus.cn^
 ||ad-scope.com.cn^
 ||ad-web-whatsapp.com.cn^
-||ad-wps-wps.com.cn^
 ||ad7.com^
 ||adanxing.com^
 ||adbana.com^
@@ -795,10 +792,7 @@
 ||ahov1.top^
 ||m.ahwczn.cn^
 ||ahxhny.cn^
-||ai-google-com.hl.cn^
-||ai-sougou-com.hl.cn^
 ||ai-telegram-telegram.com.cn^
-||ai-youdao-com.hl.cn^
 ||ai-youdao.hl.cn^
 ||aibantian.cn^
 ||brc.aigrammar.net^
@@ -825,7 +819,6 @@
 ||dmm.aizhan.com^
 ||fpbb.aizhan.com^
 ||aizipai.cn^
-||aj-youdao-com.hl.cn^
 ||ajdyga.cn^
 ||ajiang.net^
 ||ajkuailian.com.cn^
@@ -1071,7 +1064,6 @@
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
 ||apd-todesk.com.cn^
-||apd-zoom-com.hl.cn^
 ||apenclaw.com.cn^
 ||adx.apicgate.com^
 ||us-behavior.apitd.net^
@@ -2494,7 +2486,6 @@
 ||m.ercos.cn^
 ||ergeapp.com^
 ||log.ergeduoduo.com^
-||erish.xyz^
 ||erlpbwy.cn^
 ||eryvkxm.cn^
 ||eryx-avin.net^
@@ -2602,7 +2593,6 @@
 ||ks.ferlytc.com^
 ||feronixprime74ai.net^
 ||ffmobi.com^
-||fg-chrome.com.cn^
 ||21.fh21static.com^
 ||fhitagd.cn^
 ||fhkuailian.com.cn^
@@ -2786,7 +2776,6 @@
 ||gh-kuailian.com.cn^
 ||gh-sougou.com.cn^
 ||stats.dmp.ghac.cn^
-||ghkuailian.com.cn^
 ||ghsnhjk.cn^
 ||ad.partner.gifshow.com^
 ||gdfp.gifshow.com^
@@ -3525,7 +3514,6 @@
 ||piccdn.igetget.com^
 ||seeder.igetget.com^
 ||ihclam.cn^
-||ihkuailian.com.cn^
 ||fpbone.ihowguide.com^
 ||appadapi.ihuman.com^
 ||iimedia.cn^
@@ -3594,7 +3582,6 @@
 ||intely.cn^
 ||smetrics.marketing.interact-lighting.com.cn^
 ||inveno.com^
-||io-googlse.com.cn^
 ||ioiksw.cn^
 ||ip193.cn^
 ||c81.ipanocloud.com^
@@ -4061,7 +4048,6 @@
 ||kuailian-ln.hl.cn^
 ||kuailian-nn.hl.cn^
 ||kuailian-run.com.cn^
-||kuailian-ttr.com.cn^
 ||kuailian4g.com.cn^
 ||kuailian51.com.cn^
 ||kuailianaiting.com.cn^
@@ -4207,7 +4193,6 @@
 ||cdn1.lbesec.com^
 ||lbprjdi.cn^
 ||kdbgqvu.lbye3zc.cn^
-||lc-google.com.cn^
 ||lccfjszp.cn^
 ||ld-kuailian.com.cn^
 ||test-perfops.ldgslb.com^
@@ -5008,8 +4993,6 @@
 ||ivy.pcauto.com.cn^
 ||pcc-kuailiansscc.com.cn^
 ||pccleaner.cn^
-||pce4-kuailian.com.cn^
-||pce5-kuailian.com.cn^
 ||pcidata.cn^
 ||count5.pconline.com.cn^
 ||count6.pconline.com.cn^
@@ -5681,7 +5664,6 @@
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
 ||rownowagainvrevo.net^
-||rp-google.com.cn^
 ||rpahyhn.cn^
 ||rplzmw.cn^
 ||rrljs.cn^
@@ -5736,7 +5718,6 @@
 ||safew8.com.cn^
 ||safewcm.org.cn^
 ||safewco.org.cn^
-||safewqq.com.cn^
 ||safewu.com.cn^
 ||safewzz.com.cn^
 ||sagetrc.com^
@@ -6464,7 +6445,6 @@
 ||answers.teradata.com.cn^
 ||testin.cn^
 ||m.tfeic.com^
-||tg-chrome.com.cn^
 ||tg-kuailian.com.cn^
 ||tg33.cn^
 ||tgfyq.cn^
@@ -6634,7 +6614,6 @@
 ||twzui6.com^
 ||tx-telegram.com^
 ||livetech.shopee.co.id.txlivecdn.com^
-||livetech.shopee.co.th.txlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
 ||txstatic.cn^
@@ -7106,7 +7085,6 @@
 ||vrs-kuailian.com.cn^
 ||n.vs108.com^
 ||vsnoon.com^
-||vt-google.com.cn^
 ||vtfkbs.cn^
 ||vultenok.net^
 ||vungle.cn^
@@ -7120,7 +7098,6 @@
 ||vx-kuailian.com.cn^
 ||vx2tbw9xin.com^
 ||vxhsj.cn^
-||vy-google.com.cn^
 ||vy-kuailian.com.cn^
 ||vyye.cn^
 ||vzan.com^
@@ -7357,7 +7334,6 @@
 ||market.wsskj520.cn^
 ||mlog.wangsu.com.wswebcdn.com^
 ||cdn-ad.wtzw.com^
-||wu-google.com.cn^
 ||manage.wuhancloud.cn^
 ||wukongtongji.com^
 ||wumii.cn^
@@ -7430,6 +7406,7 @@
 ||sensors.h5.xed.plus^
 ||xegnfwkju.com^
 ||m.xeig.cn^
+||mon.ad.xelements.cn^
 ||xerhibx.cn^
 ||xftsjv.top^
 ||xfyjz.cn^
@@ -7524,7 +7501,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||sdkconfig.ad.eu.xiaomi.com^
 ||ssp.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||stats.music.xiaomi.com^
