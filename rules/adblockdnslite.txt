@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260424011356
-! Last modified: 2026/04/24 01:13:56
-! Blocked domains: 8262
+! Version: 20260424100455
+! Last modified: 2026/04/24 10:04:55
+! Blocked domains: 8253
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -1474,7 +1474,6 @@
 ||bengbeng.com^
 ||benniuluntai.cn^
 ||bestoffice.com.cn^
-||www.bet9382.com^
 ||betterzip.net^
 ||betterzipcn.com^
 ||betylife.com^
@@ -1545,7 +1544,6 @@
 ||as.bjmama.net^
 ||bjmantis.net^
 ||bjmcmj.cn^
-||mhqajiz.bl8cz6.cn^
 ||file.blackint3.com^
 ||blackrosefinbitnex-pl.net^
 ||blask-finthra-ai.net^
@@ -1602,7 +1600,6 @@
 ||dlogs.bwton.com^
 ||kbjabm.bxbezo.cn^
 ||bxwccii.cn^
-||by.byqgwcgzs.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
@@ -3937,7 +3934,6 @@
 ||m.kjfhe.com^
 ||kjlzt.cn^
 ||kk-kuailian.hl.cn^
-||kk-okx.com.cn^
 ||kkc-kuailian.com.cn^
 ||adl.kkguan.com^
 ||m.kklomez.cn^
@@ -5007,7 +5003,6 @@
 ||pdfxd.com^
 ||pdiabbi.cn^
 ||ijeu.pdkzyy.cn^
-||5vp.pdosj.com^
 ||pe8.com^
 ||a8.jp.peacebird.com^
 ||eloqua.pearsonvue.com.cn^
@@ -5666,7 +5661,6 @@
 ||rownowagainvrevo.net^
 ||rpahyhn.cn^
 ||rplzmw.cn^
-||rrljs.cn^
 ||lidtjhd.rseqb.cn^
 ||rskuailian.hl.cn^
 ||rsvqlz.cn^
@@ -6689,7 +6683,6 @@
 ||udrig.com^
 ||uebabuf.cn^
 ||ueg.cc^
-||www.ufh-whatsapp.hl.cn^
 ||ufolm.com^
 ||ugdtimg.com^
 ||ee.uh64b.cn^
@@ -7146,7 +7139,6 @@
 ||wawozfinsera.net^
 ||e.wbanz.com^
 ||m.wbanz.com^
-||hyjkomf.wcujwbb.cn^
 ||wcxhc.hl.cn^
 ||factorship.wcyrkdd.cn^
 ||wd-kuailian.com.cn^
@@ -7375,7 +7367,6 @@
 ||wzrostportfinex.net^
 ||a.wzu.com^
 ||x-steam.com^
-||x-telegram.com.cn^
 ||x1ka.cn^
 ||x4hu95mh0t.com^
 ||xads-telegram.com.cn^
