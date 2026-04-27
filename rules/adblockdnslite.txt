@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260427003652
-! Last modified: 2026/04/27 00:36:52
-! Blocked domains: 7883
+! Version: 20260427101043
+! Last modified: 2026/04/27 10:10:43
+! Blocked domains: 7876
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -17,7 +17,6 @@
 ||o.027eat.com^
 ||jc.0351dvd.cn^
 ||036e.cn^
-||gemini.03vps.cn^
 ||0471fcw.com^
 ||0512pifa.com.cn^
 ||api.0530hz.cn^
@@ -2270,7 +2269,6 @@
 ||easyliao.com^
 ||easyrecoverychina.com^
 ||easytomessage.com^
-||vpass-login.eawfcz.cn^
 ||eb-kuailian.com.cn^
 ||ebjvu.cn^
 ||eblnzoq.cn^
@@ -2283,7 +2281,6 @@
 ||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
-||uyhgr.edgeone.app^
 ||fixverify-kzlxv1e5mb.edgeone.dev^
 ||gautamandgautam-byizfzvunb.edgeone.dev^
 ||gwqoplkgomencav.edgeone.dev^
@@ -3176,7 +3173,6 @@
 ||service.changhong.upgrade2.huan.tv^
 ||tclicon5.ifmis.huan.tv^
 ||huanbao110.com.cn^
-||huangguanzuqiu.com.cn^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||17.huanqiu.com^
@@ -4653,7 +4649,6 @@
 ||util.nphoto.net^
 ||nphqw.cn^
 ||nptpjz.cn^
-||nqnma.cn^
 ||m.nqut.cn^
 ||nrjzkj.cn^
 ||nryqr.cn^
@@ -4959,7 +4954,6 @@
 ||top.h.qhmsg.com^
 ||qhonzpl.cn^
 ||news.qhstatic.com^
-||applejapanc9186a91a573408e9029396e9f476e7a.qhywd.cn^
 ||qhyxx-live.com^
 ||c.qiandao.cn^
 ||sensors-api.qiandao.cn^
@@ -6271,7 +6265,6 @@
 ||tovbus.cn^
 ||tovppl.cn^
 ||tq-kuailian.com.cn^
-||dpd.tracescwz.icu^
 ||trackingio.com^
 ||tradesoul.cn^
 ||tradplus.cn^
