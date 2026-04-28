@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260428011724
-# Last modified: 2026/04/28 01:17:24
-# Blocked domains: 7630
+# Version: 20260428102616
+# Last modified: 2026/04/28 10:26:16
+# Blocked domains: 7627
 #
 local=/photo.0234408.cn/
 local=/img.0279.net/
@@ -2160,7 +2160,6 @@ local=/reviewsource-inquiryweb-22qyctxg9d.edgeone.dev/
 local=/roundcube-jrcfj7x9ek.edgeone.dev/
 local=/rtyuioplkjhgf-2wns89uj3k.edgeone.dev/
 local=/srv65ertui8uyt655io-7douf96n3o.edgeone.dev/
-local=/suryaprasanthfx-ctxr7fqp4s.edgeone.dev/
 local=/tropical-red-pd56z5jhth.edgeone.dev/
 local=/tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev/
 local=/verffddfkoiijbbvtfrcxswejkkloiuhvfrdskkolooknvc-qn7102xdig.edgeone.dev/
@@ -4009,7 +4008,6 @@ local=/lyzon.com.cn/
 local=/app.lz55.cn/
 local=/lzitzfb.cn/
 local=/m-i4.cn/
-local=/www.m105i.xyz/
 local=/mlog.m1905.cn/
 local=/trace.m1905.cn/
 local=/vodlog.m1905.cn/
@@ -7588,7 +7586,6 @@ local=/m.zosue.cn/
 local=/ee.zowmgxpz.cn/
 local=/m.zowmgxpz.cn/
 local=/zowralr.cn/
-local=/www.zoyue.com.cn/
 local=/zp0573.cn/
 local=/zq-hk.cn/
 local=/m.zq13n.cn/

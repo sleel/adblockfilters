@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260428011723
-! Last modified: 2026/04/28 01:17:23
-! Blocked domains: 7630
+! Version: 20260428102615
+! Last modified: 2026/04/28 10:26:15
+! Blocked domains: 7627
 ! unBlocked domains: 24
 !
 ||photo.0234408.cn^
@@ -2161,7 +2161,6 @@
 ||roundcube-jrcfj7x9ek.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||srv65ertui8uyt655io-7douf96n3o.edgeone.dev^
-||suryaprasanthfx-ctxr7fqp4s.edgeone.dev^
 ||tropical-red-pd56z5jhth.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||verffddfkoiijbbvtfrcxswejkkloiuhvfrdskkolooknvc-qn7102xdig.edgeone.dev^
@@ -4010,7 +4009,6 @@
 ||app.lz55.cn^
 ||lzitzfb.cn^
 ||m-i4.cn^
-||www.m105i.xyz^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -7589,7 +7587,6 @@
 ||ee.zowmgxpz.cn^
 ||m.zowmgxpz.cn^
 ||zowralr.cn^
-||www.zoyue.com.cn^
 ||zp0573.cn^
 ||zq-hk.cn^
 ||m.zq13n.cn^
