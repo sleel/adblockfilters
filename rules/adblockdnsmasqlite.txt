@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260429014317
-# Last modified: 2026/04/29 01:43:17
-# Blocked domains: 7865
+# Version: 20260429102646
+# Last modified: 2026/04/29 10:26:46
+# Blocked domains: 7862
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -911,7 +911,6 @@ local=/acjs.aliyun.com/
 local=/click.aliyun.com/
 local=/mpush-api.aliyun.com/
 local=/osfota.cdn.aliyun.com/
-local=/update.aegis.aliyun.com/
 local=/1fur2cuzsul-sdk.rum.aliyuncs.com/
 local=/1fw35mn5y7h-sdk.rum.aliyuncs.com/
 local=/1hlahoc4rpc-sdk.rum.aliyuncs.com/
@@ -1790,7 +1789,9 @@ local=/ggv.cmvideo.cn/
 local=/ggx.cmvideo.cn/
 local=/cn-aii4.hl.cn/
 local=/cn-office-wps.com.cn/
-local=/cn-oyi-okx.com.cn/
+local=/m.cn-oyi-okx.com.cn/
+local=/www.cn-oyi-okx.com.cn/
+local=/zh.cn-oyi-okx.com.cn/
 local=/cn-platform-wps.com.cn/
 local=/cn-safew-zh.hl.cn/
 local=/cn-wps-offiice.com.cn/
@@ -2443,7 +2444,6 @@ local=/ks.ferlytc.com/
 local=/ffmobi.com/
 local=/21.fh21static.com/
 local=/fhitagd.cn/
-local=/rblnnql.fhmselx.cn/
 local=/www.fiibz.cn/
 local=/fileshider.com/
 local=/ad.findic.com/
@@ -2995,7 +2995,6 @@ local=/hh04050aoik.com/
 local=/hh6666.com/
 local=/hhdr-telegram.com.cn/
 local=/hhttm.top/
-local=/hhbs.hhu.edu.cn/
 local=/sdd.hi1718.com/
 local=/hi9377.com/
 local=/s1.hiapk.com/
@@ -4823,7 +4822,6 @@ local=/img50.pingguolv.com/
 local=/api.pingstart.com/
 local=/bd1.pipaw.com/
 local=/bd2.pipaw.com/
-local=/iondnixgga.pir5.cn/
 local=/stat2.pixpin.cn/
 local=/pj50.com/
 local=/pjcn.org/
@@ -7546,8 +7544,6 @@ local=/yunshipei.com/
 local=/app.storage.yunvm.com/
 local=/httpdns.yunxindns.com/
 local=/statistic-overseas.yunxinfw.com/
-local=/logrcv.yunxish.com/
-local=/tracelog-debug.yunxish.com/
 local=/yunzhanghe.cn/
 local=/yuxing.hl.cn/
 local=/yuyue008.cn/
@@ -7812,6 +7808,7 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
+local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
