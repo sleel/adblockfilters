@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260430012243
-! Last modified: 2026/04/30 01:22:43
-! Blocked domains: 7884
+! Version: 20260430102733
+! Last modified: 2026/04/30 10:27:33
+! Blocked domains: 7877
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -1406,7 +1406,6 @@
 ||wzjs2.cdn.bcebos.com^
 ||httpdns.bcelive.com^
 ||bckrono.cn^
-||rypmzf.bd3le4.cn^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecmc.bdimg.com^
@@ -2384,7 +2383,6 @@
 ||euuh.cn^
 ||g.x.evolife.cn^
 ||evri-parcelq.cn^
-||evri-parcelw.cn^
 ||www.evri-uk.help^
 ||duologinsupersdk.ewan.cn^
 ||ewrrpuquc1.com^
@@ -3464,7 +3462,6 @@
 ||rabc2.iteye.com^
 ||stat.iteye.com^
 ||ityangstudy.cn^
-||ivbmu.cn^
 ||ivqtrjt.cn^
 ||blog.ivup.cn^
 ||ad.iwhop.cn^
@@ -3682,7 +3679,6 @@
 ||m.jzvog.cn^
 ||k1-binance.com.cn^
 ||k2n0f.cn^
-||k60f.xyz^
 ||k69wes8q8.com^
 ||k99.cc^
 ||log.kaayun.com^
@@ -4217,7 +4213,6 @@
 ||adsapi.manhuaren.com^
 ||bi.manhuaren.com^
 ||euadsapi.manhuaren.com^
-||mankalong.cn^
 ||manyou.com^
 ||adx.maplehaze.cn^
 ||sdk.markmedia.com.cn^
@@ -4766,7 +4761,6 @@
 ||p0yixb3wfv.com^
 ||p1-binance.com.cn^
 ||p188.cn^
-||p215p.xyz^
 ||p2cdn.com^
 ||p555.cc^
 ||p74ugyuur.com^
@@ -6176,7 +6170,6 @@
 ||yptqys.tianqistatic.com^
 ||fz.tiansys.cn^
 ||tiantiansoft.com^
-||yamaxun.tianzhe.cn^
 ||adx-bid.tianzhuobj.com^
 ||tiaosa.cn^
 ||tiexing.com^

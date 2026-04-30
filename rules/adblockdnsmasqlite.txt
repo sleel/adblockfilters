@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260430012243
-# Last modified: 2026/04/30 01:22:43
-# Blocked domains: 7884
+# Version: 20260430102733
+# Last modified: 2026/04/30 10:27:33
+# Blocked domains: 7877
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -1405,7 +1405,6 @@ local=/wzjs.cdn.bcebos.com/
 local=/wzjs2.cdn.bcebos.com/
 local=/httpdns.bcelive.com/
 local=/bckrono.cn/
-local=/rypmzf.bd3le4.cn/
 local=/ecma.bdimg.com/
 local=/ecmb.bdimg.com/
 local=/ecmc.bdimg.com/
@@ -2383,7 +2382,6 @@ local=/etui8.cn/
 local=/euuh.cn/
 local=/g.x.evolife.cn/
 local=/evri-parcelq.cn/
-local=/evri-parcelw.cn/
 local=/www.evri-uk.help/
 local=/duologinsupersdk.ewan.cn/
 local=/ewrrpuquc1.com/
@@ -3463,7 +3461,6 @@ local=/rabc1.iteye.com/
 local=/rabc2.iteye.com/
 local=/stat.iteye.com/
 local=/ityangstudy.cn/
-local=/ivbmu.cn/
 local=/ivqtrjt.cn/
 local=/blog.ivup.cn/
 local=/ad.iwhop.cn/
@@ -3681,7 +3678,6 @@ local=/e.jzvog.cn/
 local=/m.jzvog.cn/
 local=/k1-binance.com.cn/
 local=/k2n0f.cn/
-local=/k60f.xyz/
 local=/k69wes8q8.com/
 local=/k99.cc/
 local=/log.kaayun.com/
@@ -4216,7 +4212,6 @@ local=/mangomob.net/
 local=/adsapi.manhuaren.com/
 local=/bi.manhuaren.com/
 local=/euadsapi.manhuaren.com/
-local=/mankalong.cn/
 local=/manyou.com/
 local=/adx.maplehaze.cn/
 local=/sdk.markmedia.com.cn/
@@ -4765,7 +4760,6 @@ local=/ozogame.com/
 local=/p0yixb3wfv.com/
 local=/p1-binance.com.cn/
 local=/p188.cn/
-local=/p215p.xyz/
 local=/p2cdn.com/
 local=/p555.cc/
 local=/p74ugyuur.com/
@@ -6175,7 +6169,6 @@ local=/datas.tianqistatic.com/
 local=/yptqys.tianqistatic.com/
 local=/fz.tiansys.cn/
 local=/tiantiansoft.com/
-local=/yamaxun.tianzhe.cn/
 local=/adx-bid.tianzhuobj.com/
 local=/tiaosa.cn/
 local=/tiexing.com/
