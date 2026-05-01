@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260501172838
-! Last modified: 2026/05/01 17:28:38
-! Blocked domains: 7919
+! Version: 20260502005141
+! Last modified: 2026/05/02 00:51:41
+! Blocked domains: 7900
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -550,7 +550,6 @@
 ||bdcdncnc.inter.71edge.com^
 ||mfkn.71mxc6.cn^
 ||71zrh.cn^
-||www.72072.xyz^
 ||72225.xyz^
 ||73336zubo25326.com^
 ||e.73z9p.cn^
@@ -693,14 +692,12 @@
 ||acgshenshicha.cn^
 ||passport.acla.org.cn^
 ||acloud.com^
-||aclsx.cn^
 ||acoxcv.cn^
 ||memelq.acs.org^
 ||pubstr.acs.org^
 ||swebanalytics.acs.org^
 ||ad-plus.cn^
 ||ad-scope.com.cn^
-||ad-web-whatsapp.com.cn^
 ||ad7.com^
 ||adanxing.com^
 ||adbana.com^
@@ -1065,7 +1062,6 @@
 ||app-safew-safew.hl.cn^
 ||app-safew-win.hl.cn^
 ||app-safew-zh.hl.cn^
-||app-whatsapp-hl.com.cn^
 ||appadhoc.net^
 ||mobile.appchina.com^
 ||appdriver.cn^
@@ -1795,7 +1791,6 @@
 ||clasha.hl.cn^
 ||clashd.hl.cn^
 ||clashqaz.hl.cn^
-||clawxx.com.cn^
 ||cleartone.club^
 ||log-api.cli.im^
 ||click.com.cn^
@@ -2215,7 +2210,6 @@
 ||stun1.douyucdn.cn^
 ||dotcounter.douyutv.com^
 ||download-m-whatsapp.com.cn^
-||download-web-whatsapp.com.cn^
 ||s.doyo.cn^
 ||umami.dp.tech^
 ||s.dpcq1.net^
@@ -2451,11 +2445,8 @@
 ||fansd-youdao.hl.cn^
 ||fanyi100.com.cn^
 ||fanzhuang.net.cn^
-||fasm-youdao.com.cn^
-||fasp-youdao.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
-||fasuu-youdao.com.cn^
 ||dsp.fcbox.com^
 ||hugelog.fcbox.com^
 ||fccxgjg.com^
@@ -3691,7 +3682,6 @@
 ||1.jushtong.com^
 ||juzi.cn^
 ||kkgyqft.jvjme.cn^
-||jwb-whatsapp.com.cn^
 ||jwg365.cn^
 ||kzni.jwhfn.cn^
 ||jxdown.com^
@@ -3846,8 +3836,6 @@
 ||kuailian-888.com.cn^
 ||kuailian-ab1.com.cn^
 ||kuailian-ab2.com.cn^
-||kuailian-asq.com.cn^
-||kuailian-asu.com.cn^
 ||kuailian-cd1.com.cn^
 ||kuailian-cd2.com.cn^
 ||kuailian-do.com.cn^
@@ -4514,7 +4502,6 @@
 ||mo.mptckm.cn^
 ||mrlxc51byo.com^
 ||mrw.so^
-||msgdex-whatsapp.com.cn^
 ||srtb.msn.cn^
 ||c.msn.com.cn^
 ||livewebbs2pcdn.msstatic.com^
@@ -4726,7 +4713,6 @@
 ||ad.oceanengine.com^
 ||analytics.oceanengine.com^
 ||offerstrack.net^
-||office-wps-hl.com.cn^
 ||office-wps-hl.hl.cn^
 ||office0.cn^
 ||office300.com.cn^
@@ -4925,7 +4911,6 @@
 ||plt.data.pplive.com^
 ||ppvabs.pplive.com^
 ||web.data.pplive.com^
-||pps-web-whatsapp.com.cn^
 ||game.pps.tv^
 ||api.afdback.ppsimg.com^
 ||static.g.ppstream.com^
@@ -4940,7 +4925,6 @@
 ||pqjprom.cn^
 ||prasquinor.jp^
 ||prlioxb.cn^
-||proewildfire.cn^
 ||info.protiviti.com.cn^
 ||protonmail.org.cn^
 ||exhmxly.przc.cn^
@@ -5001,7 +4985,6 @@
 ||top.h.qhmsg.com^
 ||qhonzpl.cn^
 ||news.qhstatic.com^
-||qhyxx-live.com^
 ||c.qiandao.cn^
 ||sensors-api.qiandao.cn^
 ||download.qianka.com^
@@ -6833,7 +6816,6 @@
 ||ee.w82ph.cn^
 ||m.w82ph.cn^
 ||w97nv5ibv4.com^
-||wa-web-whatsapp.com.cn^
 ||w.waacorp.com^
 ||oxussid.waazsz.cn^
 ||tongdun-fingerprint.walmartmobile.cn^
@@ -6889,7 +6871,6 @@
 ||zgzxm.weathercn.com^
 ||zgzxs.weathercn.com^
 ||weaxym.com^
-||web-drp-whatsapp.com.cn^
 ||web-qishui.com.cn^
 ||web605.cn^
 ||webdissector.com^
