@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260501011411
-! Last modified: 2026/05/01 01:14:11
-! Blocked domains: 7701
+! Version: 20260501103215
+! Last modified: 2026/05/01 10:32:15
+! Blocked domains: 7689
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -1627,7 +1627,6 @@
 ||ssgg.chazidian.com^
 ||yong.chazidian.com^
 ||bdasd.chdbook.cn^
-||host.chejieqixiu.com^
 ||atrace.chelaile.net.cn^
 ||logs.chelaile.net.cn^
 ||chemdraw.com.cn^
@@ -1750,7 +1749,6 @@
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
 ||dubapkg.cmcmcdn.com^
-||rapi.cmgadx.com^
 ||cmmob.cn^
 ||config.cmpassport.com^
 ||config1.cmpassport.com^
@@ -1767,7 +1765,6 @@
 ||ggic.cmvideo.cn^
 ||ggv.cmvideo.cn^
 ||ggx.cmvideo.cn^
-||m.cn-oyi-okx.com.cn^
 ||www.cn-oyi-okx.com.cn^
 ||zh.cn-oyi-okx.com.cn^
 ||cn-wps-offiice.com.cn^
@@ -2339,7 +2336,6 @@
 ||erlpbwy.cn^
 ||ethan.wang^
 ||etitgo.com^
-||c.etoolads.cn^
 ||marketing.etouch.cn^
 ||etui8.cn^
 ||euuh.cn^
@@ -3364,7 +3360,6 @@
 ||paopao-monitor.iqiyi.com^
 ||policy.video.iqiyi.com^
 ||puma-api.iqiyi.com^
-||puma.api.iqiyi.com^
 ||static-s.iqiyi.com^
 ||static.g.iqiyi.com^
 ||store.iqiyi.com^
@@ -5219,7 +5214,6 @@
 ||qutaovip.com^
 ||ad.quwin.cn^
 ||quyaoya.com^
-||api.qvpublish.com^
 ||u.qxen.com^
 ||api.ts.feedback.qy.net^
 ||msg.qy.net^
@@ -5415,7 +5409,6 @@
 ||sfilm.com^
 ||sg92.com^
 ||sgcn-wps.com.cn^
-||track.sgdmobile.com^
 ||sglyd.cn^
 ||zqzrzcto.shacukj.cn^
 ||w88.shanghaidisneyresort.com.cn^
@@ -6065,7 +6058,6 @@
 ||tianji520.cn^
 ||tianjimedia.com^
 ||tianmidian.com^
-||tracker.tianmu.mobi^
 ||tiannbo.com^
 ||ip.tianqiapi.com^
 ||datas.tianqistatic.com^
@@ -6123,7 +6115,6 @@
 ||topsem.com^
 ||topstat.cn^
 ||static.topxgun.com^
-||api.touch-moblie.com^
 ||touclick.com^
 ||toushibao.com^
 ||ad.toutiao.com^
@@ -6178,7 +6169,6 @@
 ||tui98.cn^
 ||tuia.cn^
 ||activity.tuiapple.com^
-||activity.tuifish.com^
 ||yun.tuisnake.com^
 ||lm1.tuliu.com^
 ||tumeite.cn^
@@ -6321,7 +6311,6 @@
 ||updatehub.nx.cn^
 ||updatehub.sx.cn^
 ||uphzxdv.cn^
-||ads-sdk-cn.upltv.com^
 ||mobilelog.upqzfile.com^
 ||other.upqzfile.com^
 ||video.upqzfile.com^
@@ -7695,7 +7684,6 @@
 ||5mm.zxfw5.cn^
 ||zxiws.cn^
 ||zxrcfw.com^
-||api.ssp.zxrtb.com^
 ||zxw51.com^
 ||httpdns.zybang.com^
 ||mf01.zybang.com^
