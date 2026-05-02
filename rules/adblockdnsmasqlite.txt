@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260502005141
-# Last modified: 2026/05/02 00:51:41
-# Blocked domains: 7900
+# Version: 20260502100852
+# Last modified: 2026/05/02 10:08:52
+# Blocked domains: 7893
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -986,7 +986,6 @@ local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/o2o-ad-dev.oss-cn-shanghai.aliyuncs.com/
 local=/retcode-sg-lazada.arms.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
-local=/sgnfyn.oss-cn-shenzhen.aliyuncs.com/
 local=/shangmei-test.oss-cn-beijing.aliyuncs.com/
 local=/shaquevip.oss-cn-zhangjiakou.aliyuncs.com/
 local=/star-seo.oss-ap-northeast-1.aliyuncs.com/
@@ -3224,7 +3223,6 @@ local=/mldy.huaxiays.cn/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
 local=/hubiazhi.com/
-local=/download2.huduntech.com/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
 local=/huiun.com/
@@ -3376,7 +3374,6 @@ local=/smetrics.illumina.com.cn/
 local=/metrics.ilovematlab.cn/
 local=/smetrics.ilovematlab.cn/
 local=/imageter.com/
-local=/windriversfiles.imeitools.com/
 local=/img001.com/
 local=/tj.img4399.com/
 local=/imindmap.cc/
@@ -3680,7 +3677,6 @@ local=/juqishan.com.cn/
 local=/jusha.com/
 local=/1.jushtong.com/
 local=/juzi.cn/
-local=/kkgyqft.jvjme.cn/
 local=/jwg365.cn/
 local=/kzni.jwhfn.cn/
 local=/jxdown.com/
@@ -4966,8 +4962,6 @@ local=/news.qcyz.cn/
 local=/qdhyy.cn/
 local=/qdn4ydsg3s.com/
 local=/qdsfzz.cn/
-local=/apple114f41a952c24ba9b27973dd84b97604.qduxz.cn/
-local=/www.qduxz.cn/
 local=/qdzilh.cn/
 local=/qeeyou.cn/
 local=/qevcxo.cn/
@@ -7846,7 +7840,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
