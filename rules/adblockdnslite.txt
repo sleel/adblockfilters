@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260504004157
-! Last modified: 2026/05/04 00:41:57
-! Blocked domains: 7578
+! Version: 20260504101401
+! Last modified: 2026/05/04 10:14:01
+! Blocked domains: 7577
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -1637,6 +1637,7 @@
 ||pv.cheshi.com^
 ||qc1.cheshipin.com^
 ||z1.chezhuzhinan.com^
+||china-safety.org.cn^
 ||t6.china-xian.com^
 ||log.china.cn^
 ||ads.china.com^
@@ -4696,7 +4697,6 @@
 ||prlioxb.cn^
 ||info.protiviti.com.cn^
 ||protonmail.org.cn^
-||exhmxly.przc.cn^
 ||pstarv.cn^
 ||dm.pstatp.com^
 ||pb3.pstatp.com^
@@ -5239,6 +5239,7 @@
 ||safew0.com.cn^
 ||safew7.com.cn^
 ||safew8.com.cn^
+||safewu.com.cn^
 ||sagetrc.com^
 ||saitef.cn^
 ||samevay.com.cn^
@@ -6516,7 +6517,6 @@
 ||vorluic.cn^
 ||vpsgu.cn^
 ||vrbrothers.com^
-||hvkfmk.vrkxqfrx.cn^
 ||vrrm.cn^
 ||n.vs108.com^
 ||vsnoon.com^
@@ -7340,7 +7340,6 @@
 ||f1.zaojv.com^
 ||zazhipu.com^
 ||p3.zbjimg.com^
-||zbo0n.com^
 ||zbrushcn.com^
 ||xue.zbyw.cn^
 ||zbz360.com^
