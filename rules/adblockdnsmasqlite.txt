@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260505175739
-# Last modified: 2026/05/05 17:57:39
-# Blocked domains: 7511
+# Version: 20260506011821
+# Last modified: 2026/05/06 01:18:21
+# Blocked domains: 7497
 #
 local=/photo.0234408.cn/
 local=/img.0279.net/
@@ -487,7 +487,6 @@ local=/bdcdncmn-gd.inter.71edge.com/
 local=/bdcdncnc.inter.71edge.com/
 local=/mfkn.71mxc6.cn/
 local=/71zrh.cn/
-local=/72072.xyz/
 local=/73336zubo25326.com/
 local=/e.73z9p.cn/
 local=/m.73z9p.cn/
@@ -1833,7 +1832,6 @@ local=/lcatscpzx.cz592401.cn/
 local=/c1.czcol.cn/
 local=/m.czxjx.cn/
 local=/bd.czxuexi.com/
-local=/d1-binance.com.cn/
 local=/ggjs.d17.cc/
 local=/d48paxyhx.com/
 local=/ee.d6s2pn5t.cn/
@@ -2325,7 +2323,6 @@ local=/fhitagd.cn/
 local=/www.fiibz.cn/
 local=/fileshider.com/
 local=/ad.findic.com/
-local=/finessa-co.cfd/
 local=/firefang.cn/
 local=/a1.firefoxchina.cn/
 local=/fiwyjar.cn/
@@ -3128,7 +3125,6 @@ local=/iconworkshop.cn/
 local=/id6.me/
 local=/idcn-wps.com.cn/
 local=/iddeea-ba-gov.shop/
-local=/iddeea-gov.shop/
 local=/js.idgdmgroup.com.cn/
 local=/js2.idgdmgroup.com.cn/
 local=/idmchina.net/
@@ -3455,7 +3451,6 @@ local=/jlwz.cn/
 local=/www.jmine.cn/
 local=/jmlinks.cn/
 local=/jmlk.co/
-local=/jnh-live.com.cn/
 local=/save.jnrsmcu.com/
 local=/jnsz.net.cn/
 local=/jnykjgs.cn/
@@ -3513,7 +3508,6 @@ local=/jyzmsy.com.cn/
 local=/jzdwl4.cn/
 local=/e.jzvog.cn/
 local=/m.jzvog.cn/
-local=/k1-binance.com.cn/
 local=/k2n0f.cn/
 local=/k69wes8q8.com/
 local=/k99.cc/
@@ -3881,7 +3875,6 @@ local=/plausible.lipux.cn/
 local=/litchiads.com/
 local=/fan.liuxiaoer.com/
 local=/xi.liuxiaoer.com/
-local=/live-jnsports.com.cn/
 local=/hw-p2p-pull.live-voip.com/
 local=/tx-p2p-pull.live-voip.com/
 local=/ws-p2p-pull.live-voip.com/
@@ -4313,7 +4306,6 @@ local=/myip.myzaker.com/
 local=/push-android.myzaker.com/
 local=/mzcsdf.com/
 local=/aries.mzres.com/
-local=/n1-binance.com.cn/
 local=/n69.com/
 local=/static.live.nagezan.net/
 local=/ytapi1.nagezan.net/
@@ -4529,7 +4521,6 @@ local=/oyz61nhz8.com/
 local=/ozogame.com/
 local=/p0y.cn/
 local=/p0yixb3wfv.com/
-local=/p1-binance.com.cn/
 local=/p188.cn/
 local=/p2cdn.com/
 local=/p555.cc/
@@ -5985,7 +5976,6 @@ local=/tnc3-bjlgy.toutiaoapi.com/
 local=/toutiaopage.com/
 local=/tovbus.cn/
 local=/tovppl.cn/
-local=/toyclaw.com.cn/
 local=/tquickq.hl.cn/
 local=/trackingio.com/
 local=/tradesoul.cn/
@@ -6001,8 +5991,6 @@ local=/ts166.net/
 local=/tt-clashc.hl.cn/
 local=/tt-clashd.hl.cn/
 local=/tt-quickqy.hl.cn/
-local=/tt-shadowsocketa.hl.cn/
-local=/tt-shadowsocketw.hl.cn/
 local=/tt-shanlian.hl.cn/
 local=/ttdbh.com/
 local=/image.ttyouma.cn/
@@ -6856,7 +6844,6 @@ local=/xiaoyuanzuqiu.cn/
 local=/xiaoyutiao.com/
 local=/xiaozhen.com/
 local=/xiaozuowen.net/
-local=/xiazai-google-chrome.hl.cn/
 local=/xibao100.com/
 local=/xibvdjz2x2.com/
 local=/ns2.xidian.edu.cn/
@@ -7110,7 +7097,6 @@ local=/yomob.com.cn/
 local=/sxgahmjk.yottnats.cn/
 local=/bdgg.youbian.com/
 local=/youdao-fyi.hl.cn/
-local=/youdao-trans.com.cn/
 local=/a.youdao.com/
 local=/ad-sdk-config.youdao.com/
 local=/c.youdao.com/
