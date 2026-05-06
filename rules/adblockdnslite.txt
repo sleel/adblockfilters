@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260506011821
-! Last modified: 2026/05/06 01:18:21
-! Blocked domains: 7497
+! Version: 20260506101308
+! Last modified: 2026/05/06 10:13:08
+! Blocked domains: 7494
 ! unBlocked domains: 23
 !
 ||photo.0234408.cn^
@@ -2161,7 +2161,6 @@
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
-||spicy-lavender-taruyckhz3.edgeone.app^
 ||fixverify-kzlxv1e5mb.edgeone.dev^
 ||gautamandgautam-byizfzvunb.edgeone.dev^
 ||gtttt.edgeone.dev^
@@ -2777,7 +2776,6 @@
 ||heima8.com^
 ||ynud.heizundg.cn^
 ||fingerprint-upload.hellobike.com^
-||data-daceme.help-rich.com^
 ||alibaba-inc.kefu.helps.live^
 ||hetianwq.com^
 ||hxsame.hexun.com^
@@ -3914,7 +3912,6 @@
 ||rfmndnp.lqmgal.cn^
 ||lquickq.hl.cn^
 ||lrswl.com^
-||awevcvvbh.ls352272.cn^
 ||ny.lshdw.cc^
 ||a1.lshou.com^
 ||news-log.lsttnews.com^
