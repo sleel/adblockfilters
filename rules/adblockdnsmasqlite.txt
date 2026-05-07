@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260507012648
-# Last modified: 2026/05/07 01:26:48
-# Blocked domains: 7602
+# Version: 20260507101527
+# Last modified: 2026/05/07 10:15:27
+# Blocked domains: 7605
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -32,6 +32,7 @@ local=/087tqb.cn/
 local=/08office.com.cn/
 local=/0941.org/
 local=/cdn.0i-i0.com/
+local=/0iz.cn/
 local=/25w.0tzp8c.cn/
 local=/0wk6gdkg8r.com/
 local=/0x5.me/
@@ -442,7 +443,6 @@ local=/v16.56.com/
 local=/www.56.com/
 local=/1.5646.cn/
 local=/3.5646.cn/
-local=/566zhibo.com/
 local=/dl.1003b.56a.com/
 local=/56fba.cn/
 local=/57.com.cn/
@@ -508,6 +508,7 @@ local=/6789.net/
 local=/kl.67it.com/
 local=/68287zubo85737.com/
 local=/688mob.com/
+local=/68y.cn/
 local=/sygame.695157.com/
 local=/html.696157.com/
 local=/6c.cn/
@@ -531,6 +532,9 @@ local=/trail.71baomu.com/
 local=/bdcdncmn-gd.inter.71edge.com/
 local=/bdcdncnc.inter.71edge.com/
 local=/71zrh.cn/
+local=/72862.xyz/
+local=/72895.xyz/
+local=/73007.xyz/
 local=/73336zubo25326.com/
 local=/e.73z9p.cn/
 local=/m.73z9p.cn/
@@ -2217,7 +2221,6 @@ local=/bhdleoncredito.edgeone.app/
 local=/c2vydmvydxbkyxri-kte1fxva3p.edgeone.app/
 local=/critical-blush-g6rnkksr8r.edgeone.app/
 local=/dotnotblock-pfwzl61nwt.edgeone.app/
-local=/fillings-kz668u3giq.edgeone.app/
 local=/google09-fabgrwoaco.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/fixverify-kzlxv1e5mb.edgeone.dev/
@@ -2624,7 +2627,6 @@ local=/glsgroup-ptuv.cfd/
 local=/glsgroup-ptuz.cfd/
 local=/glsgroup-ptvr.cfd/
 local=/glsgroup-ptvs.cfd/
-local=/glsgroup-ptvz.cfd/
 local=/glsgroup-ptzr.cfd/
 local=/glsgroup-ptzs.cfd/
 local=/glsgroup-ptzu.cfd/
@@ -4377,6 +4379,7 @@ local=/ggs.myzaker.com/
 local=/gstat.myzaker.com/
 local=/myip.myzaker.com/
 local=/push-android.myzaker.com/
+local=/mzcb.cn/
 local=/mzcsdf.com/
 local=/aries.mzres.com/
 local=/n69.com/
@@ -4570,6 +4573,7 @@ local=/v.originz.cn/
 local=/visit.oschina.net/
 local=/osrrltw.cn/
 local=/otme.cn/
+local=/oubh.cn/
 local=/cp.oupeng.com/
 local=/img-ad.oupeng.com/
 local=/max-files.oupeng.com/
@@ -5193,7 +5197,6 @@ local=/www2.info.renesas.cn/
 local=/ebp.renren.com/
 local=/jebe.renren.com/
 local=/renzhen8.cn/
-local=/reosvr.cn/
 local=/api.revenuads.com/
 local=/info.revvity.cn/
 local=/rezgere.cn/
@@ -6561,7 +6564,6 @@ local=/vorluic.cn/
 local=/vpsgu.cn/
 local=/vrbrothers.com/
 local=/vrrm.cn/
-local=/n.vs108.com/
 local=/vsnoon.com/
 local=/vtfkbs.cn/
 local=/vultenok.net/
@@ -6798,6 +6800,7 @@ local=/xads-telegram.com.cn/
 local=/zamknj.xagnnx.cn/
 local=/www.xaqsl.com/
 local=/xazbts.com/
+local=/xb9.cn/
 local=/js1.xbaixing.com/
 local=/enappstat.xbext.com/
 local=/enstat.xbext.com/

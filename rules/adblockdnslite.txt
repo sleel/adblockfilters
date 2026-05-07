@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260507012648
-! Last modified: 2026/05/07 01:26:48
-! Blocked domains: 7602
+! Version: 20260507101527
+! Last modified: 2026/05/07 10:15:27
+! Blocked domains: 7605
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -33,6 +33,7 @@
 ||08office.com.cn^
 ||0941.org^
 ||cdn.0i-i0.com^
+||0iz.cn^
 ||25w.0tzp8c.cn^
 ||0wk6gdkg8r.com^
 ||0x5.me^
@@ -443,7 +444,6 @@
 ||www.56.com^
 ||1.5646.cn^
 ||3.5646.cn^
-||566zhibo.com^
 ||dl.1003b.56a.com^
 ||56fba.cn^
 ||57.com.cn^
@@ -509,6 +509,7 @@
 ||kl.67it.com^
 ||68287zubo85737.com^
 ||688mob.com^
+||68y.cn^
 ||sygame.695157.com^
 ||html.696157.com^
 ||6c.cn^
@@ -532,6 +533,9 @@
 ||bdcdncmn-gd.inter.71edge.com^
 ||bdcdncnc.inter.71edge.com^
 ||71zrh.cn^
+||72862.xyz^
+||72895.xyz^
+||73007.xyz^
 ||73336zubo25326.com^
 ||e.73z9p.cn^
 ||m.73z9p.cn^
@@ -2218,7 +2222,6 @@
 ||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
-||fillings-kz668u3giq.edgeone.app^
 ||google09-fabgrwoaco.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||fixverify-kzlxv1e5mb.edgeone.dev^
@@ -2625,7 +2628,6 @@
 ||glsgroup-ptuz.cfd^
 ||glsgroup-ptvr.cfd^
 ||glsgroup-ptvs.cfd^
-||glsgroup-ptvz.cfd^
 ||glsgroup-ptzr.cfd^
 ||glsgroup-ptzs.cfd^
 ||glsgroup-ptzu.cfd^
@@ -4378,6 +4380,7 @@
 ||gstat.myzaker.com^
 ||myip.myzaker.com^
 ||push-android.myzaker.com^
+||mzcb.cn^
 ||mzcsdf.com^
 ||aries.mzres.com^
 ||n69.com^
@@ -4571,6 +4574,7 @@
 ||visit.oschina.net^
 ||osrrltw.cn^
 ||otme.cn^
+||oubh.cn^
 ||cp.oupeng.com^
 ||img-ad.oupeng.com^
 ||max-files.oupeng.com^
@@ -5194,7 +5198,6 @@
 ||ebp.renren.com^
 ||jebe.renren.com^
 ||renzhen8.cn^
-||reosvr.cn^
 ||api.revenuads.com^
 ||info.revvity.cn^
 ||rezgere.cn^
@@ -6562,7 +6565,6 @@
 ||vpsgu.cn^
 ||vrbrothers.com^
 ||vrrm.cn^
-||n.vs108.com^
 ||vsnoon.com^
 ||vtfkbs.cn^
 ||vultenok.net^
@@ -6799,6 +6801,7 @@
 ||zamknj.xagnnx.cn^
 ||www.xaqsl.com^
 ||xazbts.com^
+||xb9.cn^
 ||js1.xbaixing.com^
 ||enappstat.xbext.com^
 ||enstat.xbext.com^
