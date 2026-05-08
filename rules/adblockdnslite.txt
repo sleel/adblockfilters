@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260508171037
-! Last modified: 2026/05/08 17:10:37
-! Blocked domains: 7428
+! Version: 20260509010757
+! Last modified: 2026/05/09 01:07:57
+! Blocked domains: 7395
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -991,8 +991,6 @@
 ||arpun.com^
 ||as-i4.com.cn^
 ||f5w.as12df.top^
-||asd-helloworld.hl.cn^
-||asd-quickq.hl.cn^
 ||asyn.cn^
 ||atelier-mobilier.com^
 ||aiseet.aa.atianqi.com^
@@ -1033,7 +1031,6 @@
 ||adm2.autoimg.cn^
 ||adm3.autoimg.cn^
 ||img2.autoimg.cn^
-||auu-quickq.hl.cn^
 ||adstatistics.av380.net^
 ||ixav-cse.avlyun.com^
 ||log.avlyun.com^
@@ -1473,7 +1470,6 @@
 ||cartx.cloud^
 ||super.cat898.com^
 ||tracking.cat898.com^
-||cbapaimingjbenyiding.com.cn^
 ||cbhzxctgm.com^
 ||gdc2091.cc-club.com.cn^
 ||adv.ccb.com^
@@ -1584,7 +1580,6 @@
 ||chrome-google-zh.com.cn^
 ||chrome-gooogle-zh.hl.cn^
 ||chrome-hl.hl.cn^
-||chroome-cn-google.com.cn^
 ||chshcms.net^
 ||config.chsmarttv.com^
 ||data.chsmarttv.com^
@@ -1669,7 +1664,6 @@
 ||www.cn-oyi-okx.com.cn^
 ||zh.cn-oyi-okx.com.cn^
 ||cn-qishui-music-zh.hl.cn^
-||cn-telegramxz.com.cn^
 ||cn-wps-zh.com.cn^
 ||cnaa123.com^
 ||cnbanbao.com^
@@ -1961,18 +1955,15 @@
 ||diediao.com^
 ||digitalfiles.org^
 ||digitalunion.cn^
-||dingbifendianzuobiaogongshi1.com.cn^
 ||ccyoo.dingdingxiaoer.cn^
 ||bea-s.dinghuoche.com^
 ||dingjunhuibisai.com.cn^
 ||dingjunhuibisaizhibo.com.cn^
-||dingjunhuiljeshijnsaichengj.com.cn^
 ||dingjunhuizuixinbisai.com.cn^
 ||dingjunhuizuixinbisaijeguo.com.cn^
 ||dingon.com.cn^
 ||resolver.dingtalk.com^
 ||dingxinpower.com.cn^
-||dingyueqaopaizenmejaopai.com.cn^
 ||linktrace.diningcity.cn^
 ||stdown.dinju.com^
 ||dinuojixie.com.cn^
@@ -2018,7 +2009,6 @@
 ||s.doyo.cn^
 ||umami.dp.tech^
 ||s.dpcq1.net^
-||dpdlocaluk.cfd^
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||dream-wendingyule.com.cn^
@@ -2193,12 +2183,10 @@
 ||epernn.cn^
 ||eavs02.eqifa.com^
 ||eqqi.cn^
-||er-todesk.com.cn^
 ||m.ercos.cn^
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
-||erxuanyichouqanjuedingq.com.cn^
 ||es-trading.com.cn^
 ||analytics.escience.org.cn^
 ||ethan.wang^
@@ -3413,7 +3401,6 @@
 ||jsmxkj.com^
 ||jspcdn.cn^
 ||fpb1.jsq886.com^
-||jsuanqishengpingfurangqiushengpingfuhunhe.com.cn^
 ||jszctech.com^
 ||juandou.com^
 ||jugao.com^
@@ -3461,7 +3448,6 @@
 ||smetrics.karcher.cn^
 ||bee.kascend.com^
 ||kb-wps.com.cn^
-||kclash.hl.cn^
 ||kddtri.cn^
 ||kdmmm.cn^
 ||panda.kdnet.net^
@@ -3560,7 +3546,6 @@
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
 ||log.kuaigeng.com^
-||kuaijian.hl.cn^
 ||kuailian-kr.com.cn^
 ||kuailianbapc.com.cn^
 ||kuailiancipc.com.cn^
@@ -3577,7 +3562,6 @@
 ||kuailiantupc.com.cn^
 ||kuailianwopc.com.cn^
 ||kuailianxupc.com.cn^
-||kuailyan.hl.cn^
 ||kuaishang.cn^
 ||kuaishang.com.cn^
 ||e.kuaishou.cn^
@@ -3585,7 +3569,6 @@
 ||promotion-partner.kuaishou.com^
 ||wlog.kuaishou.com^
 ||open.kuaishouzt.com^
-||kuaitian.hl.cn^
 ||web.kuaiwan.com^
 ||lottery.kuaiya.cn^
 ||adx.kuaiyiad.com^
@@ -3862,7 +3845,6 @@
 ||game.loveota.com^
 ||sdk.loveota.net^
 ||rfmndnp.lqmgal.cn^
-||lquickq.hl.cn^
 ||lrswl.com^
 ||ny.lshdw.cc^
 ||a1.lshou.com^
@@ -4265,7 +4247,6 @@
 ||nawrogrenix.com^
 ||nb4ds7c13d.com^
 ||nbahupuqishizhuanqu.com.cn^
-||nbajuejnvskuaichuan.com.cn^
 ||nbakuaichuan1.com.cn^
 ||nbakuaichuandui1.com.cn^
 ||nbaqishiduiqiuyuanmingdan.com.cn^
@@ -4354,8 +4335,6 @@
 ||nsxtob.cn^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
-||ntsa-go-ke.cyou^
-||ntsa-go.autos^
 ||pdns.nudt.edu.cn^
 ||nuffnang.com.cn^
 ||c.nuhcpf.com^
@@ -4390,7 +4369,6 @@
 ||official-dingji.com.cn^
 ||official-live-cba.com.cn^
 ||official-live-nba.com.cn^
-||official-telegramxz.com.cn^
 ||offie-wps.com.cn^
 ||offiie-wps.com.cn^
 ||apps5.oingo.com^
@@ -4422,7 +4400,6 @@
 ||olpvimg.onlylady.com^
 ||olstats.onlylady.com^
 ||onrunningshop.com^
-||ontariogh.help^
 ||ooniu.com^
 ||analytics.ooofoo.com^
 ||analytics.ooopic.com^
@@ -4478,7 +4455,6 @@
 ||pagechoice.com^
 ||pagechoice.net^
 ||paime.com^
-||paiqiuzuigao30fenfengdingma.com.cn^
 ||stats.pairmb.com^
 ||mm.paizi.net^
 ||palm-ad.cn^
@@ -4496,7 +4472,6 @@
 ||passwordrecovery.cn^
 ||bt1.patexplorer.com^
 ||pbaiyho.cn^
-||pc-dingding.com.cn^
 ||pc-todesk.com.cn^
 ||ipad.pc899.cn^
 ||count.pcauto.com.cn^
@@ -4602,7 +4577,6 @@
 ||static.g.pptv.com^
 ||tj.g.pptv.com^
 ||pqjprom.cn^
-||pquickq.hl.cn^
 ||prasquinor.jp^
 ||prlioxb.cn^
 ||info.protiviti.com.cn^
@@ -5504,7 +5478,6 @@
 ||srbzw.cn^
 ||data.ssports.com^
 ||show.ssports.com^
-||sss-kuailian.hl.cn^
 ||ssur.cc^
 ||star-media.cn^
 ||star8.net^
@@ -5912,7 +5885,6 @@
 ||tovbus.cn^
 ||tovppl.cn^
 ||tponline.com.cn^
-||tquickq.hl.cn^
 ||trackingio.com^
 ||tradesoul.cn^
 ||tradplus.cn^
@@ -6589,7 +6561,6 @@
 ||mlog.wangsu.com.wswebcdn.com^
 ||iwfcaz.wtlaf.cn^
 ||cdn-ad.wtzw.com^
-||wu-todesk.com.cn^
 ||manage.wuhancloud.cn^
 ||wukongtongji.com^
 ||wumii.cn^
@@ -6652,7 +6623,6 @@
 ||analytics.xgimi.com^
 ||pics.xgo-img.com.cn^
 ||stat.xgo.com.cn^
-||xgoogle.cn^
 ||m.xhera.cn^
 ||xhkvff.cn^
 ||ads-i1.xhscdn.com^
@@ -7216,7 +7186,6 @@
 ||td.zgxue.com^
 ||zh-googlle-chrome.hl.cn^
 ||zh-line-com.com.cn^
-||zh-telegramxz.com.cn^
 ||zh-todesk-cn.hl.cn^
 ||zh-word-wps.com.cn^
 ||zh1-wps.com.cn^
@@ -7236,7 +7205,6 @@
 ||slotabrosuat.zharev.com^
 ||zhcn-chrome-chrome.com.cn^
 ||zhcn-googele.hl.cn^
-||zhcn-telegramxz.com.cn^
 ||cdnlog.zhenai.com^
 ||1.zhev.com.cn^
 ||zhflodsix.cn^
@@ -7392,7 +7360,6 @@
 ||zq-hk.cn^
 ||m.zq13n.cn^
 ||zqmhl8lgj.com^
-||zrg-telegramxz.com.cn^
 ||zsjxwj.com^
 ||steam.zssjsq.com^
 ||zszwcp.cn^
