@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260508014405
-! Last modified: 2026/05/08 01:44:05
-! Blocked domains: 7528
+! Version: 20260508103135
+! Last modified: 2026/05/08 10:31:35
+! Blocked domains: 7526
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -248,7 +248,6 @@
 ||shouji.360.cn^
 ||show.look.360.cn^
 ||soft.data.weather.360.cn^
-||softdl4.360.cn^
 ||stat.m.360.cn^
 ||stat.sd.360.cn^
 ||tf.360.cn^
@@ -348,6 +347,7 @@
 ||recsys-crawl.4paradigm.com^
 ||m.4qonm.cn^
 ||4rw6x0b.cn^
+||4zw.cn^
 ||1.5000yan.com^
 ||4399stat.5054399.com^
 ||50bang.org^
@@ -418,6 +418,7 @@
 ||3.5646.cn^
 ||dl.1003b.56a.com^
 ||56fba.cn^
+||56q8.cn^
 ||57.com.cn^
 ||57573zubo36833.com^
 ||adshow.58.com^
@@ -452,7 +453,6 @@
 ||efgh.5lu.com^
 ||5mgrgsc.cn^
 ||adjb.5nd.com^
-||5pub.com^
 ||5qzone.net^
 ||e.5tbiec.cn^
 ||m.5tbiec.cn^
@@ -626,8 +626,10 @@
 ||s.abcache.com^
 ||abckzo.cn^
 ||smetrics.abercrombie.cn^
+||abiq.cn^
 ||discover.absciex.com.cn^
 ||disk.accord1key.cn^
+||acfb.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -673,6 +675,7 @@
 ||admobile.top^
 ||admon.cn^
 ||adn-plus.com.cn^
+||adqa.cn^
 ||adquan.com^
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
@@ -912,7 +915,6 @@
 ||httpdns-sc.aliyuncs.com^
 ||huga88mbbq-sdk.rum.aliyuncs.com^
 ||hxyhxsq4jc-sdk.rum.aliyuncs.com^
-||imagefiles-backup.oss-ap-southeast-7.aliyuncs.com^
 ||img-dsp.oss-cn-beijing.aliyuncs.com^
 ||j2c03hoppk-default-cn.rum.aliyuncs.com^
 ||jiayi1.oss-cn-shanghai.aliyuncs.com^
@@ -1330,7 +1332,6 @@
 ||smetrics.beatsbydre.com.cn^
 ||m.bedhdig.cn^
 ||beigedi.com^
-||beigonggroup.com^
 ||ad.beihai365.com^
 ||beizi.biz^
 ||smetrics.benefitcosmetics.com.cn^
@@ -1685,7 +1686,6 @@
 ||log.cmbchina.com^
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
-||dubapkg.cmcmcdn.com^
 ||rapi.cmgadx.com^
 ||cmmob.cn^
 ||config.cmpassport.com^
@@ -2172,7 +2172,6 @@
 ||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
-||fascinating-apricot-y5g8i3kjes-lherye8fpi.edgeone.app^
 ||google09-fabgrwoaco.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app^
@@ -2197,7 +2196,6 @@
 ||tropical-red-pd56z5jhth.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||vambanlopcaxomilsss.edgeone.dev^
-||verffddfkoiijbbvtfrcxswejkkloiuhvfrdskkolooknvc-qn7102xdig.edgeone.dev^
 ||ediuschina.com^
 ||eduace.com.cn^
 ||eeeqi.cn^
@@ -2640,6 +2638,7 @@
 ||gqdfgyz.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
+||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||z.grfyw.com^
@@ -2858,7 +2857,6 @@
 ||hh6666.com^
 ||xafrwo.hhgpb.cn^
 ||hhttm.top^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||hi9377.com^
 ||s1.hiapk.com^
@@ -2984,6 +2982,7 @@
 ||hrjg.com.cn^
 ||hseda.com^
 ||hsehk.cn^
+||hsp.cn^
 ||hsrgnac.cn^
 ||g.hsw.cn^
 ||hsych.com^
@@ -3088,6 +3087,7 @@
 ||sdk.hzsanjiaomao.com^
 ||adashx.ut.hzshudian.com^
 ||h-adashx.ut.hzshudian.com^
+||hzy.cn^
 ||ad.hzyoka.com^
 ||i-fk.cn^
 ||i-zoom.com.cn^
@@ -3566,7 +3566,6 @@
 ||tj.koudaitong.com^
 ||b.kouke5.com^
 ||bundle.kpzip.com^
-||d.kpzip.com^
 ||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
@@ -3973,6 +3972,7 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
+||maxisgt.vip^
 ||mayi360.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4167,6 +4167,7 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
+||mmjh.top^
 ||mmkkiivv.com^
 ||vnzq.mmpuh.cn^
 ||dutrkqs.mmtofz.cn^
@@ -4265,12 +4266,10 @@
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
-||bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com^
 ||cdn-10049480.file.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
-||j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com^
 ||leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
@@ -4667,6 +4666,7 @@
 ||www.q4ee.top^
 ||ssh.q4hwkg.cn^
 ||q83v5haaz.com^
+||qafe.cn^
 ||qazwex.cn^
 ||cp.qbaobei.com^
 ||apilog.qbb6.com^
@@ -4691,7 +4691,6 @@
 ||qfcdgy.cn^
 ||qg6uf.cn^
 ||qguwoq.cn^
-||kgwqyj.qh118705.cn^
 ||kumcrfdk.qh229548.cn^
 ||dhvuuxhmt.qh399063.cn^
 ||m.qh70wg.cn^
@@ -5053,7 +5052,6 @@
 ||ad.quwin.cn^
 ||vn-ebay.quxlpuj.cn^
 ||quyaoya.com^
-||qviega.cn^
 ||api.qvpublish.com^
 ||u.qxen.com^
 ||p1.qxzsw.com^
@@ -5564,6 +5562,7 @@
 ||tongji.southmoney.com^
 ||spreadable.com.cn^
 ||sq59.cn^
+||sqij.cn^
 ||srbzw.cn^
 ||data.ssports.com^
 ||show.ssports.com^
@@ -5648,7 +5647,6 @@
 ||szlite.cn^
 ||szmpc.cn^
 ||countpage.sznews.com^
-||t-mobieler.wiki^
 ||t101.cn^
 ||t1n.cn^
 ||t28goe.cn^
@@ -6489,7 +6487,6 @@
 ||httpdns.volcengineapi.com^
 ||apmplus.volces.com^
 ||apmplus.ap-southeast-1.volces.com^
-||dindong.tos-cn-hongkong.volces.com^
 ||gator.volces.com^
 ||mssdk.volces.com^
 ||tab.volces.com^
@@ -6515,6 +6512,7 @@
 ||vxhsj.cn^
 ||vyye.cn^
 ||vzan.com^
+||vzmt.cn^
 ||vzvvifw.cn^
 ||w3cfba6ufr.com^
 ||e.w6xj6.cn^
@@ -6771,7 +6769,6 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||xhyktech.com^
-||xi-xi-google.com.cn^
 ||gemini.xiadengma.com^
 ||cdn.xianchengyou.com^
 ||khrtac.xiangha.com^
@@ -7478,6 +7475,7 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
