@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260510004527
-! Last modified: 2026/05/10 00:45:27
-! Blocked domains: 7546
+! Version: 20260510102714
+! Last modified: 2026/05/10 10:27:14
+! Blocked domains: 7526
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -32,7 +32,6 @@
 ||0941.org^
 ||0dy3evz6x.com^
 ||cdn.0i-i0.com^
-||0iz.cn^
 ||25w.0tzp8c.cn^
 ||0wk6gdkg8r.com^
 ||0x5.me^
@@ -382,7 +381,6 @@
 ||recsys-crawl.4paradigm.com^
 ||m.4qonm.cn^
 ||4rw6x0b.cn^
-||4zw.cn^
 ||1.5000yan.com^
 ||4399stat.5054399.com^
 ||50bang.org^
@@ -452,7 +450,6 @@
 ||3.5646.cn^
 ||dl.1003b.56a.com^
 ||56fba.cn^
-||56q8.cn^
 ||57.com.cn^
 ||57573zubo36833.com^
 ||adshow.58.com^
@@ -516,7 +513,6 @@
 ||kl.67it.com^
 ||68287zubo85737.com^
 ||688mob.com^
-||68y.cn^
 ||sygame.695157.com^
 ||html.696157.com^
 ||6c.cn^
@@ -665,7 +661,6 @@
 ||s.abcache.com^
 ||abckzo.cn^
 ||smetrics.abercrombie.cn^
-||abiq.cn^
 ||discover.absciex.com.cn^
 ||disk.accord1key.cn^
 ||apilog-web.acfun.cn^
@@ -711,7 +706,6 @@
 ||admobile.top^
 ||admon.cn^
 ||adn-plus.com.cn^
-||adqa.cn^
 ||adquan.com^
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
@@ -2667,7 +2661,6 @@
 ||gqdfgyz.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
-||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||z.grfyw.com^
@@ -3013,7 +3006,6 @@
 ||hrjg.com.cn^
 ||hseda.com^
 ||hsehk.cn^
-||hsp.cn^
 ||hsrgnac.cn^
 ||g.hsw.cn^
 ||hsych.com^
@@ -3124,7 +3116,6 @@
 ||sdk.hzsanjiaomao.com^
 ||adashx.ut.hzshudian.com^
 ||h-adashx.ut.hzshudian.com^
-||hzy.cn^
 ||ad.hzyoka.com^
 ||i-fk.cn^
 ||i-zoom.com.cn^
@@ -3459,7 +3450,6 @@
 ||jinnf.cn^
 ||jinshanduba.org.cn^
 ||eo.jinzpeng.cn^
-||jiongnet.cn^
 ||mad1.jirou.com^
 ||h5.jiumaster.com^
 ||analytics.jiuzhilan.com^
@@ -3953,7 +3943,6 @@
 ||a1.lshou.com^
 ||news-log.lsttnews.com^
 ||luciochen.cn^
-||www.lucky-bet365.com.cn^
 ||lucky-wendingyule.com.cn^
 ||ludashi.com^
 ||metrics.lululemon.cn^
@@ -4020,7 +4009,6 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
-||maxisgt.vip^
 ||mayi360.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4213,7 +4201,6 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
-||mmjh.top^
 ||mmkkiivv.com^
 ||vnzq.mmpuh.cn^
 ||dutrkqs.mmtofz.cn^
@@ -4332,7 +4319,6 @@
 ||gstat.myzaker.com^
 ||myip.myzaker.com^
 ||push-android.myzaker.com^
-||mzcb.cn^
 ||aries.mzres.com^
 ||n4d3ev3m1.com^
 ||n69.com^
@@ -4527,7 +4513,6 @@
 ||visit.oschina.net^
 ||osrrltw.cn^
 ||otme.cn^
-||oubh.cn^
 ||cp.oupeng.com^
 ||img-ad.oupeng.com^
 ||max-files.oupeng.com^
@@ -4711,7 +4696,6 @@
 ||www.q4ee.top^
 ||ssh.q4hwkg.cn^
 ||q83v5haaz.com^
-||qafe.cn^
 ||qazwex.cn^
 ||cp.qbaobei.com^
 ||apilog.qbb6.com^
@@ -5609,7 +5593,6 @@
 ||tongji.southmoney.com^
 ||spreadable.com.cn^
 ||sq59.cn^
-||sqij.cn^
 ||srbzw.cn^
 ||data.ssports.com^
 ||show.ssports.com^
@@ -6519,7 +6502,6 @@
 ||vyye.cn^
 ||vz-bhrx-log.s3.amazonaws.com^
 ||vzan.com^
-||vzmt.cn^
 ||vzvvifw.cn^
 ||w-dingding.com.cn^
 ||w3cfba6ufr.com^
@@ -6749,7 +6731,6 @@
 ||xads-telegram.com.cn^
 ||zamknj.xagnnx.cn^
 ||xazbts.com^
-||xb9.cn^
 ||js1.xbaixing.com^
 ||enappstat.xbext.com^
 ||enstat.xbext.com^
@@ -7349,7 +7330,6 @@
 ||zha-wending.com.cn^
 ||zhads.com^
 ||tfs.zhamm.cn^
-||zhangjie-whatsapp.com.cn^
 ||zhangxinzhixun.com^
 ||adsin.zhangyoubao.com^
 ||push.zhangyue.com^
