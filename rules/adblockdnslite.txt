@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260510172449
-! Last modified: 2026/05/10 17:24:49
-! Blocked domains: 7718
+! Version: 20260511004553
+! Last modified: 2026/05/11 00:45:53
+! Blocked domains: 7668
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -660,7 +660,6 @@
 ||a4xvv2g18l.com^
 ||aa67678156.com^
 ||aaa-youdao.com.cn^
-||aabbccdd123.com^
 ||aafanke.cc^
 ||aajrvt.cn^
 ||aaoffice.cn^
@@ -810,9 +809,7 @@
 ||hk-datareceiver.aki-game.net^
 ||jp-datareceiver.aki-game.net^
 ||us-datareceiver.aki-game.net^
-||aki-googlezhcn.hl.cn^
 ||ako.cc^
-||aku-googlezhcn.hl.cn^
 ||alertcenter.hn.cn^
 ||alertcenter.net.cn^
 ||alertcenter.qh.cn^
@@ -1294,7 +1291,6 @@
 ||yingxiao.baidu.com^
 ||znsv.baidu.com^
 ||httpdns.baidubce.com^
-||baidufanyivv.com.cn^
 ||baidustatic.com^
 ||baifendian.com^
 ||www.baihe.com^
@@ -1427,7 +1423,6 @@
 ||an.biocoop.cn^
 ||ai.bioon.com^
 ||www.biqubao.com^
-||bisaijangjnkoushuibiaozhun.com.cn^
 ||bglog.bitauto.com^
 ||carstat.bitauto.com^
 ||g.bitauto.com^
@@ -1631,7 +1626,6 @@
 ||atrace.chelaile.net.cn^
 ||logs.chelaile.net.cn^
 ||chemdraw.com.cn^
-||chengcaishop.com^
 ||chenggao.cn^
 ||chengjie168.com.cn^
 ||chengzijianzhan.cc^
@@ -1762,7 +1756,6 @@
 ||ggv.cmvideo.cn^
 ||ggx.cmvideo.cn^
 ||cn-excel-wps.com.cn^
-||cn-line-zh.com.cn^
 ||www.cn-oyi-okx.com.cn^
 ||zh.cn-oyi-okx.com.cn^
 ||cn-qishui-music-zh.hl.cn^
@@ -2063,11 +2056,7 @@
 ||ccyoo.dingdingxiaoer.cn^
 ||dingdongdianwanyouxipingtai.com.cn^
 ||bea-s.dinghuoche.com^
-||dingjunhuibisai.com.cn^
-||dingjunhuibisaizhibo.com.cn^
 ||dingjunhuiganggangbisaijegjntian.com.cn^
-||dingjunhuizuixinbisai.com.cn^
-||dingjunhuizuixinbisaijeguo.com.cn^
 ||dingjweiqimingjuxinshang.com.cn^
 ||dingon.com.cn^
 ||resolver.dingtalk.com^
@@ -2338,7 +2327,6 @@
 ||c.etoolads.cn^
 ||marketing.etouch.cn^
 ||etui8.cn^
-||euroexpress-ba.icu^
 ||euuh.cn^
 ||g.x.evolife.cn^
 ||www.evoly.cn^
@@ -2689,9 +2677,6 @@
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-ch-chrome.com.cn^
-||google-chrome-down.com.cn^
-||google-chrome-pcc.com.cn^
-||google-chrome-qq.com.cn^
 ||google-chrrome-zh.hl.cn^
 ||google-cnch.com.cn^
 ||google-google-chrome-google-com.hl.cn^
@@ -3030,7 +3015,6 @@
 ||resu8.hjfile.cn^
 ||hjpqt.cn^
 ||hk-hqlm-whatsapp.hl.cn^
-||hk-youdaoo.hl.cn^
 ||hkkeafj.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -3721,14 +3705,10 @@
 ||hdns.ksyun.com^
 ||ssp.kss.ksyun.com^
 ||ku6.com^
-||kuaichuan1.com.cn^
 ||kuaichuanbisaimianfeizhibo.com.cn^
-||kuaichuansaichenganpaibiaoa.com.cn^
-||kuaichuanvsyongshizhibomianfeiguankan1.com.cn^
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
 ||log.kuaigeng.com^
-||kuailian-kr.com.cn^
 ||kuailianbapc.com.cn^
 ||kuailiancipc.com.cn^
 ||kuailiancupc.com.cn^
@@ -3999,7 +3979,6 @@
 ||hw-p2p-pull.live-voip.com^
 ||tx-p2p-pull.live-voip.com^
 ||ws-p2p-pull.live-voip.com^
-||live-www-kaiyun.com.cn^
 ||mkadsearch.lizhifm.com^
 ||aoooccc.lizhuizhui.cn^
 ||o.lj7t6e.cn^
@@ -4067,7 +4046,6 @@
 ||app.lz55.cn^
 ||lzitzfb.cn^
 ||m-i4.cn^
-||m-online-hth.com.cn^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -4443,11 +4421,6 @@
 ||nasimobi.com^
 ||dl.natgo.cn^
 ||nb4ds7c13d.com^
-||nbahupuqishizhuanqu.com.cn^
-||nbakuaichuan1.com.cn^
-||nbakuaichuandui1.com.cn^
-||nbaqishiduiqiuyuanmingdan.com.cn^
-||nbayongshivskuaichuan.com.cn^
 ||nbzqxe.cn^
 ||ncwckj.com^
 ||ncxpcxa.cn^
@@ -4590,8 +4563,6 @@
 ||onezapp.com^
 ||online-anbo-sport.com.cn^
 ||online-jinnianhui.com.cn^
-||online-okooo.com.cn^
-||online-panda-sports.com.cn^
 ||online-worldcup-tips.com.cn^
 ||online-worldcup-yu.com.cn^
 ||online.sh.cn^
@@ -4652,7 +4623,6 @@
 ||p555.cc^
 ||p74ugyuur.com^
 ||paa-kuailian.com.cn^
-||paa-shadowrocket.hl.cn^
 ||static.paddlewaver.com^
 ||xml-v4.paddlewaver.com^
 ||pagechoice.com^
@@ -4691,7 +4661,6 @@
 ||pcpop.com^
 ||pcupd.com^
 ||pd-wps.com.cn^
-||pdd-shadowrocket.hl.cn^
 ||video-dsp.pddpic.com^
 ||download.pdf00.cn^
 ||download.pdf00.com^
@@ -4810,7 +4779,6 @@
 ||pushauction.com^
 ||pushcfg.com^
 ||pusure.com^
-||puu-shadowrocket.hl.cn^
 ||pvkc.cn^
 ||pvmqyu.cn^
 ||pxwu.cn^
@@ -4888,13 +4856,9 @@
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
-||qishibisai.com.cn^
-||qishibisaihuifang.com.cn^
-||qishibisaizhibo.com.cn^
 ||qishibisaizhibomianfei.com.cn^
 ||qishiduijntianbisai.com.cn^
 ||qishiduimianfeiluxianghuifang.com.cn^
-||qishizuijnbisai.com.cn^
 ||qishmusic.com.cn^
 ||qishui-yymusic.com.cn^
 ||qishuiyinyuevv.com.cn^
@@ -5544,7 +5508,6 @@
 ||rs.sinajs.cn^
 ||tjs.sjs.sinajs.cn^
 ||sinawap.com^
-||sinuokeshidadingjtiancai.com.cn^
 ||mail.siom.ac.cn^
 ||sdk.sipujia.cn^
 ||sirsplajp.com^
@@ -5726,7 +5689,6 @@
 ||click1n.soufun.com^
 ||countubn.light.soufun.com^
 ||tongji.home.soufun.com^
-||sougou-zii.com.cn^
 ||sougoullqvv.com.cn^
 ||sougoupy.com.cn^
 ||roi.soulapp.cn^
@@ -5760,7 +5722,6 @@
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||stuowq.cn^
-||suidingzuqiuxie.com.cn^
 ||uc9.suinidai.com.cn^
 ||client-dmp.suishenyun.cn^
 ||log-dmp.suishenyun.cn^
@@ -6065,7 +6026,6 @@
 ||tianhuicun.com.cn^
 ||tianji520.cn^
 ||tianjimedia.com^
-||tianjnnanpai3-1baodingnanpai.com.cn^
 ||tianmidian.com^
 ||tracker.tianmu.mobi^
 ||tiannbo.com^
@@ -6098,7 +6058,6 @@
 ||tnze.cn^
 ||to8to.com^
 ||tobidad.com^
-||todesk-jvip.com.cn^
 ||todesk-web.hl.cn^
 ||todesk-zh.cn^
 ||todesk-zh.hl.cn^
@@ -6163,8 +6122,6 @@
 ||ta.trs.cn^
 ||trustutn.org^
 ||ts166.net^
-||tt-quickqy.hl.cn^
-||tt-shanlian.hl.cn^
 ||ttdbh.com^
 ||image.ttyouma.cn^
 ||ttyyuuoo.com^
@@ -6768,7 +6725,6 @@
 ||1.weiheshidai.com^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
-||weiqishidagongrenzuiqiangqishou.com.cn^
 ||moetpqhog.weiuh.cn^
 ||badjs.weixinbridge.com^
 ||huatuo.weiyun.com^
@@ -6958,7 +6914,6 @@
 ||cdn.xianchengyou.com^
 ||khrtac.xiangha.com^
 ||t1.cdn.xiangha.com^
-||xiangqishidabulmkaiju.com.cn^
 ||xiangshunjy.com^
 ||xianliao.me^
 ||xianshangzixun.com^
@@ -7201,7 +7156,6 @@
 ||yahoo.com.cn^
 ||m.yalayi.com^
 ||w.yamaidei.cn^
-||yanbianlongdingduizuixinxiaoxi2026.com.cn^
 ||yandex.net.cn^
 ||cmta.yangkeduo.com^
 ||ta.yangkeduo.com^
@@ -7333,7 +7287,6 @@
 ||sdk-log-inter.youdao.com^
 ||union.youdao.com^
 ||ydpushserver.youdao.com^
-||youdaoo-pc.hl.cn^
 ||youday.cn^
 ||static.youdm.cn^
 ||youhuiguan.com^
@@ -7506,11 +7459,9 @@
 ||zgisp.net^
 ||photo.zgncpjyw.cn^
 ||yin1.zgpingshu.com^
-||zgweiqishidasaishi.com.cn^
 ||1234.zgxue.com^
 ||td.zgxue.com^
 ||zh-cn-google.hl.cn^
-||zh-line-com.com.cn^
 ||zh-todesk-cn.hl.cn^
 ||zh-word-wps.com.cn^
 ||zh1-wps.com.cn^
@@ -7554,7 +7505,6 @@
 ||t.zhipin.com^
 ||zhiziyun.com^
 ||eladies.zhmyq.cn^
-||zhongchampiaowangshangdingpiaogw.com.cn^
 ||w11.zhongkaohelp.com^
 ||zhongkaowu.com^
 ||www.zhongmin.cn^
