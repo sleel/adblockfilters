@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260511004553
-! Last modified: 2026/05/11 00:45:53
-! Blocked domains: 7668
+! Version: 20260511103618
+! Last modified: 2026/05/11 10:36:18
+! Blocked domains: 7654
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -245,7 +245,6 @@
 ||2ztav5r7r.com^
 ||ad.3.cn^
 ||atom-log.3.cn^
-||static.3001.net^
 ||analytics.300624.com^
 ||301848.com^
 ||301pk.com^
@@ -966,7 +965,6 @@
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
-||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
 ||lazada-ad-workstation.oss-ap-southeast-1.aliyuncs.com^
 ||mobaders.oss-cn-beijing.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
@@ -2235,7 +2233,6 @@
 ||ecudsc.cn^
 ||acccountverificatonlog.edgeone.app^
 ||bhdleoncredito.edgeone.app^
-||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
 ||google09-fabgrwoaco.edgeone.app^
@@ -2680,7 +2677,6 @@
 ||google-chrrome-zh.hl.cn^
 ||google-cnch.com.cn^
 ||google-google-chrome-google-com.hl.cn^
-||google-ji.com.cn^
 ||google-og.com.cn^
 ||google-zhcn-chrome.com.cn^
 ||ads.google.cn^
@@ -3070,7 +3066,6 @@
 ||g.hsw.cn^
 ||hsych.com^
 ||ht55.cn^
-||htkgsx.com^
 ||html-wendingyule.com.cn^
 ||htnxvfw.cn^
 ||httpdns.pro^
@@ -3112,7 +3107,6 @@
 ||huayiav.cn^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
-||download2.huduntech.com^
 ||huidakms.com.cn^
 ||huishenghuiying.com^
 ||huishenghuiying.com.cn^
@@ -3620,7 +3614,6 @@
 ||m.keai36.cn^
 ||kehuduan.com^
 ||kejixueyuan.cn^
-||kenkbr.cn^
 ||keyne-in.com.cn^
 ||elq.keysight.com.cn^
 ||sandbox-elq.keysight.com.cn^
@@ -4566,7 +4559,6 @@
 ||online-worldcup-tips.com.cn^
 ||online-worldcup-yu.com.cn^
 ||online.sh.cn^
-||forspeed.onlinedown.net^
 ||fpbcode.onlinedown.net^
 ||onlinesz.com.cn^
 ||onlineusedcar.com.cn^
@@ -4814,7 +4806,6 @@
 ||qg6uf.cn^
 ||qguwoq.cn^
 ||qh-qishuiyinyue.hl.cn^
-||kumcrfdk.qh229548.cn^
 ||dhvuuxhmt.qh399063.cn^
 ||m.qh70wg.cn^
 ||jspassport.ssl.qhimg.com^
@@ -4852,7 +4843,6 @@
 ||logger.qingting.fm^
 ||kf.qingwk.com^
 ||log.qiniuapi.com^
-||sta.qinxue.com^
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
@@ -5369,7 +5359,6 @@
 ||sensorsdata.cn^
 ||seordl.cn^
 ||setqre.cn^
-||seurss.eu.cc^
 ||logstat.t.sfht.com^
 ||sfilm.com^
 ||sg92.com^
@@ -5732,7 +5721,6 @@
 ||dcbpm.suning.cn^
 ||adls.suning.com^
 ||dfp.suning.com^
-||ossapp.suning.com^
 ||ossup.suning.com^
 ||ssac.suning.com^
 ||sums.suning.com^
@@ -6032,7 +6020,6 @@
 ||ip.tianqiapi.com^
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
-||fz.tiansys.cn^
 ||tiantiansoft.com^
 ||adx-bid.tianzhuobj.com^
 ||tiaosa.cn^
@@ -7617,7 +7604,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
