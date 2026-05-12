@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260512182745
-! Last modified: 2026/05/12 18:27:45
-! Blocked domains: 7618
+! Version: 20260513015523
+! Last modified: 2026/05/13 01:55:23
+! Blocked domains: 7610
 ! unBlocked domains: 24
 !
 ||010aa.cn^
@@ -33,7 +33,6 @@
 ||0941.org^
 ||0dy3evz6x.com^
 ||cdn.0i-i0.com^
-||0iz.cn^
 ||25w.0tzp8c.cn^
 ||0wk6gdkg8r.com^
 ||0x5.me^
@@ -932,12 +931,12 @@
 ||loggw.alipaydns.com^
 ||alipaylog.com^
 ||acjs.aliyun.com^
+||click.aliyun.com^
 ||mpush-api.aliyun.com^
 ||osfota.cdn.aliyun.com^
 ||1fur2cuzsul-sdk.rum.aliyuncs.com^
 ||1fw35mn5y7h-sdk.rum.aliyuncs.com^
 ||1hlahoc4rpc-sdk.rum.aliyuncs.com^
-||ac9olrggo8-default-cn.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -1307,6 +1306,7 @@
 ||wkctj.baidu.com^
 ||wm.baidu.com^
 ||yingxiao.baidu.com^
+||youxi.baidu.com^
 ||znsv.baidu.com^
 ||httpdns.baidubce.com^
 ||baidustatic.com^
@@ -2872,7 +2872,6 @@
 ||dhfs-id.heytapimage.com^
 ||dhfs-in.heytapimage.com^
 ||dhfs-my.heytapimage.com^
-||dhfs-ph.heytapimage.com^
 ||img-c.heytapimage.com^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
@@ -4572,7 +4571,6 @@
 ||onrunningshop.com^
 ||ooniu.com^
 ||analytics.ooofoo.com^
-||analytics.ooopic.com^
 ||oozushirp.com^
 ||open-uc.cn^
 ||open-wendingyule.com.cn^
@@ -4988,6 +4986,7 @@
 ||jqmt.qq.com^
 ||jsapi.html5.qq.com^
 ||kde.qq.com^
+||kuaibao.qq.com^
 ||l.qq.com^
 ||lcsdk.3g.qq.com^
 ||lmbsy.qq.com^
@@ -5512,7 +5511,6 @@
 ||static.m.sjzhushou.com^
 ||skeplqy.cn^
 ||skyjh.cn^
-||slhoffice.cn^
 ||a.slsbc.cn^
 ||sm-tc.cn^
 ||c.sm.cn^
@@ -5603,7 +5601,6 @@
 ||soarfi.cn^
 ||soarpower.com^
 ||sobot.com^
-||soccer-live-worldcup-tips.com.cn^
 ||social-touch.com^
 ||socksonline.com.cn^
 ||wct.softonic.cn^
@@ -6148,7 +6145,6 @@
 ||tb.code.twyxi.com^
 ||twzui6.com^
 ||livetech.shopee.co.id.txlivecdn.com^
-||livetech.shopee.co.th.txlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
 ||txreni.cn^
@@ -6431,7 +6427,6 @@
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
-||co-domaincfg.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
 ||co-timesync.vivoglobal.com^
@@ -6522,7 +6517,6 @@
 ||sca-onrt-stsdk.vivoglobal.com^
 ||sca-ort-stsdk.vivoglobal.com^
 ||sca-p.vivoglobal.com^
-||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-romsp-unifyconfig.vivoglobal.com^
 ||sca-st-sl.vivoglobal.com^
 ||sca-stsdk.vivoglobal.com^
@@ -6861,9 +6855,6 @@
 ||sensors.h5.xed.plus^
 ||xegnfwkju.com^
 ||m.xeig.cn^
-||mon.ad.xelements.cn^
-||monott.ad.xelements.cn^
-||v.ad.xelements.cn^
 ||xerhibx.cn^
 ||xftsjv.top^
 ||xfyjz.cn^
@@ -7298,7 +7289,6 @@
 ||yrnv.cn^
 ||yrqwnc.cn^
 ||ys630.com^
-||ad-material.ys7.com^
 ||log.ys7.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
@@ -7538,6 +7528,8 @@
 ||efg.zle.com^
 ||gl.zle.com^
 ||iceability.zlvvw.cn^
+||cdn.zmaticoo.com^
+||tracker.zmaticoo.com^
 ||zmdesf.cn^
 ||zmg15qfvi.com^
 ||znjeycy.cn^
