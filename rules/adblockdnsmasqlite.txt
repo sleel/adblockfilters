@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260513015523
-# Last modified: 2026/05/13 01:55:23
-# Blocked domains: 7610
+# Version: 20260513103623
+# Last modified: 2026/05/13 10:36:23
+# Blocked domains: 7605
 #
 local=/010aa.cn/
 local=/011211.cn/
@@ -121,7 +121,6 @@ local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhjk.1391.com/
 local=/13wwwqishuiyinyue.com.cn/
-local=/gemini.141010.xyz/
 local=/d.14yaa.com/
 local=/1503.net/
 local=/pyzf.159813.cn/
@@ -2250,7 +2249,6 @@ local=/dotnotblock-pfwzl61nwt.edgeone.app/
 local=/google09-fabgrwoaco.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app/
-local=/seduce-fjhtcxulyk.edgeone.app/
 local=/spicy-lavender-taruyckhz3.edgeone.app/
 local=/z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app/
 local=/fixverify-kzlxv1e5mb.edgeone.dev/
@@ -3657,7 +3655,6 @@ local=/smetrics.kone.cn/
 local=/ad.kone.ink/
 local=/adsmart.konka.com/
 local=/sdkapi.kookong.com/
-local=/gemini.koomu.cn/
 local=/koowo.com/
 local=/kouclo.com/
 local=/a.koudai.com/
@@ -4142,7 +4139,6 @@ local=/tracking.m.mercedes-benz.com.cn/
 local=/tracking.t.mercedes-benz.com.cn/
 local=/metaversemolecule.com/
 local=/analytics.metro.cn/
-local=/login.mffso.cn/
 local=/ee.mfufanj.cn/
 local=/m.mfufanj.cn/
 local=/mfxyqh.cn/
@@ -4546,7 +4542,6 @@ local=/okmgy.cn/
 local=/baid1.okooo.com/
 local=/okwfx.cn/
 local=/okx-app.cn/
-local=/okx-apzc.com.cn/
 local=/ole7o.cn/
 local=/m.omztf.cn/
 local=/oneapm.com/

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260513015523
-! Last modified: 2026/05/13 01:55:23
-! Blocked Filters: 42262
+! Version: 20260513103623
+! Last modified: 2026/05/13 10:36:23
+! Blocked Filters: 42263
 !
 ###AC_ad
 ###AD_160
@@ -31437,6 +31437,7 @@ idol69.net,javmvp.com,hentai4.me#%#//scriptlet("abort-on-property-read", "pop")
 iduba.com,newduba.cn##.m_nav_top
 iegybest.club,egybest.fun#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ifanr.com##.popup-app-download
+ifate.com,ycp.synk-casualgames.com#@#.adsbygoogle-noablate
 ifeng.com###CA_left
 ifeng.com###CA_right
 ifeng.com###a_code
