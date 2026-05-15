@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260515014532
-# Last modified: 2026/05/15 01:45:32
-# Blocked domains: 7758
+# Version: 20260515103706
+# Last modified: 2026/05/15 10:37:06
+# Blocked domains: 7757
 #
 local=/010aa.cn/
 local=/011211.cn/
@@ -2709,7 +2709,6 @@ local=/google-chrome-down.com.cn/
 local=/google-chrome-pcc.com.cn/
 local=/google-chrome-qq.com.cn/
 local=/google-chrrome-zh.hl.cn/
-local=/google-cnch.com.cn/
 local=/google-google-chrome-google-com.hl.cn/
 local=/google-og.com.cn/
 local=/google-zhcn-chrome.com.cn/
@@ -3402,6 +3401,7 @@ local=/ivqtrjt.cn/
 local=/blog.ivup.cn/
 local=/ad.iwhop.cn/
 local=/tracking.iwhop.cn/
+local=/ixcrq.com/
 local=/ixelrsd.cn/
 local=/api5-normal-quic-lf.ixigua.com/
 local=/search.ixigua.com/
@@ -3422,6 +3422,7 @@ local=/adapi.izuiyou.com/
 local=/adstat.izuiyou.com/
 local=/xladapi.izuiyou.com/
 local=/xlstat.izuiyou.com/
+local=/j39j.vip/
 local=/j53n.vip/
 local=/jab88.com/
 local=/eventlog.jackpot.de/
@@ -4944,7 +4945,6 @@ local=/qnmbp.cn/
 local=/advertisement.glb.qnniu.com/
 local=/qooic.com/
 local=/log.qookkagames.com/
-local=/jyozdc.qpevnk.cn/
 local=/qpfhi.cn/
 local=/gvideo.qpic.cn/
 local=/mmgame.qpic.cn/
@@ -6303,7 +6303,6 @@ local=/m.uhor8.cn/
 local=/bdjs.uimg.cn/
 local=/uimr.cn/
 local=/ujian.cc/
-local=/ujzdzh.cn/
 local=/ulink.cc/
 local=/ultrapay.net/
 local=/um1.cn/

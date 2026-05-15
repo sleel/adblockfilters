@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260515014532
-! Last modified: 2026/05/15 01:45:32
-! Blocked domains: 7758
+! Version: 20260515103706
+! Last modified: 2026/05/15 10:37:06
+! Blocked domains: 7757
 ! unBlocked domains: 23
 !
 ||010aa.cn^
@@ -2710,7 +2710,6 @@
 ||google-chrome-pcc.com.cn^
 ||google-chrome-qq.com.cn^
 ||google-chrrome-zh.hl.cn^
-||google-cnch.com.cn^
 ||google-google-chrome-google-com.hl.cn^
 ||google-og.com.cn^
 ||google-zhcn-chrome.com.cn^
@@ -3403,6 +3402,7 @@
 ||blog.ivup.cn^
 ||ad.iwhop.cn^
 ||tracking.iwhop.cn^
+||ixcrq.com^
 ||ixelrsd.cn^
 ||api5-normal-quic-lf.ixigua.com^
 ||search.ixigua.com^
@@ -3423,6 +3423,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
+||j39j.vip^
 ||j53n.vip^
 ||jab88.com^
 ||eventlog.jackpot.de^
@@ -4945,7 +4946,6 @@
 ||advertisement.glb.qnniu.com^
 ||qooic.com^
 ||log.qookkagames.com^
-||jyozdc.qpevnk.cn^
 ||qpfhi.cn^
 ||gvideo.qpic.cn^
 ||mmgame.qpic.cn^
@@ -6304,7 +6304,6 @@
 ||bdjs.uimg.cn^
 ||uimr.cn^
 ||ujian.cc^
-||ujzdzh.cn^
 ||ulink.cc^
 ||ultrapay.net^
 ||um1.cn^
