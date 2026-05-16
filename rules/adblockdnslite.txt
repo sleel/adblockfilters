@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260516172602
-! Last modified: 2026/05/16 17:26:02
-! Blocked domains: 7932
+! Version: 20260517005303
+! Last modified: 2026/05/17 00:53:03
+! Blocked domains: 7894
 ! unBlocked domains: 24
 !
 ||010aa.cn^
@@ -691,7 +691,6 @@
 ||aaoffice.cn^
 ||aap-goujia.hl.cn^
 ||aaqaz.cn^
-||aazc.cn^
 ||abbyychina.com^
 ||s.abcache.com^
 ||abckzo.cn^
@@ -1714,7 +1713,6 @@
 ||chnci.com^
 ||cholo215.cn^
 ||cholor201115.cn^
-||chrome-ah.com.cn^
 ||chshcms.net^
 ||config.chsmarttv.com^
 ||data.chsmarttv.com^
@@ -1896,8 +1894,6 @@
 ||adimg.cqnews.net^
 ||cbjg.cqnews.net^
 ||cqsta.com^
-||cr-google-chrome.com.cn^
-||cr-google-chrome.hl.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||shence.cread.com^
@@ -2084,7 +2080,6 @@
 ||downloada.dewmobile.net^
 ||downloadb.dewmobile.net^
 ||dexinyi.cn^
-||dezhouqishoupaishenglvjisuanbiao.org.cn^
 ||apisoft.df0535.com^
 ||newswifiapi.dfshurufa.com^
 ||dfz-telegram.com.cn^
@@ -2746,7 +2741,6 @@
 ||e.goodgz.cn^
 ||cdn.file6.goodid.com^
 ||googgle-chrrome.hl.cn^
-||google-ah.com.cn^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-ch-chrome.com.cn^
@@ -3280,7 +3274,6 @@
 ||iconworkshop.cn^
 ||ics-safety.com.cn^
 ||id6.me^
-||idcn-wps.com.cn^
 ||js.idgdmgroup.com.cn^
 ||js2.idgdmgroup.com.cn^
 ||idmchina.net^
@@ -3464,7 +3457,6 @@
 ||blog.ivup.cn^
 ||ad.iwhop.cn^
 ||tracking.iwhop.cn^
-||ixcrq.com^
 ||api5-normal-quic-lf.ixigua.com^
 ||search.ixigua.com^
 ||search3-search.ixigua.com^
@@ -3486,7 +3478,6 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
-||j39j.vip^
 ||j53n.vip^
 ||j55l.vip^
 ||j55o.vip^
@@ -3607,7 +3598,6 @@
 ||eo.jinzpeng.cn^
 ||jiongnet.cn^
 ||mad1.jirou.com^
-||jisuanqishengpingf.org.cn^
 ||h5.jiumaster.com^
 ||analytics.jiuzhilan.com^
 ||app.jiuzhilan.com^
@@ -4273,7 +4263,6 @@
 ||pandora.mi.com^
 ||sentry.d.mi.com^
 ||stat.youpin.mi.com^
-||mianfeizidingyizhuanpan.org.cn^
 ||miaomu139.cn^
 ||miaozhen.com^
 ||micro-xdb.com^
@@ -4617,7 +4606,6 @@
 ||m.nuxyz.cn^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
-||nvlanmenpiaowangshangdingpiaog.org.cn^
 ||nvshenfan.com^
 ||anews7.nvwu.com^
 ||renacious.nwwadq.cn^
@@ -4657,7 +4645,6 @@
 ||baid1.okooo.com^
 ||okwfx.cn^
 ||okx-app.cn^
-||okxqukuailianliulanqi.org.cn^
 ||ole7o.cn^
 ||m.omztf.cn^
 ||oneapm.com^
@@ -5270,7 +5257,6 @@
 ||qtmdzsj.cn^
 ||api.qttunion.com^
 ||quanbailing.com^
-||quanh97fengyzaiqishoujibanxiaz.org.cn^
 ||quanliyouxi.cn^
 ||quanmama.com^
 ||rhtc.quanminyouxi.cn^
@@ -5294,10 +5280,7 @@
 ||qufu.com.cn^
 ||chat.quickcep.com^
 ||qujishu.com^
-||qukuailianchaxungwrukou.org.cn^
-||qukuailiandizhichaxun.org.cn^
 ||qukuailianliulanqi7.org.cn^
-||qukuailianqianbaodizhi.org.cn^
 ||m.qulishi.com^
 ||sbbd1.qulishi.com^
 ||bc.qunar.com^
@@ -5519,7 +5502,6 @@
 ||shdhqoffice.cn^
 ||shdingchi.com.cn^
 ||link.shengcekeji.com^
-||shengdazhengbanchuanqishouyoug.org.cn^
 ||shengminsy.com^
 ||shenshiads.com^
 ||html.shibeiou.com^
@@ -5837,7 +5819,6 @@
 ||sougouii.com.cn^
 ||sougoullqvv.com.cn^
 ||sougoupy.com.cn^
-||sougouvv.com.cn^
 ||roi.soulapp.cn^
 ||sgg.southcn.com^
 ||cod.southmoney.com^
@@ -6280,10 +6261,8 @@
 ||tradplus.cn^
 ||tradplus.com^
 ||tradplusad.com^
-||trc20qukuailianliulanqichaxun.org.cn^
 ||trezor-wallet.com.de^
 ||trezor.co.nz^
-||tronqukuailianliulanqi.org.cn^
 ||tronqukuailianliulanqichaxun7.org.cn^
 ||ta.trs.cn^
 ||paypay-card.trtwowf.cn^
@@ -6328,7 +6307,6 @@
 ||tb.code.twyxi.com^
 ||twzui6.com^
 ||livetech.shopee.co.id.txlivecdn.com^
-||livetech.shopee.co.th.txlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
 ||txreni.cn^
@@ -6462,7 +6440,6 @@
 ||urbanfind.club^
 ||uri6.com^
 ||urlqh.cn^
-||usdtqianbaodizhichaxun.org.cn^
 ||usercenter.ha.cn^
 ||usercenter.he.cn^
 ||usercenter.nx.cn^
@@ -6789,7 +6766,6 @@
 ||service.vmos.cn^
 ||vmzqwz.cn^
 ||vn-wps.com.cn^
-||vncn-wps.com.cn^
 ||vncq.cn^
 ||vnig0.cn^
 ||vnvmif.cn^
@@ -6930,7 +6906,6 @@
 ||huatuo.weiyun.com^
 ||wen-todesk.com.cn^
 ||code.wenbanzhu.com^
-||wendingdianziyuleappxiazaianzhg.org.cn^
 ||wenxuemi6.com^
 ||ad.weplayer.cc^
 ||crosspromotion.weplayer.cc^
@@ -7105,7 +7080,6 @@
 ||pics.xgo-img.com.cn^
 ||imp.xgo.com.cn^
 ||stat.xgo.com.cn^
-||xgoogle.cn^
 ||m.xhera.cn^
 ||xhkvff.cn^
 ||ads-i1.xhscdn.com^
@@ -7194,7 +7168,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||sdkconfig.ad.eu.xiaomi.com^
 ||ssp.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||stats.music.xiaomi.com^
@@ -7393,8 +7366,6 @@
 ||yd126.com^
 ||ydgsvls.cn^
 ||ydingdashuju7.org.cn^
-||ydingjituan3118gw.org.cn^
-||ydingzhiyitieba.org.cn^
 ||kl.yditweb.cn^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
@@ -7572,7 +7543,6 @@
 ||dev.tg.youxi.com^
 ||youxiaoad.com^
 ||tj.youzanyun.com^
-||youzdao.com.cn^
 ||wenxue.youzhicn.com^
 ||yoyi.tv^
 ||analysis.yozocloud.cn^
@@ -7588,8 +7558,6 @@
 ||ysjwj.com^
 ||ysont.cn^
 ||yuanchengxiezuo.com^
-||yuanqiqishi.org.cn^
-||yuanqiqishipojiebanmiandl.org.cn^
 ||m.yubanfen.cn^
 ||yucefa.cn^
 ||ads.reader.yueyouxs.com^
@@ -7695,7 +7663,6 @@
 ||zggxkj.com.cn^
 ||zghs.net.cn^
 ||zgisp.net^
-||zgjczuqiujisuanqishengp.org.cn^
 ||photo.zgncpjyw.cn^
 ||yin1.zgpingshu.com^
 ||zgweiqishidasaishi.com.cn^
@@ -7732,7 +7699,6 @@
 ||cdnlog.zhenai.com^
 ||1.zhev.com.cn^
 ||zhflodsix.cn^
-||zhgb-wps.com.cn^
 ||zhidian3g.cn^
 ||pv.zhiding.cn^
 ||zhigao5191.com^
@@ -7774,9 +7740,6 @@
 ||pad.zhywyl.cn^
 ||zhzzx.com^
 ||zichenit.com^
-||zidingyidazhuanpan.org.cn^
-||zidingyizhuanpanapp.org.cn^
-||zidingyizhuanpanxiazai.org.cn^
 ||abtest3-misc-hl.zijieapi.com^
 ||abtest3-misc-lf.zijieapi.com^
 ||ad.zijieapi.com^
@@ -7918,7 +7881,6 @@
 ||n3.zuoyebang.cc^
 ||n4.zuoyebang.cc^
 ||n5.zuoyebang.cc^
-||zuqiujisuanqishengpingfjisuanqi.org.cn^
 ||zuqiujisuanqishengpingfu7.org.cn^
 ||e.zvfuka.cn^
 ||m.zvfuka.cn^
