@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260516012351
-! Last modified: 2026/05/16 01:23:51
-! Blocked domains: 7814
+! Version: 20260516102701
+! Last modified: 2026/05/16 10:27:01
+! Blocked domains: 7811
 ! unBlocked domains: 22
 !
 ||010aa.cn^
@@ -1756,7 +1756,6 @@
 ||phpstat.cntcm.com.cn^
 ||cntingyun.com^
 ||www.cnys.com^
-||cnzh-chrom-google.com.cn^
 ||cnzh-google-apps.hl.cn^
 ||cnzz.cn^
 ||cnzz.com^
@@ -2221,7 +2220,6 @@
 ||acccountverificatonlog.edgeone.app^
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
-||flat-harlequin-r5g0efwahr.edgeone.app^
 ||google09-fabgrwoaco.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app^
@@ -2681,7 +2679,6 @@
 ||google-chrome-qq.com.cn^
 ||google-chrrome-zh.hl.cn^
 ||google-google-chrome-google-com.hl.cn^
-||google-og.com.cn^
 ||google-zhcn-chrome.com.cn^
 ||ads.google.cn^
 ||adsense.google.cn^
