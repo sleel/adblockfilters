@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260518005219
-! Last modified: 2026/05/18 00:52:19
-! Blocked domains: 7789
+! Version: 20260518104426
+! Last modified: 2026/05/18 10:44:26
+! Blocked domains: 7759
 ! unBlocked domains: 24
 !
 ||010aa.cn^
@@ -1092,7 +1092,6 @@
 ||as-i4.com.cn^
 ||f5w.as12df.top^
 ||aspp-wps.com.cn^
-||www.assets-bet365.com.cn^
 ||www.assoc-amazon.cn^
 ||asyn.cn^
 ||atelier-mobilier.com^
@@ -1581,7 +1580,6 @@
 ||baidua1.cardbaobao.com^
 ||baidua2.cardbaobao.com^
 ||cartx.cloud^
-||www.cash-bet365.com.cn^
 ||super.cat898.com^
 ||tracking.cat898.com^
 ||cbhzxctgm.com^
@@ -1695,7 +1693,6 @@
 ||chinazmob.com^
 ||chiq-cloud.com^
 ||chnci.com^
-||www.choice-bet365.com.cn^
 ||cholo215.cn^
 ||cholor201115.cn^
 ||chshcms.net^
@@ -1860,7 +1857,6 @@
 ||bdu1.coozhi.cn^
 ||coreldrawchina.com^
 ||coumie.top^
-||cozy-bet365.com.cn^
 ||cp-microsoft.com.cn^
 ||cp7iys8fp.com^
 ||cpanclean.cn^
@@ -2167,7 +2163,6 @@
 ||s.dpcq1.net^
 ||dpjzzgw.cn^
 ||drdwy.com^
-||dream-bet365.com.cn^
 ||dream-wendingyule.com.cn^
 ||drivethelife.com^
 ||drokozz.club^
@@ -2331,7 +2326,6 @@
 ||www9.enet.com.cn^
 ||brc.englishdict.cc^
 ||brc.englishtimes.cc^
-||www.enjoy-bet365.com.cn^
 ||eap.enorth.com.cn^
 ||eap.big5.enorth.com.cn^
 ||zdisji.entagkg.cn^
@@ -2512,7 +2506,6 @@
 ||fucnm.com^
 ||fugetech.com^
 ||fujincenter.com^
-||www.full-bet365.com.cn^
 ||funding.org.cn^
 ||funkoonlinegb.club^
 ||adm.funshion.com^
@@ -2744,7 +2737,6 @@
 ||gr-wps.com.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
-||great-bet365.com.cn^
 ||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
@@ -2882,7 +2874,6 @@
 ||fingerprint-upload.hellobike.com^
 ||helloworldu.hl.cn^
 ||alibaba-inc.kefu.helps.live^
-||here-bet365.com.cn^
 ||here-wendingyule.com.cn^
 ||hetianwq.com^
 ||hxsame.hexun.com^
@@ -2988,7 +2979,6 @@
 ||logservice-dre.platform.hicloud.com^
 ||logservice1.hicloud.com^
 ||higame123.com^
-||high-bet365.com.cn^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.platform.hihonorcloud.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
@@ -3969,7 +3959,6 @@
 ||utf1.liehuo.net^
 ||lieqitianxia.cn^
 ||lieying.cn^
-||life-bet365.com.cn^
 ||life-wendingyule.com.cn^
 ||lightonline.com.cn^
 ||lilangdianqi.cn^
@@ -4084,12 +4073,10 @@
 ||vodlog.m1905.cn^
 ||counter.m1905.com^
 ||m19ud.cn^
-||m2-okx.com.cn^
 ||m3cqjc3og6.com^
 ||m43ocq1uoj.com^
 ||p.m5bn.com^
 ||xc.macd.cn^
-||www.made-bet365.com.cn^
 ||madhouse.cn^
 ||tongji.mafengwo.cn^
 ||track.oasis.magictavern.com^
@@ -4101,7 +4088,6 @@
 ||mairuan.cn^
 ||mairuan.com^
 ||mairuan.com.cn^
-||www.major-bet365.com.cn^
 ||make-wendingyule.com.cn^
 ||makeding.com^
 ||usejj.makepolo.cn^
@@ -4121,7 +4107,6 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
-||www.max-bet365.com.cn^
 ||mayi360.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4465,7 +4450,6 @@
 ||ncxpcxa.cn^
 ||cdn.ndapp.com^
 ||ndapus.cn^
-||ne-ss-google.com.cn^
 ||sdk.stat.foreign.nearme.com.cn^
 ||storedl1.nearme.com.cn^
 ||storedl3f.nearme.com.cn^
@@ -4488,7 +4472,6 @@
 ||yt-adv.bn.netease.com^
 ||netsop.cn^
 ||networkbench.com^
-||new-bet365.com.cn^
 ||news-live-kaiyun-sports.com.cn^
 ||news-live-wc2026.com.cn^
 ||t.home.news.cn^
@@ -4618,7 +4601,6 @@
 ||ooniu.com^
 ||analytics.ooofoo.com^
 ||oozushirp.com^
-||www.open-bet365.com.cn^
 ||open-uc.cn^
 ||open-wendingyule.com.cn^
 ||ounion.openadx.com^
@@ -4665,7 +4647,6 @@
 ||p0y.cn^
 ||p0yixb3wfv.com^
 ||p188.cn^
-||p210g.xyz^
 ||p2cdn.com^
 ||p555.cc^
 ||p74ugyuur.com^
@@ -4800,7 +4781,6 @@
 ||tj.g.pptv.com^
 ||pqjprom.cn^
 ||prasquinor.jp^
-||prime-bet365.com.cn^
 ||prlioxb.cn^
 ||promo-wending-pg.com.cn^
 ||pss-kuailian.com.cn^
@@ -4855,7 +4835,6 @@
 ||qevcxo.cn^
 ||qezpjlp.cn^
 ||qfcdgy.cn^
-||qg6uf.cn^
 ||qguwoq.cn^
 ||qh-qishuiyinyue.hl.cn^
 ||dhvuuxhmt.qh399063.cn^
@@ -5260,7 +5239,6 @@
 ||rdkifi.cn^
 ||reachmax.cn^
 ||ready-wendingyule.com.cn^
-||www.real-bet365.com.cn^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||data-ads.realmemobile.com^
@@ -5462,7 +5440,6 @@
 ||smetrics.marketing.signify.com.cn^
 ||signup-wending-pg.com.cn^
 ||silasbuchanan.shop^
-||www.sim-bet365.com.cn^
 ||simengadx.com^
 ||simicloud.com^
 ||2016.sina.cn^
@@ -5571,7 +5548,6 @@
 ||sjdjcn.cn^
 ||static.m.sjzhushou.com^
 ||skeplqy.cn^
-||www.skill-bet365.com.cn^
 ||skyjh.cn^
 ||slhoffice.cn^
 ||a.slsbc.cn^
@@ -6192,7 +6168,6 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||trezor.co.nz^
-||www.trip-bet365.com.cn^
 ||tronqukuailianliulanqichaxun7.org.cn^
 ||ta.trs.cn^
 ||trustutn.org^
@@ -6430,7 +6405,6 @@
 ||tj.vidown.cn^
 ||vigyn4gpx.com^
 ||vihppjk.cn^
-||vim-bet365.com.cn^
 ||api.union.vip.com^
 ||click.union.vip.com^
 ||n-st.vip.com^
@@ -6741,7 +6715,6 @@
 ||yjnlgmq.wanxiongzhilu.cn^
 ||d.wanyouxi7.com^
 ||a.wanzhuang.com^
-||www.wap-bet365.com.cn^
 ||wap-live-worldcup2026.com.cn^
 ||wap-live-zucai.com.cn^
 ||data.waptime.cn^
@@ -6832,7 +6805,6 @@
 ||whalecpan.cn^
 ||whalememory.cn^
 ||whaleprotect.cn^
-||www.what-bet365.com.cn^
 ||web.whatsapsapp.hl.cn^
 ||whoiscx.com^
 ||whyfate.cn^
@@ -6921,7 +6893,6 @@
 ||wsgwc.com^
 ||market.wsskj520.cn^
 ||mlog.wangsu.com.wswebcdn.com^
-||iwfcaz.wtlaf.cn^
 ||cdn-ad.wtzw.com^
 ||wu-sogou.com.cn^
 ||wukongtongji.com^
@@ -7438,7 +7409,6 @@
 ||519332da.rtc.youme.im^
 ||youmi.net^
 ||api.youngle.site^
-||www.your-bet365.com.cn^
 ||ad.api.youshiad.cn^
 ||yousuode.cn^
 ||dev.tg.youxi.com^
