@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260519015519
-# Last modified: 2026/05/19 01:55:19
-# Blocked domains: 7708
+# Version: 20260519104206
+# Last modified: 2026/05/19 10:42:06
+# Blocked domains: 7704
 #
 local=/010aa.cn/
 local=/011211.cn/
@@ -2345,7 +2345,6 @@ local=/erlpbwy.cn/
 local=/es-trading.com.cn/
 local=/analytics.escience.org.cn/
 local=/ethan.wang/
-local=/etitgo.com/
 local=/c.etoolads.cn/
 local=/marketing.etouch.cn/
 local=/etui8.cn/
@@ -2366,7 +2365,6 @@ local=/eyouv.cn/
 local=/eyp7uowejx.com/
 local=/g.f11w.com/
 local=/c.f1zd.com/
-local=/f237a.xyz/
 local=/m.f2z4d.cn/
 local=/sccdn.f2zd.com/
 local=/g.f5gh.com/
@@ -2675,7 +2673,6 @@ local=/go2yd.com/
 local=/gocye.com/
 local=/godloveme.cn/
 local=/goforandroid.com/
-local=/vabvkn.gojprz.cn/
 local=/gojunkclean.cn/
 local=/goldwavechina.cn/
 local=/prom.gome.com.cn/
@@ -7067,7 +7064,6 @@ local=/app.xizi.com/
 local=/ndyjs.xjtu.edu.cn/
 local=/xkmwxwy.cn/
 local=/xkzjq.cn/
-local=/paypay-card.xlirzom.cn/
 local=/pcdn.xmcdn.com/
 local=/z1hihu.xmcimg.com/
 local=/zhihu.xmcimg.com/

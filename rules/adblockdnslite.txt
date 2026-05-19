@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260519015519
-! Last modified: 2026/05/19 01:55:19
-! Blocked domains: 7708
+! Version: 20260519104206
+! Last modified: 2026/05/19 10:42:06
+! Blocked domains: 7704
 ! unBlocked domains: 23
 !
 ||010aa.cn^
@@ -2346,7 +2346,6 @@
 ||es-trading.com.cn^
 ||analytics.escience.org.cn^
 ||ethan.wang^
-||etitgo.com^
 ||c.etoolads.cn^
 ||marketing.etouch.cn^
 ||etui8.cn^
@@ -2367,7 +2366,6 @@
 ||eyp7uowejx.com^
 ||g.f11w.com^
 ||c.f1zd.com^
-||f237a.xyz^
 ||m.f2z4d.cn^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
@@ -2676,7 +2674,6 @@
 ||gocye.com^
 ||godloveme.cn^
 ||goforandroid.com^
-||vabvkn.gojprz.cn^
 ||gojunkclean.cn^
 ||goldwavechina.cn^
 ||prom.gome.com.cn^
@@ -7068,7 +7065,6 @@
 ||ndyjs.xjtu.edu.cn^
 ||xkmwxwy.cn^
 ||xkzjq.cn^
-||paypay-card.xlirzom.cn^
 ||pcdn.xmcdn.com^
 ||z1hihu.xmcimg.com^
 ||zhihu.xmcimg.com^
