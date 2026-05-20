@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260520020010
-! Last modified: 2026/05/20 02:00:10
-! Blocked domains: 7873
+! Version: 20260520104235
+! Last modified: 2026/05/20 10:42:35
+! Blocked domains: 7864
 ! unBlocked domains: 24
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -294,7 +294,6 @@
 ||shouji.360.cn^
 ||show.look.360.cn^
 ||soft.data.weather.360.cn^
-||softdl4.360.cn^
 ||stat.m.360.cn^
 ||stat.sd.360.cn^
 ||tf.360.cn^
@@ -1782,7 +1781,6 @@
 ||log.cmbchina.com^
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
-||dubapkg.cmcmcdn.com^
 ||rapi.cmgadx.com^
 ||cmmob.cn^
 ||config.cmpassport.com^
@@ -2294,7 +2292,6 @@
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app^
 ||spicy-lavender-taruyckhz3.edgeone.app^
-||sporting-apricot-xuiuvslnhr.edgeone.app^
 ||z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app^
 ||0j9h876we-7gtl3x3m8j.edgeone.dev^
 ||54d3s545d6u-c7b78hhkxp.edgeone.dev^
@@ -5388,7 +5385,6 @@
 ||ryd626moj.com^
 ||rz261.cn^
 ||s0p6s02x28.com^
-||s115n.xyz^
 ||s1gr2198h.com^
 ||s3d4.cn^
 ||s4y6lhotaw.com^
@@ -5836,7 +5832,6 @@
 ||staticfile.org^
 ||ste000u5mk.com^
 ||steam66.cn^
-||steamopenai.com^
 ||steeltrader.com.cn^
 ||stg8.com^
 ||stgowan.com^
@@ -7017,11 +7012,8 @@
 ||wzfjsh.cn^
 ||a.wzu.com^
 ||x-steam.com^
-||www.x112d.xyz^
 ||x1ka.cn^
 ||x4hu95mh0t.com^
-||x60m.xyz^
-||x61l.xyz^
 ||xads-telegram.com.cn^
 ||zamknj.xagnnx.cn^
 ||metrics-collector.xaidc.com^
@@ -7819,7 +7811,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

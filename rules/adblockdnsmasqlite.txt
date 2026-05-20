@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260520020010
-# Last modified: 2026/05/20 02:00:10
-# Blocked domains: 7873
+# Version: 20260520104235
+# Last modified: 2026/05/20 10:42:35
+# Blocked domains: 7864
 #
 local=/0001zhekoushouyoupingtai.org.cn/
 local=/001zhekoushouyouhezi.org.cn/
@@ -293,7 +293,6 @@ local=/service.jiagu.360.cn/
 local=/shouji.360.cn/
 local=/show.look.360.cn/
 local=/soft.data.weather.360.cn/
-local=/softdl4.360.cn/
 local=/stat.m.360.cn/
 local=/stat.sd.360.cn/
 local=/tf.360.cn/
@@ -1781,7 +1780,6 @@ local=/advertise.cloudlinks.cn/
 local=/log.cmbchina.com/
 local=/cmcdl.cmcm.com/
 local=/lcf.cmplay.cmcm.com/
-local=/dubapkg.cmcmcdn.com/
 local=/rapi.cmgadx.com/
 local=/cmmob.cn/
 local=/config.cmpassport.com/
@@ -2293,7 +2291,6 @@ local=/google09-fabgrwoaco.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app/
 local=/spicy-lavender-taruyckhz3.edgeone.app/
-local=/sporting-apricot-xuiuvslnhr.edgeone.app/
 local=/z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app/
 local=/0j9h876we-7gtl3x3m8j.edgeone.dev/
 local=/54d3s545d6u-c7b78hhkxp.edgeone.dev/
@@ -5387,7 +5384,6 @@ local=/rxys.cn/
 local=/ryd626moj.com/
 local=/rz261.cn/
 local=/s0p6s02x28.com/
-local=/s115n.xyz/
 local=/s1gr2198h.com/
 local=/s3d4.cn/
 local=/s4y6lhotaw.com/
@@ -5835,7 +5831,6 @@ local=/staticfile.net/
 local=/staticfile.org/
 local=/ste000u5mk.com/
 local=/steam66.cn/
-local=/steamopenai.com/
 local=/steeltrader.com.cn/
 local=/stg8.com/
 local=/stgowan.com/
@@ -7016,11 +7011,8 @@ local=/wzaigo.com/
 local=/wzfjsh.cn/
 local=/a.wzu.com/
 local=/x-steam.com/
-local=/www.x112d.xyz/
 local=/x1ka.cn/
 local=/x4hu95mh0t.com/
-local=/x60m.xyz/
-local=/x61l.xyz/
 local=/xads-telegram.com.cn/
 local=/zamknj.xagnnx.cn/
 local=/metrics-collector.xaidc.com/
@@ -7818,7 +7810,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
