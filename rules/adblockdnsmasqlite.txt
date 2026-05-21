@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260521021226
-# Last modified: 2026/05/21 02:12:26
-# Blocked domains: 7977
+# Version: 20260521104446
+# Last modified: 2026/05/21 10:44:46
+# Blocked domains: 7968
 #
 local=/0001zhekoushouyoupingtai.org.cn/
 local=/001zhekoushouyouhezi.org.cn/
@@ -1864,7 +1864,6 @@ local=/com-feishu.com.cn/
 local=/com5.com.cn/
 local=/trk.compair.com.cn/
 local=/strack.concur.cn/
-local=/marketing.container-xchange.cn/
 local=/cu-cn-north00001.gala.convection.cn/
 local=/cu-cn-north00002.gala.convection.cn/
 local=/conyz.cn/
@@ -1981,7 +1980,7 @@ local=/daoyoudao.com/
 local=/s1.dapenti.com/
 local=/daque.cn/
 local=/daraz.com/
-local=/net.daraz.lk/
+local=/marketing.net.daraz.lk/
 local=/net.daraz.pk/
 local=/dartsearch-cn.net/
 local=/dashet.com/
@@ -2516,7 +2515,6 @@ local=/adv-sv-stat.focus.cn/
 local=/bdu.focus.cn/
 local=/pv.focus.cn/
 local=/foisonad.com/
-local=/img.ford.com/
 local=/metrics.ford.com/
 local=/smetrics.ford.com/
 local=/smetrics.sandbox.ford.com/
@@ -3136,7 +3134,6 @@ local=/hnltcw.com/
 local=/online.hnoexpo.com/
 local=/hnol.net/
 local=/hnwlyy.com.cn/
-local=/whatsapp.ho.hl.cn/
 local=/metrics.hollisterco.cn/
 local=/hologramid.cn/
 local=/log.homestyler.com/
@@ -3812,7 +3809,6 @@ local=/d.kpzip.com/
 local=/mininews.kpzip.com/
 local=/kqg8jh8rk.com/
 local=/krk-telegram.com.cn/
-local=/marketing.krones.com/
 local=/photo.krryh.cn/
 local=/kruig.cn/
 local=/slb-p2p.vcloud.ks-live.com/
@@ -4789,7 +4785,6 @@ local=/paime.com/
 local=/stats.pairmb.com/
 local=/mm.paizi.net/
 local=/palm-ad.cn/
-local=/pg.pampers.com.cn/
 local=/api-access.pangolin-sdk-toutiao2.com/
 local=/api-access.pangolin-sdk-toutiao3.com/
 local=/api-access.pangolin-sdk-toutiao4.com/
@@ -5319,7 +5314,6 @@ local=/track.lc.quark.cn/
 local=/qudajie.com/
 local=/n.qudwrj.cn/
 local=/v.qudwrj.cn/
-local=/www2.quectel.com/
 local=/queen-wendingyule.com.cn/
 local=/ads.taobao.com.queniuak.com/
 local=/gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com/
@@ -6959,7 +6953,6 @@ local=/weihaisb.com/
 local=/1.weiheshidai.com/
 local=/ads.weilitoutiao.net/
 local=/mj.weimob.net/
-local=/moetpqhog.weiuh.cn/
 local=/badjs.weixinbridge.com/
 local=/huatuo.weiyun.com/
 local=/wen-todesk.com.cn/
@@ -7018,7 +7011,6 @@ local=/womenwan.com/
 local=/analytics.wondershare.cc/
 local=/cbs.wondershare.com/
 local=/event.wondershare.com/
-local=/go.pardot.wondershare.com/
 local=/platform.wondershare.com/
 local=/irurng.wondershare.jp/
 local=/woniu.com/
@@ -7086,7 +7078,6 @@ local=/wukongtongji.com/
 local=/wumii.cn/
 local=/wumii.com/
 local=/m.wuqutu.com/
-local=/content.wuxibiologics.com/
 local=/m.wv26d.cn/
 local=/wva-telegram.com.cn/
 local=/ww-kuailiana.hl.cn/

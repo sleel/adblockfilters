@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260521021226
-! Last modified: 2026/05/21 02:12:26
-! Blocked domains: 7977
+! Version: 20260521104446
+! Last modified: 2026/05/21 10:44:46
+! Blocked domains: 7968
 ! unBlocked domains: 23
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -1865,7 +1865,6 @@
 ||com5.com.cn^
 ||trk.compair.com.cn^
 ||strack.concur.cn^
-||marketing.container-xchange.cn^
 ||cu-cn-north00001.gala.convection.cn^
 ||cu-cn-north00002.gala.convection.cn^
 ||conyz.cn^
@@ -1982,7 +1981,7 @@
 ||s1.dapenti.com^
 ||daque.cn^
 ||daraz.com^
-||net.daraz.lk^
+||marketing.net.daraz.lk^
 ||net.daraz.pk^
 ||dartsearch-cn.net^
 ||dashet.com^
@@ -2517,7 +2516,6 @@
 ||bdu.focus.cn^
 ||pv.focus.cn^
 ||foisonad.com^
-||img.ford.com^
 ||metrics.ford.com^
 ||smetrics.ford.com^
 ||smetrics.sandbox.ford.com^
@@ -3137,7 +3135,6 @@
 ||online.hnoexpo.com^
 ||hnol.net^
 ||hnwlyy.com.cn^
-||whatsapp.ho.hl.cn^
 ||metrics.hollisterco.cn^
 ||hologramid.cn^
 ||log.homestyler.com^
@@ -3813,7 +3810,6 @@
 ||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
-||marketing.krones.com^
 ||photo.krryh.cn^
 ||kruig.cn^
 ||slb-p2p.vcloud.ks-live.com^
@@ -4790,7 +4786,6 @@
 ||stats.pairmb.com^
 ||mm.paizi.net^
 ||palm-ad.cn^
-||pg.pampers.com.cn^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
@@ -5320,7 +5315,6 @@
 ||qudajie.com^
 ||n.qudwrj.cn^
 ||v.qudwrj.cn^
-||www2.quectel.com^
 ||queen-wendingyule.com.cn^
 ||ads.taobao.com.queniuak.com^
 ||gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com^
@@ -6960,7 +6954,6 @@
 ||1.weiheshidai.com^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
-||moetpqhog.weiuh.cn^
 ||badjs.weixinbridge.com^
 ||huatuo.weiyun.com^
 ||wen-todesk.com.cn^
@@ -7019,7 +7012,6 @@
 ||analytics.wondershare.cc^
 ||cbs.wondershare.com^
 ||event.wondershare.com^
-||go.pardot.wondershare.com^
 ||platform.wondershare.com^
 ||irurng.wondershare.jp^
 ||woniu.com^
@@ -7087,7 +7079,6 @@
 ||wumii.cn^
 ||wumii.com^
 ||m.wuqutu.com^
-||content.wuxibiologics.com^
 ||m.wv26d.cn^
 ||wva-telegram.com.cn^
 ||ww-kuailiana.hl.cn^
