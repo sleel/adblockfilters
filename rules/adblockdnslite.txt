@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260527022124
-! Last modified: 2026/05/27 02:21:24
-! Blocked domains: 7733
+! Version: 20260527104915
+! Last modified: 2026/05/27 10:49:15
+! Blocked domains: 7718
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -118,8 +118,6 @@
 ||1503.net^
 ||pyzf.159813.cn^
 ||15tianqi.com^
-||www.16089.xyz^
-||www.16153.xyz^
 ||ad.163.com^
 ||ad.mh.163.com^
 ||adgeo.163.com^
@@ -1879,7 +1877,6 @@
 ||ads.cup.com.cn^
 ||cuqpi.cn^
 ||web.customer-whatsapp.com.cn^
-||cute-bet365.com.cn^
 ||cv3qb5813.com^
 ||z1.cwbaike.com^
 ||cxad.cn^
@@ -2229,12 +2226,9 @@
 ||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
 ||energetic-indigo-dxeo7k8pg2.edgeone.app^
-||google09-fabgrwoaco.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||moj-panel.edgeone.app^
 ||q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app^
-||rare-blue-d4nhaptpng.edgeone.app^
-||spicy-lavender-taruyckhz3.edgeone.app^
 ||z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app^
 ||0j9h876we-7gtl3x3m8j.edgeone.dev^
 ||54d3s545d6u-c7b78hhkxp.edgeone.dev^
@@ -2248,7 +2242,6 @@
 ||heydressuniversitydepartcolordesign.edgeone.dev^
 ||hostecountspringweb-4sbw8uzi5y.edgeone.dev^
 ||kita-quote-wt6k5i5yoz.edgeone.dev^
-||kjwertyuiopcvbnm-u3qrobqifp.edgeone.dev^
 ||lkjgfdwertyuiop-5137fsshgs.edgeone.dev^
 ||loud-bronze-vckfnrbimo.edgeone.dev^
 ||mountaineverestadventure-yf4ltn8xeh.edgeone.dev^
@@ -2259,7 +2252,6 @@
 ||tropical-red-pd56z5jhth.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||vambanlopcaxomilsss.edgeone.dev^
-||zxcvbnmnbwertyuiuytrdfghjk-g86tkbj1i9.edgeone.dev^
 ||ediuschina.com^
 ||eduace.com.cn^
 ||eeeqi.cn^
@@ -3325,7 +3317,6 @@
 ||inveno.com^
 ||ioiksw.cn^
 ||umami.ioiox.net^
-||lbppnswod.ioyjad.cn^
 ||ip193.cn^
 ||c81.ipanocloud.com^
 ||iper2.com^
@@ -3417,7 +3408,6 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
-||j61s.vip^
 ||jab88.com^
 ||jaccsz.com^
 ||eventlog.jackpot.de^
@@ -4071,7 +4061,6 @@
 ||maihehd.com^
 ||zc1.maillist-manage.com.cn^
 ||maimai.cn^
-||main-bet365.com.cn^
 ||mairuan.cn^
 ||mairuan.com^
 ||mairuan.com.cn^
@@ -4530,7 +4519,6 @@
 ||gtm.oasisfeng.com^
 ||obsworks.com^
 ||obv3epx22d.com^
-||oc-google.com.cn^
 ||analytics.oceanengine.com^
 ||offerstrack.net^
 ||office-wps-hl.hl.cn^
@@ -4709,7 +4697,6 @@
 ||m.pkbrxja.cn^
 ||pl53l7tyw.com^
 ||placidocn.com^
-||www.plan-bet365.com.cn^
 ||load.tbyvvwvv.plasmatreatment.cn^
 ||cg.play-analytics.com^
 ||dnha.play-analytics.com^
@@ -5394,7 +5381,6 @@
 ||securemsg.xz.cn^
 ||ad.seeyouyima.com^
 ||trace.seeyouyima.com^
-||seld.com.cn^
 ||www.selgrospl.com^
 ||sellbuyads.cn^
 ||sellfox.com^
@@ -7175,7 +7161,6 @@
 ||cc.xwscg.com^
 ||xwuad.com^
 ||vtnsth.xx039009.cn^
-||novendec.xxbglo.cn^
 ||analytics-patcher-elderscrollsonline.xxghh.biz^
 ||xxguan.cn^
 ||photo.xxlywl.cn^
