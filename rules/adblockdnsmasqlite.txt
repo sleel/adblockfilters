@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260528022214
-# Last modified: 2026/05/28 02:22:14
-# Blocked domains: 7339
+# Version: 20260528103628
+# Last modified: 2026/05/28 10:36:28
+# Blocked domains: 7335
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -1031,7 +1031,6 @@ local=/adx.appsdk.com.cn/
 local=/appsdt.com/
 local=/tracking.apptrackerlink.com/
 local=/appuu.cn/
-local=/appweb-online-whatsapp.com.cn/
 local=/aq0vs4ftni.com/
 local=/track-ger.aqara.com/
 local=/a.armystar.com/
@@ -1290,7 +1289,6 @@ local=/static01.baomihua.com/
 local=/barrister.org.cn/
 local=/bartender.cc/
 local=/bashenghuo.com/
-local=/baxizai.com/
 local=/baycode.cn/
 local=/cruiser.bayescom.cn/
 local=/bayescom.com/
@@ -2216,7 +2214,6 @@ local=/eap.big5.enorth.com.cn/
 local=/zdisji.entagkg.cn/
 local=/js.entm.top/
 local=/envion.top/
-local=/eobuwieplonline.com/
 local=/e.eoeoev.cn/
 local=/m.eoeoev.cn/
 local=/eoyqzzk.cn/
@@ -3926,6 +3923,7 @@ local=/magicwindow.cn/
 local=/maihehd.com/
 local=/zc1.maillist-manage.com.cn/
 local=/maimai.cn/
+local=/mains-wending.com.cn/
 local=/mairuan.cn/
 local=/mairuan.com/
 local=/mairuan.com.cn/
@@ -4396,7 +4394,6 @@ local=/apaff.oneplus.com/
 local=/natdetection.onethingpcs.com/
 local=/oneway.mobi/
 local=/onezapp.com/
-local=/online-appweb-whatsapp.com.cn/
 local=/online-ayx.com.cn/
 local=/online-bet365.com.cn/
 local=/online-e-kaiyun.com.cn/
@@ -5022,7 +5019,6 @@ local=/images.response.reedexpo.com.cn/
 local=/news.reedexpo.com.cn/
 local=/register-dingsheng.com.cn/
 local=/www2.info.renesas.cn/
-local=/dpd.renewy.cfd/
 local=/ebp.renren.com/
 local=/jebe.renren.com/
 local=/renzhen8.cn/
