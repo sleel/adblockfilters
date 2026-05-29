@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260529192309
-# Last modified: 2026/05/29 19:23:09
-# Blocked domains: 7499
+# Version: 20260530022852
+# Last modified: 2026/05/30 02:28:52
+# Blocked domains: 7484
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2661,7 +2661,6 @@ local=/googlevads-cn.com/
 local=/gostats.cn/
 local=/gouzhibao.cn/
 local=/www.gov-parkingc.shop/
-local=/www.gov-parklngy.shop/
 local=/govkunming.cn/
 local=/gpscard.cn/
 local=/gpxxbyf.cn/
@@ -3225,8 +3224,6 @@ local=/ads-gdl.imovideo.ru/
 local=/pyk.in-neo.cn/
 local=/inad.com/
 local=/dlres.ind9ed.com/
-local=/index-match-wending-pg.com.cn/
-local=/index-news-j9game.com.cn/
 local=/ssp.indexmob.com/
 local=/analytics.infility.cn/
 local=/link.infineon.cn/
@@ -3341,7 +3338,6 @@ local=/ixjtpbj.cn/
 local=/paypay-card.iyelxkt.cn/
 local=/dev.iyuba.cn/
 local=/iyumiao.com.cn/
-local=/iz-htx.hl.cn/
 local=/izatcloud.net/
 local=/adapi.izuiyou.com/
 local=/adstat.izuiyou.com/
@@ -3877,7 +3873,6 @@ local=/lineb.com.cn/
 local=/lined.com.cn/
 local=/lineg.com.cn/
 local=/lineu.com.cn/
-local=/lineup-preview-kaiyun.com.cn/
 local=/lingd.cn/
 local=/linkcenter.hk.cn/
 local=/linkcenter.ln.cn/
@@ -4655,6 +4650,7 @@ local=/pqjprom.cn/
 local=/prasquinor.jp/
 local=/prdohgp.cn/
 local=/prlioxb.cn/
+local=/proewildfire.cn/
 local=/info.protiviti.com.cn/
 local=/paybank.prtybrv.cn/
 local=/pstarv.cn/
@@ -5187,17 +5183,9 @@ local=/safe-yunkai.com.cn/
 local=/404.safedog.cn/
 local=/safeguard-365wm.com.cn/
 local=/safeplay-kaiyun.com.cn/
-local=/safew-ca.com.cn/
-local=/safew-go.org.cn/
-local=/safew-hi.com.cn/
-local=/safew-io.com.cn/
 local=/safew-jm.com.cn/
 local=/safew-js.com.cn/
-local=/safew-pc.org.cn/
-local=/safew-s1.org.cn/
-local=/safew-tv.org.cn/
 local=/safeweiji.com.cn/
-local=/safewgo.org.cn/
 local=/saitef.cn/
 local=/samevay.com.cn/
 local=/smetrics.samsung.com.cn/
@@ -6162,7 +6150,6 @@ local=/adsoss.uqualities.com/
 local=/uqz.com/
 local=/urbanfind.club/
 local=/uri6.com/
-local=/use-sougou.com.cn/
 local=/usercenter.ha.cn/
 local=/usercenter.he.cn/
 local=/usercenter.nx.cn/
@@ -6671,7 +6658,6 @@ local=/wwads.cn/
 local=/vhs.wwstat.com/
 local=/www-google.cn/
 local=/www-qishiu.com.cn/
-local=/www-stream-wending-pg.com.cn/
 local=/1500020991.vodplayer.wxamedia.com/
 local=/1500022744.vodplayer.wxamedia.com/
 local=/1500026601.vodplayer.wxamedia.com/
@@ -7455,7 +7441,6 @@ local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
-local=/zoom01webin.sbs/
 local=/zoosnet.net/
 local=/zoossoft.cn/
 local=/zoossoft.net/
