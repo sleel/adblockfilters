@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260530175345
-! Last modified: 2026/05/30 17:53:45
-! Blocked domains: 7459
+! Version: 20260531005608
+! Last modified: 2026/05/31 00:56:08
+! Blocked domains: 7405
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -18,7 +18,7 @@
 ||0471fcw.com^
 ||0512pifa.com.cn^
 ||api.0530hz.cn^
-||appimg.0575bbs.com^
+||0575bbs.com^
 ||0591jiajiao.com.cn^
 ||0597kk.com^
 ||06362.com^
@@ -127,22 +127,6 @@
 ||16050.xyz^
 ||16052.xyz^
 ||16063.xyz^
-||16078.xyz^
-||16080.xyz^
-||16085.xyz^
-||16094.xyz^
-||16152.xyz^
-||16154.xyz^
-||16160.xyz^
-||16178.xyz^
-||16190.xyz^
-||16204.xyz^
-||16208.xyz^
-||16209.xyz^
-||16213.xyz^
-||16215.xyz^
-||16216.xyz^
-||16254.xyz^
 ||adgeo.163.com^
 ||adimg.163.com^
 ||analytics.163.com^
@@ -701,7 +685,6 @@
 ||t.adbxb.cn^
 ||adbxb.com^
 ||adcome.cn^
-||add-dingtalk.com.cn^
 ||web.addition-whatsapp.com.cn^
 ||service.ad.adesk.com^
 ||adfunlink.com^
@@ -1034,7 +1017,6 @@
 ||aoqinglv.cn^
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
-||apd-dingtalk.com.cn^
 ||analytics.api.myqnapcloud.cn^
 ||adx.apicgate.com^
 ||us-behavior.apitd.net^
@@ -1044,7 +1026,6 @@
 ||app-google-zh.hl.cn^
 ||app-measurement-cn.com^
 ||app-measurement.com^
-||app-web-hk-whatapp.hl.cn^
 ||appadhoc.net^
 ||mobile.appchina.com^
 ||paybank.appcmiy.cn^
@@ -1055,7 +1036,6 @@
 ||securemetrics.apple.com.cn^
 ||fpb1.apple886.com^
 ||applk.cn^
-||apps-binance-binance.com.cn^
 ||st.appsad.cn^
 ||adx.appsdk.com.cn^
 ||appsdt.com^
@@ -2296,7 +2276,6 @@
 ||eyewand.cn^
 ||eyouv.cn^
 ||eyp7uowejx.com^
-||f-safew.com.cn^
 ||g.f11w.com^
 ||c.f1zd.com^
 ||m.f2z4d.cn^
@@ -2326,8 +2305,6 @@
 ||baj.fanwenzhan.com^
 ||fanyi100.com.cn^
 ||fanyia-youdao.com.cn^
-||fanyid-youdao.com.cn^
-||fanyip-youdao.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
 ||fb-sports-online.com.cn^
@@ -2761,9 +2738,7 @@
 ||hats.haibao.cn^
 ||countly-rel-usa.haimacloud.com^
 ||countly.haimawan.com^
-||haiwangwina.hl.cn^
 ||haiwangwinc.hl.cn^
-||haiwangwinu.hl.cn^
 ||haiwangwinv.hl.cn^
 ||halopaper.cn^
 ||g.haluoha.com^
@@ -2960,7 +2935,6 @@
 ||hjpqt.cn^
 ||hk-cn-binance.com.cn^
 ||hk-web-whatapp.hl.cn^
-||hk-whatapp.hl.cn^
 ||hkkeafj.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -3471,7 +3445,6 @@
 ||jknrwe.cn^
 ||jlrfx.com^
 ||jlwz.cn^
-||jm-telegram.com.cn^
 ||www.jmine.cn^
 ||jmlinks.cn^
 ||jmlk.co^
@@ -3794,7 +3767,6 @@
 ||cherry.le.com^
 ||stat.le.com^
 ||api.leancloud.cn^
-||ledgerwallet.download^
 ||metric.leigod.com^
 ||leigodco.com^
 ||leigodnn.com^
@@ -3867,12 +3839,6 @@
 ||lilangdianqi.cn^
 ||limkokwing-edu.cn^
 ||line-go.hl.cn^
-||linear-ayxsports.com.cn^
-||linear-ljsports.com.cn^
-||lineb.com.cn^
-||lined.com.cn^
-||lineg.com.cn^
-||lineu.com.cn^
 ||lingd.cn^
 ||linkcenter.hk.cn^
 ||linkcenter.ln.cn^
@@ -3959,7 +3925,6 @@
 ||lyzon.com.cn^
 ||app.lz55.cn^
 ||lzitzfb.cn^
-||m-app-whatapp.hl.cn^
 ||m-i4.cn^
 ||m-safew.com.cn^
 ||mlog.m1905.cn^
@@ -4448,14 +4413,8 @@
 ||online-ayx.com.cn^
 ||online-e-kaiyun.com.cn^
 ||online-kaiyunsport.com.cn^
-||online-leyuapp.com.cn^
-||online-milesports.com.cn^
 ||online-mlsports.com.cn^
-||online-nangong.com.cn^
 ||online-starsport.com.cn^
-||online-wukong.com.cn^
-||online-wukongsports.com.cn^
-||online-xingkongsports.com.cn^
 ||online-yabo.com.cn^
 ||online.sh.cn^
 ||forspeed.onlinedown.net^
@@ -5010,7 +4969,6 @@
 ||dpvchos.qqyy.com^
 ||dpvcimg.qqyy.com^
 ||qqzu.com^
-||qr-code-whatapp.hl.cn^
 ||qrbizr.cn^
 ||qsptv.net^
 ||f.qstatic.com^
@@ -5166,13 +5124,11 @@
 ||sacre.cn^
 ||sadrfv.cn^
 ||safe-jiubo.com.cn^
-||safe-kaiyunsport.com.cn^
 ||safe-kaiyunsports.com.cn^
 ||safe-yunkai.com.cn^
 ||404.safedog.cn^
 ||safeguard-365wm.com.cn^
 ||safeplay-kaiyun.com.cn^
-||safew-jm.com.cn^
 ||safew-js.com.cn^
 ||safeweiji.com.cn^
 ||saitef.cn^
@@ -5487,7 +5443,6 @@
 ||wct.softonic.cn^
 ||softxz.com^
 ||adx.sogaha.cn^
-||sogou-browsers.com.cn^
 ||123.sogou.com^
 ||files2.sogou.com^
 ||info.pinyin.sogou.com^
@@ -5648,7 +5603,6 @@
 ||szlite.cn^
 ||szmpc.cn^
 ||countpage.sznews.com^
-||t-safew.com.cn^
 ||t101.cn^
 ||t1n.cn^
 ||t28goe.cn^
@@ -5977,9 +5931,6 @@
 ||ts166.net^
 ||so.tsscnw.cn^
 ||tt-quarkc.com.cn^
-||tt-quarkd.com.cn^
-||tt-quarke.com.cn^
-||tt-todesk.com.cn^
 ||image.ttyouma.cn^
 ||ttyyuuoo.com^
 ||go.tuev.cn^
@@ -6624,7 +6575,6 @@
 ||honeycomb.wpscdn.cn^
 ||mo.res.wpscdn.cn^
 ||abroadad.cache.wpscdn.com^
-||wpswosn.com.cn^
 ||wpwpquse.cn^
 ||wrating.com^
 ||wrvdmh.cn^
@@ -6654,7 +6604,6 @@
 ||paybank.wzckwzx.cn^
 ||wzfjsh.cn^
 ||a.wzu.com^
-||x-safew.com.cn^
 ||x-steam.com^
 ||x1ka.cn^
 ||x4hu95mh0t.com^
@@ -6937,7 +6886,6 @@
 ||stat-z.xywy.com^
 ||static.front.xywy.com^
 ||xyxy01.com^
-||xz-dingtalk.com.cn^
 ||xz518.cn^
 ||un.xz6.com^
 ||xzhwxfgc.cn^
@@ -7012,7 +6960,6 @@
 ||static-ssp.yidianzixun.com^
 ||yidop.com^
 ||yidu.cc^
-||yifanyihao.com.cn^
 ||yihubaiying.com^
 ||yihuifu.cn^
 ||yijifen.com^
@@ -7261,7 +7208,6 @@
 ||td.zgxue.com^
 ||zh-cn-google.hl.cn^
 ||zh-gate.hl.cn^
-||zh-hk-whatapp.hl.cn^
 ||zh-todesk-cn.hl.cn^
 ||zhads.com^
 ||tfs.zhamm.cn^
