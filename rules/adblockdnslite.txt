@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260531005608
-! Last modified: 2026/05/31 00:56:08
-! Blocked domains: 7405
+! Version: 20260531105131
+! Last modified: 2026/05/31 10:51:31
+! Blocked domains: 7401
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -1044,7 +1044,6 @@
 ||aq0vs4ftni.com^
 ||track-ger.aqara.com^
 ||pay.aqiu6.com^
-||ar0010.cn^
 ||a.armystar.com^
 ||trk.arozone.cn^
 ||arpun.com^
@@ -1751,7 +1750,6 @@
 ||codenow.cn^
 ||codesoftchina.com^
 ||reportwest-midas.codmwest.com^
-||coinbaseguanwangxiazai.com.cn^
 ||guif.coloros.com^
 ||guif-eu.coloros.com^
 ||icosa-sg.coloros.com^
@@ -2649,7 +2647,6 @@
 ||gpscard.cn^
 ||gpxxbyf.cn^
 ||gqdfgyz.cn^
-||whatsapp.gr.hl.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
 ||baidu.greenxf.cn^
@@ -2669,7 +2666,6 @@
 ||stat.gspaceteam.com^
 ||csi.gstatic.com^
 ||gsxbxvd.cn^
-||whatsapp.gt.hl.cn^
 ||gtcqbnu.cn^
 ||oldk.gtifund.cn^
 ||pgdt.gtimg.cn^
