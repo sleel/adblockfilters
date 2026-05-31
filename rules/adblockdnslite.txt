@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260531181028
-! Last modified: 2026/05/31 18:10:28
-! Blocked domains: 7420
+! Version: 20260601010057
+! Last modified: 2026/06/01 01:00:57
+! Blocked domains: 7370
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -1383,7 +1383,6 @@
 ||bnr-bite.com.cn^
 ||bnr-wps.com.cn^
 ||bnti.cn^
-||bob-sports-online.com.cn^
 ||bobo.com^
 ||cdn2.jf365.boc.cn^
 ||cdn3.jf365.boc.cn^
@@ -2038,11 +2037,9 @@
 ||dpd.dpdccab.cfd^
 ||dpd.dpdccak.cfd^
 ||dpd.dpdccao.cfd^
-||dpd.dpdccap.cfd^
 ||dpd.dpdccas.cfd^
 ||dpd.dpdccau.cfd^
 ||dpd.dpdccav.cfd^
-||dpd.dpdccay.cfd^
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||drivethelife.com^
@@ -2193,7 +2190,6 @@
 ||trk.elmorietschle.cn^
 ||d.elong.cn^
 ||mhuodong.elong.com^
-||emc-sports-safe.com.cn^
 ||trk-cdpetl.emdlz.com.cn^
 ||analytics.emqx.com^
 ||ename.com.cn^
@@ -2235,7 +2231,6 @@
 ||excsyrv.cn^
 ||exevcl.cn^
 ||ad.exyws.org^
-||ey-gate.hl.cn^
 ||eyewand.cn^
 ||eyouv.cn^
 ||eyp7uowejx.com^
@@ -2268,10 +2263,8 @@
 ||fanqianbb.com^
 ||baj.fanwenzhan.com^
 ||fanyi100.com.cn^
-||fanyia-youdao.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
-||fb-sports-online.com.cn^
 ||dsp.fcbox.com^
 ||hugelog.fcbox.com^
 ||fccxgjg.com^
@@ -2311,7 +2304,6 @@
 ||ks.ferlytc.com^
 ||ffmobi.com^
 ||fhitagd.cn^
-||fifa-safe-buy.com.cn^
 ||fileshider.com^
 ||filetool.cn^
 ||ad.findic.com^
@@ -2447,8 +2439,6 @@
 ||gate-ju.hl.cn^
 ||gate-qe.hl.cn^
 ||gate-uy.hl.cn^
-||gate-uz.hl.cn^
-||gate-xd.hl.cn^
 ||gayeah.cn^
 ||gbitcoin.cn^
 ||ee.gd881.cn^
@@ -2604,14 +2594,6 @@
 ||googlevads-cn.com^
 ||gostats.cn^
 ||gouzhibao.cn^
-||www.gov-parkingqd.cyou^
-||www.gov-parkingqd.shop^
-||www.gov-parkingqf.cyou^
-||www.gov-parkingqf.shop^
-||www.gov-parkingqg.cyou^
-||www.gov-parkingqg.shop^
-||www.gov-parkingqs.cyou^
-||www.gov-parkingqs.shop^
 ||govkunming.cn^
 ||gpscard.cn^
 ||gpxxbyf.cn^
@@ -2703,7 +2685,6 @@
 ||hats.haibao.cn^
 ||countly-rel-usa.haimacloud.com^
 ||countly.haimawan.com^
-||haiwangwinc.hl.cn^
 ||haiwangwinv.hl.cn^
 ||halopaper.cn^
 ||g.haluoha.com^
@@ -2903,8 +2884,6 @@
 ||resu8.hjfile.cn^
 ||hjgen.cn^
 ||hjpqt.cn^
-||hk-cn-binance.com.cn^
-||hk-web-whatapp.hl.cn^
 ||hkkeafj.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -2987,7 +2966,6 @@
 ||huanqiucaijing.cn^
 ||ads.huantest.com^
 ||huaqiss.cn^
-||huatihui-online.com.cn^
 ||ads.cloud.huawei.com^
 ||hwa.his.huawei.com^
 ||httpdns.huaweicloud.com^
@@ -3087,7 +3065,6 @@
 ||ads.icloseli.cn^
 ||ads.iconntech.com^
 ||iconworkshop.cn^
-||id-line.com.cn^
 ||id6.me^
 ||js.idgdmgroup.com.cn^
 ||js2.idgdmgroup.com.cn^
@@ -3307,7 +3284,6 @@
 ||gg1.jc001.cn^
 ||stat.jc001.cn^
 ||pic.jd-bbs.com^
-||jd-gate.hl.cn^
 ||addata.jd.com^
 ||ads-union.jd.com^
 ||ads.union.jd.com^
@@ -3434,7 +3410,6 @@
 ||email-ap.joneslanglasalle.com.cn^
 ||telemetry.api.joox.com^
 ||joyfartech.com^
-||jp-dingtallk.com.cn^
 ||jp-todesk.com.cn^
 ||jpush.cn^
 ||jpush.io^
@@ -3479,7 +3454,6 @@
 ||jzdwl4.cn^
 ||e.jzvog.cn^
 ||m.jzvog.cn^
-||k-safew.com.cn^
 ||k2n0f.cn^
 ||k69wes8q8.com^
 ||k8velr77p.com^
@@ -3681,7 +3655,6 @@
 ||api.kwaizt.com^
 ||open.kwaizt.com^
 ||kwdgudw.cn^
-||kx-gate.hl.cn^
 ||kychq.cn^
 ||kyrelune.net^
 ||kzchyhr.cn^
@@ -3905,7 +3878,6 @@
 ||app.lz55.cn^
 ||lzitzfb.cn^
 ||m-i4.cn^
-||m-safew.com.cn^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -4308,7 +4280,6 @@
 ||al.newxue.com^
 ||nfksjkfs.com^
 ||nfvj.cn^
-||ng-gate.hl.cn^
 ||ng2y405w3y.com^
 ||ngmco.net^
 ||ngtraveler.com.cn^
@@ -4400,12 +4371,8 @@
 ||natdetection.onethingpcs.com^
 ||oneway.mobi^
 ||onezapp.com^
-||online-ayx.com.cn^
 ||online-e-kaiyun.com.cn^
-||online-kaiyunsport.com.cn^
-||online-mlsports.com.cn^
 ||online-starsport.com.cn^
-||online-yabo.com.cn^
 ||online.sh.cn^
 ||forspeed.onlinedown.net^
 ||fpbcode.onlinedown.net^
@@ -4513,7 +4480,6 @@
 ||pfdth.cn^
 ||pflpme.cn^
 ||pfqwbqs.cn^
-||pgluck-wending.com.cn^
 ||vendhelpuous.pgvjmp.cn^
 ||smetrics.marketing.lighting.philips.com.cn^
 ||photozoomchina.com^
@@ -5022,7 +4988,6 @@
 ||v5-se-bjtc-reading-ad.qznovelvod.com^
 ||v5-se-ex-alismart-reading-ad.qznovelvod.com^
 ||qzquna.cn^
-||r-line.com.cn^
 ||m.r507p.cn^
 ||c.r9uqp.cn^
 ||a2.rabbitpre.com^
@@ -5035,7 +5000,6 @@
 ||www.raqtbxv.cn^
 ||bespoke-analytics.razerapi.com^
 ||rb-dingtallk.com.cn^
-||rb-todesk.com.cn^
 ||rbioclv.cn^
 ||rcgpxk.cn^
 ||rcpuierp.cn^
@@ -5053,7 +5017,6 @@
 ||images.response.reedexpo.com.cn^
 ||news.reedexpo.com.cn^
 ||solutions.refinitiv.cn^
-||register-dingsheng.com.cn^
 ||www2.info.renesas.cn^
 ||ebp.renren.com^
 ||jebe.renren.com^
@@ -5061,7 +5024,6 @@
 ||api.revenuads.com^
 ||info.revvity.cn^
 ||rezgere.cn^
-||rf-gate.hl.cn^
 ||track.msadcenter.rfjq.com^
 ||rgyun.com^
 ||rhinogo.cn^
@@ -5123,13 +5085,7 @@
 ||news.s9377.com^
 ||sacre.cn^
 ||sadrfv.cn^
-||safe-jiubo.com.cn^
-||safe-kaiyunsports.com.cn^
-||safe-yunkai.com.cn^
 ||404.safedog.cn^
-||safeguard-365wm.com.cn^
-||safeplay-kaiyun.com.cn^
-||safew-js.com.cn^
 ||safeweiji.com.cn^
 ||saitef.cn^
 ||samevay.com.cn^
@@ -5881,7 +5837,6 @@
 ||st.todesk.com^
 ||todeskappa.com.cn^
 ||todeskapps.cn^
-||todeskzh.com.cn^
 ||adsapi.togothermany.cn^
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
@@ -5932,11 +5887,9 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||ta.trs.cn^
-||trust-wending.com.cn^
 ||trustutn.org^
 ||ts166.net^
 ||so.tsscnw.cn^
-||tt-quarkc.com.cn^
 ||image.ttyouma.cn^
 ||ttyyuuoo.com^
 ||ad.api.3g.tudou.com^
@@ -6124,7 +6077,6 @@
 ||uwgnpkd.cn^
 ||uwnvcxb.cn^
 ||uxcnhsf.cn^
-||uy-gate.hl.cn^
 ||v2.uyan.cc^
 ||uyfv.cn^
 ||uyunad.com^
@@ -6953,7 +6905,6 @@
 ||yhcu.cn^
 ||data.yhydl.com^
 ||yhz18.com^
-||yi-gate.hl.cn^
 ||analytics.yicai.com^
 ||yicha.cn^
 ||applog.yiche.com^
@@ -7237,7 +7188,6 @@
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
 ||zhcn-googele.hl.cn^
-||zhefanyi.com.cn^
 ||cdnlog.zhenai.com^
 ||zhflodsix.cn^
 ||zhidian3g.cn^
