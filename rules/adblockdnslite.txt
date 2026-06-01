@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260601010057
-! Last modified: 2026/06/01 01:00:57
-! Blocked domains: 7370
+! Version: 20260601105928
+! Last modified: 2026/06/01 10:59:28
+! Blocked domains: 7355
 ! unBlocked domains: 24
 !
 ||011211.cn^
@@ -275,7 +275,6 @@
 ||display.360totalsecurity.com^
 ||hot.m.shouji.360tpcdn.com^
 ||softdl.360tpcdn.com^
-||softdl2.360tpcdn.com^
 ||360weishi-360.cn^
 ||365-bat-safe.com.cn^
 ||36500.com^
@@ -1414,7 +1413,6 @@
 ||bswsmlp.cn^
 ||s.btime.com^
 ||btyou.com^
-||xww.bucea.edu.cn^
 ||llt.bugu360.net^
 ||butou.cn^
 ||bvmlt.top^
@@ -1492,7 +1490,6 @@
 ||cbhzxctgm.com^
 ||gdc2091.cc-club.com.cn^
 ||adv.ccb.com^
-||ccddgg.cn^
 ||ad.ccement.com^
 ||cchytech.com^
 ||ccies.cn^
@@ -2034,12 +2031,7 @@
 ||s.doyo.cn^
 ||umami.dp.tech^
 ||s.dpcq1.net^
-||dpd.dpdccab.cfd^
 ||dpd.dpdccak.cfd^
-||dpd.dpdccao.cfd^
-||dpd.dpdccas.cfd^
-||dpd.dpdccau.cfd^
-||dpd.dpdccav.cfd^
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||drivethelife.com^
@@ -2819,7 +2811,6 @@
 ||hh6666.com^
 ||xafrwo.hhgpb.cn^
 ||hhttm.top^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||hi9377.com^
 ||s1.hiapk.com^
@@ -3530,7 +3521,6 @@
 ||tj.koudaitong.com^
 ||b.kouke5.com^
 ||d.kpzip.com^
-||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
 ||photo.krryh.cn^
@@ -4226,7 +4216,6 @@
 ||vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
-||xiaoma-10021647.file.myqcloud.com^
 ||datarangers-event.myrightone.com^
 ||analytics.myshoptago.com^
 ||mytanwan.com^
@@ -4642,7 +4631,6 @@
 ||logger.qingting.fm^
 ||kf.qingwk.com^
 ||log.qiniuapi.com^
-||sta.qinxue.com^
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
@@ -5939,7 +5927,6 @@
 ||u8ad.com^
 ||log.ubianet.com^
 ||images.service.ubmsinoexpo.com^
-||ubrxii.cn^
 ||ubxqerc.cn^
 ||adashx.ut.uc.cn^
 ||ads.uc.cn^
@@ -6476,7 +6463,6 @@
 ||winbaicai.com^
 ||hoverfly.winchdesign.cn^
 ||ad.winrar.com.cn^
-||www.with-bet365.com.cn^
 ||wiyun.com^
 ||wj8i1rlp2b.com^
 ||wjgglm.com^
@@ -6626,7 +6612,6 @@
 ||xiaobaixitong.com^
 ||xiaobeier.cn^
 ||xiaodongrui.com^
-||cdn.xiaoduoai.com^
 ||adx.xiaodutv.com^
 ||nsclickvideo.xiaodutv.com^
 ||xda.xiaodutv.com^
