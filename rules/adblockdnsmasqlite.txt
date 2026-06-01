@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260601213045
-# Last modified: 2026/06/01 21:30:45
-# Blocked domains: 7240
+# Version: 20260602041321
+# Last modified: 2026/06/02 04:13:21
+# Blocked domains: 7250
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -1667,6 +1667,7 @@ local=/log.cmbchina.com/
 local=/cmcdl.cmcm.com/
 local=/lcf.cmplay.cmcm.com/
 local=/dubapkg.cmcmcdn.com/
+local=/rapi.cmgadx.com/
 local=/config.cmpassport.com/
 local=/config1.cmpassport.com/
 local=/config2.cmpassport.com/
@@ -2226,6 +2227,7 @@ local=/ergeapp.com/
 local=/log.ergeduoduo.com/
 local=/erlpbwy.cn/
 local=/ethan.wang/
+local=/c.etoolads.cn/
 local=/marketing.etouch.cn/
 local=/etui8.cn/
 local=/euuh.cn/
@@ -3212,6 +3214,7 @@ local=/nl.rcd.iqiyi.com/
 local=/notice.iqiyi.com/
 local=/policy.video.iqiyi.com/
 local=/puma-api.iqiyi.com/
+local=/puma.api.iqiyi.com/
 local=/static-s.iqiyi.com/
 local=/static.g.iqiyi.com/
 local=/store.iqiyi.com/
@@ -4922,6 +4925,7 @@ local=/ent1.qunchua.cn/
 local=/qutaovip.com/
 local=/ad.quwin.cn/
 local=/vn-ebay.quxlpuj.cn/
+local=/api.qvpublish.com/
 local=/api.ts.feedback.qy.net/
 local=/msg.qy.net/
 local=/msg-intl.qy.net/
@@ -5094,6 +5098,7 @@ local=/setqre.cn/
 local=/logstat.t.sfht.com/
 local=/sfilm.com/
 local=/sg92.com/
+local=/track.sgdmobile.com/
 local=/sglyd.cn/
 local=/w88.shanghaidisneyresort.com.cn/
 local=/api.shanghailingye.cn/
@@ -5712,6 +5717,7 @@ local=/tianhuicun.com.cn/
 local=/tianji520.cn/
 local=/tianjimedia.com/
 local=/tianmidian.com/
+local=/tracker.tianmu.mobi/
 local=/tiannbo.com/
 local=/ip.tianqiapi.com/
 local=/datas.tianqistatic.com/
@@ -5766,6 +5772,7 @@ local=/ato.tooopen.com/
 local=/topsem.com/
 local=/topstat.cn/
 local=/static.topxgun.com/
+local=/api.touch-moblie.com/
 local=/touclick.com/
 local=/toufangzhe.cn/
 local=/ad.img.tourenwang.com/
@@ -5809,6 +5816,7 @@ local=/tuhzjrr.cn/
 local=/tui98.cn/
 local=/tuia.cn/
 local=/activity.tuiapple.com/
+local=/activity.tuifish.com/
 local=/yun.tuisnake.com/
 local=/lm1.tuliu.com/
 local=/tumeite.cn/
@@ -5944,6 +5952,7 @@ local=/upceshop.cn/
 local=/updatehub.nx.cn/
 local=/updatehub.sx.cn/
 local=/uphzxdv.cn/
+local=/ads-sdk-cn.upltv.com/
 local=/mobilelog.upqzfile.com/
 local=/other.upqzfile.com/
 local=/adscfg.uqualities.com/
@@ -7236,6 +7245,7 @@ local=/zwm-wps.com.cn/
 local=/5mm.zxfw5.cn/
 local=/aaa.zxglpj.cn/
 local=/zxiws.cn/
+local=/api.ssp.zxrtb.com/
 local=/zxw51.com/
 local=/httpdns.zybang.com/
 local=/mf01.zybang.com/
