@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260602041321
-! Last modified: 2026/06/02 04:13:21
-! Blocked domains: 7250
+! Version: 20260602105646
+! Last modified: 2026/06/02 10:56:46
+! Blocked domains: 7240
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -499,7 +499,6 @@
 ||1.66law.cn^
 ||bj.ad.track.66mobi.com^
 ||attach.66rpg.com^
-||insproxy.66zhang.cn^
 ||6711.com^
 ||6789.net^
 ||kl.67it.com^
@@ -1393,7 +1392,6 @@
 ||bjmantis.net^
 ||bjmcmj.cn^
 ||bjvvqu.cn^
-||mhqajiz.bl8cz6.cn^
 ||file.blackint3.com^
 ||adimage.blm.net^
 ||gg.blueidea.com^
@@ -2047,7 +2045,6 @@
 ||umami.dp.tech^
 ||s.dpcq1.net^
 ||dpd.dpdccak.cfd^
-||dpd.dpdccar.cfd^
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||drivethelife.com^
@@ -2978,7 +2975,6 @@
 ||huayiav.cn^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
-||download2.huduntech.com^
 ||huidakms.com.cn^
 ||huishenghuiying.com^
 ||huishenghuiying.com.cn^
@@ -4199,7 +4195,6 @@
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
-||j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com^
 ||leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
@@ -4207,9 +4202,7 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
-||vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
-||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||datarangers-event.myrightone.com^
 ||onrunning-at.myshoplaza.com^
 ||analytics.myshoptago.com^
@@ -4443,7 +4436,6 @@
 ||a8.jp.peacebird.com^
 ||eloqua.pearsonvue.com.cn^
 ||peasrch.com^
-||www.pekinshuho.com^
 ||sdn.penggua.com.cn^
 ||adver.pengyou.com^
 ||penxiangge.com^
@@ -5416,7 +5408,6 @@
 ||steeltrader.com.cn^
 ||stg8.com^
 ||stgowan.com^
-||goto.stnts.com^
 ||app-analysislog.sto.cn^
 ||info.stockstar.com^
 ||same.stockstar.com^
@@ -5865,7 +5856,6 @@
 ||applogios.uc.cn^
 ||coral-task.uc.cn^
 ||dispatcher.upmc.uc.cn^
-||downali.game.uc.cn^
 ||feedback.uc.cn^
 ||gjapplog.uc.cn^
 ||gjtrack.uc.cn^
@@ -7081,7 +7071,7 @@
 ||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||zhikey.com^
+||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^
