@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260604185808
-# Last modified: 2026/06/04 18:58:08
-# Blocked domains: 7521
+# Version: 20260605021127
+# Last modified: 2026/06/05 02:11:27
+# Blocked domains: 7509
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -911,7 +911,6 @@ local=/loggw.alipay.com.cn/
 local=/loggw.alipaydns.com/
 local=/alipaylog.com/
 local=/acjs.aliyun.com/
-local=/click.aliyun.com/
 local=/mpush-api.aliyun.com/
 local=/osfota.cdn.aliyun.com/
 local=/1e4441z5fvl-sdk.rum.aliyuncs.com/
@@ -925,7 +924,6 @@ local=/adash-emas.cn-hangzhou.aliyuncs.com/
 local=/aixuntupian.oss-cn-hongkong.aliyuncs.com/
 local=/alime-pic.oss-cn-hangzhou.aliyuncs.com/
 local=/appgiftwall.oss-us-west-1.aliyuncs.com/
-local=/axyleu11gz-default-cn.rum.aliyuncs.com/
 local=/beacon-api.aliyuncs.com/
 local=/c3gdk-default-cn.rum.aliyuncs.com/
 local=/cdn-ads.oss-cn-shanghai.aliyuncs.com/
@@ -1715,8 +1713,6 @@ local=/clickeye.cn/
 local=/clicki.cn/
 local=/clickvalue.cn/
 local=/clientservices.googleapis.com/
-local=/7mnpeh.com1.z0.glb.clouddn.com/
-local=/7xi9g1.com1.z0.glb.clouddn.com/
 local=/bkt.clouddn.com/
 local=/advertise.cloudlinks.cn/
 local=/cm-todesk.com.cn/
@@ -2294,7 +2290,6 @@ local=/m.ercos.cn/
 local=/ergeapp.com/
 local=/log.ergeduoduo.com/
 local=/erlpbwy.cn/
-local=/analytics.escience.org.cn/
 local=/ethan.wang/
 local=/c.etoolads.cn/
 local=/marketing.etouch.cn/
@@ -2955,7 +2950,6 @@ local=/api-vidaaasst.hismarttv.com/
 local=/api-vipgw-launcher.hismarttv.com/
 local=/auth-em.hismarttv.com/
 local=/auth-eu.hismarttv.com/
-local=/auth-jp.hismarttv.com/
 local=/auth-launcher-em.hismarttv.com/
 local=/auth-launcher-eu.hismarttv.com/
 local=/auth-launcher-jp.hismarttv.com/
@@ -3361,7 +3355,6 @@ local=/adapi.izuiyou.com/
 local=/adstat.izuiyou.com/
 local=/xladapi.izuiyou.com/
 local=/xlstat.izuiyou.com/
-local=/j65s.vip/
 local=/j67c.vip/
 local=/j67z.vip/
 local=/j69t.vip/
@@ -4415,7 +4408,6 @@ local=/nnraytheon.com/
 local=/nord-flow.net/
 local=/nova-pln.com/
 local=/web.novogene.com/
-local=/grow.nowcoder.com/
 local=/a.nowscore.com/
 local=/z.nowscore.com/
 local=/util.nphoto.net/
@@ -4437,7 +4429,6 @@ local=/nuffnang.com.cn/
 local=/c.nuhcpf.com/
 local=/log.nuomi.com/
 local=/ads.nuonuo.com/
-local=/metric.nuonuo.com/
 local=/m.nuxyz.cn/
 local=/promotionad.nvcam.net/
 local=/ad.nvdvr.cn/
@@ -5199,7 +5190,6 @@ local=/safew-appk-cn.com.cn/
 local=/safew-appn-cn.com.cn/
 local=/safew-appu-cn.com.cn/
 local=/safew-appx-cn.com.cn/
-local=/safew-ca.org.cn/
 local=/safew-pc.org.cn/
 local=/safeweiji.com.cn/
 local=/safewgo.org.cn/
@@ -6116,8 +6106,6 @@ local=/m.uhor8.cn/
 local=/bdjs.uimg.cn/
 local=/uimr.cn/
 local=/ujian.cc/
-local=/ukfhqu.shop/
-local=/countly.ulanzistudio.com/
 local=/ulink.cc/
 local=/ultrapay.net/
 local=/um1.cn/
