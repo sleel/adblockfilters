@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260605021127
-! Last modified: 2026/06/05 02:11:27
-! Blocked domains: 7509
+! Version: 20260605104929
+! Last modified: 2026/06/05 10:49:29
+! Blocked domains: 7501
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -516,7 +516,6 @@
 ||6613167.cn^
 ||1.66law.cn^
 ||bj.ad.track.66mobi.com^
-||attach.66rpg.com^
 ||6711.com^
 ||6789.net^
 ||kl.67it.com^
@@ -1479,7 +1478,6 @@
 ||bswsmlp.cn^
 ||s.btime.com^
 ||btyou.com^
-||xww.bucea.edu.cn^
 ||llt.bugu360.net^
 ||butou.cn^
 ||bvmlt.top^
@@ -3217,7 +3215,6 @@
 ||a3.ikafan.com^
 ||a4.ikafan.com^
 ||ikuailian.com^
-||static.ilclock.com^
 ||ilkwork.com^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -3626,8 +3623,6 @@
 ||a.koudai.com^
 ||tj.koudaitong.com^
 ||b.kouke5.com^
-||bundle.kpzip.com^
-||d.kpzip.com^
 ||kqg8jh8rk.com^
 ||krakow-rynowekta-ai.com^
 ||krk-telegram.com.cn^
@@ -4483,7 +4478,6 @@
 ||online-starsports.com.cn^
 ||online-youbosport.com.cn^
 ||online.sh.cn^
-||forspeed.onlinedown.net^
 ||fpbcode.onlinedown.net^
 ||onlinekaiyun.com.cn^
 ||olpv.onlylady.com^
@@ -7335,7 +7329,6 @@
 ||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^
@@ -7459,7 +7452,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

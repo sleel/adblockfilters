@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260605021127
-# Last modified: 2026/06/05 02:11:27
-# Blocked domains: 7509
+# Version: 20260605104929
+# Last modified: 2026/06/05 10:49:29
+# Blocked domains: 7501
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -515,7 +515,6 @@ local=/m5.66077.cn/
 local=/6613167.cn/
 local=/1.66law.cn/
 local=/bj.ad.track.66mobi.com/
-local=/attach.66rpg.com/
 local=/6711.com/
 local=/6789.net/
 local=/kl.67it.com/
@@ -1478,7 +1477,6 @@ local=/bsrkt.com/
 local=/bswsmlp.cn/
 local=/s.btime.com/
 local=/btyou.com/
-local=/xww.bucea.edu.cn/
 local=/llt.bugu360.net/
 local=/butou.cn/
 local=/bvmlt.top/
@@ -3216,7 +3214,6 @@ local=/api.ijunhai.com/
 local=/a3.ikafan.com/
 local=/a4.ikafan.com/
 local=/ikuailian.com/
-local=/static.ilclock.com/
 local=/ilkwork.com/
 local=/smetrics.illumina.com.cn/
 local=/metrics.ilovematlab.cn/
@@ -3625,8 +3622,6 @@ local=/kouclo.com/
 local=/a.koudai.com/
 local=/tj.koudaitong.com/
 local=/b.kouke5.com/
-local=/bundle.kpzip.com/
-local=/d.kpzip.com/
 local=/kqg8jh8rk.com/
 local=/krakow-rynowekta-ai.com/
 local=/krk-telegram.com.cn/
@@ -4482,7 +4477,6 @@ local=/online-starsport.com.cn/
 local=/online-starsports.com.cn/
 local=/online-youbosport.com.cn/
 local=/online.sh.cn/
-local=/forspeed.onlinedown.net/
 local=/fpbcode.onlinedown.net/
 local=/onlinekaiyun.com.cn/
 local=/olpv.onlylady.com/
@@ -7334,7 +7328,6 @@ local=/mqtt.zhihu.com/
 local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
-local=/www.zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/
@@ -7458,7 +7451,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
