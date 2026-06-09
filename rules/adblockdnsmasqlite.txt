@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260609022156
-# Last modified: 2026/06/09 02:21:56
-# Blocked domains: 7609
+# Version: 20260609103511
+# Last modified: 2026/06/09 10:35:11
+# Blocked domains: 7601
 #
 local=/00951294-apple.com/
 local=/011211.cn/
@@ -673,12 +673,10 @@ local=/aafanke.cc/
 local=/aaoffice.cn/
 local=/aapz.com/
 local=/aaqaz.cn/
-local=/aaveapp.com/
 local=/abbyychina.com/
 local=/s.abcache.com/
 local=/abckzo.cn/
 local=/smetrics.abercrombie.cn/
-local=/able-bet365.com.cn/
 local=/abodevra.com/
 local=/discover.absciex.com.cn/
 local=/accesshub.cq.cn/
@@ -1599,7 +1597,6 @@ local=/tvuser-ch.cedock.com/
 local=/celna-zyskovera.net/
 local=/cengqinglin.cn/
 local=/cennostow.net/
-local=/central-bet365.com.cn/
 local=/update.cg100iii.com/
 local=/cgigc.com.cn/
 local=/ch-qishui-music.com.cn/
@@ -1794,15 +1791,12 @@ local=/log-eap-sg.coloros.com/
 local=/moa-upload-online.coloros.com/
 local=/smartcard.apps.coloros.com/
 local=/com5.com.cn/
-local=/www.come-bet365.com.cn/
-local=/comfy-bet365.com.cn/
 local=/trk.compair.com.cn/
 local=/strack.concur.cn/
 local=/cu-cn-north00001.gala.convection.cn/
 local=/cu-cn-north00002.gala.convection.cn/
 local=/conyz.cn/
 local=/coocaatv.com/
-local=/cool-bet365.com.cn/
 local=/detaillog-global-dual.coolbcloud.com/
 local=/logreport-global-dual.coolbcloud.com/
 local=/detaillog-global-dual.coolccloud.com/
@@ -2450,7 +2444,6 @@ local=/rtlog5-applog.fqnovel.com/
 local=/rtlog5-applog-hl.fqnovel.com/
 local=/rtlog5-applog-lf.fqnovel.com/
 local=/fqxkj.cn/
-local=/frank-bet365.com.cn/
 local=/trace-v1.free-reels.com/
 local=/freedrive.cn/
 local=/dd1.freep.cn/
@@ -5282,7 +5275,6 @@ local=/dwtracking.sdo.com/
 local=/reportsk.web.sdo.com/
 local=/p.sdu8cvc.com/
 local=/sdxitong.com/
-local=/www.search-bet365.com.cn/
 local=/securemsg.fj.cn/
 local=/securemsg.hi.cn/
 local=/securemsg.org.cn/
