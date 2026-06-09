@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260609185609
-# Last modified: 2026/06/09 18:56:09
-# Blocked domains: 7376
+# Version: 20260610015620
+# Last modified: 2026/06/10 01:56:20
+# Blocked domains: 7370
 #
 local=/00951294-apple.com/
 local=/011211.cn/
@@ -765,7 +765,6 @@ local=/abtest.alibaba.com/
 local=/activities.alibaba.com/
 local=/adashx.ut.alibaba.com/
 local=/aplus.alibaba.com/
-local=/click.alibaba.com/
 local=/fourier.alibaba.com/
 local=/h-adashx.ut.alibaba.com/
 local=/hydra.alibaba.com/
@@ -1538,7 +1537,6 @@ local=/atrace.chelaile.net.cn/
 local=/logs.chelaile.net.cn/
 local=/chemdraw.com.cn/
 local=/chenggao.cn/
-local=/chengzijianzhan.cc/
 local=/pwn9c.chenmujiang.com.cn/
 local=/chenshengyu.cn/
 local=/chenyanjiao.cn/
@@ -3475,7 +3473,6 @@ local=/sandbox-elq.keysight.com.cn/
 local=/p.kf3msfm.com/
 local=/ssp1.kfadx.tech/
 local=/j.kfd3sm2c.com/
-local=/kiees.com/
 local=/kingdeecn.cn/
 local=/abroad-ad.kingsoft-office-service.com/
 local=/cloudservice13.kingsoft-office-service.com/
@@ -5798,7 +5795,6 @@ local=/tnjvz.cn/
 local=/paypay-card.tnkhpsg.cn/
 local=/pxx.tnklrs.cn/
 local=/tnze.cn/
-local=/to8to.com/
 local=/tobidad.com/
 local=/todesk-dl.com.cn/
 local=/todesk-qp.com.cn/
@@ -6127,7 +6123,6 @@ local=/az.appstore.vivo.com.cn/
 local=/brandadsstatic.vivo.com.cn/
 local=/browser.vivo.com.cn/
 local=/dsplog-adnet.vivo.com.cn/
-local=/h5.vivo.com.cn/
 local=/monitor-stsdk.vivo.com.cn/
 local=/onrt-stsdk.vivo.com.cn/
 local=/open-ad.vivo.com.cn/
@@ -6140,7 +6135,6 @@ local=/stnetsdk.appstore.vivo.com.cn/
 local=/stsdk.vivo.com.cn/
 local=/tracking-adnet.vivo.com.cn/
 local=/uapi-ads.vivo.com.cn/
-local=/zhan.vivo.com.cn/
 local=/alliance-adreq-asia.vivoglobal.com/
 local=/asia-abeacdataonrt-stsdk.vivoglobal.com/
 local=/asia-abeacdataort-stsdk.vivoglobal.com/

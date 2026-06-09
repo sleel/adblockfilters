@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260609185609
-! Last modified: 2026/06/09 18:56:09
-! Blocked domains: 7376
+! Version: 20260610015620
+! Last modified: 2026/06/10 01:56:20
+! Blocked domains: 7370
 ! unBlocked domains: 24
 !
 ||00951294-apple.com^
@@ -766,7 +766,6 @@
 ||activities.alibaba.com^
 ||adashx.ut.alibaba.com^
 ||aplus.alibaba.com^
-||click.alibaba.com^
 ||fourier.alibaba.com^
 ||h-adashx.ut.alibaba.com^
 ||hydra.alibaba.com^
@@ -1539,7 +1538,6 @@
 ||logs.chelaile.net.cn^
 ||chemdraw.com.cn^
 ||chenggao.cn^
-||chengzijianzhan.cc^
 ||pwn9c.chenmujiang.com.cn^
 ||chenshengyu.cn^
 ||chenyanjiao.cn^
@@ -3476,7 +3474,6 @@
 ||p.kf3msfm.com^
 ||ssp1.kfadx.tech^
 ||j.kfd3sm2c.com^
-||kiees.com^
 ||kingdeecn.cn^
 ||abroad-ad.kingsoft-office-service.com^
 ||cloudservice13.kingsoft-office-service.com^
@@ -5799,7 +5796,6 @@
 ||paypay-card.tnkhpsg.cn^
 ||pxx.tnklrs.cn^
 ||tnze.cn^
-||to8to.com^
 ||tobidad.com^
 ||todesk-dl.com.cn^
 ||todesk-qp.com.cn^
@@ -6128,7 +6124,6 @@
 ||brandadsstatic.vivo.com.cn^
 ||browser.vivo.com.cn^
 ||dsplog-adnet.vivo.com.cn^
-||h5.vivo.com.cn^
 ||monitor-stsdk.vivo.com.cn^
 ||onrt-stsdk.vivo.com.cn^
 ||open-ad.vivo.com.cn^
@@ -6141,7 +6136,6 @@
 ||stsdk.vivo.com.cn^
 ||tracking-adnet.vivo.com.cn^
 ||uapi-ads.vivo.com.cn^
-||zhan.vivo.com.cn^
 ||alliance-adreq-asia.vivoglobal.com^
 ||asia-abeacdataonrt-stsdk.vivoglobal.com^
 ||asia-abeacdataort-stsdk.vivoglobal.com^
