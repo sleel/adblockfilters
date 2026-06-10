@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260610015620
-! Last modified: 2026/06/10 01:56:20
-! Blocked domains: 7370
+! Version: 20260610104919
+! Last modified: 2026/06/10 10:49:19
+! Blocked domains: 7368
 ! unBlocked domains: 24
 !
 ||00951294-apple.com^
@@ -2108,7 +2108,6 @@
 ||dark-plum-k7yi7i8396.edgeone.app^
 ||domain-server-dashboard.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
-||electoral-plum-x813sremvw.edgeone.app^
 ||energetic-indigo-dxeo7k8pg2.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||moj-panel.edgeone.app^
@@ -4491,7 +4490,6 @@
 ||pop800.com^
 ||poqwua.cn^
 ||fp-it-acc.portal101.cn^
-||posh-bet365.com.cn^
 ||webtrack.pospal.cn^
 ||log.cs.pp.cn^
 ||patriot.cs.pp.cn^
