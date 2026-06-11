@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260611022708
-! Last modified: 2026/06/11 02:27:08
-! Blocked domains: 7459
+! Version: 20260611105834
+! Last modified: 2026/06/11 10:58:34
+! Blocked domains: 7464
 ! unBlocked domains: 24
 !
 ||00951294-apple.com^
@@ -128,6 +128,7 @@
 ||14092.xyz^
 ||d.14yaa.com^
 ||1503.net^
+||15532.xyz^
 ||15738.xyz^
 ||15763.xyz^
 ||15798.xyz^
@@ -250,6 +251,7 @@
 ||19869.com^
 ||198game.com^
 ||m.198nc.cn^
+||1fanyi.com.cn^
 ||ad.1kxun.com^
 ||1l1.cc^
 ||1mpi.com^
@@ -1068,6 +1070,7 @@
 ||rtlog3-applog-hl.amemv.com^
 ||rtlog3-applog-lf.amemv.com^
 ||rtlog3-applog-lq.amemv.com^
+||amendes-justice-gov-ma.com^
 ||metrics.americanairlines.cn^
 ||amerzbj.cn^
 ||user-event-log.aminer.cn^
@@ -1765,7 +1768,6 @@
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
 ||dubapkg.cmcmcdn.com^
-||rapi.cmgadx.com^
 ||config.cmpassport.com^
 ||config1.cmpassport.com^
 ||config2.cmpassport.com^
@@ -2049,6 +2051,7 @@
 ||apisoft.df0535.com^
 ||newswifiapi.dfshurufa.com^
 ||dfz-telegram.com.cn^
+||dg-sl.com^
 ||dg186.cn^
 ||dgqmsj.cn^
 ||dgrj.com.cn^
@@ -2338,7 +2341,6 @@
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
 ||ethan.wang^
-||c.etoolads.cn^
 ||marketing.etouch.cn^
 ||etui8.cn^
 ||euuh.cn^
@@ -2383,6 +2385,7 @@
 ||fangq-youdao.com.cn^
 ||fangyi.cn^
 ||fanqianbb.com^
+||fanyi027.com.cn^
 ||fanyi100.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
@@ -2430,6 +2433,7 @@
 ||ffmobi.com^
 ||21.fh21static.com^
 ||fifaworldcup-game.com.cn^
+||fifaworldcup-online.com.cn^
 ||fileshider.com^
 ||firefang.cn^
 ||firefox-zh.com.cn^
@@ -2716,6 +2720,7 @@
 ||gpscard.cn^
 ||gpxxbyf.cn^
 ||gqdfgyz.cn^
+||gqhe-wending.com.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
 ||baidu.greenxf.cn^
@@ -3325,7 +3330,6 @@
 ||paopao-monitor.iqiyi.com^
 ||policy.video.iqiyi.com^
 ||puma-api.iqiyi.com^
-||puma.api.iqiyi.com^
 ||static-s.iqiyi.com^
 ||static.g.iqiyi.com^
 ||store.iqiyi.com^
@@ -3379,6 +3383,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
+||j58v.vip^
 ||j62n.vip^
 ||j65s.vip^
 ||j67c.vip^
@@ -3978,6 +3983,7 @@
 ||app.lz55.cn^
 ||lzitzfb.cn^
 ||m-i4.cn^
+||m-news-ng.com.cn^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -4224,6 +4230,7 @@
 ||mobjump.com^
 ||cdn0.mobmore.com^
 ||ex.mobmore.com^
+||modline.com.cn^
 ||ddapi.mogooba.cn^
 ||bd1.moguvet.com^
 ||ad.api.moji.com^
@@ -4727,12 +4734,14 @@
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
+||qishuei-d.com.cn^
 ||qishui-eom.com.cn^
 ||qishui-gf.com.cn^
 ||qishui-wwp.com.cn^
 ||qishui.bj.cn^
 ||qishuimusic-cn.hl.cn^
 ||qishuiyinyue-dl.com.cn^
+||qishuiyinyue-kt.com.cn^
 ||qishuiyinyue-mh.com.cn^
 ||qishuiyinyue-zw.com.cn^
 ||qiumiba.cn^
@@ -5047,7 +5056,6 @@
 ||ent1.qunchua.cn^
 ||qutaovip.com^
 ||ad.quwin.cn^
-||api.qvpublish.com^
 ||api.ts.feedback.qy.net^
 ||msg.qy.net^
 ||msg-intl.qy.net^
@@ -5167,6 +5175,7 @@
 ||sadrfv.cn^
 ||safe-6688sports.com.cn^
 ||safe-bibo.com.cn^
+||safe-bogou.com.cn^
 ||safe-bowan.com.cn^
 ||safe-boye.com.cn^
 ||safe-jinbaob.com.cn^
@@ -5244,7 +5253,6 @@
 ||logstat.t.sfht.com^
 ||sfilm.com^
 ||sg92.com^
-||track.sgdmobile.com^
 ||sglyd.cn^
 ||api.shanghailingye.cn^
 ||shangtuke.cn^
@@ -5593,6 +5601,7 @@
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||stuowq.cn^
+||styleblogger.cn^
 ||uc9.suinidai.com.cn^
 ||client-dmp.suishenyun.cn^
 ||log-dmp.suishenyun.cn^
@@ -5896,7 +5905,6 @@
 ||tianji520.cn^
 ||tianjimedia.com^
 ||tianmidian.com^
-||tracker.tianmu.mobi^
 ||tiannbo.com^
 ||ip.tianqiapi.com^
 ||datas.tianqistatic.com^
@@ -5952,7 +5960,6 @@
 ||topsem.com^
 ||topstat.cn^
 ||static.topxgun.com^
-||api.touch-moblie.com^
 ||touclick.com^
 ||toufangzhe.cn^
 ||toushibao.com^
@@ -6146,7 +6153,6 @@
 ||updatehub.nx.cn^
 ||updatehub.sx.cn^
 ||uphzxdv.cn^
-||ads-sdk-cn.upltv.com^
 ||mobilelog.upqzfile.com^
 ||other.upqzfile.com^
 ||upzabkw.cn^
@@ -7003,6 +7009,8 @@
 ||static-ssp.yidianzixun.com^
 ||yidop.com^
 ||yidu.cc^
+||yifanyi-g.com.cn^
+||yifanyica.com.cn^
 ||yihubaiying.com^
 ||yihuifu.cn^
 ||yiifanyi.com.cn^
@@ -7044,7 +7052,6 @@
 ||ad123.ynet.com^
 ||jpwy.ynp0h.cn^
 ||ynztzh.com^
-||m.yocvn.com^
 ||webtrans.yodao.com^
 ||yodo1.com^
 ||ocd.yodo1api.com^
@@ -7144,7 +7151,6 @@
 ||yrqwnc.cn^
 ||ys630.com^
 ||log.ys7.com^
-||www.ysbaojia.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
 ||ysont.cn^
@@ -7453,7 +7459,6 @@
 ||5mm.zxfw5.cn^
 ||aaa.zxglpj.cn^
 ||zxiws.cn^
-||api.ssp.zxrtb.com^
 ||zxw51.com^
 ||httpdns.zybang.com^
 ||mf01.zybang.com^
