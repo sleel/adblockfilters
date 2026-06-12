@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260612024356
-! Last modified: 2026/06/12 02:43:56
-! Blocked domains: 7334
+! Version: 20260612105540
+! Last modified: 2026/06/12 10:55:40
+! Blocked domains: 7311
 ! unBlocked domains: 22
 !
 ||011211.cn^
@@ -912,8 +912,6 @@
 ||click.aliyun.com^
 ||mpush-api.aliyun.com^
 ||osfota.cdn.aliyun.com^
-||1fw35mn5y7h-sdk.rum.aliyuncs.com^
-||1hlahoc4rpc-sdk.rum.aliyuncs.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
@@ -2200,7 +2198,6 @@
 ||roundcube-jrcfj7x9ek.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||srv65ertui8uyt655io-7douf96n3o.edgeone.dev^
-||tropical-red-pd56z5jhth.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||ediuschina.com^
 ||eduace.com.cn^
@@ -2225,9 +2222,6 @@
 ||client-api.ele.me^
 ||grand.ele.me^
 ||h-adashx.ut.ele.me^
-||elite-ayx.com.cn^
-||elite-jinshayule.com.cn^
-||elite-xcsports.com.cn^
 ||metrics.ellechina.com^
 ||trk.elmorietschle.cn^
 ||d.elong.cn^
@@ -2377,7 +2371,6 @@
 ||smetrics.sandbox.ford.com^
 ||forestseasons.com.cn^
 ||formysql.com^
-||fortrans.com.cn^
 ||fotao9.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||log0-applog-lf.fqnovel.com^
@@ -2568,7 +2561,6 @@
 ||sensorsdata.glowapp.vip^
 ||l.glrcy.cn^
 ||glwxw.net^
-||con-cam.gmkf6a.cn^
 ||cpux.gmud.top^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
@@ -3045,9 +3037,6 @@
 ||zuowen.hydcd.com^
 ||hyfyuan.com^
 ||hypers.com^
-||dsp.hypers.com.cn^
-||hw-t.hypers.com.cn^
-||t.hypers.com.cn^
 ||hytzp.cn^
 ||hzbxm.com^
 ||hzdhr.cn^
@@ -4012,7 +4001,6 @@
 ||miaozhen.com^
 ||micro-xdb.com^
 ||microad-cn.com^
-||microsoft-browser.com.cn^
 ||stat.microvirt.com^
 ||miduoke.net^
 ||midway.run^
@@ -4302,7 +4290,6 @@
 ||z.nowscore.com^
 ||util.nphoto.net^
 ||nphqw.cn^
-||nptpjz.cn^
 ||m.nqut.cn^
 ||nrjzkj.cn^
 ||nrpazo.cn^
@@ -4478,9 +4465,6 @@
 ||pl53l7tyw.com^
 ||placidocn.com^
 ||load.tbyvvwvv.plasmatreatment.cn^
-||cg.play-analytics.com^
-||dnha.play-analytics.com^
-||up.play-analytics.com^
 ||open.play.cn^
 ||bdx.playnext.cn^
 ||pmensrl.cn^
@@ -4951,7 +4935,6 @@
 ||v95-se-zjwztc-reading-ad.qznovelvod.com^
 ||v96-reading-ad.qznovelvod.com^
 ||qzquna.cn^
-||qzy2007.com^
 ||m.r507p.cn^
 ||c.r9uqp.cn^
 ||a2.rabbitpre.com^
@@ -5010,11 +4993,6 @@
 ||feedback.cn.ronghub.com^
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
-||rosy-feifansports.com.cn^
-||rosy-gysports.com.cn^
-||rosy-kaiyuan.com.cn^
-||rosy-yibeisports.com.cn^
-||rosy-yibosports.com.cn^
 ||rovz7ekw3r.com^
 ||rpahyhn.cn^
 ||rplzmw.cn^
@@ -5438,7 +5416,6 @@
 ||staticfile.org^
 ||ste000u5mk.com^
 ||steam66.cn^
-||steampowered-zhcn.hl.cn^
 ||steeltrader.com.cn^
 ||stg8.com^
 ||stgowan.com^
