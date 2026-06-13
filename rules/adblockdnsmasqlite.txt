@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260613020154
-# Last modified: 2026/06/13 02:01:54
-# Blocked domains: 7466
+# Version: 20260613104824
+# Last modified: 2026/06/13 10:48:24
+# Blocked domains: 7461
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2220,10 +2220,8 @@ local=/colonial-chocolate-9onfwalt.edgeone.app/
 local=/dark-plum-k7yi7i8396.edgeone.app/
 local=/domain-server-dashboard.edgeone.app/
 local=/dotnotblock-pfwzl61nwt.edgeone.app/
-local=/effective-tomato-8ng0ecef.edgeone.app/
 local=/energetic-indigo-dxeo7k8pg2.edgeone.app/
 local=/expensive-red-8ukousxj.edgeone.app/
-local=/extra-cyan-zfxl6ma9.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/moj-panel.edgeone.app/
 local=/ordinary-violet-aiqitdrvzm.edgeone.app/
@@ -2244,7 +2242,6 @@ local=/gastric-rose-hwpw4awz.edgeone.dev/
 local=/gautamandgautam-byizfzvunb.edgeone.dev/
 local=/gdghhfhdnhhfdgnnxcbnddddvn-dpl0cm801n86.edgeone.dev/
 local=/gtttt.edgeone.dev/
-local=/gwqoplkgomencav.edgeone.dev/
 local=/halblivcaslsa.edgeone.dev/
 local=/healthnuringsafehomeoffloras.edgeone.dev/
 local=/helpful-teal-wemfvl3j.edgeone.dev/
@@ -4045,7 +4042,6 @@ local=/ofd.meng-an.cn/
 local=/tracking.c.mercedes-benz.com.cn/
 local=/tracking.m.mercedes-benz.com.cn/
 local=/tracking.t.mercedes-benz.com.cn/
-local=/meta-instagram.com.cn/
 local=/metaversemolecule.com/
 local=/metaword.cn/
 local=/analytics.metro.cn/
@@ -5066,7 +5062,6 @@ local=/raeqqe.cn/
 local=/p.raidmedia.com.cn/
 local=/u.raidmedia.com.cn/
 local=/luaqxb.rainso.com/
-local=/www.raqtbxv.cn/
 local=/bespoke-analytics.razerapi.com/
 local=/rbioclv.cn/
 local=/rcgpxk.cn/
