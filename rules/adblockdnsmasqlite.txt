@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260615011443
-# Last modified: 2026/06/15 01:14:43
-# Blocked domains: 7234
+# Version: 20260615113323
+# Last modified: 2026/06/15 11:33:23
+# Blocked domains: 7232
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -2184,7 +2184,6 @@ local=/heydressuniversitydepartcolordesign.edgeone.dev/
 local=/kita-quote-wt6k5i5yoz.edgeone.dev/
 local=/krjrhrfhsfdhzdflfhdshfsfhfh-vvkyc5x58q.edgeone.dev/
 local=/lkjgfdwertyuiop-5137fsshgs.edgeone.dev/
-local=/loud-bronze-vckfnrbimo.edgeone.dev/
 local=/mountaineverestadventure-yf4ltn8xeh.edgeone.dev/
 local=/officeme-dpjs5aucgasw.edgeone.dev/
 local=/refreshingauthentication.edgeone.dev/
@@ -2246,7 +2245,6 @@ local=/marketing.etouch.cn/
 local=/etui8.cn/
 local=/euuh.cn/
 local=/g.x.evolife.cn/
-local=/www.evoly.cn/
 local=/evri-parcelq.cn/
 local=/duologinsupersdk.ewan.cn/
 local=/ewrrpuquc1.com/
