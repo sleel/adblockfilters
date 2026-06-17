@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260617033043
-# Last modified: 2026/06/17 03:30:43
-# Blocked domains: 7428
+# Version: 20260617112744
+# Last modified: 2026/06/17 11:27:44
+# Blocked domains: 7420
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -348,7 +348,6 @@ local=/39jz.com/
 local=/39mob.com/
 local=/fbmjc.39yst.com/
 local=/jsm.39yst.com/
-local=/appleb488b246b21446ed81078ceffa057666.3bozft.cn/
 local=/imgad0.3conline.com/
 local=/jwz.3conline.com/
 local=/fc.3dmgame.com/
@@ -552,7 +551,6 @@ local=/bdcdncmn-gd.inter.71edge.com/
 local=/bdcdncnc.inter.71edge.com/
 local=/71zrh.cn/
 local=/73336zubo25326.com/
-local=/73bz90.cn/
 local=/m.73z9p.cn/
 local=/7577.cc/
 local=/7631.com/
@@ -564,7 +562,6 @@ local=/a.77shw.com/
 local=/b.77shw.com/
 local=/77union.cn/
 local=/m.77vcd.com/
-local=/794syq.cn/
 local=/79n4cubmu8.com/
 local=/7car.com.cn/
 local=/7cbwus.cn/
@@ -2223,7 +2220,6 @@ local=/ordinary-violet-aiqitdrvzm.edgeone.app/
 local=/q8w2e6r1t9y3u7i4o0p5a2s80uo3uw-pq03wtbdy8.edgeone.app/
 local=/rare-blue-d4nhaptpng.edgeone.app/
 local=/resulting-silver-xj7awryw.edgeone.app/
-local=/soft-teal-juqugdes.edgeone.app/
 local=/sore-indigo-cf1xx4cwja.edgeone.app/
 local=/sporting-apricot-xuiuvslnhr.edgeone.app/
 local=/steady-red-t01otpocmp.edgeone.app/
@@ -2672,7 +2668,6 @@ local=/kad.gotokeep.com/
 local=/gouzhibao.cn/
 local=/www.gov-parkingrq.cyou/
 local=/www.gov-parkingrq.shop/
-local=/www.gov-parkingrw.top/
 local=/govkunming.cn/
 local=/gpscard.cn/
 local=/gpxxbyf.cn/
@@ -3596,7 +3591,6 @@ local=/tj.koudaitong.com/
 local=/wap.koudaitong.com/
 local=/b.kouke5.com/
 local=/bundle.kpzip.com/
-local=/d.kpzip.com/
 local=/mininews.kpzip.com/
 local=/kqg8jh8rk.com/
 local=/krk-telegram.com.cn/
@@ -4530,7 +4524,6 @@ local=/photozoomchina.com/
 local=/paybank.phqedz.cn/
 local=/phr3qfcmb.com/
 local=/pibaba.com.cn/
-local=/pick-bet365.com.cn/
 local=/pigvideo.cn/
 local=/pigvideo.com.cn/
 local=/pikacn.com/
@@ -5567,7 +5560,6 @@ local=/jjk.sxklm.cn/
 local=/sxltfj.cn/
 local=/sxundrh.cn/
 local=/sxxjdz.com/
-local=/gmbl.sy99.de/
 local=/sanalytics.sydneyuniversity.cn/
 local=/sydyqg.cn/
 local=/symaa.cn/
