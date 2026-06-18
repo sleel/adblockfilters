@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260618021118
-# Last modified: 2026/06/18 02:11:18
-# Blocked domains: 7089
+# Version: 20260618105551
+# Last modified: 2026/06/18 10:55:51
+# Blocked domains: 7085
 #
 local=/011211.cn/
 local=/weldc1.021ye.com/
@@ -491,7 +491,6 @@ local=/79n4cubmu8.com/
 local=/7car.com.cn/
 local=/7cbwus.cn/
 local=/7dot.cn/
-local=/7hjp8t.cn/
 local=/cysd.7kww.net/
 local=/tj.7kww.net/
 local=/count.7m.com.cn/
@@ -2049,7 +2048,6 @@ local=/eblnzoq.cn/
 local=/ebrid.cn/
 local=/jb.ecar168.cn/
 local=/ecudsc.cn/
-local=/adbesta-dp1kudlt0rsh.edgeone.app/
 local=/authmail.edgeone.app/
 local=/colonial-chocolate-9onfwalt.edgeone.app/
 local=/dark-plum-k7yi7i8396.edgeone.app/
@@ -2070,8 +2068,6 @@ local=/steady-red-t01otpocmp.edgeone.app/
 local=/superb-rose-syup2hfy.edgeone.app/
 local=/z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app/
 local=/dtryftugyhiuoiyhi-mxrz25ftxf.edgeone.cool/
-local=/kjhgrtykbhj-dpnfz9dllbs3.edgeone.cool/
-local=/kjhgrtykbhj-dpxqvlaupe9d.edgeone.cool/
 local=/54d3s545d6u-c7b78hhkxp.edgeone.dev/
 local=/c0-m9w0489dfgychjk-bsh3cs6t2s.edgeone.dev/
 local=/efhjfjdhdksdhlfsfsvjvj-dprhmd8pvnvd.edgeone.dev/
