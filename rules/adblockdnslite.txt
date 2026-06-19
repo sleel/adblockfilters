@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260619022341
-! Last modified: 2026/06/19 02:23:41
-! Blocked domains: 7057
+! Version: 20260619114256
+! Last modified: 2026/06/19 11:42:56
+! Blocked domains: 7050
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -942,7 +942,6 @@
 ||anysdk.com^
 ||aoqinglv.cn^
 ||log-pub-hk.aoshitang.com^
-||tiktokseller.aoyolo.com^
 ||adx.apicgate.com^
 ||us-behavior.apitd.net^
 ||klelnanzeigen-deutch.apkads.com^
@@ -1466,7 +1465,6 @@
 ||httpdns.cctv.com^
 ||p.data.cctv.com^
 ||cctvgb.com.cn^
-||ccyyz.com.cn^
 ||m.cdfdfq.cn^
 ||hm.cdiah.com^
 ||business-ad.cdn-go.cn^
@@ -2114,13 +2112,11 @@
 ||lkjgfdwertyuiop-5137fsshgs.edgeone.dev^
 ||mountaineverestadventure-yf4ltn8xeh.edgeone.dev^
 ||officeme-dpjs5aucgasw.edgeone.dev^
-||presudeind3xsoff-dpr3nq7g30sv.edgeone.dev^
 ||refreshingauthentication.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||srv65ertui8uyt655io-7douf96n3o.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||walaha123-dpc6cgz84r9u.edgeone.dev^
-||zxcvbnmnbvcvbnmnmn-dpd500wql2ak.edgeone.dev^
 ||ediuschina.com^
 ||eduace.com.cn^
 ||eeeqi.cn^
@@ -2796,7 +2792,6 @@
 ||resu8.hjfile.cn^
 ||hjgen.cn^
 ||hjpqt.cn^
-||www.hkae-whatsapp.com.cn^
 ||hkkeafj.cn^
 ||hlstlyy.com^
 ||hly.com^
@@ -3835,7 +3830,6 @@
 ||miaozhen.com^
 ||micro-xdb.com^
 ||microad-cn.com^
-||microsoft-browser.com.cn^
 ||stat.microvirt.com^
 ||miduoke.net^
 ||midway.run^
@@ -4269,7 +4263,6 @@
 ||pflpme.cn^
 ||pfqwbqs.cn^
 ||vendhelpuous.pgvjmp.cn^
-||pharmnet.com.cn^
 ||smetrics.marketing.lighting.philips.com.cn^
 ||photozoomchina.com^
 ||phr3qfcmb.com^
