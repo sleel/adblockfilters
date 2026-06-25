@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260625014932
-! Last modified: 2026/06/25 01:49:32
+! Version: 20260625104213
+! Last modified: 2026/06/25 10:42:13
 ! Blocked domains: 7257
 ! unBlocked domains: 23
 !
@@ -820,7 +820,6 @@
 ||mum.alibabachengdun.net^
 ||images.info.alibabacloud.com^
 ||beacon-api.aliyuncs.com.gds.alibabadns.com^
-||offer.alibaba.com.gds.alibabadns.com^
 ||ae01.alicdn.com^
 ||aecpm.alicdn.com^
 ||afp.alicdn.com^
@@ -2057,7 +2056,8 @@
 ||www.dualspace.com^
 ||duapp.com^
 ||duapps.com^
-||duba.com^
+||bu1.duba.com^
+||bu2.duba.com^
 ||duba.net^
 ||img.dubyc.com^
 ||activity.m.duiba.com.cn^
