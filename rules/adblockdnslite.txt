@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260626020552
-! Last modified: 2026/06/26 02:05:52
-! Blocked domains: 7273
+! Version: 20260626104600
+! Last modified: 2026/06/26 10:46:00
+! Blocked domains: 7269
 ! unBlocked domains: 23
 !
 ||011211.cn^
@@ -2581,7 +2581,6 @@
 ||gongxifc.com^
 ||gongyichuangyi.net^
 ||e.goodgz.cn^
-||cdn.file6.goodid.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-google-chrome-google-com.hl.cn^
@@ -3513,7 +3512,6 @@
 ||b.kouke5.com^
 ||bundle.kpzip.com^
 ||d.kpzip.com^
-||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
 ||photo.krryh.cn^
@@ -4574,7 +4572,6 @@
 ||logger.qingting.fm^
 ||kf.qingwk.com^
 ||log.qiniuapi.com^
-||sta.qinxue.com^
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
@@ -6961,7 +6958,6 @@
 ||ys630.com^
 ||ad-material.ys7.com^
 ||log.ys7.com^
-||ysbaojia.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
 ||ysont.cn^
