@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260702014942
-! Last modified: 2026/07/02 01:49:42
-! Blocked Filters: 101009
+! Version: 20260702104136
+! Last modified: 2026/07/02 10:41:36
+! Blocked Filters: 101019
 !
 ###AC_ad
 ###AD_160
@@ -50748,6 +50748,7 @@ gamesfree.com###banner-top1
 gamesfree.com###banner300
 gamesfree.com##.feat-coll
 gamesfrog.com##.banner > span
+gameshub.com##.ads-slot
 gamesindustry.biz,newscientist.com,usgamer.net##.leaderboard-container
 gamesindustry.biz,vg247.com,eurogamer.*,rockpapershotgun.com###sticky_leaderboard
 gameskinny.com##.ad_universal_ondemand
@@ -70956,6 +70957,8 @@ rmf.fm##body > div[style^="height:300px"]
 rmf.fm##div[id^="RMF_FM_podstrony_"]
 rmf24.pl###RMF_24_podstrony_top_bill
 rmf24.pl##.reklamaPage
+rmf24.pl##.text-muted[style*="min-height:"]:has(> div[id^="RMF_24_"])
+rmf24.pl##aside .text-muted[style*="min-height:"]:has(> .sticky-wrapper > #sticker > #adsSmall)
 rmfmaxx.pl,rmfmaxxx.pl##.ph-ad-zone
 rmfmaxxx.pl#$##videojs-player-container { display: none !important; }
 rmfmaxxx.pl#$##yt-player-container { display: block !important; }
@@ -88340,6 +88343,9 @@ zzzyk.com###Tinfo
 ||clickdimensions.com/ts.js
 ||clickhouse-collector.*.prod.plat.agency^
 ||clickindia.com/cimem/ad-post-ajax.php?FormName=browsingHistory
+||clicknplay.to/api/$popup
+||clicknplay.to/api/spots/
+||clicknplay.to/q3gSxw5.js
 ||clickppcbuzz.com^$popup
 ||clicks.istripper.com/ref.php?$popup,third-party
 ||clicksfly.com/img/ref/*.gif
@@ -89546,6 +89552,7 @@ zzzyk.com###Tinfo
 ||easyporn.xxx/tmp/
 ||easytechguides.com/b/
 ||easyview.eu/sw.js
+||eatcells.com/land/$popup
 ||eatwell101.com/wp-content/themes/*/custom/ads/
 ||ebay.com/delstats/
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
@@ -97884,6 +97891,9 @@ zzzyk.com###Tinfo
 ||static.xshuyaya.com/m/d.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
+||static.zongheng.com^*/adClickStat.js
+||static.zongheng.com^*/ad_click.js
+||static.zongheng.com^*/logger.min.js
 ||static0.wi-fi.ru/static/000/ios/index.html
 ||staticasset.amarujala.com/handler/recomUserEvent.js
 ||staticfile.qq.com/datong/$script
