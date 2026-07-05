@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260705005811
-# Last modified: 2026/07/05 00:58:11
-# Blocked domains: 7311
+# Version: 20260705103114
+# Last modified: 2026/07/05 10:31:14
+# Blocked domains: 7309
 #
 local=/013572.cn/
 local=/weldc1.021ye.com/
@@ -939,7 +939,6 @@ local=/nlmrjnew.oss-cn-shanghai.aliyuncs.com/
 local=/o2o-ad-dev.oss-cn-shanghai.aliyuncs.com/
 local=/retcode-sg-lazada.arms.aliyuncs.com/
 local=/ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com/
-local=/shangmei-test.oss-cn-beijing.aliyuncs.com/
 local=/shaquevip.oss-cn-zhangjiakou.aliyuncs.com/
 local=/star-seo.oss-ap-northeast-1.aliyuncs.com/
 local=/swwwxww.oss-cn-hangzhou.aliyuncs.com/
@@ -2991,7 +2990,6 @@ local=/mldy.huaxiays.cn/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
 local=/hubiazhi.com/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
