@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260707020717
-# Last modified: 2026/07/07 02:07:17
-# Blocked domains: 7295
+# Version: 20260707103149
+# Last modified: 2026/07/07 10:31:49
+# Blocked domains: 7290
 #
 local=/013572.cn/
 local=/weldc1.021ye.com/
@@ -1642,6 +1642,7 @@ local=/vali-g1.cp31.ott.cibntv.net/
 local=/yk-ssp-ad.cp31.ott.cibntv.net/
 local=/ykad-data.cp31.ott.cibntv.net/
 local=/cig.com.cn/
+local=/cippe.com.cn/
 local=/metrics.citi.cn/
 local=/metrics.citi.com.cn/
 local=/smetrics.citibank.cn/
@@ -3197,7 +3198,6 @@ local=/iplogger.cn/
 local=/g3.iqilu.com/
 local=/g4.iqilu.com/
 local=/act.vip.iqiyi.com/
-local=/api.iqiyi.com/
 local=/apisgame.iqiyi.com/
 local=/baiducdncmn-gd.inter.iqiyi.com/
 local=/baiducdncmn.inter.iqiyi.com/
@@ -3222,6 +3222,7 @@ local=/paopao.iqiyi.com/
 local=/paopao-monitor.iqiyi.com/
 local=/policy.video.iqiyi.com/
 local=/puma-api.iqiyi.com/
+local=/puma.api.iqiyi.com/
 local=/store.iqiyi.com/
 local=/subscription.iqiyi.com/
 local=/tpa-hcdn.iqiyi.com/
@@ -3962,12 +3963,10 @@ local=/disp.titan.mgtv.com/
 local=/encounter.bz.mgtv.com/
 local=/floor.bz.mgtv.com/
 local=/imgaliyun.res.mgtv.com/
-local=/layer.bz.mgtv.com/
 local=/mobaliyun.res.mgtv.com/
 local=/ott-v0-al.data.mgtv.com/
 local=/ott.v1.data.mgtv.com/
 local=/pcweb.v1.mgtv.com/
-local=/rprain.bz.mgtv.com/
 local=/vip.bz.mgtv.com/
 local=/mgzjin.cn/
 local=/resolver.gslb.mi-idc.com/
@@ -4725,8 +4724,6 @@ local=/huatuo.qq.com/
 local=/iask.qq.com/
 local=/img.ssl.msdk.qq.com/
 local=/info.3g.qq.com/
-local=/info4.video.qq.com/
-local=/info6.video.qq.com/
 local=/ipv6.kg.qq.com/
 local=/iwan-s.video.qq.com/
 local=/jpush.html5.qq.com/
@@ -6938,7 +6935,6 @@ local=/ad.api.3g.youku.com/
 local=/ad.mobile.youku.com/
 local=/adashx.ut.youku.com/
 local=/adx-open-service.youku.com/
-local=/amdc.m.youku.com/
 local=/apiv4-iyes.youku.com/
 local=/b.smartvideo.youku.com/
 local=/cad.youku.com/
@@ -7117,7 +7113,6 @@ local=/zhflodsix.cn/
 local=/pv.zhiding.cn/
 local=/zhigao5191.com/
 local=/adstatic.zhihu.com/
-local=/appcloud.zhihu.com/
 local=/crash2.zhihu.com/
 local=/event.zhihu.com/
 local=/mqtt.zhihu.com/
