@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260710015128
-! Last modified: 2026/07/10 01:51:28
-! Blocked domains: 7272
+! Version: 20260710102502
+! Last modified: 2026/07/10 10:25:02
+! Blocked domains: 7269
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -192,7 +192,8 @@
 ||1rtb.net^
 ||1s8pj.cn^
 ||1s8zfj6p4.com^
-||1sapp.com^
+||ddd.1sapp.com^
+||inapp.1sapp.com^
 ||1tlm.cn^
 ||1tvg524vih.com^
 ||1uo9djbnsr.com^
@@ -1571,7 +1572,6 @@
 ||logs.chelaile.net.cn^
 ||chemdraw.com.cn^
 ||chenggao.cn^
-||localads.chengzijianzhan.cn^
 ||chenshengyu.cn^
 ||chenyanjiao.cn^
 ||analytics.cherry-ai.com^
@@ -2115,7 +2115,6 @@
 ||ad.dzwww.com^
 ||app.acm.dzwww.com^
 ||page.acm.dzwww.com^
-||api.e-toys.cn^
 ||eagle-tex.cn^
 ||earmasterchina.cn^
 ||activation.easeus.com^
@@ -4293,7 +4292,6 @@
 ||oadz.com^
 ||obsworks.com^
 ||obv3epx22d.com^
-||ad.oceanengine.com^
 ||analytics.oceanengine.com^
 ||offerstrack.net^
 ||officesoftcn.com^
@@ -4386,7 +4384,7 @@
 ||api-access.pangolin-sdk-toutiao4.com^
 ||jipinapi.panqis.cn^
 ||bmw2ep.paomifen.cn^
-||partnerboost.com^
+||app.partnerboost.com^
 ||pasco.cc^
 ||passwordrecovery.cn^
 ||bt1.patexplorer.com^
@@ -5011,7 +5009,6 @@
 ||s8.pw^
 ||g.s8dj.com^
 ||news.s9377.com^
-||sabbiremart.com^
 ||sadrfv.cn^
 ||404.safedog.cn^
 ||saitef.cn^
@@ -5111,7 +5108,6 @@
 ||silasbuchanan.shop^
 ||www.silurian.cn^
 ||simengadx.com^
-||simicloud.com^
 ||2016.sina.cn^
 ||9ibbcq2d.sina.cn^
 ||adblock.sina.cn^
@@ -6858,6 +6854,7 @@
 ||ad123.ynet.com^
 ||jpwy.ynp0h.cn^
 ||ynztzh.com^
+||m.yocvn.com^
 ||webtrans.yodao.com^
 ||yodo1.com^
 ||ocd.yodo1api.com^

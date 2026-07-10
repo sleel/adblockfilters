@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260710015128
-# Last modified: 2026/07/10 01:51:28
-# Blocked domains: 7272
+# Version: 20260710102502
+# Last modified: 2026/07/10 10:25:02
+# Blocked domains: 7269
 #
 local=/013572.cn/
 local=/weldc1.021ye.com/
@@ -191,7 +191,8 @@ local=/1rtb.com/
 local=/1rtb.net/
 local=/1s8pj.cn/
 local=/1s8zfj6p4.com/
-local=/1sapp.com/
+local=/ddd.1sapp.com/
+local=/inapp.1sapp.com/
 local=/1tlm.cn/
 local=/1tvg524vih.com/
 local=/1uo9djbnsr.com/
@@ -1570,7 +1571,6 @@ local=/atrace.chelaile.net.cn/
 local=/logs.chelaile.net.cn/
 local=/chemdraw.com.cn/
 local=/chenggao.cn/
-local=/localads.chengzijianzhan.cn/
 local=/chenshengyu.cn/
 local=/chenyanjiao.cn/
 local=/analytics.cherry-ai.com/
@@ -2114,7 +2114,6 @@ local=/ad.dzwindows.com/
 local=/ad.dzwww.com/
 local=/app.acm.dzwww.com/
 local=/page.acm.dzwww.com/
-local=/api.e-toys.cn/
 local=/eagle-tex.cn/
 local=/earmasterchina.cn/
 local=/activation.easeus.com/
@@ -4292,7 +4291,6 @@ local=/oaclrst.cn/
 local=/oadz.com/
 local=/obsworks.com/
 local=/obv3epx22d.com/
-local=/ad.oceanengine.com/
 local=/analytics.oceanengine.com/
 local=/offerstrack.net/
 local=/officesoftcn.com/
@@ -4385,7 +4383,7 @@ local=/api-access.pangolin-sdk-toutiao3.com/
 local=/api-access.pangolin-sdk-toutiao4.com/
 local=/jipinapi.panqis.cn/
 local=/bmw2ep.paomifen.cn/
-local=/partnerboost.com/
+local=/app.partnerboost.com/
 local=/pasco.cc/
 local=/passwordrecovery.cn/
 local=/bt1.patexplorer.com/
@@ -5010,7 +5008,6 @@ local=/s4y6lhotaw.com/
 local=/s8.pw/
 local=/g.s8dj.com/
 local=/news.s9377.com/
-local=/sabbiremart.com/
 local=/sadrfv.cn/
 local=/404.safedog.cn/
 local=/saitef.cn/
@@ -5110,7 +5107,6 @@ local=/smetrics.marketing.signify.com.cn/
 local=/silasbuchanan.shop/
 local=/www.silurian.cn/
 local=/simengadx.com/
-local=/simicloud.com/
 local=/2016.sina.cn/
 local=/9ibbcq2d.sina.cn/
 local=/adblock.sina.cn/
@@ -6857,6 +6853,7 @@ local=/yncjsc.cn/
 local=/ad123.ynet.com/
 local=/jpwy.ynp0h.cn/
 local=/ynztzh.com/
+local=/m.yocvn.com/
 local=/webtrans.yodao.com/
 local=/yodo1.com/
 local=/ocd.yodo1api.com/
