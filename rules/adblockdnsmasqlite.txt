@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260711014338
-# Last modified: 2026/07/11 01:43:38
-# Blocked domains: 7324
+# Version: 20260711100313
+# Last modified: 2026/07/11 10:03:13
+# Blocked domains: 7320
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2381,9 +2381,6 @@ local=/bro.flyme.cn/
 local=/madx.flyme.cn/
 local=/t-e.flyme.cn/
 local=/t-flow.flyme.cn/
-local=/cfgc.flysleep.cn/
-local=/log-auth.flysleep.cn/
-local=/upc.flysleep.cn/
 local=/www.fm120.com/
 local=/api.sdk.fmobi.cn/
 local=/adv-sv-show.focus.cn/
@@ -3540,7 +3537,6 @@ local=/tj.koudaitong.com/
 local=/wap.koudaitong.com/
 local=/b.kouke5.com/
 local=/d.kpzip.com/
-local=/mininews.kpzip.com/
 local=/krk-telegram.com.cn/
 local=/photo.krryh.cn/
 local=/slb-p2p.vcloud.ks-live.com/
