@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260716011059
-# Last modified: 2026/07/16 01:10:59
-# Blocked domains: 7362
+# Version: 20260716100137
+# Last modified: 2026/07/16 10:01:37
+# Blocked domains: 7361
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1670,7 +1670,6 @@ local=/wxa79ef55c1a84e284.wx.ckjr001.com/
 local=/sysdk.cl2009.com/
 local=/claiks.com/
 local=/clarins.com.cn/
-local=/dg.claz.com.cn/
 local=/cleartone.club/
 local=/log-api.cli.im/
 local=/click.com.cn/
