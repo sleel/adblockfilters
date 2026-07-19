@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260719005051
-# Last modified: 2026/07/19 00:50:51
-# Blocked domains: 7297
+# Version: 20260719100510
+# Last modified: 2026/07/19 10:05:10
+# Blocked domains: 7284
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -604,7 +604,6 @@ local=/aaoffice.cn/
 local=/aapz.com/
 local=/abbyychina.com/
 local=/s.abcache.com/
-local=/msmp.abchina.com.cn/
 local=/abckzo.cn/
 local=/smetrics.abercrombie.cn/
 local=/discover.absciex.com.cn/
@@ -767,7 +766,6 @@ local=/mum.alibabachengdun.com/
 local=/mum.alibabachengdun.net/
 local=/images.info.alibabacloud.com/
 local=/beacon-api.aliyuncs.com.gds.alibabadns.com/
-local=/offer.alibaba.com.gds.alibabadns.com/
 local=/ae01.alicdn.com/
 local=/aecpm.alicdn.com/
 local=/afp.alicdn.com/
@@ -913,7 +911,6 @@ local=/apsrgeo.amap.com/
 local=/cgicol.amap.com/
 local=/dualstack-cgicol.amap.com/
 local=/dualstack-logs.amap.com/
-local=/free-aos-cdn-image.amap.com/
 local=/h-adashx.ut.amap.com/
 local=/logs.amap.com/
 local=/optimus-ads.amap.com/
@@ -1126,11 +1123,9 @@ local=/imgstat.baidu.com/
 local=/isite.baidu.com/
 local=/itsdata.map.baidu.com/
 local=/kstj.baidu.com/
-local=/lc.map.baidu.com/
 local=/leads.baidu.com/
 local=/libs.baidu.com/
 local=/log.music.baidu.com/
-local=/lookup.api.bsb.baidu.com/
 local=/luimg.baidu.com/
 local=/m1.baidu.com/
 local=/miao.baidu.com/
@@ -2742,8 +2737,6 @@ local=/appconf.heytapdownload.com/
 local=/adsbdfs.heytapimage.com/
 local=/adsfs.heytapimage.com/
 local=/adsfs-sdkconfig.heytapimage.com/
-local=/cc-algo-cn.heytapimage.com/
-local=/cc-img-cn.heytapimage.com/
 local=/dhfs-id.heytapimage.com/
 local=/dhfs-in.heytapimage.com/
 local=/dhfs-my.heytapimage.com/
@@ -2783,7 +2776,6 @@ local=/dragate-sg.dc.heytapmobi.com/
 local=/epoch-id.cdo.heytapmobi.com/
 local=/httpdns.ocloud.heytapmobi.com/
 local=/i-sg01a.ocloud.heytapmobi.com/
-local=/ibrowser.feeds.heytapmobi.com/
 local=/iot-earbuds-cn.heytapmobi.com/
 local=/obus-cn.dc.heytapmobi.com/
 local=/obus-config-cn.heytapmobi.com/
@@ -3045,7 +3037,6 @@ local=/ibafnw.cn/
 local=/ibozys.cn/
 local=/sensors.ibreader.com/
 local=/busuanzi.ibruce.info/
-local=/oisc.icbc.com.cn/
 local=/static.ichehome.com/
 local=/f1.ichong123.com/
 local=/goto.www.iciba.com/
@@ -3947,15 +3938,12 @@ local=/mgs123.com/
 local=/as.mgtv.com/
 local=/audit.aaa.mgtv.com/
 local=/cmop.mgtv.com/
-local=/credits.bz.mgtv.com/
 local=/disp.titan.mgtv.com/
-local=/encounter.bz.mgtv.com/
 local=/imgaliyun.res.mgtv.com/
 local=/mobaliyun.res.mgtv.com/
 local=/ott-v0-al.data.mgtv.com/
 local=/ott.v1.data.mgtv.com/
 local=/pcweb.v1.mgtv.com/
-local=/vip.bz.mgtv.com/
 local=/mgzjin.cn/
 local=/resolver.gslb.mi-idc.com/
 local=/api.jr.mi.com/
@@ -4824,7 +4812,6 @@ local=/tmfsdk.m.qq.com/
 local=/tmfsdktcpv4.m.qq.com/
 local=/tools.3g.qq.com/
 local=/tp2p.kg.qq.com/
-local=/tpns.qq.com/
 local=/tpush.html5.qq.com/
 local=/trace.qq.com/
 local=/ugcup.music.qq.com/
@@ -4910,6 +4897,7 @@ local=/userimg.qunar.com/
 local=/qutaovip.com/
 local=/vn-ebay.quxlpuj.cn/
 local=/quyaoya.com/
+local=/api.qvpublish.com/
 local=/api.ts.feedback.qy.net/
 local=/msg.qy.net/
 local=/msg-intl.qy.net/
@@ -6408,7 +6396,6 @@ local=/wesiedu.com/
 local=/count.west263.com/
 local=/perfsight.wetest.net/
 local=/htrace.wetvinfo.com/
-local=/mtrace.wetvinfo.com/
 local=/wexrty.cn/
 local=/redir.wggames.cn/
 local=/ee.wh723.cn/
