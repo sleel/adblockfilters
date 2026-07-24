@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260724011352
-! Last modified: 2026/07/24 01:13:52
-! Blocked domains: 7414
+! Version: 20260724100521
+! Last modified: 2026/07/24 10:05:21
+! Blocked domains: 7412
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -2232,7 +2232,6 @@
 ||ggsgsgsgdjjczkjgjkggacggc-dpqt3wpkjdo9.edgeone.dev^
 ||gtttt.edgeone.dev^
 ||halblivcaslsa.edgeone.dev^
-||hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev^
 ||healthnuringsafehomeoffloras.edgeone.dev^
 ||helpful-teal-wemfvl3j.edgeone.dev^
 ||heydressuniversitydepartcolordesign.edgeone.dev^
@@ -5528,7 +5527,6 @@
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||stuowq.cn^
-||visevisa-3049940309494994030.mos.ap-southeast-2.sufybkt.com^
 ||uc9.suinidai.com.cn^
 ||client-dmp.suishenyun.cn^
 ||log-dmp.suishenyun.cn^
