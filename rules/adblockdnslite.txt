@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260729012239
-! Last modified: 2026/07/29 01:22:39
-! Blocked domains: 7248
+! Version: 20260729100101
+! Last modified: 2026/07/29 10:01:01
+! Blocked domains: 7246
 ! unBlocked domains: 22
 !
 ||013572.cn^
@@ -4179,7 +4179,6 @@
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
-||bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com^
 ||cdn-10049480.file.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
@@ -7203,7 +7202,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
