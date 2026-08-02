@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260802005417
-! Last modified: 2026/08/02 00:54:17
-! Blocked domains: 7251
+! Version: 20260802100818
+! Last modified: 2026/08/02 10:08:18
+! Blocked domains: 7246
 ! unBlocked domains: 22
 !
 ||photo.0234408.cn^
@@ -1383,7 +1383,6 @@
 ||xww.bucea.edu.cn^
 ||llt.bugu360.net^
 ||butou.cn^
-||www.buzz-whatapp.hk.cn^
 ||bvmlt.top^
 ||bwin2808.com^
 ||ad.bwton.com^
@@ -2190,7 +2189,6 @@
 ||ready-to-g0u3yt-dp10u3ka993x.edgeone.dev^
 ||refreshingauthentication.edgeone.dev^
 ||reloader-dpffdavrss4p.edgeone.dev^
-||rough-plum-xd7jzfml.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||sheer-red-lwi8kl5b.edgeone.dev^
 ||shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev^
@@ -2596,7 +2594,6 @@
 ||gongxifc.com^
 ||gongyichuangyi.net^
 ||e.goodgz.cn^
-||cdn.file6.goodid.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-google-chrome-google-com.hl.cn^
@@ -3280,7 +3277,6 @@
 ||icws.jb51.net^
 ||jbcbio.cn^
 ||jbflil.cn^
-||jbzj.com^
 ||gg1.jc001.cn^
 ||stat.jc001.cn^
 ||pic.jd-bbs.com^
@@ -4115,7 +4111,6 @@
 ||elq.mouser.cn^
 ||mo.mptckm.cn^
 ||mrlxc51byo.com^
-||www.msg-whatapp.hk.cn^
 ||srtb.msn.cn^
 ||c.msn.com.cn^
 ||livewebbs2pcdn.msstatic.com^
@@ -4301,7 +4296,6 @@
 ||apps5.oingo.com^
 ||oj95rctd5.com^
 ||ojg8sflgl.com^
-||okhan.net^
 ||baid1.okooo.com^
 ||okwfx.cn^
 ||oldulgk.cn^
@@ -7205,6 +7199,7 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

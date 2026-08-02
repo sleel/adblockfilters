@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260802005417
-# Last modified: 2026/08/02 00:54:17
-# Blocked domains: 7251
+# Version: 20260802100818
+# Last modified: 2026/08/02 10:08:18
+# Blocked domains: 7246
 #
 local=/photo.0234408.cn/
 local=/img.0279.net/
@@ -1382,7 +1382,6 @@ local=/btyou.com/
 local=/xww.bucea.edu.cn/
 local=/llt.bugu360.net/
 local=/butou.cn/
-local=/www.buzz-whatapp.hk.cn/
 local=/bvmlt.top/
 local=/bwin2808.com/
 local=/ad.bwton.com/
@@ -2189,7 +2188,6 @@ local=/prior-beige-yhzm8kq0.edgeone.dev/
 local=/ready-to-g0u3yt-dp10u3ka993x.edgeone.dev/
 local=/refreshingauthentication.edgeone.dev/
 local=/reloader-dpffdavrss4p.edgeone.dev/
-local=/rough-plum-xd7jzfml.edgeone.dev/
 local=/rtyuioplkjhgf-2wns89uj3k.edgeone.dev/
 local=/sheer-red-lwi8kl5b.edgeone.dev/
 local=/shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev/
@@ -2595,7 +2593,6 @@ local=/sdn.gongkao.hn.cn/
 local=/gongxifc.com/
 local=/gongyichuangyi.net/
 local=/e.goodgz.cn/
-local=/cdn.file6.goodid.com/
 local=/google-analytics-cn.com/
 local=/google-analytics.com/
 local=/google-google-chrome-google-com.hl.cn/
@@ -3279,7 +3276,6 @@ local=/japps.cn/
 local=/icws.jb51.net/
 local=/jbcbio.cn/
 local=/jbflil.cn/
-local=/jbzj.com/
 local=/gg1.jc001.cn/
 local=/stat.jc001.cn/
 local=/pic.jd-bbs.com/
@@ -4114,7 +4110,6 @@ local=/motuopj.cn/
 local=/elq.mouser.cn/
 local=/mo.mptckm.cn/
 local=/mrlxc51byo.com/
-local=/www.msg-whatapp.hk.cn/
 local=/srtb.msn.cn/
 local=/c.msn.com.cn/
 local=/livewebbs2pcdn.msstatic.com/
@@ -4300,7 +4295,6 @@ local=/js.oh100.com/
 local=/apps5.oingo.com/
 local=/oj95rctd5.com/
 local=/ojg8sflgl.com/
-local=/okhan.net/
 local=/baid1.okooo.com/
 local=/okwfx.cn/
 local=/oldulgk.cn/
@@ -7204,6 +7198,7 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
+local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
