@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260803005313
-# Last modified: 2026/08/03 00:53:13
-# Blocked domains: 7330
+# Version: 20260803100952
+# Last modified: 2026/08/03 10:09:52
+# Blocked domains: 7326
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2257,7 +2257,6 @@ local=/helpful-teal-wemfvl3j.edgeone.dev/
 local=/heydressuniversitydepartcolordesign.edgeone.dev/
 local=/intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev/
 local=/intellectual-property-review-dp8cm75v8j31.edgeone.dev/
-local=/irrelevant-amethyst-kkwymbkj.edgeone.dev/
 local=/kita-quote-wt6k5i5yoz.edgeone.dev/
 local=/kloclibkblink-dp73tqm8r6w5.edgeone.dev/
 local=/krjrhrfhsfdhzdflfhdshfsfhfh-vvkyc5x58q.edgeone.dev/
@@ -3981,7 +3980,6 @@ local=/tracking.mcdonalds.com.cn/
 local=/kti.mcjjsdhfg.cn/
 local=/mconedh.cn/
 local=/uid.mdbchina.com/
-local=/mebynp.cn/
 local=/media8.cn/
 local=/lepodownload.mediatek.com/
 local=/mepodownload.mediatek.com/
@@ -4348,7 +4346,6 @@ local=/photo.njlymyd.cn/
 local=/nkscdn.com/
 local=/img.nktcw.cn/
 local=/nlzyp.cn/
-local=/whatsapp.nm.hl.cn/
 local=/nnraytheon.com/
 local=/web.novogene.com/
 local=/a.nowscore.com/
@@ -5031,7 +5028,6 @@ local=/track.msadcenter.rfjq.com/
 local=/rgyun.com/
 local=/richh.cn/
 local=/ad.richmob.cn/
-local=/www.chat.ring-whatapp.com.cn/
 local=/game.rising.cn/
 local=/wan.rising.cn/
 local=/all.rising.com.cn/
