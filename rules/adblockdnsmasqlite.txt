@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260808004631
-# Last modified: 2026/08/08 00:46:31
-# Blocked domains: 7455
+# Version: 20260808090733
+# Last modified: 2026/08/08 09:07:33
+# Blocked domains: 7441
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1494,16 +1494,6 @@ local=/sw.cailawyer.cn/
 local=/apollo.caixin.com/
 local=/gg.caixin.com/
 local=/logstat.caixin.com/
-local=/pinggai0.caixin.com/
-local=/pinggai1.caixin.com/
-local=/pinggai2.caixin.com/
-local=/pinggai3.caixin.com/
-local=/pinggai4.caixin.com/
-local=/pinggai5.caixin.com/
-local=/pinggai6.caixin.com/
-local=/pinggai7.caixin.com/
-local=/pinggai8.caixin.com/
-local=/pinggai9.caixin.com/
 local=/promote.caixin.com/
 local=/ad.caiyunapp.com/
 local=/api.callget.cn/
@@ -3644,7 +3634,6 @@ local=/rr.knet.cn/
 local=/ss.knet.cn/
 local=/knie8wmsk.com/
 local=/knliylh.cn/
-local=/www.knockknock.top/
 local=/ofkqiy.knowfashionstyle.com/
 local=/knowsafe.com/
 local=/kokojia.com/
@@ -4608,7 +4597,6 @@ local=/pmensrl.cn/
 local=/pmvlwjy.cn/
 local=/1.pncdn.cn/
 local=/100.pncdn.cn/
-local=/cdn.pocoiq.cn/
 local=/poke88.com/
 local=/dluat.pokerbros.net/
 local=/i.pokerbros.net/
@@ -6710,7 +6698,6 @@ local=/xianshangzixun.net/
 local=/xianzhice.com/
 local=/xiaobaixitong.com/
 local=/xiaodongrui.com/
-local=/cdn.xiaoduoai.com/
 local=/adx.xiaodutv.com/
 local=/nsclickvideo.xiaodutv.com/
 local=/xda.xiaodutv.com/
@@ -7402,7 +7389,6 @@ local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/wappv.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/zooj.cn/
 local=/adm.zookingsoft.com/
