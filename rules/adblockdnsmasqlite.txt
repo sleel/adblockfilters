@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260808163330
-# Last modified: 2026/08/08 16:33:30
-# Blocked domains: 7320
+# Version: 20260809002541
+# Last modified: 2026/08/09 00:25:41
+# Blocked domains: 7315
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -912,7 +912,6 @@ local=/dongtukj.oss-cn-hongkong.aliyuncs.com/
 local=/dreemdmbabys.oss-cn-guangzhou.aliyuncs.com/
 local=/dressimage.img-cn-beijing.aliyuncs.com/
 local=/ep2x3kiawg-sdk.rum.aliyuncs.com/
-local=/f8ds5tkidk-sdk.rum.aliyuncs.com/
 local=/facai383.oss-cn-guangzhou.aliyuncs.com/
 local=/first-hufu.oss-cn-shanghai.aliyuncs.com/
 local=/free-cdn.oss-cn-shanghai.aliyuncs.com/
@@ -2999,7 +2998,6 @@ local=/metrics.hollisterco.cn/
 local=/hologramid.cn/
 local=/bd1.home8080.cn/
 local=/bd2.home8080.cn/
-local=/log.homestyler.com/
 local=/tracking.ads.honor.com/
 local=/hot-binance.com.cn/
 local=/om.hotels.cn/
@@ -5011,7 +5009,6 @@ local=/v5-reading-ad.qznovelvod.com/
 local=/v5-se-sjy-daily-reading-ad.qznovelvod.com/
 local=/v6-daily-reading-ad.qznovelvod.com/
 local=/v6-reading-ad.qznovelvod.com/
-local=/v95-aw-reading-ad.qznovelvod.com/
 local=/v95-zjjx2tc-reading-ad.qznovelvod.com/
 local=/tc.qzwxrtyk.com/
 local=/m.r507p.cn/
@@ -6203,7 +6200,6 @@ local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
 local=/co-romsp-unifyconfig.vivoglobal.com/
 local=/co-st-sl.vivoglobal.com/
-local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
@@ -6657,7 +6653,6 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.a.market.xiaomi.com/
-local=/t17.market.xiaomi.com/
 local=/tz.sec.xiaomi.com/
 local=/api.device.xiaomi.net/
 local=/api.g.micloud.xiaomi.net/
