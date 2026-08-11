@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260811004719
-# Last modified: 2026/08/11 00:47:19
-# Blocked domains: 7437
+# Version: 20260811091238
+# Last modified: 2026/08/11 09:12:38
+# Blocked domains: 7435
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -926,7 +926,6 @@ local=/jiayi1.oss-cn-shanghai.aliyuncs.com/
 local=/jpg1.oss-cn-beijing.aliyuncs.com/
 local=/jun01.oss-cn-beijing.aliyuncs.com/
 local=/kmmgoogle.oss-ap-southeast-1.aliyuncs.com/
-local=/kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/
 local=/logtail-release.oss-cn-hangzhou.aliyuncs.com/
 local=/mobaders.oss-cn-beijing.aliyuncs.com/
 local=/mobantong.oss-cn-hangzhou.aliyuncs.com/
@@ -3094,7 +3093,6 @@ local=/httpdns.huaweicloud.com/
 local=/mldy.huaxiays.cn/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
@@ -3631,7 +3629,7 @@ local=/rr.knet.cn/
 local=/ss.knet.cn/
 local=/knie8wmsk.com/
 local=/knliylh.cn/
-local=/knockknock.top/
+local=/www.knockknock.top/
 local=/ofkqiy.knowfashionstyle.com/
 local=/knowsafe.com/
 local=/kokojia.com/

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260811004719
-! Last modified: 2026/08/11 00:47:19
-! Blocked domains: 7437
+! Version: 20260811091238
+! Last modified: 2026/08/11 09:12:38
+! Blocked domains: 7435
 ! unBlocked domains: 22
 !
 ||013572.cn^
@@ -927,7 +927,6 @@
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
-||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
 ||logtail-release.oss-cn-hangzhou.aliyuncs.com^
 ||mobaders.oss-cn-beijing.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
@@ -3095,7 +3094,6 @@
 ||mldy.huaxiays.cn^
 ||huayiav.cn^
 ||hubcloud.com.cn^
-||download2.huduntech.com^
 ||huidakms.com.cn^
 ||huishenghuiying.com^
 ||huishenghuiying.com.cn^
@@ -3632,7 +3630,7 @@
 ||ss.knet.cn^
 ||knie8wmsk.com^
 ||knliylh.cn^
-||knockknock.top^
+||www.knockknock.top^
 ||ofkqiy.knowfashionstyle.com^
 ||knowsafe.com^
 ||kokojia.com^
