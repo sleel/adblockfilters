@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260814170244
-# Last modified: 2026/08/14 17:02:44
-# Blocked domains: 7436
+# Version: 20260815004408
+# Last modified: 2026/08/15 00:44:08
+# Blocked domains: 7434
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -3025,7 +3025,6 @@ local=/metrics.hollisterco.cn/
 local=/hologramid.cn/
 local=/bd1.home8080.cn/
 local=/bd2.home8080.cn/
-local=/log.homestyler.com/
 local=/tracking.ads.honor.com/
 local=/hot-binance.com.cn/
 local=/om.hotels.cn/
@@ -4130,7 +4129,6 @@ local=/ggx01.miguvideo.com/
 local=/ggx03.miguvideo.com/
 local=/ggxwb.miguvideo.com/
 local=/v.miguvideo.com/
-local=/abtest-api-data.mihoyo.com/
 local=/ad-log-upload.mihoyo.com/
 local=/apm-api.mihoyo.com/
 local=/apm-log-upload.mihoyo.com/
@@ -6311,7 +6309,6 @@ local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
-local=/eu-cota.vivoglobal.com/
 local=/eu-domaincfg.vivoglobal.com/
 local=/eu-errup.vivoglobal.com/
 local=/eu-onrt-stsdk.vivoglobal.com/
@@ -6685,6 +6682,8 @@ local=/180.xdwan.com/
 local=/sensors.h5.xed.plus/
 local=/xegnfwkju.com/
 local=/m.xeig.cn/
+local=/imp.ad.xelements.cn/
+local=/mon.ad.xelements.cn/
 local=/xerhibx.cn/
 local=/xfyjz.cn/
 local=/dt.xfyun.cn/
@@ -6779,7 +6778,6 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.a.market.xiaomi.com/
-local=/t17.market.xiaomi.com/
 local=/tz.sec.xiaomi.com/
 local=/video.market.xiaomi.com/
 local=/api.device.xiaomi.net/
