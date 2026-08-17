@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260817163553
-# Last modified: 2026/08/17 16:35:53
-# Blocked domains: 7462
+# Version: 20260818002018
+# Last modified: 2026/08/18 00:20:18
+# Blocked domains: 7459
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1691,6 +1691,8 @@ local=/clickeye.cn/
 local=/clicki.cn/
 local=/clickvalue.cn/
 local=/clientservices.googleapis.com/
+local=/7mnpeh.com1.z0.glb.clouddn.com/
+local=/7xi9g1.com1.z0.glb.clouddn.com/
 local=/bkt.clouddn.com/
 local=/advertise.cloudlinks.cn/
 local=/log.cmbchina.com/
@@ -1773,7 +1775,6 @@ local=/logreport-global-dual.coolbcloud.com/
 local=/detaillog-global.coolccloud.com/
 local=/detaillog-global-dual.coolccloud.com/
 local=/logreport-global-dual.coolccloud.com/
-local=/weblogger-wss.coolccloud.com/
 local=/wslog-global-dual.coolccloud.com/
 local=/coolkaba.com/
 local=/detaillog-global.coolzcloud.com/
@@ -3561,7 +3562,6 @@ local=/jsmxkj.com/
 local=/jspcdn.cn/
 local=/fpb1.jsq886.com/
 local=/jszctech.com/
-local=/log.jtexpress.com.cn/
 local=/juandou.com/
 local=/jugao.com/
 local=/juhuisuan.com/
@@ -3680,7 +3680,6 @@ local=/slb-p2p.vcloud.ks-live.com/
 local=/log-sdk.ksapisrv.com/
 local=/multi-az-ulog.ksapisrv.com/
 local=/ulog.ksapisrv.com/
-local=/ulog-sdk.ksapisrv.com/
 local=/ulog.v6.ksapisrv.com/
 local=/ulogjs.ksapisrv.com/
 local=/ulogs1.ksapisrv.com/
@@ -6377,7 +6376,6 @@ local=/in-vpushonrt-stsdk.vivoglobal.com/
 local=/in-vpushort-stsdk.vivoglobal.com/
 local=/kz-onrt-stsdk.vivoglobal.com/
 local=/kz-ort-stsdk.vivoglobal.com/
-local=/kz-st-exappupgrade.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/mx-cota.vivoglobal.com/
 local=/mx-domaincfg.vivoglobal.com/
@@ -6802,7 +6800,6 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.a.market.xiaomi.com/
-local=/t17.market.xiaomi.com/
 local=/tz.sec.xiaomi.com/
 local=/video.market.xiaomi.com/
 local=/api.device.xiaomi.net/
