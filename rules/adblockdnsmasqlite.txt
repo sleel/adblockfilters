@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260820163035
-# Last modified: 2026/08/20 16:30:35
-# Blocked domains: 7442
+# Version: 20260821002706
+# Last modified: 2026/08/21 00:27:06
+# Blocked domains: 7437
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2014,10 +2014,8 @@ local=/tracking.ksztone.com.eo.dnse2.com/
 local=/posthog.casinoplus.top.eo.dnse3.com/
 local=/beacon.cdn.qq.com.cdn.dnsv1.com/
 local=/stats-cdn.polyspeak.ai.cdn.dnsv1.com/
-local=/track.sohu.com.dsa.dnsv1.com.cn/
 local=/dnyzbp.cn/
 local=/do-global.com/
-local=/stat.doc88.com/
 local=/info.meihua.docer.com/
 local=/fpb.docin.com/
 local=/zx.docin.com/
@@ -4524,6 +4522,7 @@ local=/at-af.outfit7.com/
 local=/bidder.dsp.outfit7.com/
 local=/hb-af-us-central1.outfit7.com/
 local=/revive.outin.cn/
+local=/ouyaoxiazai.com/
 local=/overturechina.com/
 local=/ovnrmvg.cn/
 local=/oxi23.cn/
@@ -6734,8 +6733,6 @@ local=/dorado.xiaojukeji.com/
 local=/api.d.xiaomi.com/
 local=/api.installer.xiaomi.com/
 local=/api.miui.security.xiaomi.com/
-local=/api.xmpush.xiaomi.com/
-local=/api.xmpush.global.xiaomi.com/
 local=/appstore.cdn.pandora.xiaomi.com/
 local=/appstore.pandora.xiaomi.com/
 local=/bigdata-lbs-pri-c3.alb.xiaomi.com/
@@ -6764,7 +6761,6 @@ local=/package.box.xiaomi.com/
 local=/pi.ias.xiaomi.com/
 local=/preload.xiaomi.com/
 local=/redirect.pandora.xiaomi.com/
-local=/register.xmpush.global.xiaomi.com/
 local=/resolver.mi.xiaomi.com/
 local=/ssp.xiaomi.com/
 local=/stat.pandora.xiaomi.com/
@@ -6772,7 +6768,6 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.a.market.xiaomi.com/
-local=/t17.market.xiaomi.com/
 local=/tz.sec.xiaomi.com/
 local=/video.market.xiaomi.com/
 local=/api.device.xiaomi.net/

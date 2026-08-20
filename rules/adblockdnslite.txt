@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260820163035
-! Last modified: 2026/08/20 16:30:35
-! Blocked domains: 7442
+! Version: 20260821002706
+! Last modified: 2026/08/21 00:27:06
+! Blocked domains: 7437
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -2015,10 +2015,8 @@
 ||posthog.casinoplus.top.eo.dnse3.com^
 ||beacon.cdn.qq.com.cdn.dnsv1.com^
 ||stats-cdn.polyspeak.ai.cdn.dnsv1.com^
-||track.sohu.com.dsa.dnsv1.com.cn^
 ||dnyzbp.cn^
 ||do-global.com^
-||stat.doc88.com^
 ||info.meihua.docer.com^
 ||fpb.docin.com^
 ||zx.docin.com^
@@ -4525,6 +4523,7 @@
 ||bidder.dsp.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
 ||revive.outin.cn^
+||ouyaoxiazai.com^
 ||overturechina.com^
 ||ovnrmvg.cn^
 ||oxi23.cn^
@@ -6735,8 +6734,6 @@
 ||api.d.xiaomi.com^
 ||api.installer.xiaomi.com^
 ||api.miui.security.xiaomi.com^
-||api.xmpush.xiaomi.com^
-||api.xmpush.global.xiaomi.com^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
@@ -6765,7 +6762,6 @@
 ||pi.ias.xiaomi.com^
 ||preload.xiaomi.com^
 ||redirect.pandora.xiaomi.com^
-||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
 ||ssp.xiaomi.com^
 ||stat.pandora.xiaomi.com^
@@ -6773,7 +6769,6 @@
 ||storeconfig.mistat.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t1.a.market.xiaomi.com^
-||t17.market.xiaomi.com^
 ||tz.sec.xiaomi.com^
 ||video.market.xiaomi.com^
 ||api.device.xiaomi.net^
