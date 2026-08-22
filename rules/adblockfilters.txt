@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260822162106
-! Last modified: 2026/08/22 16:21:06
-! Blocked Filters: 103082
+! Version: 20260823001633
+! Last modified: 2026/08/23 00:16:33
+! Blocked Filters: 103090
 !
 ###AC_ad
 ###AD_160
@@ -27429,6 +27429,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||cizgipass100.online/embed$subdocument,stealth=referrer,domain=yeniwatch.net.tr
 @@||claimbits.net/static/js/noadblock.js
 @@||claimfreecoins.io^$generichide
+@@||claimlite.club/static/js/noadblock.js$domain=claimlite.club
 @@||claimsatoshi.xyz^$generichide
 @@||claimtrx.com^$generichide
 @@||clarity.ms/tag/$domain=moeci.com
@@ -43209,6 +43210,7 @@ claimcoin.in#%#//scriptlet('prevent-element-src-loading', 'script', 'static.surf
 claimcoin.in#%#//scriptlet('prevent-fetch', 'adoto.net')
 claimcoin.in#%#//scriptlet('prevent-xhr', 'adoto.net')
 claimfreecoins.io##div[id$="-adspace"]
+claimlite.club,earnbitmoon.club,multiclaim.net,claimbits.net,coinadster.com###wcfloatDiv4
 claimrbx.gg#%#//scriptlet('prevent-setTimeout', 'Adblocker Detected')
 claimto.xyz##a[href^="https://www.bitsler.com/"] > img
 clapway.com,lascimmiapensa.com#%#//scriptlet('prevent-setInterval', 'aadb_get_data')
@@ -43853,6 +43855,7 @@ coinpedia.org##.top-menu-advertise
 coinpedia.org,elhayat-life.com##.stream-title
 coinpedia.org,siasat.com##.stream-item-inline-post
 coinranking.com##.top-leaderboard
+coinsimulator.online##center:has(> ins[style^="display:inline-block;"][style*="width:"][style*="height:"]:first-child + script:last-child)
 coinsrev.com#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "_0x")
 cointelegraph.com##.advertise-with-us-link_O9rIX
 cointelegraph.com##.bnrs-list
@@ -45547,6 +45550,7 @@ ddxsku.com##.adhtml
 ddys.*,ddrk.me##.entry div[id] > a[target="_blank"] > img
 ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.canobpreroll_', 'true')
 ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.cnobpreroll_', 'true')
+ddzimu.com###popup
 ddzzxs.com###inglestore.inglestore
 dead-frog.com###site_top
 deadline.com##.markplace-ads
@@ -47264,7 +47268,6 @@ eagle.mn##a[href="https://sodon-callcenter.mn/"]
 eagle.mn#?##content> section.block-html:has(> div.container div[style^="margin: auto;"])
 eagle1065.com##.featureRotator
 earlygame.com##.ad-slot-widget
-earnbitmoon.club,multiclaim.net,claimbits.net,coinadster.com###wcfloatDiv4
 earnhub.net##center ins
 earone.it##div[style^="width:968px;min-height:300px;background:url"]
 earth.com##.AdZone_adZone__2w4TC
@@ -63170,6 +63173,7 @@ missav.*,missav123.com,missav888.com##div[style^="display: flex;flex-wrap: wrap;
 missav.*,missav123.com,missav888.com##div[x-show^="recommendItems"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^="sponsored"])
 missav.*,missav123.com,missav888.com#%#//scriptlet('prevent-window-open')
 missav.*,missav123.com,missav888.com#%#//scriptlet('remove-attr', '@keyup.space.window|@click', 'div')
+missav.*,missav123.com,missav888.com,njavtv.com##.lg\:block
 missav.*,missav123.com,missav888.com,njavtv.com##[style^="width: 300px; height: 250px;"]
 missav.run##.banner-box
 missav.run##.grid > div.video-card:not([id])
@@ -66093,6 +66097,7 @@ nj.com##.module__ad-large
 nj.com##.revenue-display
 nj.com#$#.ad--in-article { visibility: hidden; min-height: 0!important; margin: 0!important; padding: 0!important; }
 njav.com###ad300250
+njavtv.com##.fixed.right-2.bottom-2
 njuskalo.hr#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads { display: block!important; }
 nkreport.jp,ncbellu.net,covod.work,lenlino.com,mcspigot.com,nknews.jp##body > div#wp-footer > script + div[id][class*=" "]
 nkreport.jp,nknews.jp###wp-footer > #page-top ~ div[id][class]
@@ -91126,6 +91131,7 @@ zzzyk.com###Tinfo
 ||docin.com/jsp_cn/ad/
 ||docomo.ne.jp/scripts/retargeting/retargeting.js
 ||docs.github.com/events
+||doct-umb.org^$popup
 ||doczj.com/js/common.js
 ||doda.jp/DodaCommon/Html/js/RtoasterTrack.js
 ||doda.jp/DodaFront/Html/js/dodaPrime_pc_aaTag.js
@@ -92644,7 +92650,6 @@ zzzyk.com###Tinfo
 ||globaladblocker.net^$popup
 ||globaldjmix.com/dist/js/script_site_detect.js
 ||globalinfo.az/export/
-||globalteaser.ru
 ||globes.co.il/shared/s.ashx?
 ||globo.com/geo?
 ||globovision.com/js/ads-home.js
@@ -92795,6 +92800,7 @@ zzzyk.com###Tinfo
 ||gotdns.com/track/blank.aspx?
 ||gotmojo.com/track/
 ||gotolstoy.com/events/
+||gotoplaymillion.com^$popup
 ||gotporn.com/main/js/exo-loader/
 ||gottanut.com/addons/blad.php
 ||gottanut.com/assets/js/fdl.js
@@ -95950,6 +95956,7 @@ zzzyk.com###Tinfo
 ||meiyouad.com/user/admin?
 ||meizhou.cn/comm/mygg/
 ||meizhou.com/images/topbanner
+||melban7.top^$domain=wcup.one
 ||melhorplano.net/scripts/tracker/
 ||member.aetna.com/appConfig/navReporting/tealeaf.js
 ||memesng.com/ads
@@ -100264,6 +100271,7 @@ zzzyk.com###Tinfo
 ||t2.picb.cc^$image,domain=dmxq1.com
 ||t3.chat/api/event
 ||t3.chat/js/xt/script.js
+||ta.tokopedia.com/promo/v1/views
 ||taadd.com/files/js/site_skin.js
 ||tabletennisdaily.com/forum/images/banner/
 ||tag-based.s3.*.amazonaws.com^
