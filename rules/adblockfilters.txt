@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260823001633
-! Last modified: 2026/08/23 00:16:33
+! Version: 20260823085641
+! Last modified: 2026/08/23 08:56:41
 ! Blocked Filters: 103090
 !
 ###AC_ad
@@ -44112,6 +44112,7 @@ compress2go.com,pdf2go.com##.text-ad
 compressor.io##.adwrapp
 comprovendolibri.it###AvvisoADblock
 comprovendolibri.it#%#//scriptlet("set-constant", "google_jobrunner", "noopFunc")
+computer.org##.ad-area
 computer.org##.adBlockBanner
 computerbase.de##.adbox-wrapper
 computerbild.de#%#//scriptlet('abort-on-property-write', 'ASCDP')
@@ -63165,7 +63166,6 @@ miruro.bz,miruro.ru,miruro.to,miruro.tv##.monkey
 miruro.tv##.a-ads
 mishaptube.com##.table
 missav.*##div[style="width: 300px; height: 100px;"]
-missav.*,missav123.com,missav888.com##.lg\:block
 missav.*,missav123.com,missav888.com##.lg\:hidden
 missav.*,missav123.com,missav888.com##.relative > div[x-init*="campaignId=under_player"]
 missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
