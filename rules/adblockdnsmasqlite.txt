@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260823162154
-# Last modified: 2026/08/23 16:21:54
-# Blocked domains: 7513
+# Version: 20260824001748
+# Last modified: 2026/08/24 00:17:48
+# Blocked domains: 7507
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -405,7 +405,6 @@ local=/trace.51jingying.com/
 local=/scdata.51job.com/
 local=/51la.net/
 local=/51link.com/
-local=/51mitu.com/
 local=/51mld.cn/
 local=/51mypc.cn/
 local=/a1.51shiti.cn/
@@ -1508,7 +1507,6 @@ local=/canjeenefectivobac.help/
 local=/canjejpuntosbac.help/
 local=/canjerecompensa.help/
 local=/canjeregalos.help/
-local=/telemetry.canva.cn/
 local=/k.cao86789.cn/
 local=/tf.caohua.com/
 local=/tfssl.caohua.com/
@@ -2161,7 +2159,6 @@ local=/js4.eastmoney.com/
 local=/mobappconfig.securities.eastmoney.com/
 local=/same.eastmoney.com/
 local=/easyliao.com/
-local=/img.easypass.cn/
 local=/easyrecoverychina.com/
 local=/easytomessage.com/
 local=/ebjvu.cn/
@@ -3064,7 +3061,6 @@ local=/smetrics.hollisterco.cn/
 local=/hologramid.cn/
 local=/bd1.home8080.cn/
 local=/bd2.home8080.cn/
-local=/log.homestyler.com/
 local=/w88.hongkongdisneyland.com.cn/
 local=/tracking.ads.honor.com/
 local=/hot-binance.com.cn/
@@ -3315,7 +3311,6 @@ local=/ilkwork.com/
 local=/smetrics.illumina.com.cn/
 local=/metrics.ilovematlab.cn/
 local=/smetrics.ilovematlab.cn/
-local=/im30.net/
 local=/imageter.com/
 local=/windriversfiles.imeitools.com/
 local=/img001.com/
@@ -4570,6 +4565,7 @@ local=/at-af.outfit7.com/
 local=/bidder.dsp.outfit7.com/
 local=/hb-af-us-central1.outfit7.com/
 local=/revive.outin.cn/
+local=/ouyaoxiazai.com/
 local=/overturechina.com/
 local=/ovnrmvg.cn/
 local=/oxi23.cn/
@@ -6548,7 +6544,6 @@ local=/m.w82ph.cn/
 local=/w97nv5ibv4.com/
 local=/w.waacorp.com/
 local=/tongdun-fingerprint.walmartmobile.cn/
-local=/analytics.med.wanfangdata.com.cn/
 local=/medad.med.wanfangdata.com.cn/
 local=/wanfeng1.com/
 local=/mlog.wangsu.com/
@@ -6745,7 +6740,6 @@ local=/zio.xcar.com.cn/
 local=/xcdf.cn/
 local=/vi12x.xcle.cn/
 local=/mldy.xdaay.cn/
-local=/analytics.xdiarys.com/
 local=/xdrig.com/
 local=/180.xdwan.com/
 local=/xegnfwkju.com/

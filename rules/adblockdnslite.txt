@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260823162154
-! Last modified: 2026/08/23 16:21:54
-! Blocked domains: 7513
+! Version: 20260824001748
+! Last modified: 2026/08/24 00:17:48
+! Blocked domains: 7507
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -406,7 +406,6 @@
 ||scdata.51job.com^
 ||51la.net^
 ||51link.com^
-||51mitu.com^
 ||51mld.cn^
 ||51mypc.cn^
 ||a1.51shiti.cn^
@@ -1509,7 +1508,6 @@
 ||canjejpuntosbac.help^
 ||canjerecompensa.help^
 ||canjeregalos.help^
-||telemetry.canva.cn^
 ||k.cao86789.cn^
 ||tf.caohua.com^
 ||tfssl.caohua.com^
@@ -2162,7 +2160,6 @@
 ||mobappconfig.securities.eastmoney.com^
 ||same.eastmoney.com^
 ||easyliao.com^
-||img.easypass.cn^
 ||easyrecoverychina.com^
 ||easytomessage.com^
 ||ebjvu.cn^
@@ -3065,7 +3062,6 @@
 ||hologramid.cn^
 ||bd1.home8080.cn^
 ||bd2.home8080.cn^
-||log.homestyler.com^
 ||w88.hongkongdisneyland.com.cn^
 ||tracking.ads.honor.com^
 ||hot-binance.com.cn^
@@ -3316,7 +3312,6 @@
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
 ||smetrics.ilovematlab.cn^
-||im30.net^
 ||imageter.com^
 ||windriversfiles.imeitools.com^
 ||img001.com^
@@ -4571,6 +4566,7 @@
 ||bidder.dsp.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
 ||revive.outin.cn^
+||ouyaoxiazai.com^
 ||overturechina.com^
 ||ovnrmvg.cn^
 ||oxi23.cn^
@@ -6549,7 +6545,6 @@
 ||w97nv5ibv4.com^
 ||w.waacorp.com^
 ||tongdun-fingerprint.walmartmobile.cn^
-||analytics.med.wanfangdata.com.cn^
 ||medad.med.wanfangdata.com.cn^
 ||wanfeng1.com^
 ||mlog.wangsu.com^
@@ -6746,7 +6741,6 @@
 ||xcdf.cn^
 ||vi12x.xcle.cn^
 ||mldy.xdaay.cn^
-||analytics.xdiarys.com^
 ||xdrig.com^
 ||180.xdwan.com^
 ||xegnfwkju.com^
