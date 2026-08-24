@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260824164029
-# Last modified: 2026/08/24 16:40:29
-# Blocked domains: 7552
+# Version: 20260825002842
+# Last modified: 2026/08/25 00:28:42
+# Blocked domains: 7540
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1237,7 +1237,6 @@ local=/sp3.baidu.com/
 local=/stat.v.baidu.com/
 local=/static.tieba.baidu.com/
 local=/static1.searchbox.baidu.com/
-local=/suggestion.baidu.com/
 local=/tcbox.baidu.com/
 local=/techain.baidu.com/
 local=/toolbar.baidu.com/
@@ -1514,7 +1513,6 @@ local=/caomeixz7.xyz/
 local=/baidu1.cardbaobao.com/
 local=/baidua1.cardbaobao.com/
 local=/baidua2.cardbaobao.com/
-local=/cart.net.cn/
 local=/cartx.cloud/
 local=/casaperch.com/
 local=/casee.cn/
@@ -1780,7 +1778,6 @@ local=/logreport-global-dual.coolbcloud.com/
 local=/detaillog-global.coolccloud.com/
 local=/detaillog-global-dual.coolccloud.com/
 local=/logreport-global-dual.coolccloud.com/
-local=/weblogger-wss.coolccloud.com/
 local=/wslog-global-dual.coolccloud.com/
 local=/coolkaba.com/
 local=/detaillog-global.coolzcloud.com/
@@ -1827,7 +1824,6 @@ local=/csjplatform.com/
 local=/bs.csshq.com.cn/
 local=/cstmedia.com.cn/
 local=/ctags.cn/
-local=/ads-marketing-vivofs.vivo.com.cn.ctdns.cn/
 local=/doubleclick.ctfile.com/
 local=/mydisplay.ctfile.com/
 local=/ma-adx.ctrip.com/
@@ -3616,7 +3612,6 @@ local=/jsmxkj.com/
 local=/jspcdn.cn/
 local=/fpb1.jsq886.com/
 local=/jszctech.com/
-local=/log.jtexpress.com.cn/
 local=/juandou.com/
 local=/jugao.com/
 local=/juhuisuan.com/
@@ -4587,7 +4582,6 @@ local=/at-af.outfit7.com/
 local=/bidder.dsp.outfit7.com/
 local=/hb-af-us-central1.outfit7.com/
 local=/revive.outin.cn/
-local=/ouyaoxiazai.com/
 local=/overturechina.com/
 local=/ovnrmvg.cn/
 local=/oxi23.cn/
@@ -4676,7 +4670,6 @@ local=/img50.pingguolv.com/
 local=/api.pingstart.com/
 local=/bd1.pipaw.com/
 local=/bd2.pipaw.com/
-local=/stat2.pixpin.cn/
 local=/pj50.com/
 local=/m.pkbrxja.cn/
 local=/pl53l7tyw.com/
@@ -5535,7 +5528,6 @@ local=/pangolin.snssdk.com/
 local=/pangolin-hl.snssdk.com/
 local=/pangolin-lf.snssdk.com/
 local=/pangolin-lq.snssdk.com/
-local=/pc-mon.snssdk.com/
 local=/sdfp.snssdk.com/
 local=/smr.snssdk.com/
 local=/stream.snssdk.com/
@@ -5897,7 +5889,6 @@ local=/tg.tebiezhuan.com/
 local=/log.tec73.com/
 local=/tongji.techweb.com.cn/
 local=/tecunonline.com/
-local=/data.tempersyi.com/
 local=/apd-pcdnvodstat.teg.tencent-cloud.net/
 local=/apd-pcdnwxlogin.teg.tencent-cloud.net/
 local=/apd-pcdnwxnat.teg.tencent-cloud.net/
@@ -6413,7 +6404,6 @@ local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
-local=/eu-album-api.vivoglobal.com/
 local=/eu-cota.vivoglobal.com/
 local=/eu-domaincfg.vivoglobal.com/
 local=/eu-errup.vivoglobal.com/
@@ -6732,7 +6722,6 @@ local=/teinfo.wps.cn/
 local=/update.wps.cn/
 local=/wpsweb-dc.wps.cn/
 local=/api-ad-adapter.wps.com/
-local=/api-ad-adapter-mb.wps.com/
 local=/honeycomb.wpscdn.cn/
 local=/mo.res.wpscdn.cn/
 local=/abroadad.cache.wpscdn.com/
@@ -7030,7 +7019,6 @@ local=/static.front.xywy.com/
 local=/xyxy01.com/
 local=/xz518.cn/
 local=/un.xz6.com/
-local=/xznkjzx.cn/
 local=/xzswn87hm.com/
 local=/bmjjs.xzw.com/
 local=/bmjs.xzw.com/
