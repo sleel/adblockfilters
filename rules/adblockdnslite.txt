@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260826163557
-! Last modified: 2026/08/26 16:35:57
-! Blocked domains: 7476
+! Version: 20260827004343
+! Last modified: 2026/08/27 00:43:43
+! Blocked domains: 7454
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -421,7 +421,6 @@
 ||game.51yund.com^
 ||5251.net^
 ||52aoteman.com^
-||52jiao.cn^
 ||52kuwang.cn^
 ||5y9nfpes.52pk.com^
 ||market.52pk.com^
@@ -1380,7 +1379,6 @@
 ||interface.bilibili.com^
 ||miniapp.bilibili.com^
 ||line1-log.biligame.net^
-||line3-adscore-api.biligame.net^
 ||httpdns.bilivideo.com^
 ||mcdn.bilivideo.com^
 ||billionfocus.com^
@@ -1544,7 +1542,6 @@
 ||by.tel.cdndm.com^
 ||ads-i2.xhscdn.com.w.cdngslb.com^
 ||ads-img-al.xhscdn.com.w.cdngslb.com^
-||ads-video-al.xhscdn.com.w.cdngslb.com^
 ||ads3-normal-hl.zijieapi.com.w.cdngslb.com^
 ||ads3-normal-lf.zijieapi.com.w.cdngslb.com^
 ||ads3-normal-lq.zijieapi.com.w.cdngslb.com^
@@ -2341,7 +2338,6 @@
 ||eexlgyn.cn^
 ||efectivopuntosbac.help^
 ||efusc.com^
-||efxh.cn^
 ||egooad.com^
 ||xt.eh6q.cn^
 ||eheb8.cn^
@@ -2353,7 +2349,6 @@
 ||tr.ekatox.com^
 ||ekdky.cn^
 ||ekpsn3kja.com^
-||ekzf.cn^
 ||adashx.ut.ele.me^
 ||app-monitor.ele.me^
 ||client-api.ele.me^
@@ -3531,7 +3526,6 @@
 ||jiezoiq.cn^
 ||jiguang.cn^
 ||jihehuaban.com.cn^
-||ad.open.api.jihuoniao.com^
 ||target.ads.jihuoniao.com^
 ||jikewan.com^
 ||photo.jingxiangyalvji.cn^
@@ -4378,7 +4372,6 @@
 ||aries.mzres.com^
 ||smbpbuojnctad.mztb5n.info^
 ||mzwzo.cn^
-||mzxl.org.cn^
 ||n4d3ev3m1.com^
 ||smbcarad.n5q6dn.info^
 ||n69.com^
@@ -4488,8 +4481,6 @@
 ||apps5.oingo.com^
 ||oj95rctd5.com^
 ||ojg8sflgl.com^
-||ojmv.cn^
-||ojxr.cn^
 ||baid1.okooo.com^
 ||okwfx.cn^
 ||oldulgk.cn^
@@ -4544,7 +4535,6 @@
 ||bidder.dsp.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
 ||revive.outin.cn^
-||ouyaoxiazai.com^
 ||overturechina.com^
 ||ovnrmvg.cn^
 ||oxi23.cn^
@@ -4682,7 +4672,6 @@
 ||prawainwestowien.net^
 ||prdohgp.cn^
 ||prlioxb.cn^
-||proewildfire.cn^
 ||info.protiviti.com.cn^
 ||pstarv.cn^
 ||dm.pstatp.com^
@@ -4751,7 +4740,6 @@
 ||qdp.qidian.com^
 ||qidianad.com^
 ||qidou.com^
-||qidw.cn^
 ||qienews.cn^
 ||haostat.qihoo.com^
 ||qijpaih.cn^
@@ -5187,7 +5175,6 @@
 ||ruskhw.cn^
 ||rvbztg.cn^
 ||rvzlobj.cn^
-||rwix.cn^
 ||rwpt.top^
 ||rxys.cn^
 ||ryd626moj.com^
@@ -5299,7 +5286,6 @@
 ||m.shwedar.com.cn^
 ||tt.shxinjie.cn^
 ||ads-monitoring.shziyi.com^
-||sifuhe.cn^
 ||sigmob.com^
 ||smetrics.marketing.signify.com.cn^
 ||silna-notownica.net^
@@ -5893,7 +5879,6 @@
 ||tepusi888.cn^
 ||answers.teradata.com.cn^
 ||testin.cn^
-||teue.cn^
 ||tgwopez.cn^
 ||th7.cn^
 ||advert.api.thejoyrun.com^
@@ -6003,7 +5988,6 @@
 ||toutiaopage.com^
 ||tovbus.cn^
 ||tovppl.cn^
-||tpjw.cn^
 ||trackingio.com^
 ||tradesoul.cn^
 ||tradplus.cn^
@@ -6048,7 +6032,6 @@
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.com.br.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
-||txre.cn^
 ||txstatic.cn^
 ||m.txtxr.com^
 ||ty.cn^
@@ -6061,7 +6044,6 @@
 ||u7u9.com^
 ||u88.cn^
 ||u8ad.com^
-||uaqe.cn^
 ||images.info.ubmsinoexpo.com^
 ||images.service.ubmsinoexpo.com^
 ||ubxqerc.cn^
@@ -6712,7 +6694,6 @@
 ||vi12x.xcle.cn^
 ||mldy.xdaay.cn^
 ||analytics.xdiarys.com^
-||analytics2.xdiarys.com^
 ||xdrig.com^
 ||180.xdwan.com^
 ||xegnfwkju.com^
@@ -6734,7 +6715,6 @@
 ||ads-i2.xhscdn.com^
 ||ads-i3.xhscdn.com^
 ||ads-i4.xhscdn.com^
-||ads-i8.xhscdn.com^
 ||ads-img-al.xhscdn.com^
 ||ads-img-bak.xhscdn.com^
 ||ads-img-qc.xhscdn.com^
@@ -6785,7 +6765,6 @@
 ||cdn-exp-sg-recommend.pt.xiaomi.com^
 ||cdn.exp.xiaomi.com^
 ||cdn.fds.api.xiaomi.com^
-||data.game.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
@@ -6813,7 +6792,6 @@
 ||storeconfig.mistat.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t1.a.market.xiaomi.com^
-||t17.market.xiaomi.com^
 ||tz.sec.xiaomi.com^
 ||video.market.xiaomi.com^
 ||api.device.xiaomi.net^
