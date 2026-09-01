@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260901051612
-# Last modified: 2026/09/01 05:16:12
-# Blocked domains: 7562
+# Version: 20260901110250
+# Last modified: 2026/09/01 11:02:50
+# Blocked domains: 7559
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2233,7 +2233,6 @@ local=/balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev/
 local=/blanked.edgeone.dev/
 local=/bnmasdcxzopqweuryuijdkdm127373u484900376.edgeone.dev/
 local=/bottom-coral-l4ei8f1s.edgeone.dev/
-local=/brave-tan-h4doupvw.edgeone.dev/
 local=/bvafrgmentumioter-dpun22ih62e8.edgeone.dev/
 local=/c0-m9w0489dfgychjk-bsh3cs6t2s.edgeone.dev/
 local=/cas-microsoft.edgeone.dev/
@@ -2760,7 +2759,6 @@ local=/sdn.gongkao.hn.cn/
 local=/gongxifc.com/
 local=/gongyichuangyi.net/
 local=/e.goodgz.cn/
-local=/cdn.file6.goodid.com/
 local=/google-analytics-cn.com/
 local=/google-analytics.com/
 local=/google-google-chrome-google-com.hl.cn/
@@ -3180,7 +3178,6 @@ local=/mldy.huaxiays.cn/
 local=/kdl.huaxinsp.cn/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
