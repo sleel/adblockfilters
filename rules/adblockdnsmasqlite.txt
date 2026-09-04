@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260904030203
-# Last modified: 2026/09/04 03:02:03
-# Blocked domains: 7554
+# Version: 20260904102603
+# Last modified: 2026/09/04 10:26:03
+# Blocked domains: 7548
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -750,7 +750,6 @@ local=/aibantian.cn/
 local=/brc.aigrammar.net/
 local=/brc2.aigrammar.net/
 local=/www.aihuishou.com/
-local=/aikx.eu.cc/
 local=/apas.aipai.com/
 local=/atiws.aipai.com/
 local=/mlog.aipai.com/
@@ -1768,7 +1767,6 @@ local=/com5.com.cn/
 local=/trk.compair.com.cn/
 local=/strack.concur.cn/
 local=/track.concur.cn/
-local=/one.connect-whatapp.com.cn/
 local=/cu-cn-north00001.gala.convection.cn/
 local=/cu-cn-north00002.gala.convection.cn/
 local=/coocaatv.com/
@@ -2169,7 +2167,6 @@ local=/ebrid.cn/
 local=/jb.ecar168.cn/
 local=/ecqgoyev.shop/
 local=/ecudsc.cn/
-local=/edge-microsoft-zh.com.cn/
 local=/adbesta.edgeone.app/
 local=/adbesta-dp1kudlt0rsh.edgeone.app/
 local=/authmail.edgeone.app/
@@ -3377,8 +3374,6 @@ local=/insenz.com/
 local=/api-data-collection.insta360.cn/
 local=/instagram-app.cn/
 local=/instagram-e.com.cn/
-local=/cm.instagram-g.com.cn/
-local=/on.instagram-g.com.cn/
 local=/instreet.cn/
 local=/instrument95.com/
 local=/cane.intel.cn/
@@ -5228,7 +5223,6 @@ local=/rgyun.com/
 local=/rianajones.shop/
 local=/richh.cn/
 local=/ad.richmob.cn/
-local=/www.mighty.ring-whatapp.com.cn/
 local=/game.rising.cn/
 local=/wan.rising.cn/
 local=/all.rising.com.cn/
