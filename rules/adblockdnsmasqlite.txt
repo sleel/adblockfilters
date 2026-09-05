@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260905024555
-# Last modified: 2026/09/05 02:45:55
-# Blocked domains: 7517
+# Version: 20260905102703
+# Last modified: 2026/09/05 10:27:03
+# Blocked domains: 7514
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2062,7 +2062,6 @@ local=/rtbapi.douyucdn.cn/
 local=/stun.douyucdn.cn/
 local=/stun1.douyucdn.cn/
 local=/dotcounter.douyutv.com/
-local=/download-sougou.com.cn/
 local=/dpjzzgw.cn/
 local=/drdwy.com/
 local=/drivethelife.com/
@@ -3173,7 +3172,6 @@ local=/mldy.huaxiays.cn/
 local=/kdl.huaxinsp.cn/
 local=/huayiav.cn/
 local=/hubcloud.com.cn/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
@@ -3725,7 +3723,6 @@ local=/rr.knet.cn/
 local=/ss.knet.cn/
 local=/knie8wmsk.com/
 local=/knliylh.cn/
-local=/knockknock.top/
 local=/ofkqiy.knowfashionstyle.com/
 local=/knowsafe.com/
 local=/koebpmhcce.com/
