@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260906015206
-# Last modified: 2026/09/06 01:52:06
-# Blocked domains: 7561
+# Version: 20260906102308
+# Last modified: 2026/09/06 10:23:08
+# Blocked domains: 7551
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2276,7 +2276,6 @@ local=/gdghhfhdnhhfdgnnxcbnddddvn-dpl0cm801n86.edgeone.dev/
 local=/ggkhhfhhfhflhjdcxcvbthg-dpfmbose3uxq.edgeone.dev/
 local=/ggsgsgsgdjjczkjgjkggacggc-dpqt3wpkjdo9.edgeone.dev/
 local=/global-accelerationr3que5f-dpojca32e2u6.edgeone.dev/
-local=/h8g7f6d5s43d4567-dp91egqbnglh.edgeone.dev/
 local=/hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev/
 local=/helpful-teal-wemfvl3j.edgeone.dev/
 local=/hjmdbcvvukhjhk-dpjrblo0l584.edgeone.dev/
@@ -2762,7 +2761,6 @@ local=/sdn.gongkao.hn.cn/
 local=/gongxifc.com/
 local=/gongyichuangyi.net/
 local=/e.goodgz.cn/
-local=/cdn.file6.goodid.com/
 local=/google-analytics-cn.com/
 local=/google-analytics.com/
 local=/google-google-chrome-google-com.hl.cn/
@@ -2920,8 +2918,6 @@ local=/e.hdanc.com/
 local=/m.hdanc.com/
 local=/hdbaichuan.cn/
 local=/photo.headwell.cn/
-local=/health-renewal.com/
-local=/healthcard-hse.com/
 local=/hechaocheng.cn/
 local=/ad.hefei.cc/
 local=/heheshield.com/
@@ -3148,8 +3144,6 @@ local=/leboapi.hpplay.com.cn/
 local=/support.hqts.com/
 local=/hrcmzp.cn/
 local=/hrjg.com.cn/
-local=/hse-card.com/
-local=/hse-renewals.com/
 local=/hseda.com/
 local=/hskj88.cn/
 local=/hsrgnac.cn/
@@ -3379,7 +3373,6 @@ local=/qfy.innotechx.com/
 local=/inping.com/
 local=/insenz.com/
 local=/api-data-collection.insta360.cn/
-local=/instagram-app.cn/
 local=/instagram-e.com.cn/
 local=/app.instagram-f.com.cn/
 local=/cm.instagram-f.com.cn/
@@ -4647,7 +4640,6 @@ local=/api-access.pangolin-sdk-toutiao3.com/
 local=/api-access.pangolin-sdk-toutiao4.com/
 local=/bmw2ep.paomifen.cn/
 local=/analytics.partnerboost.com/
-local=/app.partnerboost.com/
 local=/pasco.cc/
 local=/passwordrecovery.cn/
 local=/bt1.patexplorer.com/
@@ -5347,7 +5339,6 @@ local=/senbiaojita.com/
 local=/sensorsdata.cn/
 local=/seordl.cn/
 local=/serenalee.shop/
-local=/services-hse.com/
 local=/logstat.t.sfht.com/
 local=/sfilm.com/
 local=/stats.sg-light-edge.com/
@@ -6690,7 +6681,6 @@ local=/htrace.wetvinfo.com/
 local=/wexrty.cn/
 local=/redir.wggames.cn/
 local=/whalecloud.com/
-local=/call.whatapp-node.com.cn/
 local=/web.whatsapsapp.hl.cn/
 local=/whytd.com/
 local=/wifi.com/

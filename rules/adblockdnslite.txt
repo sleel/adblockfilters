@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260906015206
-! Last modified: 2026/09/06 01:52:06
-! Blocked domains: 7561
+! Version: 20260906102308
+! Last modified: 2026/09/06 10:23:08
+! Blocked domains: 7551
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -2277,7 +2277,6 @@
 ||ggkhhfhhfhflhjdcxcvbthg-dpfmbose3uxq.edgeone.dev^
 ||ggsgsgsgdjjczkjgjkggacggc-dpqt3wpkjdo9.edgeone.dev^
 ||global-accelerationr3que5f-dpojca32e2u6.edgeone.dev^
-||h8g7f6d5s43d4567-dp91egqbnglh.edgeone.dev^
 ||hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev^
 ||helpful-teal-wemfvl3j.edgeone.dev^
 ||hjmdbcvvukhjhk-dpjrblo0l584.edgeone.dev^
@@ -2763,7 +2762,6 @@
 ||gongxifc.com^
 ||gongyichuangyi.net^
 ||e.goodgz.cn^
-||cdn.file6.goodid.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-google-chrome-google-com.hl.cn^
@@ -2921,8 +2919,6 @@
 ||m.hdanc.com^
 ||hdbaichuan.cn^
 ||photo.headwell.cn^
-||health-renewal.com^
-||healthcard-hse.com^
 ||hechaocheng.cn^
 ||ad.hefei.cc^
 ||heheshield.com^
@@ -3149,8 +3145,6 @@
 ||support.hqts.com^
 ||hrcmzp.cn^
 ||hrjg.com.cn^
-||hse-card.com^
-||hse-renewals.com^
 ||hseda.com^
 ||hskj88.cn^
 ||hsrgnac.cn^
@@ -3380,7 +3374,6 @@
 ||inping.com^
 ||insenz.com^
 ||api-data-collection.insta360.cn^
-||instagram-app.cn^
 ||instagram-e.com.cn^
 ||app.instagram-f.com.cn^
 ||cm.instagram-f.com.cn^
@@ -4648,7 +4641,6 @@
 ||api-access.pangolin-sdk-toutiao4.com^
 ||bmw2ep.paomifen.cn^
 ||analytics.partnerboost.com^
-||app.partnerboost.com^
 ||pasco.cc^
 ||passwordrecovery.cn^
 ||bt1.patexplorer.com^
@@ -5348,7 +5340,6 @@
 ||sensorsdata.cn^
 ||seordl.cn^
 ||serenalee.shop^
-||services-hse.com^
 ||logstat.t.sfht.com^
 ||sfilm.com^
 ||stats.sg-light-edge.com^
@@ -6691,7 +6682,6 @@
 ||wexrty.cn^
 ||redir.wggames.cn^
 ||whalecloud.com^
-||call.whatapp-node.com.cn^
 ||web.whatsapsapp.hl.cn^
 ||whytd.com^
 ||wifi.com^
