@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260907015657
-! Last modified: 2026/09/07 01:56:57
-! Blocked domains: 7551
+! Version: 20260907102013
+! Last modified: 2026/09/07 10:20:13
+! Blocked domains: 7539
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -987,7 +987,6 @@
 ||ausaas.cn^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
-||begin.auth-whats-whatapp.com.cn^
 ||so.auto999.cn^
 ||33.autohome.com.cn^
 ||activity.app.autohome.com.cn^
@@ -1419,7 +1418,6 @@
 ||buffywehrli.shop^
 ||llt.bugu360.net^
 ||butou.cn^
-||www.one.buzz-whatapp.com.cn^
 ||bvmbzob.shop^
 ||bvmlt.top^
 ||bwin2808.com^
@@ -1463,7 +1461,6 @@
 ||logstat.caixin.com^
 ||promote.caixin.com^
 ||ad.caiyunapp.com^
-||www.serene.call-whatapp.com.cn^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
 ||cambiapuntosbac.help^
@@ -2146,7 +2143,6 @@
 ||jb.ecar168.cn^
 ||ecqgoyev.shop^
 ||ecudsc.cn^
-||home.edge-whotssapp.com.cn^
 ||adbesta.edgeone.app^
 ||adbesta-dp1kudlt0rsh.edgeone.app^
 ||authmail.edgeone.app^
@@ -2849,8 +2845,6 @@
 ||gzqvd.cn^
 ||gzzkjdam.cn^
 ||h45pmx1.cn^
-||livepc.h5-whatsapp-zn.hl.cn^
-||me.h5-whatsapp-zn.hl.cn^
 ||bm.h576.com^
 ||h57vpulpu.com^
 ||t.h5data.com^
@@ -2885,7 +2879,6 @@
 ||happybao.com.cn^
 ||log.dc.cn.happyelements.com^
 ||hapying.com^
-||web.hash-whats-whatapp.com.cn^
 ||hashnest.com^
 ||a.hbf23.cn^
 ||img1.hblds.com^
@@ -3977,7 +3970,6 @@
 ||lilangdianqi.cn^
 ||line-go.hl.cn^
 ||lingd.cn^
-||dl.link-whats-whatapp.com.cn^
 ||linkcenter.hk.cn^
 ||linkcenter.ln.cn^
 ||linkcenter.nx.cn^
@@ -4012,7 +4004,6 @@
 ||lockview.cn^
 ||deeplink.locokids.cn^
 ||lodipq3zb.com^
-||vivid.log-whats-whatapp.com.cn^
 ||webanalytics.logitech.com.cn^
 ||webtarget.logitech.com.cn^
 ||webanalytics.logitechg.com.cn^
@@ -4754,7 +4745,6 @@
 ||ptmind.com^
 ||ptt-qwh.com.cn^
 ||ptzpaxq7bu.com^
-||www.true.pulse-whatapp.hl.cn^
 ||puntosdinerobac.help^
 ||puntosefectivobac.help^
 ||pig.pupuapi.com^
@@ -5220,7 +5210,6 @@
 ||rianajones.shop^
 ||richh.cn^
 ||ad.richmob.cn^
-||www.h5.ring-whatapp.com.cn^
 ||game.rising.cn^
 ||wan.rising.cn^
 ||all.rising.com.cn^
@@ -5240,7 +5229,6 @@
 ||feedback.cn.ronghub.com^
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
-||hope.root-whats-whatapp.com.cn^
 ||rosabender.shop^
 ||o.rosettastone.cn^
 ||rovz7ekw3r.com^

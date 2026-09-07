@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260907015657
-# Last modified: 2026/09/07 01:56:57
-# Blocked domains: 7551
+# Version: 20260907102013
+# Last modified: 2026/09/07 10:20:13
+# Blocked domains: 7539
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -986,7 +986,6 @@ local=/audioadx.com/
 local=/ausaas.cn/
 local=/somni.aussiespecialist.cn/
 local=/somni.australia.cn/
-local=/begin.auth-whats-whatapp.com.cn/
 local=/so.auto999.cn/
 local=/33.autohome.com.cn/
 local=/activity.app.autohome.com.cn/
@@ -1418,7 +1417,6 @@ local=/xww.bucea.edu.cn/
 local=/buffywehrli.shop/
 local=/llt.bugu360.net/
 local=/butou.cn/
-local=/www.one.buzz-whatapp.com.cn/
 local=/bvmbzob.shop/
 local=/bvmlt.top/
 local=/bwin2808.com/
@@ -1462,7 +1460,6 @@ local=/gg.caixin.com/
 local=/logstat.caixin.com/
 local=/promote.caixin.com/
 local=/ad.caiyunapp.com/
-local=/www.serene.call-whatapp.com.cn/
 local=/api.callget.cn/
 local=/smetrics.calvinklein.cn/
 local=/cambiapuntosbac.help/
@@ -2145,7 +2142,6 @@ local=/ebrid.cn/
 local=/jb.ecar168.cn/
 local=/ecqgoyev.shop/
 local=/ecudsc.cn/
-local=/home.edge-whotssapp.com.cn/
 local=/adbesta.edgeone.app/
 local=/adbesta-dp1kudlt0rsh.edgeone.app/
 local=/authmail.edgeone.app/
@@ -2848,8 +2844,6 @@ local=/gzpinda.com/
 local=/gzqvd.cn/
 local=/gzzkjdam.cn/
 local=/h45pmx1.cn/
-local=/livepc.h5-whatsapp-zn.hl.cn/
-local=/me.h5-whatsapp-zn.hl.cn/
 local=/bm.h576.com/
 local=/h57vpulpu.com/
 local=/t.h5data.com/
@@ -2884,7 +2878,6 @@ local=/m1.hapi123.net/
 local=/happybao.com.cn/
 local=/log.dc.cn.happyelements.com/
 local=/hapying.com/
-local=/web.hash-whats-whatapp.com.cn/
 local=/hashnest.com/
 local=/a.hbf23.cn/
 local=/img1.hblds.com/
@@ -3976,7 +3969,6 @@ local=/lieying.cn/
 local=/lilangdianqi.cn/
 local=/line-go.hl.cn/
 local=/lingd.cn/
-local=/dl.link-whats-whatapp.com.cn/
 local=/linkcenter.hk.cn/
 local=/linkcenter.ln.cn/
 local=/linkcenter.nx.cn/
@@ -4011,7 +4003,6 @@ local=/lnsbhzy.cn/
 local=/lockview.cn/
 local=/deeplink.locokids.cn/
 local=/lodipq3zb.com/
-local=/vivid.log-whats-whatapp.com.cn/
 local=/webanalytics.logitech.com.cn/
 local=/webtarget.logitech.com.cn/
 local=/webanalytics.logitechg.com.cn/
@@ -4753,7 +4744,6 @@ local=/ptmabek.cn/
 local=/ptmind.com/
 local=/ptt-qwh.com.cn/
 local=/ptzpaxq7bu.com/
-local=/www.true.pulse-whatapp.hl.cn/
 local=/puntosdinerobac.help/
 local=/puntosefectivobac.help/
 local=/pig.pupuapi.com/
@@ -5219,7 +5209,6 @@ local=/rgyun.com/
 local=/rianajones.shop/
 local=/richh.cn/
 local=/ad.richmob.cn/
-local=/www.h5.ring-whatapp.com.cn/
 local=/game.rising.cn/
 local=/wan.rising.cn/
 local=/all.rising.com.cn/
@@ -5239,7 +5228,6 @@ local=/midas.rong360.com/
 local=/feedback.cn.ronghub.com/
 local=/logcollection.ronghub.com/
 local=/stats.cn.ronghub.com/
-local=/hope.root-whats-whatapp.com.cn/
 local=/rosabender.shop/
 local=/o.rosettastone.cn/
 local=/rovz7ekw3r.com/
