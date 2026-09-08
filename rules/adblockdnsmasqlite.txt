@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260908033232
-# Last modified: 2026/09/08 03:32:32
-# Blocked domains: 7526
+# Version: 20260908103244
+# Last modified: 2026/09/08 10:32:44
+# Blocked domains: 7523
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2862,7 +2862,6 @@ local=/gzpinda.com/
 local=/gzqvd.cn/
 local=/gzzkjdam.cn/
 local=/h45pmx1.cn/
-local=/good.h5-whatsapp-zn.hl.cn/
 local=/bm.h576.com/
 local=/h57vpulpu.com/
 local=/t.h5data.com/
@@ -4463,7 +4462,6 @@ local=/i.stat.nearme.com.cn/
 local=/sdk.stat.foreign.nearme.com.cn/
 local=/nedaafzali.shop/
 local=/finance.needtoday.com/
-local=/www.nehsbe.cn/
 local=/nesnts.cn/
 local=/tracking.nesox.com/
 local=/sea.net.edu.cn/
@@ -6717,7 +6715,6 @@ local=/analytics.95516.com.wscdns.com/
 local=/wsds.cn/
 local=/market.wsskj520.cn/
 local=/mlog.wangsu.com.wswebcdn.com/
-local=/soft.wsyhn.com/
 local=/cdn-ad.wtzw.com/
 local=/wukongtongji.com/
 local=/wumii.cn/

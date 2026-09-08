@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260908033232
-! Last modified: 2026/09/08 03:32:32
-! Blocked domains: 7526
+! Version: 20260908103244
+! Last modified: 2026/09/08 10:32:44
+! Blocked domains: 7523
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -2863,7 +2863,6 @@
 ||gzqvd.cn^
 ||gzzkjdam.cn^
 ||h45pmx1.cn^
-||good.h5-whatsapp-zn.hl.cn^
 ||bm.h576.com^
 ||h57vpulpu.com^
 ||t.h5data.com^
@@ -4464,7 +4463,6 @@
 ||sdk.stat.foreign.nearme.com.cn^
 ||nedaafzali.shop^
 ||finance.needtoday.com^
-||www.nehsbe.cn^
 ||nesnts.cn^
 ||tracking.nesox.com^
 ||sea.net.edu.cn^
@@ -6718,7 +6716,6 @@
 ||wsds.cn^
 ||market.wsskj520.cn^
 ||mlog.wangsu.com.wswebcdn.com^
-||soft.wsyhn.com^
 ||cdn-ad.wtzw.com^
 ||wukongtongji.com^
 ||wumii.cn^
