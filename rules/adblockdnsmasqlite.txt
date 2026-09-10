@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260910030033
-# Last modified: 2026/09/10 03:00:33
-# Blocked domains: 7597
+# Version: 20260910103529
+# Last modified: 2026/09/10 10:35:29
+# Blocked domains: 7591
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2277,7 +2277,6 @@ local=/d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev/
 local=/disabled-peach-m28zu4sp.edgeone.dev/
 local=/doc-fcms.edgeone.dev/
 local=/domain-dpgqiutb5rby.edgeone.dev/
-local=/educational-azure-zpk95jaf.edgeone.dev/
 local=/educational-blush-ooupnjp2.edgeone.dev/
 local=/efhjfjdhdksdhlfsfsvjvj-dprhmd8pvnvd.edgeone.dev/
 local=/enormous-apricot-bhhnh1v5.edgeone.dev/
@@ -2361,10 +2360,8 @@ local=/seri3sawsapprunner-south1-dpkkvw2rkadj.edgeone.dev/
 local=/severe-copper-y92uxuu9.edgeone.dev/
 local=/sheer-red-lwi8kl5b.edgeone.dev/
 local=/shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev/
-local=/sleepy-moccasin-djnjrsr4.edgeone.dev/
 local=/smart-apricot-c4akcfaw.edgeone.dev/
 local=/smiling-bronze-ybcsxxoi.edgeone.dev/
-local=/smilling-long-pannel.edgeone.dev/
 local=/solopn-dpoan627b9dy.edgeone.dev/
 local=/spectrmweb3onlne.edgeone.dev/
 local=/spontanius-glee-dppzegho645m.edgeone.dev/
@@ -2676,7 +2673,6 @@ local=/gaoshouyou.com/
 local=/images8.gaotie.cn/
 local=/trk.gardnerdenver.com.cn/
 local=/gayeah.cn/
-local=/web.gbhysaxa.cn/
 local=/ee.gd881.cn/
 local=/m.gd881.cn/
 local=/gdtimg.com/
@@ -5408,7 +5404,6 @@ local=/shawnjones.shop/
 local=/sc.shayugg.com/
 local=/rqvzkqb.shbllgs.cn/
 local=/link.shengcekeji.com/
-local=/shenglongmuyi.cn/
 local=/shengushi.cn/
 local=/shenshiads.com/
 local=/html.shibeiou.com/
@@ -6719,7 +6714,6 @@ local=/dl.weshineapp.com/
 local=/count.west263.com/
 local=/perfsight.wetest.net/
 local=/htrace.wetvinfo.com/
-local=/wexrty.cn/
 local=/redir.wggames.cn/
 local=/whalecloud.com/
 local=/web.whatsapsapp.hl.cn/
