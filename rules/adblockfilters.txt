@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260911025315
-! Last modified: 2026/09/11 02:53:15
-! Blocked Filters: 102696
+! Version: 20260911102931
+! Last modified: 2026/09/11 10:29:31
+! Blocked Filters: 102699
 !
 ###AC_ad
 ###AD_160
@@ -14655,6 +14655,7 @@
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ##a[href*="&maxads="]
+##a[href*=".1699ai.top"]
 ##a[href*=".6666ai.top"]
 ##a[href*=".adsrv.eacdn.com/"]
 ##a[href*=".bright.cn/?utm_"]
@@ -25192,7 +25193,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||ads.emarketer.com/redirect.spark?$popup,domain=emarketer.com
 @@||ads.exoclick.com/ads.js$domain=sss.xxx|hdzog.com|hclips.com
 @@||ads.farakav.com/group/*?uid=$domain=video.varzesh3.com
-@@||ads.finance^$popup
 @@||ads.freewheel.tv/|$media,domain=cnbc.com|fxnetworks.com|my.xfinity.com|nbc.com|nbcsports.com
 @@||ads.google.com^$domain=accounts.google.com
 @@||ads.google.com^$domain=ads.google.com
@@ -55022,6 +55022,7 @@ hrnytube.com#%#//scriptlet('set-constant', 'cRAds', 'true')
 hscans.com,mitsmits.com,csharpprogram.com,grasta.net,pokemonmatome.online,shirurin.com,huntersscan.xyz,freemagazinespdf.com,wabetainfo.com##body > script[id] + div[id][class*=" "]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
+hsex.tv###Austin + a
 hsreplay.net##[style^="min-height: 90px;"]
 hsreplay.net#?#.ads-container > div[class]:first-child:has(> div[style]:only-child > .vm-placement)
 hsreplay.net#?#.ads-container > div[class]:last-child:has(> div[class]:only-child > div[style] > .vm-placement)
@@ -88645,6 +88646,8 @@ zzzyk.com###Tinfo
 ||brightcove.com/playback/*/*?ad_config_id$removeparam=ad_config_id,xmlhttprequest,domain=tvnz.co.nz|roosterteeth.com|nhl.com|9now.com.au|video.telequebec.tv|player.stv.tv
 ||brightcovecdn.com/playback/*/*?ad_config_id=$removeparam=ad_config_id,xmlhttprequest,domain=tvnz.co.nz|roosterteeth.com|nhl.com|9now.com.au|video.telequebec.tv|player.stv.tv
 ||brighteon.tv/Assets/ARF/
+||brightline.tv^$third-party,xmlhttprequest,redirect-rule=noopjson
+||brightline.tv^$third-party,~xmlhttprequest
 ||brightside.me/metric-collector
 ||bringmesports.com^$popup
 ||brllllantsdates.com^$popup
