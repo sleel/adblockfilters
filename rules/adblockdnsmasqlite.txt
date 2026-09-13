@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260913020241
-# Last modified: 2026/09/13 02:02:41
-# Blocked domains: 7510
+# Version: 20260913103637
+# Last modified: 2026/09/13 10:36:37
+# Blocked domains: 7508
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2330,7 +2330,6 @@ local=/sheer-red-lwi8kl5b.edgeone.dev/
 local=/shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev/
 local=/smart-apricot-c4akcfaw.edgeone.dev/
 local=/smiling-bronze-ybcsxxoi.edgeone.dev/
-local=/smoggy-amber-2pqb6nvv.edgeone.dev/
 local=/solopn-dpoan627b9dy.edgeone.dev/
 local=/spectrmweb3onlne.edgeone.dev/
 local=/spontanius-glee-dppzegho645m.edgeone.dev/
@@ -2457,7 +2456,6 @@ local=/fanjis.cn/
 local=/fanqianbb.com/
 local=/fanyi100.com.cn/
 local=/fanzhuang.net.cn/
-local=/farle-bet365.com.cn/
 local=/fastapi.net/
 local=/fastcache.com.cn/
 local=/smetrics.fcbarcelona.cn/

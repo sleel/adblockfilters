@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260913020241
-! Last modified: 2026/09/13 02:02:41
-! Blocked domains: 7510
+! Version: 20260913103637
+! Last modified: 2026/09/13 10:36:37
+! Blocked domains: 7508
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -2331,7 +2331,6 @@
 ||shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev^
 ||smart-apricot-c4akcfaw.edgeone.dev^
 ||smiling-bronze-ybcsxxoi.edgeone.dev^
-||smoggy-amber-2pqb6nvv.edgeone.dev^
 ||solopn-dpoan627b9dy.edgeone.dev^
 ||spectrmweb3onlne.edgeone.dev^
 ||spontanius-glee-dppzegho645m.edgeone.dev^
@@ -2458,7 +2457,6 @@
 ||fanqianbb.com^
 ||fanyi100.com.cn^
 ||fanzhuang.net.cn^
-||farle-bet365.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
 ||smetrics.fcbarcelona.cn^
