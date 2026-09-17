@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260917031752
-! Last modified: 2026/09/17 03:17:52
-! Blocked domains: 7490
+! Version: 20260917105357
+! Last modified: 2026/09/17 10:53:57
+! Blocked domains: 7471
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -858,16 +858,13 @@
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||daxiu01.oss-accelerate.aliyuncs.com^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
-||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
-||ferhfw.oss-cn-hongkong.aliyuncs.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
 ||gaode11223.oss-ap-southeast-7.aliyuncs.com^
-||hdtu.oss-cn-beijing.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||imagefiles-backup.oss-ap-southeast-7.aliyuncs.com^
@@ -885,7 +882,6 @@
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
-||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
@@ -1323,7 +1319,6 @@
 ||bhpprfk.cn^
 ||app-posthog.bi-sage.site^
 ||bianxian.com^
-||bianxianmao.com^
 ||www.smbc-card.com.biaw.shop^
 ||biddingx.com^
 ||m.biduo.cc^
@@ -1365,7 +1360,6 @@
 ||bjvvqu.cn^
 ||file.blackint3.com^
 ||adimage.blm.net^
-||blog-whatsappx.hl.cn^
 ||gg.blueidea.com^
 ||iiid.bluescream.cn^
 ||license.bluesoleil.com^
@@ -2213,7 +2207,6 @@
 ||f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev^
 ||ffsre-dpzou3ijaxzb.edgeone.dev^
 ||flyaairlogis-dp1f8pq5osbp.edgeone.dev^
-||fundamental-cyan-yfx0wkvh.edgeone.dev^
 ||gastric-rose-hwpw4awz.edgeone.dev^
 ||gastric-turquoise-uqpzxsmk.edgeone.dev^
 ||gautamandgautam-byizfzvunb.edgeone.dev^
@@ -2273,7 +2266,6 @@
 ||prior-beige-yhzm8kq0.edgeone.dev^
 ||prior-jade-yjoyvniu.edgeone.dev^
 ||profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
-||profitable-yellow-5gazskvd.edgeone.dev^
 ||querulous-peach-4dtaevfs.edgeone.dev^
 ||random-chocolate-trkjykfk.edgeone.dev^
 ||ready-to-g0u3yt-dp10u3ka993x.edgeone.dev^
@@ -2385,7 +2377,6 @@
 ||smbpbuonctad.eusdccrt.shop^
 ||g.x.evolife.cn^
 ||duologinsupersdk.ewan.cn^
-||ewrrpuquc1.com^
 ||a.exam58.com^
 ||btuabilit2026.exc4ci.info^
 ||drovs.excelliance.cn^
@@ -2713,8 +2704,6 @@
 ||gocye.com^
 ||godloveme.cn^
 ||goforandroid.com^
-||goi08130kh.com^
-||goi08160kh.com^
 ||gojunkclean.cn^
 ||goldwavechina.cn^
 ||prom.gome.com.cn^
@@ -3325,7 +3314,6 @@
 ||insenz.com^
 ||api-data-collection.insta360.cn^
 ||instreet.cn^
-||instrument95.com^
 ||insuf.cn^
 ||cane.intel.cn^
 ||dogo.intel.cn^
@@ -3874,7 +3862,6 @@
 ||banana.le.com^
 ||cherry.le.com^
 ||stat.le.com^
-||le4le.com^
 ||api.leancloud.cn^
 ||legmnfnp.shop^
 ||leigodco.com^
@@ -4368,7 +4355,6 @@
 ||moren-1252794300.file.myqcloud.com^
 ||pichk.myqcloud.com^
 ||projecta-common-1258344701.file.myqcloud.com^
-||qdzip-1476850762.cos.ap-singapore.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com^
@@ -4441,7 +4427,6 @@
 ||nicelabel.cc^
 ||nike666.com^
 ||m.nimenzaina.cn^
-||nio08310lt.com^
 ||down.nishuoa.com^
 ||taobao.niucha.ren^
 ||p.niudashu.com^
@@ -4789,7 +4774,6 @@
 ||qishuimusic-cn.hl.cn^
 ||stats.qiumibao.com^
 ||webstat.qiumibao.com^
-||qiuxl11.cn^
 ||accoun.qivlexa.cn^
 ||qiwo.cc^
 ||api.cupid.qiyi.com^
@@ -5220,7 +5204,6 @@
 ||s1gr2198h.com^
 ||ethowaitaire.s36e8t.info^
 ||s3d4.cn^
-||s4y6lhotaw.com^
 ||s8.pw^
 ||g.s8dj.com^
 ||news.s9377.com^
@@ -6495,7 +6478,6 @@
 ||mssdk.volces.com^
 ||qqwwaa.tos-cn-hongkong.volces.com^
 ||tab.volces.com^
-||xolep1.tos-cn-beijing.volces.com^
 ||volctrack.com^
 ||vole11.cn^
 ||www.vole22.cn^
@@ -6722,7 +6704,6 @@
 ||analytics2.xdiarys.com^
 ||xdrig.com^
 ||180.xdwan.com^
-||xegnfwkju.com^
 ||e.xeig.cn^
 ||m.xeig.cn^
 ||imp.ad.xelements.cn^

@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260917031752
-! Last modified: 2026/09/17 03:17:52
+! Version: 20260917105357
+! Last modified: 2026/09/17 10:53:57
 ! Blocked Filters: 42843
 !
 ###AC_ad
@@ -16526,6 +16526,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /?abt_opts=1&
 /?c=propeller&lpid=$all
 /?clck=*&sid=$document
+/?compression=*&ip=
 /?dm=*&blogid=$script
 /?essb_counter_
 /?fp=*&poru=$subdocument
@@ -42346,7 +42347,6 @@ zzztube.com,videoporn.tube##.b-random-column
 ||tracking-*.trnox.com^
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
-||tracking.geo.*.amazonaws.com^
 ||tracking.olx.
 ||transfermarkt.com.tr^$replace=/<tm-consent[\s\S]*?<\/tm-consent>(<!DOCTYPE html>)/\$1/,document
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
