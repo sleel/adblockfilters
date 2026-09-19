@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260919024819
-! Last modified: 2026/09/19 02:48:19
-! Blocked domains: 7438
+! Version: 20260919103943
+! Last modified: 2026/09/19 10:39:43
+! Blocked domains: 7431
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -518,7 +518,6 @@
 ||6jtqdplfz7.com^
 ||6knlhnjfv.com^
 ||6kwan.com^
-||kn2xei4c.6lnov0.cn^
 ||canette.6n2bmf.info^
 ||6pctuhriw.com^
 ||sclick.6rooms.com^
@@ -811,7 +810,6 @@
 ||cdn.ynuf.aliapp.org^
 ||umdc.aliapp.org^
 ||us.ynuf.aliapp.org^
-||11.alibaba-taobaol.cn^
 ||22.alibaba-taobaol.cn^
 ||abtest.alibaba.com^
 ||activities.alibaba.com^
@@ -1715,8 +1713,6 @@
 ||cn-gui-whatsapp.com.cn^
 ||www.cn-oyi-okx.com.cn^
 ||zh.cn-oyi-okx.com.cn^
-||cn-peer-whatsapp.com.cn^
-||cn-ping-whatsapp.com.cn^
 ||cn-spotify.cn^
 ||cnaa123.com^
 ||cnbanbao.com^
@@ -2304,7 +2300,6 @@
 ||marked-indigo-o5oteekn.edgeone.dev^
 ||mawnowvasnanz-dpleh6oql3aj.edgeone.dev^
 ||meta-transparency-appeal-form-471ed0d914a1.edgeone.dev^
-||metropolitan-gray-qbggoc8v.edgeone.dev^
 ||miniature-octo-waffle-dpgu17krrwmh.edgeone.dev^
 ||misty-bronze-40q0z2bk.edgeone.dev^
 ||miuh76g543-dpfg0dhrch27.edgeone.dev^
@@ -2316,7 +2311,6 @@
 ||newgooglgecheckoutroundwebmailer-dpzcf6efmgzv.edgeone.dev^
 ||nice-gray-rmhnvluy.edgeone.dev^
 ||no2body7-dpyijatuyl2q.edgeone.dev^
-||notable-orange-vbdpjgry.edgeone.dev^
 ||officedeskego-dp8bsedoxuio.edgeone.dev^
 ||officeme-dpjs5aucgasw.edgeone.dev^
 ||officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev^
@@ -6605,7 +6599,6 @@
 ||redir.wggames.cn^
 ||whalecloud.com^
 ||web.whatsapsapp.hl.cn^
-||wheelchairchina.cn^
 ||whytd.com^
 ||wifi.com^
 ||wifi33.com^
