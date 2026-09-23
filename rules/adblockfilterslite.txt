@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260923032940
-! Last modified: 2026/09/23 03:29:40
-! Blocked Filters: 42447
+! Version: 20260923105020
+! Last modified: 2026/09/23 10:50:20
+! Blocked Filters: 42449
 !
 ###AC_ad
 ###AD_160
@@ -18991,6 +18991,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /globals_ps_afc.js$script
 /gmu-download.oss-
 /gmu-download.oss-$image,redirect-rule=1x1-transparent.gif,domain=voflix.vip
+/go.email.fly.io/e/o/*$image
 /go.news.fly.io/e/o/*$image
 /go/*?ident=*&id_site=$~third-party
 /goAnalytics.js
@@ -41723,6 +41724,7 @@ zzztube.com,videoporn.tube##.b-random-column
 ||spa-tracker*.spapi.io^
 ||speedtest.cn/api/v2/show
 ||speedtest.cn/assets/images/ce_
+||spin.bergfreunde.*/wt?$image
 ||spolecznosci.net^$important,domain=donald.pl
 ||sport-fm.gr^$replace=/((.)\.src='javascript:false';)/\$1\$2.srcdoc='';/,document
 ||sport.cz^$cookie=sportySporty

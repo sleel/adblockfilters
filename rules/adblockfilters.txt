@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260923032940
-! Last modified: 2026/09/23 03:29:40
-! Blocked Filters: 102170
+! Version: 20260923105020
+! Last modified: 2026/09/23 10:50:20
+! Blocked Filters: 102172
 !
 ###AC_ad
 ###AD_160
@@ -19164,6 +19164,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /globals_ps_afc.js$script
 /gmu-download.oss-
 /gmu-download.oss-$image,redirect-rule=1x1-transparent.gif,domain=voflix.vip
+/go.email.fly.io/e/o/*$image
 /go.news.fly.io/e/o/*$image
 /go/*?ident=*&id_site=$~third-party
 /goAnalytics.js
@@ -98731,6 +98732,7 @@ zzzyk.com###Tinfo
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||spicygirlshere.life^$popup
 ||spike.itv.com/itv/tserver/size=*/viewid=
+||spin.bergfreunde.*/wt?$image
 ||spiral.world/events/
 ||spirit.com/kp4CLSb5/init.js
 ||splunkcloud.com/services/collector/
