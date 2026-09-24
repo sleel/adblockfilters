@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260924032409
-# Last modified: 2026/09/24 03:24:09
-# Blocked domains: 7968
+# Version: 20260924104006
+# Last modified: 2026/09/24 10:40:06
+# Blocked domains: 7966
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -2445,7 +2445,6 @@ local=/review-copyright-policy-violations.edgeone.dev/
 local=/right-copper-xkzqbqnk.edgeone.dev/
 local=/rtyuioplkjhgf-2wns89uj3k.edgeone.dev/
 local=/rude-black-4tow5jpt.edgeone.dev/
-local=/schoolcord-dpt53h5jqo4b.edgeone.dev/
 local=/separate-apricot-hbdffwuz.edgeone.dev/
 local=/seri3sawsapprunner-south1-dpkkvw2rkadj.edgeone.dev/
 local=/severe-copper-y92uxuu9.edgeone.dev/
@@ -5592,7 +5591,6 @@ local=/hub5pnc.sandai.net/
 local=/hub5u.sandai.net/
 local=/idx.m.hub.sandai.net/
 local=/mcfg.sandai.net/
-local=/sandboxle.com.cn/
 local=/images.edm.sangfor.cn/
 local=/active.sangfor.com/
 local=/sanghuangvip.com/

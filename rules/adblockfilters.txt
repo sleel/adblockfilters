@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260924032409
-! Last modified: 2026/09/24 03:24:09
-! Blocked Filters: 103873
+! Version: 20260924104006
+! Last modified: 2026/09/24 10:40:06
+! Blocked Filters: 103876
 !
 ###AC_ad
 ###AD_160
@@ -44112,6 +44112,7 @@ collive.com##.premium-post-ad
 collive.com##.spu-bg
 collive.com##a[href*="&ad_url="]
 collive.com,strategicenergy.eu##.spu-box
+colnect.com##.cad-iframe
 colnect.com##.cad_placeholder
 colnect.com##.main_page > div[style^="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; background"][style*="z-index:"]
 colnect.com#%#//scriptlet('set-constant', 'CAD.possiblyShowAdblockWarning', 'noopFunc')
@@ -46344,6 +46345,8 @@ disboards.com#?#.p-body-sidebar > div[style^="background-color:"]:has(> div[alig
 disco-polo.eu#?#.elementor-widget-container > div[style*="width"]:has(> center > ins.adsbygoogle)
 disco-polo.info###ad-headernowe2
 disco-polo.info##.text-center > span[class="font8 text-muted"]
+discord.com#?#.wrapper__0d616:contains(Get Reward)
+discord.com#?#.wrapper__0d616:has-text(Get Reward)
 discordbots.org#?#.bot-list-section > .columns > .column:has(> .content > .info > span.lib:contains(Promoted))
 discordrep.com#?#main > div[class^="container-fluid margin_"]:has(> div > center > img.semiwide-ads)
 discordzik.pl##div[id^="promoPlaceholder"]
