@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260925034311
-# Last modified: 2026/09/25 03:43:11
-# Blocked domains: 7847
+# Version: 20260925105657
+# Last modified: 2026/09/25 10:56:57
+# Blocked domains: 7838
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1371,7 +1371,6 @@ local=/beigedi.com/
 local=/ad.beihai365.com/
 local=/beizi.biz/
 local=/belka-kapitura.com/
-local=/beloink.cyou/
 local=/belqorabitai.com/
 local=/smetrics.benefitcosmetics.com.cn/
 local=/bengbeng.com/
@@ -1770,7 +1769,6 @@ local=/cn-feed-whatsapp.com.cn/
 local=/cn-gui-whatsapp.com.cn/
 local=/www.cn-oyi-okx.com.cn/
 local=/zh.cn-oyi-okx.com.cn/
-local=/cn-spotify.cn/
 local=/cnaa123.com/
 local=/cnbanbao.com/
 local=/ad-api.cnblogs.com/
@@ -2340,7 +2338,6 @@ local=/ezeserverlogin-dptabl94lu7z.edgeone.dev/
 local=/f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev/
 local=/ffsre-dpzou3ijaxzb.edgeone.dev/
 local=/flyaairlogis-dp1f8pq5osbp.edgeone.dev/
-local=/fond-purple-q8frfbwq.edgeone.dev/
 local=/gastric-rose-hwpw4awz.edgeone.dev/
 local=/gastric-turquoise-uqpzxsmk.edgeone.dev/
 local=/gautamandgautam-byizfzvunb.edgeone.dev/
@@ -2474,7 +2471,6 @@ local=/wxas.ejwmc.cn/
 local=/tr.ekatox.com/
 local=/ekdky.cn/
 local=/ekpsn3kja.com/
-local=/ekvskdkcwkvre.sbs/
 local=/adashx.ut.ele.me/
 local=/app-monitor.ele.me/
 local=/client-api.ele.me/
@@ -4803,7 +4799,6 @@ local=/pasco.cc/
 local=/passwordrecovery.cn/
 local=/bt1.patexplorer.com/
 local=/pbaiyho.cn/
-local=/pc-spotify.cn/
 local=/ipad.pc899.cn/
 local=/count.pcauto.com.cn/
 local=/ivy.pcauto.com.cn/
@@ -5503,7 +5498,6 @@ local=/s3d4.cn/
 local=/s8.pw/
 local=/g.s8dj.com/
 local=/news.s9377.com/
-local=/sadrfv.cn/
 local=/404.safedog.cn/
 local=/saitef.cn/
 local=/samevay.com.cn/
@@ -6331,7 +6325,6 @@ local=/tnc3-alisc1.toutiaoapi.com/
 local=/tnc3-bjlgy.toutiaoapi.com/
 local=/toutiaopage.com/
 local=/tovppl.cn/
-local=/toyspace.cn/
 local=/trackingio.com/
 local=/tradehubcenter.com/
 local=/tradehubcenter.net/
@@ -6808,7 +6801,6 @@ local=/vrr.name/
 local=/n.vs108.com/
 local=/vsnoon.com/
 local=/vungle.cn/
-local=/vvcdh.com.cn/
 local=/vvcdh.net.cn/
 local=/e.vvme9.cn/
 local=/m.vvme9.cn/
@@ -6873,7 +6865,6 @@ local=/mbd.weathercn.com/
 local=/mbs.weathercn.com/
 local=/zgzxm.weathercn.com/
 local=/zgzxs.weathercn.com/
-local=/web-spotify.cn/
 local=/web605.cn/
 local=/webdissector.com/
 local=/webfunny.cn/
