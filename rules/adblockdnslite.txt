@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260928032734
-! Last modified: 2026/09/28 03:27:34
-! Blocked domains: 7921
+! Version: 20260928110221
+! Last modified: 2026/09/28 11:02:21
+! Blocked domains: 7914
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -1967,8 +1967,6 @@
 ||dashantechan.cn^
 ||datacaciques.com^
 ||datacenter.qh.cn^
-||datacenter.xj.cn^
-||datacenter.yn.cn^
 ||adsmartget.datads.cn^
 ||datamaster.com.cn^
 ||datayi.cn^
@@ -2394,7 +2392,6 @@
 ||marked-indigo-o5oteekn.edgeone.dev^
 ||mawnowvasnanz-dpleh6oql3aj.edgeone.dev^
 ||meta-transparency-appeal-form-471ed0d914a1.edgeone.dev^
-||mikon-dp4bsyzanozx.edgeone.dev^
 ||miniature-octo-waffle-dpgu17krrwmh.edgeone.dev^
 ||misty-bronze-40q0z2bk.edgeone.dev^
 ||miuh76g543-dpfg0dhrch27.edgeone.dev^
@@ -2427,7 +2424,6 @@
 ||review-copyright-infringement-request.edgeone.dev^
 ||review-copyright-policy-violations.edgeone.dev^
 ||right-copper-xkzqbqnk.edgeone.dev^
-||romantic-salmon-tgjpnemj-dpwg84nqpnze.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||rude-black-4tow5jpt.edgeone.dev^
 ||separate-apricot-hbdffwuz.edgeone.dev^
@@ -4486,7 +4482,6 @@
 ||modrzew-bitonis.com^
 ||modrzew-bitonis.net^
 ||modrzewbitonisai.com^
-||ddapi.mogooba.cn^
 ||bd1.moguvet.com^
 ||ad.api.moji.com^
 ||adlaunch.moji.com^
@@ -6605,8 +6600,6 @@
 ||verifyhub.he.cn^
 ||verifyhub.nx.cn^
 ||verifyhub.org.cn^
-||verifyhub.qh.cn^
-||verifyhub.xj.cn^
 ||verifyhub.yn.cn^
 ||vernostek-pl.net^
 ||vernostekai.com^
