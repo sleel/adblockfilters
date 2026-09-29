@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260929002130
-# Last modified: 2026/09/29 00:21:30
-# Blocked domains: 7800
+# Version: 20260929114216
+# Last modified: 2026/09/29 11:42:16
+# Blocked domains: 7796
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -209,6 +209,7 @@ local=/t.2d-c.cn/
 local=/btuabilit2026.2hnsfm.info/
 local=/smbcarad.2sbduf.info/
 local=/ad.3.cn/
+local=/static.3001.net/
 local=/analytics.300624.com/
 local=/d1.3158.cn/
 local=/www.31d.net/
@@ -743,7 +744,6 @@ local=/alertcenter.net.cn/
 local=/alertcenter.qh.cn/
 local=/alertcenter.sd.cn/
 local=/alertcenter.sx.cn/
-local=/alertcenter.xj.cn/
 local=/smetrics.alfalaval.cn/
 local=/bmp.ali213.net/
 local=/bmp1.ali213.net/
@@ -2218,7 +2218,6 @@ local=/accurate-purple-klawjsq5.edgeone.dev/
 local=/achdh-dpdwwrdxc0a9.edgeone.dev/
 local=/adminnfupanel-dpg54ztfrzuf.edgeone.dev/
 local=/advisory-green-khxqmajx.edgeone.dev/
-local=/afraid-brown-sofesy1w-dpnhp556c7v9.edgeone.dev/
 local=/aktivasi-pemulihann-bimaa-mobile.edgeone.dev/
 local=/aktivasiii-pemulihan-bima-mobile.edgeone.dev/
 local=/alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev/
@@ -2254,7 +2253,6 @@ local=/cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev/
 local=/crispy-garbanzo-me-dpbt0uga9b5v.edgeone.dev/
 local=/crucial-black-tporkft5.edgeone.dev/
 local=/d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev/
-local=/dantethebakeryintn.edgeone.dev/
 local=/dead-coffee-vczxixdn-dpwj3cuq93cf.edgeone.dev/
 local=/disabled-peach-m28zu4sp.edgeone.dev/
 local=/doc-fcms.edgeone.dev/
@@ -2331,7 +2329,6 @@ local=/officedeskego-dp8bsedoxuio.edgeone.dev/
 local=/officeme-dpjs5aucgasw.edgeone.dev/
 local=/officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev/
 local=/ofornaogu-dpzv6dife1hh.edgeone.dev/
-local=/oksecurityprofessionals.edgeone.dev/
 local=/ordinary-silver-rkbwyw06.edgeone.dev/
 local=/portalportalportalportalportal.edgeone.dev/
 local=/pretty-white-ziekneey.edgeone.dev/
@@ -5510,7 +5507,6 @@ local=/p.sdu8cvc.com/
 local=/sdxitong.com/
 local=/securemsg.fj.cn/
 local=/securemsg.hi.cn/
-local=/securemsg.qh.cn/
 local=/ad.seeyouyima.com/
 local=/trace.seeyouyima.com/
 local=/sellbuyads.cn/
