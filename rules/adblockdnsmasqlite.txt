@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260930042332
-# Last modified: 2026/09/30 04:23:32
-# Blocked domains: 7615
+# Version: 20260930112938
+# Last modified: 2026/09/30 11:29:38
+# Blocked domains: 7599
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -799,10 +799,7 @@ local=/us-datareceiver.aki-game.net/
 local=/ako.cc/
 local=/alapihixkge.eu/
 local=/tracker-prd.aldi.com.cn/
-local=/alertcenter.hn.cn/
-local=/alertcenter.net.cn/
 local=/alertcenter.qh.cn/
-local=/alertcenter.sd.cn/
 local=/alertcenter.sx.cn/
 local=/smetrics.alfalaval.cn/
 local=/bmp.ali213.net/
@@ -1887,7 +1884,6 @@ local=/www.dariusz.cn/
 local=/dartsearch-cn.net/
 local=/dashantechan.cn/
 local=/datacaciques.com/
-local=/datacenter.qh.cn/
 local=/adsmartget.datads.cn/
 local=/datamaster.com.cn/
 local=/datayi.cn/
@@ -2269,7 +2265,6 @@ local=/explicit-amaranth-qng8tdbe.edgeone.dev/
 local=/ezeserverlogin-dptabl94lu7z.edgeone.dev/
 local=/f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev/
 local=/ffsre-dpzou3ijaxzb.edgeone.dev/
-local=/fil-eggen-dpvjc5c11bs7.edgeone.dev/
 local=/flyaairlogis-dp1f8pq5osbp.edgeone.dev/
 local=/gastric-rose-hwpw4awz.edgeone.dev/
 local=/gastric-turquoise-uqpzxsmk.edgeone.dev/
@@ -2294,7 +2289,6 @@ local=/intellectual-property-center.edgeone.dev/
 local=/intellectual-property-review-dp8cm75v8j31.edgeone.dev/
 local=/intellectual-property-troubleshooting-center.edgeone.dev/
 local=/intimate-jade-wtxqok38.edgeone.dev/
-local=/isoihg-dpnllatkc5tk.edgeone.dev/
 local=/kerenare54-dpwekmulre85.edgeone.dev/
 local=/khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev/
 local=/kita-quote-wt6k5i5yoz.edgeone.dev/
@@ -2347,7 +2341,6 @@ local=/review-copyright-infringement-reports.edgeone.dev/
 local=/review-copyright-infringement-request.edgeone.dev/
 local=/review-copyright-policy-violations.edgeone.dev/
 local=/right-copper-xkzqbqnk.edgeone.dev/
-local=/romantic-salmon-tgjpnemj.edgeone.dev/
 local=/rtyuioplkjhgf-2wns89uj3k.edgeone.dev/
 local=/rude-black-4tow5jpt.edgeone.dev/
 local=/separate-apricot-hbdffwuz.edgeone.dev/
@@ -4524,7 +4517,6 @@ local=/down.nishuoa.com/
 local=/taobao.niucha.ren/
 local=/p.niudashu.com/
 local=/ehdj.njguluyu.cn/
-local=/qjzfcg.njztb.cn/
 local=/njzyjy.cn/
 local=/nkscdn.com/
 local=/img.nktcw.cn/
@@ -5763,8 +5755,6 @@ local=/m.symag.cn/
 local=/ss.symav.cn/
 local=/synacast.com/
 local=/syr66.com.cn/
-local=/systemhub.nx.cn/
-local=/systemhub.sc.cn/
 local=/syzjxz2018.cn/
 local=/szbdyd.com/
 local=/www.szdifenga.cn/
@@ -6276,9 +6266,6 @@ local=/uqz.com/
 local=/urbanfind.club/
 local=/uri6.com/
 local=/urlqh.cn/
-local=/usercenter.ha.cn/
-local=/usercenter.he.cn/
-local=/usercenter.nx.cn/
 local=/usercenter.org.cn/
 local=/usercenter.yn.cn/
 local=/ushaqi.com/
@@ -6335,10 +6322,7 @@ local=/analytics.umetrip.com.c.vedcdnlb.com/
 local=/vegaschina.cn/
 local=/verifyhub.gx.cn/
 local=/verifyhub.ha.cn/
-local=/verifyhub.he.cn/
 local=/verifyhub.nx.cn/
-local=/verifyhub.org.cn/
-local=/verifyhub.yn.cn/
 local=/g.analytics.versa-ai.com/
 local=/veryboys.com/
 local=/vhgu5ivtew.com/
