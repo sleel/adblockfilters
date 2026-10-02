@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20261002044441
-# Last modified: 2026/10/02 04:44:41
-# Blocked domains: 7573
+# Version: 20261002113531
+# Last modified: 2026/10/02 11:35:31
+# Blocked domains: 7567
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1438,7 +1438,6 @@ local=/www.smbc-card.com.bouesaza.com/
 local=/bozhihua.com/
 local=/lerg.bpafree.cn/
 local=/bpuvuun0xg.com/
-local=/ivjwpjd.bqsawm.cn/
 local=/bs2site.at/
 local=/bsbaswq.cn/
 local=/bsccdn.net/
@@ -3200,7 +3199,6 @@ local=/kdl.huaxinsp.cn/
 local=/huayiav.cn/
 local=/inner-hw.huazirc.com/
 local=/hubcloud.com.cn/
-local=/download2.huduntech.com/
 local=/huidakms.com.cn/
 local=/huishenghuiying.com/
 local=/huishenghuiying.com.cn/
@@ -3337,7 +3335,6 @@ local=/metrics.ilovematlab.cn/
 local=/smetrics.ilovematlab.cn/
 local=/imageter.com/
 local=/log-h5.imdada.cn/
-local=/windriversfiles.imeitools.com/
 local=/img001.com/
 local=/tj.img4399.com/
 local=/imindmap.cc/
@@ -4113,7 +4110,6 @@ local=/smetrics.mathworks.cn/
 local=/maxisck.cfd/
 local=/maxisho.com/
 local=/maxisko.bid/
-local=/maxisnz.com/
 local=/maxissf.com/
 local=/maxissr.com/
 local=/maxisuc.com/
@@ -5746,7 +5742,6 @@ local=/synacast.com/
 local=/syr66.com.cn/
 local=/syzjxz2018.cn/
 local=/szbdyd.com/
-local=/www.szdifenga.cn/
 local=/g.szdn1ms.com/
 local=/bd1.szhk.com/
 local=/am.szhome.com/
@@ -6739,7 +6734,6 @@ local=/ad.12306.cn.wscdns.com/
 local=/analytics.95516.com.wscdns.com/
 local=/wsds.cn/
 local=/market.wsskj520.cn/
-local=/soft.wsyhn.com/
 local=/cdn-ad.wtzw.com/
 local=/wukongtongji.com/
 local=/wumii.cn/

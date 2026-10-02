@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261002044441
-! Last modified: 2026/10/02 04:44:41
-! Blocked domains: 7573
+! Version: 20261002113531
+! Last modified: 2026/10/02 11:35:31
+! Blocked domains: 7567
 ! unBlocked domains: 24
 !
 ||013572.cn^
@@ -1439,7 +1439,6 @@
 ||bozhihua.com^
 ||lerg.bpafree.cn^
 ||bpuvuun0xg.com^
-||ivjwpjd.bqsawm.cn^
 ||bs2site.at^
 ||bsbaswq.cn^
 ||bsccdn.net^
@@ -3201,7 +3200,6 @@
 ||huayiav.cn^
 ||inner-hw.huazirc.com^
 ||hubcloud.com.cn^
-||download2.huduntech.com^
 ||huidakms.com.cn^
 ||huishenghuiying.com^
 ||huishenghuiying.com.cn^
@@ -3338,7 +3336,6 @@
 ||smetrics.ilovematlab.cn^
 ||imageter.com^
 ||log-h5.imdada.cn^
-||windriversfiles.imeitools.com^
 ||img001.com^
 ||tj.img4399.com^
 ||imindmap.cc^
@@ -4114,7 +4111,6 @@
 ||maxisck.cfd^
 ||maxisho.com^
 ||maxisko.bid^
-||maxisnz.com^
 ||maxissf.com^
 ||maxissr.com^
 ||maxisuc.com^
@@ -5747,7 +5743,6 @@
 ||syr66.com.cn^
 ||syzjxz2018.cn^
 ||szbdyd.com^
-||www.szdifenga.cn^
 ||g.szdn1ms.com^
 ||bd1.szhk.com^
 ||am.szhome.com^
@@ -6740,7 +6735,6 @@
 ||analytics.95516.com.wscdns.com^
 ||wsds.cn^
 ||market.wsskj520.cn^
-||soft.wsyhn.com^
 ||cdn-ad.wtzw.com^
 ||wukongtongji.com^
 ||wumii.cn^
