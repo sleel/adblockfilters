@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20261005025703
-# Last modified: 2026/10/05 02:57:03
-# Blocked domains: 7293
+# Version: 20261005113135
+# Last modified: 2026/10/05 11:31:35
+# Blocked domains: 7284
 #
 local=/photo.0234408.cn/
 local=/img.0279.net/
@@ -1257,7 +1257,6 @@ local=/zz.bdstatic.com/
 local=/ads-i3.xhscdn.com.a.bdydns.com/
 local=/smetrics.beatsbydre.com/
 local=/smetrics.beatsbydre.com.cn/
-local=/www.beequickly.cn/
 local=/beigedi.com/
 local=/ad.beihai365.com/
 local=/beizi.biz/
@@ -1341,7 +1340,6 @@ local=/c.booksir.com.cn/
 local=/bootcdn.cn/
 local=/bootcss.com/
 local=/noyvyv.bosonshop.com/
-local=/www.smbc-card.com.bouesaza.com/
 local=/bozhihua.com/
 local=/lerg.bpafree.cn/
 local=/bpuvuun0xg.com/
@@ -2067,7 +2065,6 @@ local=/dotnotblock-pfwzl61nwt.edgeone.app/
 local=/early-harlequin-utnj57ge.edgeone.app/
 local=/energetic-indigo-dxeo7k8pg2.edgeone.app/
 local=/expensive-red-8ukousxj.edgeone.app/
-local=/extra-cyan-zfxl6ma9.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/joint-turquoise-ajfkbwvy.edgeone.app/
 local=/mail-service.edgeone.app/
@@ -2109,7 +2106,6 @@ local=/asdfbnmxcvbnm-dpggr1q8x0z1.edgeone.dev/
 local=/asdfghjklbnm-lpbgjju0gp.edgeone.dev/
 local=/awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev/
 local=/b48411138-0326-4a61-9b6e-51b0d590d944.edgeone.dev/
-local=/b51723488-fa28-46ed-a99a-f0758d58baeb.edgeone.dev/
 local=/b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev/
 local=/b73223085-49c6-4dca-a2f1-4722014079bf-dpcj8stbzfif.edgeone.dev/
 local=/b73223085-49c6-4dca-a2f1-4722014079fb-dpi4fgipupcs.edgeone.dev/
@@ -2230,7 +2226,6 @@ local=/shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev/
 local=/smart-apricot-c4akcfaw.edgeone.dev/
 local=/smiling-bronze-ybcsxxoi.edgeone.dev/
 local=/solopn-dpoan627b9dy.edgeone.dev/
-local=/spectrmweb3onlne.edgeone.dev/
 local=/spontanius-glee-dppzegho645m.edgeone.dev/
 local=/srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev/
 local=/statutory-blush-jnxb8kdq.edgeone.dev/
@@ -4044,7 +4039,6 @@ local=/tk.d.mi.com/
 local=/miam4.cn/
 local=/miaomu139.cn/
 local=/miaozhen.com/
-local=/mibaconline.help/
 local=/micro-xdb.com/
 local=/microad-cn.com/
 local=/stat.microvirt.com/
@@ -7081,8 +7075,6 @@ local=/zgisp.net/
 local=/photo.zgncpjyw.cn/
 local=/yin1.zgpingshu.com/
 local=/td.zgxue.com/
-local=/www.e4932928d2e9b518.zh-cn-whatapp.hl.cn/
-local=/www.e222b04f884dc241.zh-pc-whatapp.hl.cn/
 local=/zhads.com/
 local=/tfs.zhamm.cn/
 local=/zhangxinzhixun.com/
@@ -7238,7 +7230,6 @@ local=/pvsite.zol.com.cn/
 local=/pvtest.zol.com.cn/
 local=/stat.zol.com.cn/
 local=/ydjs.zol.com.cn/
-local=/static.zongheng.com/
 local=/zonst.com/
 local=/adm.zookingsoft.com/
 local=/zoosnet.net/
