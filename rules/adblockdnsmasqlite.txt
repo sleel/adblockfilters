@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20261007044423
-# Last modified: 2026/10/07 04:44:23
-# Blocked domains: 7606
+# Version: 20261007114538
+# Last modified: 2026/10/07 11:45:38
+# Blocked domains: 7602
 #
 local=/013572.cn/
 local=/photo.0234408.cn/
@@ -1094,7 +1094,6 @@ local=/tjinit-global-register.babybus.com/
 local=/titan.babytree.com/
 local=/titan01.babytree.com/
 local=/tracking.babytree.com/
-local=/bacaccesoseguro.help/
 local=/banca.bacactualizaciones.help/
 local=/banca.bacbancaenlinea.help/
 local=/bacconnect.help/
@@ -1427,7 +1426,6 @@ local=/fpbbdx2.bmcx.com/
 local=/bmw100.cn/
 local=/accounts.bmwweb.biz/
 local=/bncqucpia.com/
-local=/bnmvca.cn/
 local=/bobo.com/
 local=/smetrics.boehringer-ingelheim.cn/
 local=/m.bogubogu.cn/
@@ -2240,7 +2238,6 @@ local=/copyright-policy-review-form.edgeone.dev/
 local=/copyright-policy-troubleshooting-request-form.edgeone.dev/
 local=/cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev/
 local=/crispy-garbanzo-me-dpbt0uga9b5v.edgeone.dev/
-local=/crucial-black-tporkft5.edgeone.dev/
 local=/d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev/
 local=/dead-coffee-vczxixdn-dpwj3cuq93cf.edgeone.dev/
 local=/disabled-peach-m28zu4sp.edgeone.dev/
@@ -2286,7 +2283,6 @@ local=/kita-quote-wt6k5i5yoz.edgeone.dev/
 local=/kloclibkblink-dp73tqm8r6w5.edgeone.dev/
 local=/krjrhrfhsfdhzdflfhdshfsfhfh-vvkyc5x58q.edgeone.dev/
 local=/lexical-brown-irnlppnt.edgeone.dev/
-local=/light-aquamarine-o9esov3l-dpdycnoyj29j.edgeone.dev/
 local=/limitlessdubai-dp8oxsl60kva.edgeone.dev/
 local=/lkjgfdwertyuiop-5137fsshgs.edgeone.dev/
 local=/loginpages0000-dpf0869el7ik.edgeone.dev/
@@ -2301,7 +2297,6 @@ local=/meta-transparency-appeal-form-471ed0d914a1.edgeone.dev/
 local=/miniature-octo-waffle-dpgu17krrwmh.edgeone.dev/
 local=/misty-bronze-40q0z2bk.edgeone.dev/
 local=/miuh76g543-dpfg0dhrch27.edgeone.dev/
-local=/mobile-bimaaktivasi-pemulihan.edgeone.dev/
 local=/moudhgsr-dp4lyapywtjw.edgeone.dev/
 local=/mountaineverestadventure-yf4ltn8xeh.edgeone.dev/
 local=/musical-octo-robot-dptlf6z6tv2g.edgeone.dev/
@@ -2362,7 +2357,6 @@ local=/webmaprocessinh-dpbehei5spwx.edgeone.dev/
 local=/wedfgbnmoijhgcxvbnm-dpyjx01bl5o7.edgeone.dev/
 local=/welcome-ivory-mla3tpma-dpgbipy9x8sc.edgeone.dev/
 local=/well-aquamarine-psata8ej.edgeone.dev/
-local=/wetransfer-east856-dppejjz76yzz.edgeone.dev/
 local=/wetransferswiftserverr.edgeone.dev/
 local=/whyte11chase-dpkso5utb08y.edgeone.dev/
 local=/wwwww-dpe7gpnooou7.edgeone.dev/
@@ -4538,6 +4532,7 @@ local=/nlzyp.cn/
 local=/ad.nmjsjs.com/
 local=/nnraytheon.com/
 local=/nojtp.cn/
+local=/noone.ren/
 local=/analytics.notegen.top/
 local=/noteonline-pt.shop/
 local=/web.novogene.com/
@@ -7357,6 +7352,7 @@ local=/cdnjs.z-face.cn/
 local=/z0rto0758.com/
 local=/smbcarad.z7d2q.info/
 local=/z9sab7vr0b.com/
+local=/zaixianvip.cn/
 local=/www.zakladyboleslawiecpl-online.shop/
 local=/zakladyboleslawieczone-pl.shop/
 local=/zamplus.com/
