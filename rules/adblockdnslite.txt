@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、anti-AD、AdGuard DNS filter、AdRules DNS List、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、yhosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261008045655
-! Last modified: 2026/10/08 04:56:55
-! Blocked domains: 7603
+! Version: 20261008115925
+! Last modified: 2026/10/08 11:59:25
+! Blocked domains: 7594
 ! unBlocked domains: 23
 !
 ||013572.cn^
@@ -1508,7 +1508,6 @@
 ||canjeahorabac.help^
 ||canjearppuntos.click^
 ||canjeenefectivobac.help^
-||canjejpuntosbac.help^
 ||canjepuntostotal.click^
 ||canjepuntosvip.click^
 ||canjerecompensa.help^
@@ -2195,7 +2194,6 @@
 ||valuable-purple-sibu8izm.edgeone.app^
 ||vvebmail-ver1fication1.edgeone.app^
 ||z5x2c9v1b7n3m8k4j0h6g2f1u0l1-ahbkz5cnlt.edgeone.app^
-||amarhinbodtuvs-dpph6xbe5k41.edgeone.cool^
 ||digitalsolutions360-dpouvkf7wkw5.edgeone.cool^
 ||sdfguipoijhgcx-dpai1gwpp6mr.edgeone.cool^
 ||webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool^
@@ -2211,7 +2209,6 @@
 ||adminnfupanel-dpg54ztfrzuf.edgeone.dev^
 ||advisory-green-khxqmajx.edgeone.dev^
 ||aktivasi-pemulihann-bimaa-mobile.edgeone.dev^
-||aktivasiii-pemulihan-bima-mobile.edgeone.dev^
 ||alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev^
 ||appropriate-peach-qqgcy0q6.edgeone.dev^
 ||arrogant-magenta-2yqmtzc8.edgeone.dev^
@@ -2336,7 +2333,6 @@
 ||sheer-red-lwi8kl5b.edgeone.dev^
 ||shiny-octo-pancake-jnr-dpxs36pdbgzg.edgeone.dev^
 ||smart-apricot-c4akcfaw.edgeone.dev^
-||smiling-bronze-ybcsxxoi.edgeone.dev^
 ||solopn-dpoan627b9dy.edgeone.dev^
 ||spontanius-glee-dppzegho645m.edgeone.dev^
 ||sriramnwar-dpoae04723lz.edgeone.dev^
@@ -2922,7 +2918,6 @@
 ||hashnest.com^
 ||a.hbf23.cn^
 ||img1.hblds.com^
-||hbmoss.com^
 ||ws2.hbssjd.cn^
 ||hbzhenquan.cn^
 ||hcbmq.cn^
@@ -4521,7 +4516,6 @@
 ||m.nimenzaina.cn^
 ||ninebox.cn^
 ||down.nishuoa.com^
-||taobao.niucha.ren^
 ||p.niudashu.com^
 ||ehdj.njguluyu.cn^
 ||njzyjy.cn^
@@ -4530,7 +4524,6 @@
 ||nlzyp.cn^
 ||ad.nmjsjs.com^
 ||nnraytheon.com^
-||nojtp.cn^
 ||noone.ren^
 ||analytics.notegen.top^
 ||noteonline-pt.shop^
@@ -4542,7 +4535,6 @@
 ||nrjzkj.cn^
 ||nryqr.cn^
 ||c.ns8d.com^
-||lvbi.nsgjef.cn^
 ||nsxtob.cn^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
@@ -5380,7 +5372,6 @@
 ||sharele.cn^
 ||sharesdk.cn^
 ||sc.shayugg.com^
-||rqvzkqb.shbllgs.cn^
 ||link.shengcekeji.com^
 ||shengushi.cn^
 ||shenshiads.com^
